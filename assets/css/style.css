@@ -1,0 +1,27 @@
+div{
+  border-style: dashed;
+  border-width: thin;
+}
+
+#ae_column{
+  transition: margin 0.3s ease;
+}
+
+.collapsed{
+  display: none;
+}
+
+.container{
+  overflow-x: hidden;
+}
+
+#preguntas_column{
+  transition: width 0.3s ease;
+}
+
+@media (min-width: 992px) {
+  .collapsed {
+    display: block;
+    margin-left: -25%;
+  }
+}
