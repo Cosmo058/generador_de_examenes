@@ -4,7 +4,13 @@ div{
 }
 
 #ae_column{
+  transition: width 0.3s ease;
+}
+
+#preguntas_column{
   transition: margin 0.3s ease;
+  padding: 3rem 20px;
+  font-size: 0px;
 }
 
 .collapsed{
@@ -15,13 +21,17 @@ div{
   overflow-x: hidden;
 }
 
-#preguntas_column{
-  transition: width 0.3s ease;
+.card{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 1px;
+  font-size: 16px;
 }
 
-@media (min-width: 992px) {
-  .collapsed {
-    display: block;
-    margin-left: -25%;
-  }
+@media all and (min-width: 1200px) { /*Above 1200px*/
+	.container{
+		width: 80%;
+  	margin: 0 auto;
+	}
 }

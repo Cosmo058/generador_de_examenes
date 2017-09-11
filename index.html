@@ -4,21 +4,37 @@
     <title>Generador de ex&aacute;menes</title>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootcards/1.0.0/css/bootcards-desktop.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootcards/1.0.0/js/bootcards.min.js"></script>
 
     <script>
       $(document).ready(function(){
-        $(".custom_trigger").click(function(){
-          //alert('Hola');
-          $("#ae_column").toggleClass("collapsed");
-          $("#preguntas_column").toggleClass("col-md-6 col-md-9");
+
+        //Animacion de la columna de AE
+        $("p").click(function(){
+          $("#preguntas_column").toggleClass("collapsed");
+
+          $("#ae_column").toggleClass("col-md-3 col-md-9");
+          $("#ae_column").toggleClass("col-lg-2 col-md-10");
         });
+
+
+        var a = $("#preguntas_column").css('width').replace("px","");
+        var b = (a-40)%202;
+        var c = (b/2)+20;
+        $("#preguntas_column").css("padding-left",c+"px");
+
+        $(window).resize(function(){
+          var a = $("#preguntas_column").css('width').replace("px","");
+          var b = (a-40)%202;
+          var c = (b/2)+20;
+          $("#preguntas_column").css("padding-left",c+"px");
+        });
+
+
       });
     </script>
   </head>
@@ -33,45 +49,20 @@
       </div>
 
       <div class="row">
-        <div class="col-md-3" id="ae_column">
+        <div class="col-lg-2 col-md-3" id="ae_column">
           <p>Aprendizajes esperados</p>
         </div>
-        <div class="col-md-6" id="preguntas_column">
+        <div class="col-lg-8 col-md-6" id="preguntas_column">
           <!--Cards-->
-          <div class="panel panel-default bootcards-summary">
-            <div class="panel-heading">
-              <h3 class="panel-title">Summary Card Heading</h3>
-            </div>
-
-            <div class="panel-body">
-              <div class="row">
-                <div class="col-xs-6 col-sm-4">
-                  <a class="bootcards-summary-item" href="/contacts">
-                    <i class="fa fa-3x fa-users"></i>
-                    <h1>40 <span>Contacts</span></h1>
-                  </a>
-                </div>
-                <div class="col-xs-6 col-sm-4">
-                  <a class="bootcards-summary-item" href="/companies">
-                    <i class="fa fa-3x fa-building-o"></i>
-                    <h4>20 <span>Companies</span></h4>
-                  </a>
-                </div>
-                <div class="col-xs-6 col-sm-4">
-                  <a class="bootcards-summary-item" href="/notes">
-                    <i class="fa fa-3x fa-clipboard"></i>
-                    <h1>187 <span>Notes</span></h1>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="panel-footer">
-              <small class="pull-left">Summary Card Footer</small>
-            </div>
-          </div>
+          <div class="card"><p>Hi</p></div>
+          <div class="card"><p>Hi</p></div>
+          <div class="card"><p>Hi</p></div>
+          <div class="card"><p>Hi</p></div>
+          <div class="card"><p>Hi</p></div>
+          <div class="card"><p>Hi</p></div>
           <!--/Cards-->
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-2 col-md-3">
           <p>Carrito de preguntas</p>
         </div>
       </div>
