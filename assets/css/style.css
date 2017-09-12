@@ -1,32 +1,46 @@
+font-face { font-family: Lato; font-weight: normal; src: url('../fonts/lato/Lato-Regular.ttf'); }
+font-face { font-family: Lato; font-weight: bold; src: url('../fonts/lato/Lato-Bold.ttf'); }
+font-face { font-family: Lato; font-weight: lighter; src: url('../fonts/lato/Lato-Light.ttf'); }
+font-face { font-family: Lato; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf'); }
+
+
+body{
+  font-family: Lato, sans-serif;
+  color: #7C7C7C;
+}
+
 div{
   border-style: dashed;
   border-width: thin;
+  border-color: #DDD;
 }
 
-#ae_column{
-  transition: width 0.3s ease;
-}
-
-#preguntas_column{
+#preguntas_container{
   transition: margin 0.3s ease;
   padding: 3rem 20px;
   font-size: 0px;
-}
-
-.collapsed{
-  display: none;
-}
-
-.container{
-  overflow-x: hidden;
 }
 
 .card{
   display: inline-block;
   width: 200px;
   height: 200px;
-  margin: 1px;
+  margin: 9px;
   font-size: 16px;
+  line-height: normal;
+}
+
+.card_content,.card_content2{
+  font-size: 0.85em;
+  height: 182px;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.franja_tarjeta{
+  background:#C83335;
+  height: 18px;
 }
 
 @media all and (min-width: 1200px) { /*Above 1200px*/

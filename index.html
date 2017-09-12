@@ -23,13 +23,13 @@
 
 
         var a = $("#preguntas_column").css('width').replace("px","");
-        var b = (a-40)%202;
+        var b = (a-40)%203;
         var c = (b/2)+20;
         $("#preguntas_column").css("padding-left",c+"px");
 
         $(window).resize(function(){
           var a = $("#preguntas_column").css('width').replace("px","");
-          var b = (a-40)%202;
+          var b = (a-40)%203;
           var c = (b/2)+20;
           $("#preguntas_column").css("padding-left",c+"px");
         });
