@@ -9,7 +9,7 @@ body{
   color: #7C7C7C;
 }
 
-div{
+divv{
   border-style: dashed;
   border-width: thin;
   border-color: #DDD;
@@ -19,6 +19,7 @@ div{
   transition: margin 0.3s ease;
   padding: 3rem 20px;
   font-size: 0px;
+  background-color: #F6F6F6;
 }
 
 .card{
@@ -27,21 +28,76 @@ div{
   height: 200px;
   margin: 9px;
   font-size: 16px;
-  line-height: normal;
 }
 
 .card_content,.card_content2{
+  background: #FFF;
+  display: table;   /*TODO is it ok??*/
   font-size: 0.85em;
   height: 182px;
-  justify-content: center;
   text-align: center;
+  line-height: normal;
+  overflow: hidden;  /* TODO revisar que ningún texto salga de los 200pxx200px*/
+}
+
+.card_content span,.card_content2 span{
   vertical-align: middle;
+  display: table-cell; /*TODO is it ok??*/
 }
 
 .franja_tarjeta{
   background:#C83335;
   height: 18px;
 }
+
+#header{
+  border-bottom: solid 2px;
+  border-color: #EEE;
+}
+
+#logo_castillo_container img{
+  margin: 15px 22px; /*TODO margen dinámico*/
+}
+
+#materia_title{
+  height: 50%;
+  width: 166px;
+  border-bottom: solid thin;
+  border-color: #C83335;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2em;
+  color: #4D4D4F;
+  padding-left: 10px;
+}
+#logo_reactivos{
+  padding: 3px;
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+}
+#num_reactivos{
+  display: inline-block;
+  padding: 0.3em;
+  font-size: 0.8em;
+}
+
+#title{
+  background: #F6F6F6;
+}
+
+#footer{
+  background-color: #B1B1B1;
+  color: #FFF;
+  text-align: center;
+  font-size: 0.7em;
+  padding: 1em;
+  font-weight: normal;
+  word-spacing: 1px;;
+}
+
+
 
 @media all and (min-width: 1200px) { /*Above 1200px*/
 	.container{

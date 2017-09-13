@@ -15,13 +15,21 @@
       $(document).ready(function(){
 
         centrar_tarjetas();
+        igualar_altura_logos();
         $(window).resize(function(){
           centrar_tarjetas();
+          igualar_altura_logos();
         });
 
         //--DEBUG
-        $(".card_content").html("You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder.");
+        $(".card_content").html("<span>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder.</span>");
+        $(".card_content2").html("<span>You think water moves fast? You should see ice.</span>");
         //--/DEBUG
+
+        $("button").click(function(){
+          $("#preguntas_container").append('<div class="card"><div class="franja_tarjeta"></div><div class="card_content"></div></div>');
+          $(".card_content").html("<span>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder.</span>");
+        });
 
       });
     </script>
@@ -29,13 +37,29 @@
 
   <body>
     <div class="container">
-      <div class="row">
-        <div class="col-md-2">Logo1</div>
-        <div class="col-md-8"></div>
-        <div class="col-md-2">Logo2</div>
+      <div class="row" id="header">
+        <div class="col-md-2" id="logo_castillo_container">
+          <img src="assets/img/logo/logo_castillo.png">
+        </div>
+        <div class="col-md-7"></div>
+        <div class="col-md-3">
+          <div id="materia_section">
+            <div id="materia_title">
+              <span>Biolog&iacute;a</span>
+            </div>
+            <div>
+              <div id="logo_reactivos">
+                <img src="assets/img/reactivos_seleccionados.png">
+              </div>
+              <div id="num_reactivos">
+                1000 reactivos elegidos
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12" id="title">
           <h3>Generador de ex&aacute;menes</h3>
           <p>Aprendizajes esperados</p>
         </div>
@@ -45,7 +69,7 @@
           <!--Cards-->
           <div class="card">
             <div class="franja_tarjeta"></div>
-            <div class="card_content"></div>
+            <div class="card_content2"></div>
           </div>
           <div class="card">
             <div class="franja_tarjeta"></div>
@@ -70,6 +94,13 @@
           <!--/Cards-->
         </div>
       </div>
+      <div class="row">
+        <div class="col-md-12" id="footer">
+          D.R. &copy; 2017 | Ediciones Castillo, S.A. de C.V. <br/>
+          TODOS LOS DERECHOS RESERVADOS
+        </div>
+      </div>
+      <button>Add card</button>
     </div>
   </body>
 </html>
