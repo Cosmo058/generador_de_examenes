@@ -23,15 +23,20 @@
           mostrar_ancho(); //DEBUG
         });
 
-        $('.card').click(function(){
+        $('#ae_container .card').click(function(){
           var text = $(this).find(".card_content").html();
-          alert(text);
-          $("#preguntas_container").toggleClass("col-md-12 collapsed");
+          //alert(text);
+          $("#ae_container").toggle();
           $("#title").toggle();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
-          $("#reactivos").toggleClass("collapsed col-md-10");
+          $("#ae_sub").toggleClass("collapsed col-md-10");
 
-          $("#ae_seleccionado .card_content").html(text);
+          $("#ae_seleccionado > div").html(text);
+        });
+
+        $("#reactivos .card").click(function(){
+          $("#reactivos").toggleClass("col-md-12 col-md-8");
+          $("#preview_reactivo").toggleClass("collapsed col-md-4");
         });
 
       });
@@ -75,9 +80,9 @@
       <!--/Title-->
 
       <!--Main content-->
-      <div class="row">
-        <div class="col-md-12" id="preguntas_container">
-          <!--Cards-->
+      <div class="row" id="main_content">
+        <!--Cards-->
+        <div class="col-md-12" id="ae_container">
           <div class="card">
             <div class="franja_tarjeta"></div>
             <div class="card_content"><span>A</span></div>
@@ -102,18 +107,23 @@
             <div class="franja_tarjeta"></div>
             <div class="card_content"><span>G</span></div>
           </div>
-          <!--/Cards-->
         </div>
-        <div class="collapsed" id="ae_seleccionado">
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"></div>
+        <!--/Cards-->
+        <div class="collapsed" id="ae_seleccionado"> <!-- col-md-2 -->
+          <div>
           </div>
         </div>
-        <div class="collapsed" id="reactivos">
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"></div>
+        <div class="collapsed" id="ae_sub">
+          <div class="row">
+            <div class="col-md-12" id="reactivos"> <!-- col-md-10 -->
+              <div class="card">
+                <div class="franja_tarjeta"></div>
+                <div class="card_content"></div>
+              </div>
+            </div>
+            <div class="collapsed" id="preview_reactivo">
+              <span>Hola, soy un reactivo<span style="color:#000;">
+            </div>
           </div>
         </div>
       </div>

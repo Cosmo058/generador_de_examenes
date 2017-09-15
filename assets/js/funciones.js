@@ -1,8 +1,8 @@
 function centrar_tarjetas(){
-  var a = $("#preguntas_container").css('width').replace("px","");
+  var a = $("#ae_container").css('width').replace("px","");
   var b = (a-40)%218;
   var c = (b/2)+20;
-  $("#preguntas_container").css("padding-left",c+"px");
+  $("#ae_container").css("padding-left",c+"px");
 }
 
 function igualar_altura_logos(){

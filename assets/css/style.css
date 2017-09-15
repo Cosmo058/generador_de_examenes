@@ -3,6 +3,7 @@ font-face { font-family: Lato; font-weight: bold; src: url('../fonts/lato/Lato-B
 font-face { font-family: Lato; font-weight: lighter; src: url('../fonts/lato/Lato-Light.ttf'); }
 font-face { font-family: Lato; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf'); }
 
+/* mmr =  #C83335 */
 
 body{
   font-family: Lato, sans-serif;
@@ -15,7 +16,7 @@ divv{
   border-color: #DDD;
 }
 
-#preguntas_container{
+#ae_container{
   transition: margin 0.3s ease;
   padding: 3rem 20px;
   font-size: 0px;
@@ -96,6 +97,28 @@ divv{
   padding: 1em;
   font-weight: normal;
   word-spacing: 1px;;
+}
+
+#ae_seleccionado{
+  height: 872px;
+  background: #C83335;
+  color: #FFF;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#ae_sub{
+  overflow-x: hidden;
+}
+
+#reactivos{
+  background: #EEE;
+  transition: width 0.3s ease;
+}
+#preview_reactivo{
+  height: 872px;
+  background: #D8FCA8;
+  transition: margin 0.3s ease;
 }
 
 .collapsed{
