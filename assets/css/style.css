@@ -30,17 +30,18 @@ divv{
   font-size: 16px;
 }
 
-.card_content,.card_content2{
+.card_content{
   background: #FFF;
   display: table;   /*TODO is it ok??*/
   font-size: 0.85em;
   height: 182px;
+  width: 200px;
   text-align: center;
   line-height: normal;
   overflow: hidden;  /* TODO revisar que ningún texto salga de los 200pxx200px*/
 }
 
-.card_content span,.card_content2 span{
+.card_content span{
   vertical-align: middle;
   display: table-cell; /*TODO is it ok??*/
 }
@@ -97,11 +98,13 @@ divv{
   word-spacing: 1px;;
 }
 
-
+.collapsed{
+  display: none;
+}
 
 @media all and (min-width: 1200px) { /*Above 1200px*/
 	.container{
-		width: 80%;
+		/*width: 80%;*/
   	margin: 0 auto;
 	}
 }
