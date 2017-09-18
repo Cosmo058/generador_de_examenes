@@ -34,9 +34,13 @@
           $("#ae_seleccionado > div").html(text);
         });
 
-        $("#reactivos .card").click(function(){
+        $(".pregunta_div").click(function(){
           $("#reactivos").toggleClass("col-md-12 col-md-8");
           $("#preview_reactivo").toggleClass("collapsed col-md-4");
+        });
+
+        $("input").click(function(){
+          $(this).siblings("label").toggleClass("red_background");
         });
 
       });
@@ -116,9 +120,17 @@
         <div class="collapsed" id="ae_sub">
           <div class="row">
             <div class="col-md-12" id="reactivos"> <!-- col-md-10 -->
-              <div class="card">
+              <div class="card2">
                 <div class="franja_tarjeta"></div>
-                <div class="card_content"></div>
+                <div class="card_content">
+                  <div class="checkbox_div">
+                    <input type="checkbox" id="checkboxInput"/>
+                    <label for="checkboxInput"></label>
+                  </div>
+                  <div class="pregunta_div">
+                    <span>Mucho texto aquí, mucho texto allá</span>
+                  </div>
+                </div>
               </div>
             </div>
             <div class="collapsed" id="preview_reactivo">

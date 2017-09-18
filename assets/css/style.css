@@ -31,12 +31,29 @@ divv{
   font-size: 16px;
 }
 
+.card2{
+  display: inline-block;
+  width: 479px;
+  height: 150px;
+  margin-top:41px;
+  font-size: 16px;
+}
+
 .card_content{
   background: #FFF;
   display: table;   /*TODO is it ok??*/
   font-size: 0.85em;
   height: 182px;
   width: 200px;
+  text-align: center;
+  line-height: normal;
+  overflow: hidden;  /* TODO revisar que ningún texto salga de los 200pxx200px*/
+}.card2 > .card_content{
+  background: #FFF;
+  display: table;   /*TODO is it ok??*/
+  font-size: 0.85em;
+  height: 145px;
+  width: 479px;
   text-align: center;
   line-height: normal;
   overflow: hidden;  /* TODO revisar que ningún texto salga de los 200pxx200px*/
@@ -47,9 +64,17 @@ divv{
   display: table-cell; /*TODO is it ok??*/
 }
 
+.card_content div{
+  display: inline-block;
+  height: 145px;
+}
+
 .franja_tarjeta{
   background:#C83335;
   height: 18px;
+}.card2 > .franja_tarjeta{
+  background:#C83335;
+  height: 5px;
 }
 
 #header{
@@ -114,20 +139,82 @@ divv{
 #reactivos{
   background: #EEE;
   transition: width 0.3s ease;
+  height: 872px;
+  text-align: center;
 }
 #preview_reactivo{
   height: 872px;
-  background: #D8FCA8;
+  background: #FFF;
   transition: margin 0.3s ease;
+}
+
+.checkbox_div{
+  width: 15.44%;
+  position: relative;
+}.pregunta_div{
+  width: 84.56%;
+  padding-top: 19px;
 }
 
 .collapsed{
   display: none;
 }
 
-@media all and (min-width: 1200px) { /*Above 1200px*/
+input[type=checkbox]{
+  display: none;
+}
+.checkbox_div label{
+  cursor: pointer;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	top: 0;
+  left: 0;
+  margin-left: 23px;
+  margin-top: 21px;
+	background: #FFF;
+	border:1px solid #C83335;
+}
+.checkbox_div label:after {
+	opacity: 0.2;
+	content: '';
+	position: absolute;
+	width: 9px;
+	height: 5px;
+	background: transparent;
+	top: 6px;
+	left: 7px;
+	border: 1px solid #FFF;
+	border-top: none;
+	border-right: none;
+
+	transform: rotate(-45deg);
+}
+.checkbox_div label:hover::after {
+	opacity: 0.3;
+  border-bottom: 1px solid #333;
+  border-left: 1px solid #333;
+}.checkbox_div input[type=checkbox]:checked + label:after {
+	opacity: 1;
+  border-bottom: 1px solid #FFF;
+  border-left: 1px solid #FFF;
+}
+
+.red_background{
+  background: #C83335 !important;
+}
+
+@media (min-width: 992px){
+  #preview_reactivo.collapsed {
+    display: block;
+    /* same width as sidebar */
+    margin-right: -33.34%;
+  }
+}
+
+@media all and (min-width: 1380px) { /*Above 1380px*/
 	.container{
-		/*width: 80%;*/
+		width: 1280px;
   	margin: 0 auto;
 	}
 }
