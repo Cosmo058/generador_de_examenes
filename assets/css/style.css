@@ -84,20 +84,8 @@ divv{
   margin-top: 35px;
 }
 
-#ae_seleccionado div:after {
-	opacity: 0.2;
-	content: '';
-	position: absolute;
-	width: 9px;
-	height: 9px;
-	background: transparent;
-	top: 6px;
-	left: 7px;
-	border: 1px solid #000;
-	border-top: none;
-	border-right: none;
-
-	transform: rotate(45deg);
+#ae_seleccionado div{
+  text-align: center;
 }
 
 #header{
