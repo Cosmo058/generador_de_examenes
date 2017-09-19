@@ -25,13 +25,19 @@
 
         $('#ae_container .card').click(function(){
           var text = $(this).find(".card_content").html();
-          //alert(text);
           $("#ae_container").toggle();
           $("#title").toggle();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
           $("#ae_sub").toggleClass("collapsed col-md-10");
 
-          $("#ae_seleccionado > div").html(text);
+          $("#ae_seleccionado > div:not(.circle)").html(text+" dsfgfdgsfdgh dsfgh gdh dgs hsfd gsdfg asfgsdfg sdfg");
+        });
+
+        $(".circle").click(function(){
+          $("#ae_container").toggle();
+          $("#title").toggle();
+          $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
+          $("#ae_sub").toggleClass("col-md-10 collapsed");
         });
 
         $(".pregunta_div").click(function(){
@@ -114,7 +120,9 @@
         </div>
         <!--/Cards-->
         <div class="collapsed" id="ae_seleccionado"> <!-- col-md-2 -->
-          <div>
+          <div id="sidebar_text">
+          </div>
+          <div class="circle">
           </div>
         </div>
         <div class="collapsed" id="ae_sub">

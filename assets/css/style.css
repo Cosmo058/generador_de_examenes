@@ -3,8 +3,6 @@ font-face { font-family: Lato; font-weight: bold; src: url('../fonts/lato/Lato-B
 font-face { font-family: Lato; font-weight: lighter; src: url('../fonts/lato/Lato-Light.ttf'); }
 font-face { font-family: Lato; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf'); }
 
-/* mmr =  #C83335 */
-
 body{
   font-family: Lato, sans-serif;
   color: #7C7C7C;
@@ -77,6 +75,31 @@ divv{
   height: 5px;
 }
 
+.circle{
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  background: #FFF;
+  margin: 0 auto;
+  margin-top: 35px;
+}
+
+#ae_seleccionado div:after {
+	opacity: 0.2;
+	content: '';
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	background: transparent;
+	top: 6px;
+	left: 7px;
+	border: 1px solid #000;
+	border-top: none;
+	border-right: none;
+
+	transform: rotate(45deg);
+}
+
 #header{
   border-bottom: solid 2px;
   border-color: #EEE;
@@ -146,6 +169,10 @@ divv{
   height: 872px;
   background: #FFF;
   transition: margin 0.3s ease;
+}
+
+#sidebar_text{
+  border-bottom: 2px solid #ea7f89;
 }
 
 .checkbox_div{
