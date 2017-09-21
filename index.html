@@ -11,12 +11,15 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
+    
 
     <script>
       $(document).ready(function(){
 
-        var ae = $.getJSON("assets/data/data.json", function(){
-          console.log("JSON object loaded...");
+        $.getJSON("assets/data/data.json", function(data){
+          $.each(data,function(key,val){
+	    console.log(key+": "+val);
+	  });
         });
 
         centrar_tarjetas();
@@ -63,7 +66,7 @@
       <!-- Header -->
       <div class="row" id="header">
         <div class="col-md-2" id="logo_castillo_container">
-          <img src="assets/img/logo/logo_castillo.png">
+            <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
         </div>
         <div class="col-md-7"></div>
         <div class="col-md-3">
@@ -151,7 +154,7 @@
               </div>
             </div>
             <div class="collapsed" id="preview_reactivo">
-              <span>Hola, soy un reactivo<span style="color:#000;">
+              <span>Hola, soy un reactivo</span>
             </div>
           </div>
         </div>
