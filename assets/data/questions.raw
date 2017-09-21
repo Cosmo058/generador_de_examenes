@@ -1,0 +1,19 @@
+{
+  "AE": [
+    {
+      "nombreAE": "Identificar las diferencias entre A y B",
+      "reactivos": [
+        {
+          "reactivo": "¿Cuál es la diferencia entre A y B?",
+          "respuestas": {}
+        }
+      ],
+      "unidadesAsociadas": [
+        2,
+        3
+      ]
+    },
+    {},
+    {}
+  ]
+}

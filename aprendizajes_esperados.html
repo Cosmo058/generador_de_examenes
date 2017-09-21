@@ -6,13 +6,18 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="assets/js/funciones.js"></script>
+    <script src="assets/js/controller.js"></script>
 
     <script>
       $(document).ready(function(){
+
+        var ae = $.getJSON("assets/data/data.json", function(){
+          console.log("JSON object loaded...");
+        });
 
         centrar_tarjetas();
         igualar_altura_logos();
@@ -29,8 +34,7 @@
           $("#title").toggle();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
           $("#ae_sub").toggleClass("collapsed col-md-10");
-
-          $("#ae_seleccionado > div:not(.circle)").html(text+" dsfgfdgsfdgh dsfgh gdh dgs hsfd gsdfg asfgsdfg sdfg");
+          $("#ae_seleccionado > div:not(.circle)").html(text);
         });
 
         $(".circle").click(function(){
