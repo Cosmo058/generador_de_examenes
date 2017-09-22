@@ -15,47 +15,54 @@
 
     <script>
       $(document).ready(function(){
-
-        $.getJSON("assets/data/data.json", function(data){
-          $.each(data,function(key,val){
-	    console.log(key+": "+val);
+	
+	$.getJSON("assets/data/data.json", function(data){
+	  $.each(data,function(key,val){
+	    $.each(val,function(k,v){
+	      console.log(k+": "+v);
+	      if(k=="nombreAE"){
+		$("#ae_container").append("<div class='card'><div class='franja_tarjeta'></div><div class='card_content'><span>"+v+"</span></div></div>");
+	      }
+	    });
 	  });
-        });
+	});
+	
+	$(document).ajaxComplete(function(){
+	  centrar_tarjetas();
+	  igualar_altura_logos();
+	  mostrar_ancho(); //DEBUG
+	
+	  $('#ae_container .card').click(function(){
+	    var text = $(this).find(".card_content").html();
+	    $("#ae_container").toggle();
+	    $("#title").toggle();
+	    $("#ae_seleccionado").toggleClass("collapsed col-md-2");
+	    $("#ae_sub").toggleClass("collapsed col-md-10");
+	    $("#ae_seleccionado > div:not(.circle)").html(text);
+	  });
 
-        centrar_tarjetas();
-        igualar_altura_logos();
-        mostrar_ancho(); //DEBUG
+	  $(".circle").click(function(){
+	    $("#ae_container").toggle();
+	    $("#title").toggle();
+	    $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
+	    $("#ae_sub").toggleClass("col-md-10 collapsed");
+	  });
+
+	  $(".pregunta_div").click(function(){
+	    $("#reactivos").toggleClass("col-md-12 col-md-8");
+	    $("#preview_reactivo").toggleClass("collapsed col-md-4");
+	  });
+
+	  $("input").click(function(){
+	    $(this).siblings("label").toggleClass("red_background");
+	  });
+	});
+	
         $(window).resize(function(){
           centrar_tarjetas();
           igualar_altura_logos();
           mostrar_ancho(); //DEBUG
         });
-
-        $('#ae_container .card').click(function(){
-          var text = $(this).find(".card_content").html();
-          $("#ae_container").toggle();
-          $("#title").toggle();
-          $("#ae_seleccionado").toggleClass("collapsed col-md-2");
-          $("#ae_sub").toggleClass("collapsed col-md-10");
-          $("#ae_seleccionado > div:not(.circle)").html(text);
-        });
-
-        $(".circle").click(function(){
-          $("#ae_container").toggle();
-          $("#title").toggle();
-          $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
-          $("#ae_sub").toggleClass("col-md-10 collapsed");
-        });
-
-        $(".pregunta_div").click(function(){
-          $("#reactivos").toggleClass("col-md-12 col-md-8");
-          $("#preview_reactivo").toggleClass("collapsed col-md-4");
-        });
-
-        $("input").click(function(){
-          $(this).siblings("label").toggleClass("red_background");
-        });
-
       });
     </script>
   </head>
@@ -99,32 +106,7 @@
       <!--Main content-->
       <div class="row" id="main_content">
         <!--Cards-->
-        <div class="col-md-12" id="ae_container">
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"><span>A</span></div>
-          </div>
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"><span>B</span></div>
-          </div>
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"><span>C</span></div>
-          </div>
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"><span>D</span></div>
-          </div>
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"><span>F</span></div>
-          </div>
-          <div class="card">
-            <div class="franja_tarjeta"></div>
-            <div class="card_content"><span>G</span></div>
-          </div>
-        </div>
+        <div class="col-md-12" id="ae_container"></div>
         <!--/Cards-->
         <div class="collapsed" id="ae_seleccionado"> <!-- col-md-2 -->
           <div id="sidebar_text">
