@@ -30,11 +30,13 @@ divv{
 }
 
 .card2{
-  display: inline-block;
+  display: block;
   width: 479px;
   height: 150px;
-  margin-top:41px;
   font-size: 16px;
+  margin: 0 auto;
+  margin-top: 7px;
+  margin-bottom: 7px;
 }
 
 .card_content{
@@ -49,13 +51,13 @@ divv{
   padding: 23px;
 }.card2 > .card_content{
   background: #FFF;
-  display: table;   /*TODO is it ok??*/
+  display: table;
   font-size: 0.85em;
   height: 145px;
   width: 479px;
   text-align: center;
   line-height: normal;
-  overflow: hidden;  /* TODO revisar que ningún texto salga de los 200pxx200px*/
+  overflow: hidden;
 }
 
 .card_content span{
@@ -65,7 +67,7 @@ divv{
 
 .card_content div{
   display: inline-block;
-  height: 145px;
+  /* height: 145px; */
 }
 
 .franja_tarjeta{
@@ -171,9 +173,11 @@ divv{
 .checkbox_div{
   width: 15.44%;
   position: relative;
+  height: 96px;
 }.pregunta_div{
   width: 84.56%;
   padding-top: 19px;
+  height: 96px;
 }
 
 .collapsed{
@@ -196,26 +200,26 @@ input[type=checkbox]{
 	border:1px solid #C83335;
 }
 .checkbox_div label:after {
-	opacity: 0.2;
-	content: '';
-	position: absolute;
-	width: 9px;
-	height: 5px;
-	background: transparent;
-	top: 6px;
-	left: 7px;
-	border: 1px solid #FFF;
-	border-top: none;
-	border-right: none;
+  opacity: 0.2;
+  content: '';
+  position: absolute;
+  width: 9px;
+  height: 5px;
+  background: transparent;
+  top: 6px;
+  left: 7px;
+  border: 1px solid #FFF;
+  border-top: none;
+  border-right: none;
 
-	transform: rotate(-45deg);
+  transform: rotate(-45deg);
 }
 .checkbox_div label:hover::after {
-	opacity: 0.3;
+  opacity: 0.3;
   border-bottom: 1px solid #333;
   border-left: 1px solid #333;
 }.checkbox_div input[type=checkbox]:checked + label:after {
-	opacity: 1;
+  opacity: 1;
   border-bottom: 1px solid #FFF;
   border-left: 1px solid #FFF;
 }

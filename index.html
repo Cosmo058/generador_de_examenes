@@ -16,12 +16,29 @@
     <script>
       $(document).ready(function(){
 	
+	/*
+	var JSON = $.getJSON("assets/data/data.json",function(){
+	  console.log("JSON loaded...");
+	});
+	*/
+	
 	$.getJSON("assets/data/data.json", function(data){
 	  $.each(data,function(key,val){
 	    $.each(val,function(k,v){
-	      console.log(k+": "+v);
-	      if(k=="nombreAE"){
+	      if(k==="nombreAE"){
 		$("#ae_container").append("<div class='card'><div class='franja_tarjeta'></div><div class='card_content'><span>"+v+"</span></div></div>");
+		$("#reactivos").append("<div class='card2'>\
+					  <div class='franja_tarjeta'></div>\
+					  <div class='card_content'>\
+					    <div class='checkbox_div'>\
+					      <input type='checkbox' id='checkboxInput'/>\
+					      <label for='checkboxInput'></label>\
+					    </div>\
+					    <div class='pregunta_div'>\
+					      <span>Mucho texto aquí, mucho texto allá</span>\
+					    </div>\
+					  </div>\
+					</div>");
 	      }
 	    });
 	  });
