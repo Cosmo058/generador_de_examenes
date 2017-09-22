@@ -1,76 +1,73 @@
-{
-  "name": "Aprendizajes esperados",
-  "AE": [
-    {
-      "nombreAE": "Identificar las diferencias entre A y B",
-      "reactivos": [
-        {
-          "reactivo": "¿Cuál es la diferencia entre A y B?",
-          "respuestas": {
-            "R1": "a",
-            "R2": "a y b",
-            "R3": "a, b y c",
-            "R4": "Ninguna de las anteriores"
-          }
-        },
-        {
-          "reactivo": "¿Cómo es que sabemos algo?",
-          "respuestas": {
-            "R1": "No sabemos nada",
-            "R2": "Lo sabemos todo",
-            "R3": "Sabemos algunas cosas y otras no",
-            "R4": "Ninguna de las anteriores"
-          }
-        },
-        {
-          "reactivo": "¿Cuál es el sentido de la vida, el universo y todo lo demás?",
-          "respuestas": {
-            "R1": "41",
-            "R2": "42",
-            "R3": "42.5",
-            "R4": "0"
-          }
+[
+  {
+    "nombreAE": "Identificar las diferencias entre A y B",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál es la diferencia entre A y B?",
+        "respuestas": {
+          "R1": "a",
+          "R2": "a y b",
+          "R3": "a, b y c",
+          "R4": "Ninguna de las anteriores"
         }
-      ],
-      "unidadesAsociadas": [
-        2,
-        3
-      ]
-    },
-    {
-      "nombreAE": "Reconocer A dentro de B",
-      "reactivos": [
-        {
+      },
+      {
+        "reactivo": "¿Cómo es que sabemos algo?",
+        "respuestas": {
+          "R1": "No sabemos nada",
+          "R2": "Lo sabemos todo",
+          "R3": "Sabemos algunas cosas y otras no",
+          "R4": "Ninguna de las anteriores"
+        }
+      },
+      {
+        "reactivo": "¿Cuál es el sentido de la vida, el universo y todo lo demás?",
+        "respuestas": {
+          "R1": "41",
+          "R2": "42",
+          "R3": "42.5",
+          "R4": "0"
+        }
+      }
+    ],
+    "unidadesAsociadas": [
+      2,
+      3
+    ]
+  },
+  {
+  "nombreAE": "Reconocer A dentro de B",
+          "reactivos": [
+          {
           "reactivo": "Si veo a A, ¿Qué hago?",
-          "respuestas": {
-            "R1": "Corro",
-            "R2": "Grito",
-            "R3": "Empujo",
-            "R4": "Lo saludo"
-          }
-        },
-        {
+                  "respuestas": {
+                  "R1": "Corro",
+                          "R2": "Grito",
+                          "R3": "Empujo",
+                          "R4": "Lo saludo"
+                  }
+          },
+          {
           "reactivo": "Si A es mejor, eso significa que...",
-          "respuestas": {
-            "R1": "A me gusta más",
-            "R2": "B me gusta más",
-            "R3": "C tiene un hermano",
-            "R4": "Me voy con D"
-          }
-        },
-        {
+                  "respuestas": {
+                  "R1": "A me gusta más",
+                          "R2": "B me gusta más",
+                          "R3": "C tiene un hermano",
+                          "R4": "Me voy con D"
+                  }
+          },
+          {
           "reactivo": "Si A salva a B...",
-          "respuestas": {
-            "R1": "A recibe dinero",
-            "R2": "B le paga a B",
-            "R3": "D obtiene ganancias",
-            "R4": "C se queda en casa"
+                  "respuestas": {
+                  "R1": "A recibe dinero",
+                          "R2": "B le paga a B",
+                          "R3": "D obtiene ganancias",
+                          "R4": "C se queda en casa"
+                  }
           }
-        }
-      ],
-      "unidadesAsociadas": [
-        1
-      ]
-    }
-  ]
-}
+          ],
+          "unidadesAsociadas": [
+                  1
+          ]
+  }
+]

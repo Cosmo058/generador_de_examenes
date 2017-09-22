@@ -46,6 +46,7 @@ divv{
   text-align: center;
   line-height: normal;
   overflow: hidden;  /* TODO revisar que ningún texto salga de los 200pxx200px*/
+  padding: 23px;
 }.card2 > .card_content{
   background: #FFF;
   display: table;   /*TODO is it ok??*/
