@@ -16,30 +16,41 @@
     <script>
       $(document).ready(function(){
 	
-	/*
-	var JSON = $.getJSON("assets/data/data.json",function(){
-	  console.log("JSON loaded...");
-	});
-	*/
-	
 	$.getJSON("assets/data/data.json", function(data){
 	  $.each(data,function(key,val){
 	    $.each(val,function(k,v){
 	      if(k==="nombreAE"){
-		$("#ae_container").append("<div class='card'><div class='franja_tarjeta'></div><div class='card_content'><span>"+v+"</span></div></div>");
-		$("#reactivos").append("<div class='card2'>\
-					  <div class='franja_tarjeta'></div>\
-					  <div class='card_content'>\
-					    <div class='checkbox_div'>\
-					      <input type='checkbox' id='checkboxInput'/>\
-					      <label for='checkboxInput'></label>\
-					    </div>\
-					    <div class='pregunta_div'>\
-					      <span>Mucho texto aquí, mucho texto allá</span>\
-					    </div>\
-					  </div>\
-					</div>");
+		$("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+v+"</span></div></div>");
 	      }
+	      
+	      var reactivos = [];
+	      
+	      if(typeof v === 'object' && k=== "reactivos"){ //∂
+		reactivos = getValuesOf(v,"reactivo"); //Obtener la lista de reactivos del AE en cuestion[key,val]
+		
+		for(var reactivo in v){
+		  for(var respuesta in v[reactivo]["respuestas"]){
+		    alert("AE"+key+"_"+reactivo+"_"+respuesta+": "+v[reactivo]["respuestas"][respuesta]); //Obtener el listado de respuestas del AE
+		  }
+		}
+		
+	      }
+	      
+	      if(reactivos !== "")
+		for(var i in reactivos){
+		  $("#reactivos").append("<div class='card2 collapsed' idAE="+key+" idReactivo="+i+">\
+					    <div class='franja_tarjeta'></div>\
+					    <div class='card_content'>\
+					      <div class='checkbox_div'>\
+						<input type='checkbox' id='"+key+"_"+i+"'/>\
+						<label for='"+key+"_"+i+"'></label>\
+					      </div>\
+					      <div class='pregunta_div'>\
+						<span>"+reactivos[i]+"</span>\
+					      </div>\
+					    </div>\
+					  </div>");
+		}
 	    });
 	  });
 	});
@@ -49,20 +60,30 @@
 	  igualar_altura_logos();
 	  mostrar_ancho(); //DEBUG
 	
-	  $('#ae_container .card').click(function(){
+	  $('#ae_container .card').click(function(){ //Go to reactivos
 	    var text = $(this).find(".card_content").html();
+	    var idAE = $(this).attr("idAE");
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
 	    $("#ae_seleccionado").toggleClass("collapsed col-md-2");
 	    $("#ae_sub").toggleClass("collapsed col-md-10");
 	    $("#ae_seleccionado > div:not(.circle)").html(text);
+	    
+	    $(".card2").each(function(index){
+	      if( $(this).attr("idAE") === idAE ){
+		$(".card2[idAE="+$(this).attr("idAE")+"]").removeClass("collapsed");
+	      }
+	    });
 	  });
 
-	  $(".circle").click(function(){
+	  $(".circle").click(function(){ //Back to AE
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
 	    $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
 	    $("#ae_sub").toggleClass("col-md-10 collapsed");
+	    $(".card2").each(function(index){ //Hide all card2
+	      $(this).addClass("collapsed");
+	    });
 	  });
 
 	  $(".pregunta_div").click(function(){
@@ -139,6 +160,7 @@
         <div class="collapsed" id="ae_sub">
           <div class="row">
             <div class="col-md-12" id="reactivos"> <!-- col-md-10 -->
+	      <!--
               <div class="card2">
                 <div class="franja_tarjeta"></div>
                 <div class="card_content">
@@ -151,6 +173,7 @@
                   </div>
                 </div>
               </div>
+	      -->
             </div>
             <div class="collapsed" id="preview_reactivo">
               <span>Hola, soy un reactivo</span>

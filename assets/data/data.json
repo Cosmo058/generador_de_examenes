@@ -36,38 +36,38 @@
     ]
   },
   {
-  "nombreAE": "Reconocer A dentro de B",
-          "reactivos": [
-          {
-          "reactivo": "Si veo a A, ¿Qué hago?",
-                  "respuestas": {
-                  "R1": "Corro",
-                          "R2": "Grito",
-                          "R3": "Empujo",
-                          "R4": "Lo saludo"
-                  }
-          },
-          {
-          "reactivo": "Si A es mejor, eso significa que...",
-                  "respuestas": {
-                  "R1": "A me gusta más",
-                          "R2": "B me gusta más",
-                          "R3": "C tiene un hermano",
-                          "R4": "Me voy con D"
-                  }
-          },
-          {
-          "reactivo": "Si A salva a B...",
-                  "respuestas": {
-                  "R1": "A recibe dinero",
-                          "R2": "B le paga a B",
-                          "R3": "D obtiene ganancias",
-                          "R4": "C se queda en casa"
-                  }
-          }
-          ],
-          "unidadesAsociadas": [
-                  1
-          ]
+    "nombreAE": "Reconocer A dentro de B",
+    "reactivos": [
+      {
+        "reactivo": "Si veo a A, ¿Qué hago?",
+        "respuestas": {
+          "R1": "Corro",
+          "R2": "Grito",
+          "R3": "Empujo",
+          "R4": "Lo saludo"
+        }
+      },
+      {
+        "reactivo": "Si A es mejor, eso significa que...",
+        "respuestas": {
+          "R1": "A me gusta más",
+          "R2": "B me gusta más",
+          "R3": "C tiene un hermano",
+          "R4": "Me voy con D"
+        }
+      },
+      {
+        "reactivo": "Si A salva a B...",
+        "respuestas": {
+          "R1": "A recibe dinero",
+          "R2": "B le paga a B",
+          "R3": "D obtiene ganancias",
+          "R4": "C se queda en casa"
+        }
+      }
+    ],
+    "unidadesAsociadas": [
+      1
+    ]
   }
 ]
