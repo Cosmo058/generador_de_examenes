@@ -36,7 +36,7 @@ divv{
   font-size: 16px;
   margin: 0 auto;
   margin-top: 7px;
-  margin-bottom: 7px;
+  margin-bottom: 17px;
 }
 
 .card_content{
@@ -102,7 +102,9 @@ divv{
 
 #materia_title{
   height: 50%;
-  width: 166px;
+  
+  width: 166px; margin-left: 100px; /*TODO*/
+  
   border-bottom: solid thin;
   border-color: #C83335;
   font-weight: bold;
@@ -155,11 +157,15 @@ divv{
   transition: width 0.3s ease;
   height: 872px;
   text-align: center;
+  padding-top: 35px;
 }
 #preview_reactivo{
   height: 872px;
   background: #FFF;
   transition: margin 0.3s ease;
+  padding-top: 35px;
+  padding-left: 50px;
+  padding-right: 32px;
 }
 
 #sidebar_text{
@@ -178,6 +184,8 @@ divv{
   width: 84.56%;
   padding-top: 19px;
   height: 96px;
+  cursor: pointer;
+  user-select: none;
 }
 
 .collapsed{

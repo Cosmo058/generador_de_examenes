@@ -5,7 +5,8 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.debug.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -14,6 +15,19 @@
     
 
     <script>
+      $(document).keypress(function(e) { //EventListener DEBUG
+	if(e.which === 13) {
+	  
+	  var doc = new jsPDF({
+	    unit: 'in',
+	    format: [8.5, 11]
+	  });
+	  
+	  doc.text('Reactivos seleccionados...', 1, 1)
+	  doc.save("examen.pdf");
+	}
+      });
+      
       $(document).ready(function(){
 	
 	$.getJSON("assets/data/data.json", function(data){
@@ -29,8 +43,12 @@
 		reactivos = getValuesOf(v,"reactivo"); //Obtener la lista de reactivos del AE en cuestion[key,val]
 		
 		for(var reactivo in v){
+		  $("#preview_reactivo").append("<span class='collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>");
 		  for(var respuesta in v[reactivo]["respuestas"]){
-		    alert("AE"+key+"_"+reactivo+"_"+respuesta+": "+v[reactivo]["respuestas"][respuesta]); //Obtener el listado de respuestas del AE
+		    //alert("AE"+key+"_"+reactivo+"_"+respuesta+": "+v[reactivo]["respuestas"][respuesta]); //Obtener el listado de respuestas del AE
+		    $("#preview_reactivo").append(" <span class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+						      respuesta+": "+v[reactivo]["respuestas"][respuesta]+
+						    "<br\></span>");
 		  }
 		}
 		
@@ -89,12 +107,30 @@
 	  $(".pregunta_div").click(function(){
 	    $("#reactivos").toggleClass("col-md-12 col-md-8");
 	    $("#preview_reactivo").toggleClass("collapsed col-md-4");
+	    
+	    var idAE = $(this).parent().parent().attr("idAE");
+	    var idReactivo = $(this).parent().parent().attr("idReactivo");
+	    
+	    //alert(idAE+"_"+idReactivo);
+	    
+	    $("#preview_reactivo span").each(function(){
+	      //alert( $(this).attr("idAE")+"_"+$(this).attr("idReactivo") );
+	      if( $(this).attr("idAE") === idAE && $(this).attr("idReactivo") === idReactivo ){
+		$(this).removeClass("collapsed");
+	      }else{
+		$(this).addClass("collapsed");
+	      }
+	    });
 	  });
 
 	  $("input").click(function(){
 	    $(this).siblings("label").toggleClass("red_background");
+	    $("#num_reactivos").html($("input:checkbox:checked").length+" reactivos elegidos");
 	  });
-	});
+	  
+	  
+	  
+	}); //End of AjaxCallCompleted
 	
         $(window).resize(function(){
           centrar_tarjetas();
@@ -119,13 +155,11 @@
             <div id="materia_title">
               <span>Biolog&iacute;a</span>
             </div>
-            <div>
+            <div style="margin-left: 110px;">  <!-- TODO -->
               <div id="logo_reactivos">
                 <img src="assets/img/reactivos_seleccionados.png">
               </div>
-              <div id="num_reactivos">
-                1000 reactivos elegidos
-              </div>
+              <div id="num_reactivos">0 reactivos elegidos</div>
             </div>
           </div>
         </div>
@@ -176,7 +210,7 @@
 	      -->
             </div>
             <div class="collapsed" id="preview_reactivo">
-              <span>Hola, soy un reactivo</span>
+              <!--<span>Hola, soy un reactivo</span>-->
             </div>
           </div>
         </div>
