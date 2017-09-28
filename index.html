@@ -10,6 +10,8 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="assets/js/html2canvas.js"></script>
+    <script src="assets/js/html2pdf.js"></script>
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
     
@@ -18,13 +20,26 @@
       $(document).keypress(function(e) { //EventListener DEBUG
 	if(e.which === 13) {
 	  
-	  var doc = new jsPDF({
-	    unit: 'in',
-	    format: [8.5, 11]
+	  var idsReactivos = [];
+	  $("input:checked").each(function(){
+	    idsReactivos.push($(this).attr("id"));
 	  });
 	  
-	  doc.text('Reactivos seleccionados...', 1, 1)
-	  doc.save("examen.pdf");
+	  for(var selected in idsReactivos){
+	    ;//alert(idsReactivos[selected].split("_"));
+	  }
+	  
+	  var pdf = new jsPDF('p', 'pt', 'letter');
+	  var canvas = pdf.canvas;
+	  var width = 600;
+	  //canvas.width=8.5*72;
+	  document.body.style.width=width + "px";
+	  html2canvas(document.body, {
+	      canvas:canvas,
+	      onrendered: function(canvas) {
+		pdf.save("a.pdf");
+	      }
+	  });
 	}
       });
       
@@ -42,14 +57,21 @@
 	      if(typeof v === 'object' && k=== "reactivos"){ //∂
 		reactivos = getValuesOf(v,"reactivo"); //Obtener la lista de reactivos del AE en cuestion[key,val]
 		
+		var tmp_html = "";
 		for(var reactivo in v){
-		  $("#preview_reactivo").append("<span class='collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>");
+		  tmp_html = "<div idAE="+key+" idReactivo="+reactivo+">";
+		  //Agregando preguntas al DOM...
+		  tmp_html += "<span class='collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>";
+		  
+		  //Agregando respuestas al DOM...
 		  for(var respuesta in v[reactivo]["respuestas"]){
 		    //alert("AE"+key+"_"+reactivo+"_"+respuesta+": "+v[reactivo]["respuestas"][respuesta]); //Obtener el listado de respuestas del AE
-		    $("#preview_reactivo").append(" <span class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+		    tmp_html+=" <span class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
 						      respuesta+": "+v[reactivo]["respuestas"][respuesta]+
-						    "<br\></span>");
+						    "<br\></span>";
 		  }
+		  tmp_html += "</div>";
+		  $("#preview_reactivo").append(tmp_html);
 		}
 		
 	      }
