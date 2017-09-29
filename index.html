@@ -26,20 +26,8 @@
 	  });
 	  
 	  for(var selected in idsReactivos){
-	    ;//alert(idsReactivos[selected].split("_"));
+	    alert(idsReactivos[selected].split("_"));
 	  }
-	  
-	  var pdf = new jsPDF('p', 'pt', 'letter');
-	  var canvas = pdf.canvas;
-	  var width = 600;
-	  //canvas.width=8.5*72;
-	  document.body.style.width=width + "px";
-	  html2canvas(document.body, {
-	      canvas:canvas,
-	      onrendered: function(canvas) {
-		pdf.save("a.pdf");
-	      }
-	  });
 	}
       });
       
@@ -248,5 +236,6 @@
       </div>
       <!--/Footer-->
     </div>
+    <div id="test_previwe"></div>
   </body>
 </html>
