@@ -55,7 +55,7 @@
 	    });
 	  });
 	  
-	   //Back to AE (Page1)
+	  //Back to AE (Page1)
 	  $("#back_to_AE").click(function(){
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
@@ -73,25 +73,7 @@
 	    });
 	  });
 
-	  //Mostrar el preview de las respuestas
-	  $(".pregunta_div").click(function(){
-	    $("#reactivos").toggleClass("col-md-12 col-md-8");
-	    $("#preview_reactivo").toggleClass("collapsed col-md-4");
-	    
-	    var idAE = $(this).parent().parent().attr("idAE");
-	    var idReactivo = $(this).parent().parent().attr("idReactivo");
-	    
-	    //alert(idAE+"_"+idReactivo);
-	    
-	    $("#preview_reactivo span").each(function(){
-	      //alert( $(this).attr("idAE")+"_"+$(this).attr("idReactivo") );
-	      if( $(this).attr("idAE") === idAE && $(this).attr("idReactivo") === idReactivo ){
-		$(this).removeClass("collapsed");
-	      }else{
-		$(this).addClass("collapsed");
-	      }
-	    });
-	  });
+	  mostrar_preview_respuestas("filler");
 
 	  //Evento de clicks en los checkbox
 	  $("input").click(function(){
@@ -198,7 +180,7 @@
         <div class="collapsed" id="ae_sub">
           <div class="row">
             <div class="col-md-12 collapsed" id="reactivos"> <!-- col-md-10 --></div>
-	    <div class="col-md-8 collapsed" id="lista_final">COSAS</div>
+	    <div class="col-md-8 collapsed" id="lista_final"></div>
             <div class="collapsed" id="preview_reactivo"></div>
           </div>
         </div>
