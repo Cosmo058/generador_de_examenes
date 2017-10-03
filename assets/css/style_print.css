@@ -78,29 +78,13 @@ divv{
   height: 5px;
 }
 
-#back_to_AE{
+.circle{
   border-radius: 50%;
   width: 28px;
   height: 28px;
   background: #FFF;
   margin: 0 auto;
   margin-top: 35px;
-}
-
-#contador_a_preview{
-  padding-top: 30px;
-  font-size: 15px;
-}
-
-#contador_a_preview div{
-  ;
-}
-
-#contador_a_preview .circle{
-  border-radius: 50%;
-  width: 28px;
-  height: 28px;
-  background:#C83335;
 }
 
 #ae_seleccionado div{
@@ -110,6 +94,7 @@ divv{
 #header{
   border-bottom: solid 2px;
   border-color: #EEE;
+  display: none;
 }
 
 #logo_castillo_container img{
@@ -153,7 +138,8 @@ divv{
   font-size: 0.7em;
   padding: 1em;
   font-weight: normal;
-  word-spacing: 1px;;
+  word-spacing: 1px;
+  display: none;
 }
 
 #ae_seleccionado{
@@ -196,12 +182,8 @@ divv{
   color: #00F;
 }
 
-#lista_final{
-  background: #EEE;
-  transition: width 0.3s ease;
-  height: 872px;
-  text-align: center;
-  padding-top: 35px;
+#main_content{
+  display: none;
 }
 
 .checkbox_div{
@@ -273,15 +255,8 @@ svg{
   width: 20px;
   height: 25px;
 }
-#back_to_AE polyline{
+polyline{
   stroke: #C83335;
-  stroke-width: 8;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  fill: none;
-}
-#contador_a_preview polyline{
-  stroke: #FFF;
   stroke-width: 8;
   stroke-linecap: round;
   stroke-linejoin: round;
