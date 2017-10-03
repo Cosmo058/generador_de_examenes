@@ -38,6 +38,10 @@
 	    var text = $(this).find(".card_content").html();
 	    var idAE = $(this).attr("idAE");
 	    
+	    $("#header").addClass("collapsed");
+	    $("#header2").removeClass("collapsed");
+	    $("#header3").addClass("collapsed");
+	    
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
 	    $("#ae_seleccionado").toggleClass("collapsed col-md-2");
@@ -58,6 +62,10 @@
 	  
 	  //Back to AE (Page1)
 	  $("#back_to_AE").click(function(){
+	    
+	    $("#header").removeClass("collapsed");
+	    $("#header2").addClass("collapsed");
+	    $("#header3").addClass("collapsed");
 	    
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
@@ -89,6 +97,11 @@
 	  
 	  //Go to the final questions' preview (Page3)
 	  $("#go_to_preview").click(function(){
+	    
+	    $("#header").addClass("collapsed");
+	    $("#header2").addClass("collapsed");
+	    $("#header3").removeClass("collapsed");
+	    
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
 	    $("#ae_seleccionado").toggleClass("collapsed col-md-2");
@@ -144,6 +157,82 @@
         </div>
       </div>
      <!--/Header-->
+     <!-- Header2-->
+      <div class="row collapsed" id="header2">
+        <div class="col-md-2" id="logo_castillo_container">
+            <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+        </div>
+	<div class="col-md-3"></div>
+        <div class="col-md-4">
+	  <div class="row" style="padding-top: 16px;">
+	    <div class="col-md-12"><span style="font-size:26px; font-weight:bold;">Generador de ex&aacute;menes</span></div>
+	  </div>
+	  <div class="row">
+	    <div class="col-md-12" style="padding-left: 50px;">
+	      <div>
+		<div id="logo_reactivos">
+		  <img src="assets/img/reactivos_seleccionados.png">
+		</div>
+		<div class="num_reactivos">0 reactivos elegidos</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+        <div class="col-md-3">
+          <div id="materia_section">
+            <div id="materia_title">
+              <span>Biolog&iacute;a</span>
+            </div>
+          </div>
+        </div>
+      </div>
+     <!--/Header2-->
+     <!-- Header3-->
+      <div class="row collapsed" id="header3">
+        <div class="col-md-2" id="logo_castillo_container">
+            <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+        </div>
+	<div class="col-md-1"></div>
+        <div class="col-md-6">
+	  <div class="row" style="padding-top: 16px;">
+	    <div class="col-md-12" style="padding-left:155px;" ><span style="font-size:26px; font-weight:bold;">Generador de ex&aacute;menes</span></div>
+	  </div>
+	  <div class="row">
+	    <div class="col-md-4">
+	      <div>
+		<div id="logo_reactivos" style="display: inline-block">
+		  <img src="assets/img/reactivos_seleccionados.png">
+		</div>
+		<div style="display: inline-block">Respuestas</div>
+	      </div>
+	    </div>
+	    <div class="col-md-4">
+	      <div>
+		<div id="logo_reactivos" style="display: inline-block">
+		  <img src="assets/img/reactivos_seleccionados.png">
+		</div>
+		<div style="display: inline-block">Vista previa</div>
+	      </div>
+	    </div>
+	    <div class="col-md-4">
+	      <div>
+		<div id="logo_reactivos" style="display: inline-block">
+		  <img src="assets/img/reactivos_seleccionados.png">
+		</div>
+		<div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+        <div class="col-md-3">
+          <div id="materia_section">
+            <div id="materia_title">
+              <span>Biolog&iacute;a</span>
+            </div>
+          </div>
+        </div>
+      </div>
+     <!--/Header3-->
 
      <!--Title-->
      <div class="row" id="title">
