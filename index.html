@@ -11,8 +11,8 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="assets/js/html2canvas.js"></script>
-    <script src="assets/js/html2pdf.js"></script>
+    <!--<script src="assets/js/html2canvas.js"></script>-->
+<!--    <script src="assets/js/html2pdf.js"></script>-->
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
     
@@ -20,9 +20,8 @@
     <script>
       $(document).keypress(function(e) { //EventListener DEBUG
 	if(e.which === 13) {
-	  $("#examen_html").addClass("collapsed");
-	  $("#examen_html span").removeClass("collapsed");
-	  //window.print();
+	  //$("#examen_html").addClass("collapsed");
+	  //$("#examen_html span").removeClass("collapsed");
 	}
       });
       
@@ -38,10 +37,12 @@
 	  $('#ae_container .card').click(function(){
 	    var text = $(this).find(".card_content").html();
 	    var idAE = $(this).attr("idAE");
+	    
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
 	    $("#ae_seleccionado").toggleClass("collapsed col-md-2");
 	    $("#ae_sub").toggleClass("collapsed col-md-10");
+	    
 	    
 	    $("#reactivos").removeClass("collapsed");
 	    $("#reactivos").addClass("col-md-12");
@@ -57,6 +58,7 @@
 	  
 	  //Back to AE (Page1)
 	  $("#back_to_AE").click(function(){
+	    
 	    $("#ae_container").toggle();
 	    $("#title").toggle();
 	    $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
@@ -65,6 +67,8 @@
 	    $("#reactivos").addClass("collapsed");
 	    $("#reactivos").removeClass("col-md-8");
 	    $("#reactivos").addClass("col-md-12");
+	    
+	    $("#preview_reactivo").removeClass("col-md-4");
 	    $("#preview_reactivo").addClass("collapsed");
 	    $("#lista_final").addClass("collapsed");
 	    
@@ -76,11 +80,10 @@
 	  mostrar_preview_respuestas("filler");
 
 	  //Evento de clicks en los checkbox
-	  $("input").click(function(){
+	  $("#reactivos input").click(function(){
 	    $(this).siblings("label").toggleClass("red_background");
-	    $("#num_reactivos").html($("input:checkbox:checked").length+" reactivos elegidos");
-	    
-	    $("#contador_a_preview .col-md-5").html($("input:checkbox:checked").length+" reactivos elegidos</div>");
+	    $(".num_reactivos").html($("#reactivos input:checkbox:checked").length+" reactivos elegidos");
+	    $("#contador_a_preview .col-md-5").html($("#reactivos input:checkbox:checked").length+" reactivos elegidos</div>");
 	    $("#contador_a_preview").removeClass("collapsed");
 	  });
 	  
@@ -95,10 +98,14 @@
 	    $("#preview_reactivo").removeClass("collapsed");
 	    $("#preview_reactivo").addClass("col-md-4");
 	    $("#lista_final").removeClass("collapsed");
+	    $("#lista_final").addClass("col-md-8");
 	    
 	    $("#ae_seleccionado > div:not(.circle)").html("Reactivos seleccionados");
 	    
 	    seleccionados_a_preview();
+	    $("#lista_final label").click(function(){
+	      $(this).toggleClass("red_background");
+	    });
 	    
 	    mostrar_preview_respuestas("no_toggle");
 	    
@@ -131,7 +138,7 @@
               <div id="logo_reactivos">
                 <img src="assets/img/reactivos_seleccionados.png">
               </div>
-              <div id="num_reactivos">0 reactivos elegidos</div>
+              <div class="num_reactivos">0 reactivos elegidos</div>
             </div>
           </div>
         </div>
@@ -179,8 +186,8 @@
         </div>
         <div class="collapsed" id="ae_sub">
           <div class="row">
-            <div class="col-md-12 collapsed" id="reactivos"> <!-- col-md-10 --></div>
-	    <div class="col-md-8 collapsed" id="lista_final"></div>
+            <div class="collapsed" id="reactivos"></div>
+	    <div class="collapsed" id="lista_final"></div>
             <div class="collapsed" id="preview_reactivo"></div>
           </div>
         </div>

@@ -20,6 +20,8 @@ function mostrar_ancho(){
 
 
 function seleccionados_a_preview(){
+  $("#lista_final").empty();
+  
   var idsReactivos = [];
   $("input:checked").each(function(){
     idsReactivos.push($(this).attr("id"));
