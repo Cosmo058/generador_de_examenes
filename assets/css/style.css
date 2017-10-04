@@ -142,7 +142,7 @@ divv{
 .num_reactivos{
   display: inline-block;
   padding: 0.3em;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 #title{
@@ -197,7 +197,8 @@ divv{
 }
 
 #texto{
-  padding-left: 112px;
+  padding-left: 107px;
+  margin-top: 25px;
 }
 
 #examen_html{
@@ -279,7 +280,7 @@ input[type=checkbox]{
 
 .pointer_style{
   cursor: pointer;
-  font-size: 14px;
+  font-size: 0.9em;
 }
 
 .img_btn{

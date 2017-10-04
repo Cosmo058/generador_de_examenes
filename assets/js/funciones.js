@@ -1,8 +1,10 @@
 function centrar_tarjetas(){
+  var margen_izq = 56;
   var ae_container_width = $("#ae_container").css('width').replace("px","");
-  var b = (ae_container_width-40)%218;
-  var c = (b/2)+20;
+  var b = (ae_container_width-(margen_izq*2))%218;
+  var c = (b/2)+margen_izq;
   $("#ae_container").css("padding-left",c+"px");
+  console.log(c);
 }
 
 function igualar_altura_logos(){
@@ -70,7 +72,7 @@ function seleccionados_a_print(){
 }
 
 function init(){
-  $.getJSON("assets/data/data.json", function(data){
+  $.getJSON("assets/data/data2.json", function(data){
     $.each(data,function(key,val){
       $.each(val,function(k,v){
         if(k==="nombreAE"){
