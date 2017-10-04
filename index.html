@@ -123,6 +123,15 @@
 	    mostrar_preview_respuestas("no_toggle");
 	    
 	  });
+	  
+	  $("#vista_previa").click(function(){
+	    seleccionados_a_print();
+	  });
+	  
+	  $("#ver_respuestas").click(function(){
+	    $(".correct").toggleClass("bolded");
+	  });
+	  
 	}); //End of AjaxCallCompleted
 	
         $(window).resize(function(){
@@ -203,7 +212,7 @@
 		<div id="logo_reactivos" style="display: inline-block">
 		  <img src="assets/img/reactivos_seleccionados.png">
 		</div>
-		<div style="display: inline-block">Respuestas</div>
+		<div id="ver_respuestas" style="display: inline-block">Respuestas</div>
 	      </div>
 	    </div>
 	    <div class="col-md-4">
@@ -211,7 +220,7 @@
 		<div id="logo_reactivos" style="display: inline-block">
 		  <img src="assets/img/reactivos_seleccionados.png">
 		</div>
-		<div style="display: inline-block">Vista previa</div>
+		<div id="vista_previa" style="display: inline-block">Vista previa</div>
 	      </div>
 	    </div>
 	    <div class="col-md-4">
@@ -291,10 +300,7 @@
         </div>
       </div>
       <!--/Footer-->
-      
-      <div class="row">
-	<div class="col-md-12" id="examen_html"></div>
-      </div>
     </div>
+    <div class="collapsed" id="examen_html"></div>
   </body>
 </html>

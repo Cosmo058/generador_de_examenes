@@ -38,6 +38,37 @@ function seleccionados_a_preview(){
   }
 }
 
+function seleccionados_a_print(){
+  $("#examen_html").empty();
+  $("#examen_html").append('<p>Nombre:________________________________________ Grupo:_______ Fecha:__________</p><br/>');
+  
+  var idsReactivos = [];
+  var contador = 1;
+  
+  $("#reactivos input:checked").each(function(){
+    idsReactivos.push($(this).attr("id"));
+  });
+  
+  for(var selected in idsReactivos){
+    $("#preview_reactivo div").each(function(){
+      var $card_tmp = $(this).clone();
+      
+      if( $(this).attr("idAE")=== idsReactivos[selected].split("_")[0] && $(this).attr("idReactivo")=== idsReactivos[selected].split("_")[1] ){
+        $card_tmp.removeClass("collapsed");
+        
+        $card_tmp.find(".respuesta_print").html( contador.toString()+". "+ $card_tmp.find(".respuesta_print").html() );
+        contador++;
+        $("#examen_html").append($card_tmp);
+        $("#examen_html").append("<br/><br/>");
+      }
+    });
+  }
+  
+  $("#examen_html").append("<br/><p>&copy; Todos los derechos reservados, Ediciones Castillo S.A. de C.V.</p>");
+  
+  window.print();
+}
+
 function init(){
   $.getJSON("assets/data/data.json", function(data){
     $.each(data,function(key,val){
@@ -55,14 +86,19 @@ function init(){
           for(var reactivo in v){
             tmp_html = "<div idAE="+key+" idReactivo="+reactivo+">";
             //Agregando preguntas al DOM...
-            tmp_html += "<span class='collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>";
+            tmp_html += "<span class='respuesta_print collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>";
 
             //Agregando respuestas al DOM...
             for(var respuesta in v[reactivo]["respuestas"]){
-              //alert("AE"+key+"_"+reactivo+"_"+respuesta+": "+v[reactivo]["respuestas"][respuesta]); //Obtener el listado de respuestas del AE
-              tmp_html+=" <span class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
-                                                respuesta+": "+v[reactivo]["respuestas"][respuesta]+
+              if( v[reactivo]["respuestas"][respuesta].toString().indexOf("@") !== -1 ){
+              tmp_html+=" <span style='margin-left:3em;' class='collapsed correct' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+                                                respuesta+". "+v[reactivo]["respuestas"][respuesta].toString().replace("@","")+
                                               "<br\></span>";
+              }else{
+                tmp_html+=" <span style='margin-left:3em;' class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+                                                respuesta+". "+v[reactivo]["respuestas"][respuesta]+
+                                              "<br\></span>";
+              }
             }
             tmp_html += "</div>";
             $("#preview_reactivo").append(tmp_html);

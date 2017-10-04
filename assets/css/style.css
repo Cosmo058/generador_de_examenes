@@ -6,6 +6,7 @@ font-face { font-family: Lato; font-weight: 550; src: url('../fonts/lato/Lato-Se
 body{
   font-family: Lato, sans-serif;
   color: #7C7C7C;
+  user-select: none;
 }
 
 divv{
@@ -107,9 +108,11 @@ divv{
   text-align: center;
 }
 
-#header{
+#header,#header2,#header3{
   border-bottom: solid 2px;
   border-color: #EEE;
+  padding-top: 14px;
+  padding-bottom: 10px;
 }
 
 #logo_castillo_container img{
@@ -264,6 +267,10 @@ input[type=checkbox]{
 
 .red_background{
   background: #C83335 !important;
+}
+
+.bolded{
+  font-weight: bold;
 }
 
 button {
