@@ -3,16 +3,13 @@
   <head>
     <title>Generador de ex&aacute;menes</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/offline/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" media="print"  href="assets/css/style_print.css">
     
-    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.debug.js"></script> -->
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <!--<script src="assets/js/html2canvas.js"></script>-->
-<!--    <script src="assets/js/html2pdf.js"></script>-->
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
     
@@ -158,7 +155,7 @@
             </div>
             <div style="margin-left: 110px;">  <!-- TODO -->
               <div id="logo_reactivos">
-                <img src="assets/img/reactivos_seleccionados.png">
+                <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
               </div>
               <div class="num_reactivos">0 reactivos elegidos</div>
             </div>
@@ -180,7 +177,7 @@
 	    <div class="col-md-12" style="padding-left: 50px;">
 	      <div>
 		<div id="logo_reactivos">
-		  <img src="assets/img/reactivos_seleccionados.png">
+		  <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
 		</div>
 		<div class="num_reactivos">0 reactivos elegidos</div>
 	      </div>
@@ -210,25 +207,25 @@
 	    <div class="col-md-4">
 	      <div>
 		<div id="logo_reactivos" style="display: inline-block">
-		  <img src="assets/img/reactivos_seleccionados.png">
+		  <img class="img_btn" src="assets/img/ver_respuestas.png">
 		</div>
-		<div id="ver_respuestas" style="display: inline-block">Respuestas</div>
+		<div class="pointer_style" id="ver_respuestas" style="display: inline-block">Respuestas</div>
 	      </div>
 	    </div>
 	    <div class="col-md-4">
 	      <div>
 		<div id="logo_reactivos" style="display: inline-block">
-		  <img src="assets/img/reactivos_seleccionados.png">
+		  <img class="img_btn" src="assets/img/vista_previa.png">
 		</div>
-		<div id="vista_previa" style="display: inline-block">Vista previa</div>
+		<div class="pointer_style" id="vista_previa" style="display: inline-block">Vista previa</div>
 	      </div>
 	    </div>
 	    <div class="col-md-4">
 	      <div>
 		<div id="logo_reactivos" style="display: inline-block">
-		  <img src="assets/img/reactivos_seleccionados.png">
+		  <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
 		</div>
-		<div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
+		<div class="pointer_style num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
 	      </div>
 	    </div>
 	  </div>

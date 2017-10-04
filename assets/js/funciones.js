@@ -1,6 +1,6 @@
 function centrar_tarjetas(){
-  var a = $("#ae_container").css('width').replace("px","");
-  var b = (a-40)%218;
+  var ae_container_width = $("#ae_container").css('width').replace("px","");
+  var b = (ae_container_width-40)%218;
   var c = (b/2)+20;
   $("#ae_container").css("padding-left",c+"px");
 }

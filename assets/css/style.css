@@ -196,6 +196,10 @@ divv{
   padding-bottom: 21px;
 }
 
+#texto{
+  padding-left: 112px;
+}
+
 #examen_html{
   color: #00F;
 }
@@ -271,6 +275,15 @@ input[type=checkbox]{
 
 .bolded{
   font-weight: bold;
+}
+
+.pointer_style{
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.img_btn{
+  width: 25px;
 }
 
 button {
