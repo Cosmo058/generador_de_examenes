@@ -4,7 +4,7 @@ function centrar_tarjetas(){
   var b = (ae_container_width-(margen_izq*2))%218;
   var c = (b/2)+margen_izq;
   $("#ae_container").css("padding-left",c+"px");
-  console.log(c);
+  //console.log(c);
 }
 
 function igualar_altura_logos(){
@@ -71,8 +71,8 @@ function seleccionados_a_print(){
   window.print();
 }
 
-function init(){
-  $.getJSON("assets/data/data2.json", function(data){
+function init(file_name){
+  $.getJSON("assets/data/"+file_name, function(data){
     $.each(data,function(key,val){
       $.each(val,function(k,v){
         if(k==="nombreAE"){
@@ -89,15 +89,20 @@ function init(){
             tmp_html = "<div idAE="+key+" idReactivo="+reactivo+">";
             //Agregando preguntas al DOM...
             tmp_html += "<span class='respuesta_print collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>";
-
+            
+            if(v[reactivo]["img_asociada"]!=="" && v[reactivo]["img_asociada"]!==undefined){
+              //alert("tiene img");
+              tmp_html += "<span idAE="+key+" idReactivo="+reactivo+" class='collapsed'><img class='img_asociada' src='assets/"+v[reactivo]["img_asociada"]+"'><br/><br/></span>";
+            }
+            
             //Agregando respuestas al DOM...
             for(var respuesta in v[reactivo]["respuestas"]){
               if( v[reactivo]["respuestas"][respuesta].toString().indexOf("@") !== -1 ){
-              tmp_html+=" <span style='margin-left:3em;' class='collapsed correct' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+              tmp_html+=" <span style='margin-left:2em;' class='collapsed correct' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
                                                 respuesta+". "+v[reactivo]["respuestas"][respuesta].toString().replace("@","")+
                                               "<br\></span>";
               }else{
-                tmp_html+=" <span style='margin-left:3em;' class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+                tmp_html+=" <span style='margin-left:2em;' class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
                                                 respuesta+". "+v[reactivo]["respuestas"][respuesta]+
                                               "<br\></span>";
               }

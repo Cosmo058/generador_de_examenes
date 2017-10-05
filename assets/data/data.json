@@ -9,25 +9,28 @@
           "B": "a y b",
           "C": "a, b y c",
           "D": "Ninguna de las anteriores"
-        }
+        },
+        "img_asociada": "data/img_asociadas/0_0.png"
       },
       {
         "reactivo": "¿Cómo es que sabemos algo?",
         "respuestas": {
           "A": "No sabemos nada@",
           "B": "Lo sabemos todo",
-          "C": "Sabemos algunas cosas y otras no",
+          "C": "Sabemos algunas cosas",
           "D": "Ninguna de las anteriores"
-        }
+        },
+        "img_asociada": "data/img_asociadas/0_1.png"
       },
       {
-        "reactivo": "¿Cuál es el sentido de la vida, el universo y todo lo demás?",
+        "reactivo": "¿A dónde fuiste ayer?",
         "respuestas": {
-          "A": "41",
-          "B": "42@",
-          "C": "42.5",
-          "D": "0"
-        }
+          "A": "No sali@",
+          "B": "No te importa",
+          "C": "Con un amigo",
+          "D": "Con mi familia"
+        },
+        "img_asociada": "data/img_asociadas/0_2.png"
       }
     ],
     "unidadesAsociadas": [
@@ -45,7 +48,8 @@
           "B": "Grito",
           "C": "Empujo",
           "D": "Lo saludo"
-        }
+        },
+        "img_asociada": ""
       },
       {
         "reactivo": "Si A es mejor, eso significa que...",
@@ -54,7 +58,8 @@
           "B": "B me gusta más",
           "C": "C tiene un hermano",
           "D": "Me voy con D"
-        }
+        },
+        "img_asociada": ""
       },
       {
         "reactivo": "Si A salva a B...",
@@ -63,7 +68,8 @@
           "B": "B le paga a B",
           "C": "D obtiene ganancias",
           "D": "C se queda en casa"
-        }
+        },
+        "img_asociada": ""
       }
     ],
     "unidadesAsociadas": [

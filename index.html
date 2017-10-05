@@ -4,7 +4,7 @@
     <title>Generador de ex&aacute;menes</title>
 
     <link rel="stylesheet" type="text/css" media="screen" href="assets/offline/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style2.css">
     <link rel="stylesheet" type="text/css" media="print"  href="assets/css/style_print.css">
     
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -24,7 +24,7 @@
       
       $(document).ready(function(){
 	
-	init(); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+	init("data.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 	
 	$(document).ajaxComplete(function(){
 	  centrar_tarjetas();
@@ -88,7 +88,7 @@
 	  $("#reactivos input").click(function(){
 	    $(this).siblings("label").toggleClass("red_background");
 	    $(".num_reactivos").html($("#reactivos input:checkbox:checked").length+" reactivos elegidos");
-	    $("#contador_a_preview .col-md-5").html($("#reactivos input:checkbox:checked").length+" reactivos elegidos</div>");
+	    $("#a").html($("#reactivos input:checkbox:checked").length+" reactivos elegidos</div>");
 	    $("#contador_a_preview").removeClass("collapsed");
 	  });
 	  
@@ -240,24 +240,25 @@
      <!--/Header3-->
 
      <!--Title-->
-     <div class="row" id="title">
-       <div class="col-md-8" id="texto">
+      <div class="row" id="title">
+	<div class="col-md-7" id="texto">
           <h3>Generador de ex&aacute;menes</h3>
           <p>Aprendizajes esperados</p>
         </div>
-       <div class="col-md-4 collapsed" id="contador_a_preview">
-	 <div class="row">
-	  <div class='col-md-5' style='margin-top:2px;'></div>
-	  <div class="col-md-2" style="margin-left: -30px">
-	    <div class='circle' id='go_to_preview'>
-	      <button class='arrow'>
-		<svg viewBox='-18 0 100 80' xml:space='preserve'>
-		  <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
-		</svg>
-	      </button>
+	<div class="col-md-2"></div>
+	<div class="col-md-3 collapsed" id="contador_a_preview">
+	  <div class="row">
+	    <div class="col-md-7" id="a"  style='margin-top:2px;'></div>
+	    <div class="col-md-2" style="margin-left: -30px">
+	      <div class='circle' id='go_to_preview'>
+		<button class='arrow'>
+		  <svg viewBox='-18 0 100 80' xml:space='preserve'>
+		    <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
+		  </svg>
+		</button>
+	      </div>
 	    </div>
 	  </div>
-	 </div>
 	</div>
       </div>
       <!--/Title-->
