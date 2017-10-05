@@ -4,7 +4,7 @@
     <title>Generador de ex&aacute;menes</title>
 
     <link rel="stylesheet" type="text/css" media="screen" href="assets/offline/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style2.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" media="print"  href="assets/css/style_print.css">
     
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
@@ -127,6 +127,8 @@
 	  
 	  $("#ver_respuestas").click(function(){
 	    $(".correct").toggleClass("bolded");
+	    $("#ver_respuestas_img").toggleAttr('src','assets/img/ver_respuestas_off.png','assets/img/ver_respuestas_on.png')
+	    
 	  });
 	  
 	}); //End of AjaxCallCompleted
@@ -209,7 +211,7 @@
 	    <div class="col-md-2">
 	      <div class="pointer_style">
 		<div style="display: inline-block">
-		  <img class="img_btn" src="assets/img/ver_respuestas.png">
+		  <img class="img_btn" id="ver_respuestas_img" src="assets/img/ver_respuestas_off.png">
 		</div>
 		<div id="ver_respuestas" style="display: inline-block">Respuestas</div>
 	      </div>

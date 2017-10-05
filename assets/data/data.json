@@ -6,7 +6,7 @@
         "reactivo": "¿Cuál es la diferencia entre A y B?",
         "respuestas": {
           "A": "a@",
-          "B": "a y b",
+          "B": "<i>a y b</i>",
           "C": "a, b y c",
           "D": "Ninguna de las anteriores"
         },

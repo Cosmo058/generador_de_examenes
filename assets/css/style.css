@@ -1,11 +1,10 @@
 @font-face { font-family: 'Lato'; font-weight: normal; src: url('../fonts/lato/Lato-Regular.ttf') format('truetype'); }
 @font-face { font-family: 'Lato'; font-weight: bold; src: url('../fonts/lato/Lato-Bold.ttf') format('truetype'); }
 @font-face { font-family: 'Lato'; font-weight: lighter; src: url('../fonts/lato/Lato-Light.ttf') format('truetype'); }
-@font-face { font-family: 'Lato'; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf') format('truetype'); }
+/*@font-face { font-family: 'Lato'; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf') format('truetype'); }*/
 
 body{
   font-family: 'Lato',sans-serif;
-  font-weight: 100;
   color: #7C7C7C;
   user-select: none;
 }
@@ -268,7 +267,7 @@ input[type=checkbox]{
 }
 
 .bolded{
-  font-weight: bold;
+  font-weight: 800;
 }
 
 .pointer_style{
