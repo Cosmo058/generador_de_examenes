@@ -8,8 +8,8 @@ function centrar_tarjetas(){
 }
 
 function igualar_altura_logos(){
-  var altura_logo_castillo = $("#logo_castillo_container").css('height');
-  $('#materia_section').css('height',altura_logo_castillo);
+  var altura_logo_castillo = $(".logo_castillo_container").css('height');
+  $('.materia_section').css('height',altura_logo_castillo);
   
   //var altura_title = $("#texto").css('height');
   //$('#contador_a_preview').css('height',altura_title);

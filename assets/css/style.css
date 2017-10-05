@@ -115,8 +115,11 @@ divv{
   padding-bottom: 10px;
 }
 
-#logo_castillo_container img{
-  margin: 15px 22px; /*TODO margen dinámico*/
+.logo_castillo_container{
+  padding-right: 23px;
+  padding-top: 20px;
+}.logo_castillo_container img{
+  float:right;
 }
 
 #materia_title{
@@ -133,12 +136,7 @@ divv{
   color: #4D4D4F;
   padding-left: 10px;
 }
-#logo_reactivos{
-  padding: 3px;
-  display: inline-block;
-  width: 20%;
-  text-align: center;
-}
+
 .num_reactivos{
   display: inline-block;
   padding: 0.3em;
