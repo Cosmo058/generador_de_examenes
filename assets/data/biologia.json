@@ -63,47 +63,270 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": [
-      2,
-      3
-    ]
+    "unidadesAsociadas": []
   },
   {
-    "nombreAE": "Reconocer A dentro de B",
+    "nombreAE": "AE2. <b>Infiere</b> el papel que juegan las interacciones depredador-presa y la competencia como parte del equilibrio de las poblaciones en un ecosistema.",
     "reactivos": [
       {
-        "reactivo": "Si veo a A, ¿Qué hago?",
+        "reactivo": "El ajolote está en peligro de extinción en Xochimilco, hecho que coincide con la introducción de peces tilapia y carpa. ¿Qué opción explica la reducción de esta especie?",
         "respuestas": {
-          "A": "Corro",
-          "B": "Grito",
-          "C": "Empujo@",
-          "D": "Lo saludo"
-        },
-        "img_asociada": "data/img_asociadas/0_0.png"
-      },
-      {
-        "reactivo": "Si A es mejor, eso significa que...",
-        "respuestas": {
-          "A": "A me gusta más",
-          "B": "B me gusta más",
-          "C": "C tiene un hermano",
-          "D": "Me voy con D"
+          "A": "Los ajolotes son parásitos de los peces.",
+          "B": "Los peces son depredadores del ajolote.@",
+          "C": "Los ajolotes se alimentan de esas dos especies.",
+          "D": "Los peces contribuyeron a la sobreescplotación de los recursos naturales en Xochimilco."
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "Si A salva a B...",
+        "reactivo": "Si debes elegir un tema para investigar en torno a las especies que regulan ellas mismas su densidad de población, ¿cuál caso lo representaría?",
         "respuestas": {
-          "A": "A recibe dinero",
-          "B": "B le paga a B",
-          "C": "D obtiene ganancias",
-          "D": "C se queda en casa"
+          "A": "La extinción de ratones por el aumento de víboras de cascabel.",
+          "B": "El control del búho moteado para preservar la diversidad genética.",
+          "C": "La muerte de renos por el sobrepastoreo, sin amenaza de depredadores.@",
+          "D": "La disminución del pájaro carpintero por el aumento de los árboles de pino."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si vas de excursión a un bosque de pinos y encinos, observarás que debajo de los pinos no se desarrollan otras especies. Este es un ejemplo de:",
+        "respuestas": {
+          "A": "parasitismo",
+          "B": "comensalismo",
+          "C": "competencia interespecífica",
+          "D": "competencia intraespecífica@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Entre las hormigas y la acacia que habitan en zonas tropicales se presenta una interacción biológica: la acacia provee alimento a las hormigas y éstas, a su vez, protegen a la acacia de otros depredadores. Este es un ejemplo de:",
+        "respuestas": {
+          "A": "simbiosis",
+          "B": "mutualismo@",
+          "C": "parasitismo",
+          "D": "comensalismo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Completa el enunciado.<br/>La depredación se refiere  _______________ de un organismo viviente, vegetal o animal, lo que hace circular _____________ y ____________ por el ecosistema.",
+        "respuestas": {
+          "A": "a las presas / las semillas / los frutos",
+          "B": "al consumo /  la energía / los nutrimentos@",
+          "C": "al nacimiento / a los herbívoros /  a los carnívoros",
+          "D": "a la supervivencia / la energía / a los depredadores"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la depredación la interacción ocurre cuando una especie ingiere a otra. ¿Cómo se le llama al consumidor?",
+        "respuestas": {
+          "A": "Presa",
+          "B": "Productor",
+          "C": "Depredador",
+          "D": "Consumidor@"
         },
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": [
-      1
-    ]
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "AE 3. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
+    "reactivos": [
+      {
+        "reactivo": "En clase explicaron que la mitocondria es un organelo de la célula animal encargada de:",
+        "respuestas": {
+          "A": "realizar la fotosíntesis.",
+          "B": "llevar a cabo la respiración.@",
+          "C": "realizar la producción de proteínas.",
+          "D": "mantener el medio intracelular diferenciado del entorno."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En una exposición, a partir de una maqueta, se presenta el citoplasma, donde se encuentran diversas sustancias y estructuras que intervienen en el funcionamiento de la célula. ¿Cuál es la función del citoplasma?",
+        "respuestas": {
+          "A": "Almacenar el material genético y controlar todas las actividades celulares.",
+          "B": "Producir energía, almacenar sustancias y crear partes de los componentes sanguíneos.",
+          "C": "Participar en el crecimiento de la célula, comunicar al medio intracelular, aislar a la célula del medio.",
+          "D": "Incorporar sustancias para la producción de energía, almacenar sustancias de reserva y brindar forma a las células.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El mecanismo que posibilita la división de una célula en dos, cuyo descubrimiento y primeros estudios se deben al médico alemán Walther Flemming y se lleva a cabo en:",
+        "respuestas": {
+          "A": "el núcleo@",
+          "B": "el citoplasma",
+          "C": "la membrana",
+          "D": "la pared celular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona el inciso que contenga las palabras para completar el enunciado.<br/>Los organismos ____________ están formados por varias células. Las __________ semejantes se unen en tejidos. Cada __________ realiza una función específica y a su vez se agrupan en órganos.",
+        "respuestas": {
+          "A": "unicelulares / células / tejido",
+          "B": "pluricelulares / células / tejido@",
+          "C": "unicelulares / membranas /sistema",
+          "D": "unicelulares y pluricelulares / mitocondrias / aparato"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la clase de Biología el maestro explicó: “la célula es la unidad básica de todo ser vivo y realiza funciones vitales”. ¿Cuáles son esas funciones?",
+        "respuestas": {
+          "A": "Eliminar nutrimentos, procesar y producir sustancias.",
+          "B": "Asimilar nutrimentos, eliminar residuos, producir sustancias.@",
+          "C": "Generar energía, procesar virus, conformar tejidos y órganos.",
+          "D": "Obtener energía, eliminar desechos, producir materias primas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona las partes de la célula con sus funciones.<br/><br/><table style='font-size:0.6em'><tr><td>A. Núcleo</td><td>&nbsp;&nbsp;</td><td>I. Control del flujo de sustancias.</td></tr><tr><td>B. Citoplasma</td><td>&nbsp;&nbsp;</td><td>II. Junto con el núcleo regula la actividad de la célula.</td></tr><tr><td>C. Pared celular</td><td>&nbsp;&nbsp;</td><td>III. Contiene la información genética.</td></tr><tr><td>D. Membrana</td><td>&nbsp;&nbsp;</td><td>IV. Da forma a la célula.</td></tr></table>",
+        "respuestas": {
+          "A": "AI, BIV, CII, DIII",
+          "B": "AII, BIII, CI, DIV",
+          "C": "AIII, BII, CIV, DI@",
+          "D": "AIV, BI, CIII, DII"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "AE 4. <b>Explica</b> la coordinación del sistema nervioso en el funcionamiento del cuerpo.",
+    "reactivos": [
+      {
+        "reactivo": "Toser es una respuesta involuntaria del organismo ante un evento que el organismo controla mediante:",
+        "respuestas": {
+          "A": "las células de la nariz",
+          "B": "los pulmones y garganta",
+          "C": "los pulmones y bronquios",
+          "D": "el sistema nervioso periférico@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Llegó el final del ciclo escolar y debes presentar tus exámenes, lo que te pone nervioso y presentas colitis (inflamación del colón). ¿Qué sistemas u órganos del cuerpo activan esa respuesta?",
+        "respuestas": {
+          "A": "El sistema nervioso y el cerebro@",
+          "B": "El sistema nervioso y el estómago",
+          "C": "El sistema digestivo y el sistema nervioso",
+          "D": "El sistema circulatorio y el sistema nervioso"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El sistema nervioso periférico está formado por:",
+        "respuestas": {
+          "A": "Cerebelo",
+          "B": "Médula espinal",
+          "C": "Corteza cerebral",
+          "D": "Fibras nerviosas que estructuran los nervios@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Completa el enunciado.<br/>Si te quemas la mano con un matraz caliente inmediatamente las neuronas ____________ envían la información al___________ , que a su vez envía un mensaje a los músculos de tu mano para que la retires.",
+        "respuestas": {
+          "A": "espejo / cerebelo",
+          "B": "internas / cerebro",
+          "C": "motoras / corazón",
+          "D": "sensitivas / cerebro@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los principales sistemas del cuerpo que regulan las actividades corporales, desde el equilibrio interno, hasta la nutrición, el crecimiento y el desarrollo, entre otros, son:",
+        "respuestas": {
+          "A": "óseo y nervioso",
+          "B": "nervioso y endócrino@",
+          "C": "digestivo y respiratorio",
+          "D": "circulatorio y muscular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las principales células del sistema nervioso se conocen como:",
+        "respuestas": {
+          "A": "axones",
+          "B": "nervios",
+          "C": "vértebras",
+          "D": "neuronas@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "AE 5. <b>Explica</b> cómo evitar el sobrepeso y la obesidad con base en las características de la dieta correcta y las necesidades energéticas en la adolescencia.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de los siguientes es un ejemplo de nutrimento",
+        "respuestas": {
+          "A": "La carne",
+          "B": "Las leguminosas",
+          "C": "Los lípidos@",
+          "D": "Los cereales"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una de las funciones de los carbohidratos es...",
+        "respuestas": {
+          "A": "formar las uñas y el cabello.",
+          "B": "proporcionar energía rápida.@",
+          "C": "favorecer el tránsito intestinal.",
+          "D": "reemplazar las células muertas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los osos polares tienen grandes cantidades de grasa, pues las grasas...",
+        "respuestas": {
+          "A": "evitan que el calor se pierda.@",
+          "B": "son esenciales para formar proteínas.",
+          "C": "proporcionan energía inmediata para contrarrestar el frío.",
+          "D": "se almacenan en forma de almidón para crear una capa aislante."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La formación del bolo alimenticio es importante por ser el inicio de la descomposición de los alimentos. ¿En qué parte del sistema digestivo se forma?",
+        "respuestas": {
+          "A": "En la boca@",
+          "B": "En el estómago",
+          "C": "En el intestino delgado",
+          "D": "En el intestino grueso"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si nuestro intestino delgado no funcionara correctamente, tendríamos...",
+        "respuestas": {
+          "A": "exceso de bilis.",
+          "B": "falta de glucógeno.",
+          "C": "falta de nutrimentos.@",
+          "D": "exceso de glucosa en la sangre."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes pares de alimentos contrinuye, en mayor medida, al fortalecimiento de los cartílagos, huesos y dientes?",
+        "respuestas": {
+          "A": "Crema y arroz",
+          "B": "Frijoles y queso@",
+          "C": "Leche y aguacate",
+          "D": "Carne de pollo y de res"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
   }
 ]
