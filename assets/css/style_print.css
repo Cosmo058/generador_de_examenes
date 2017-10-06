@@ -13,11 +13,15 @@
 }
 
 #examen_html *{
-  display: block;
   color: #000 !important;
 }
 
 .img_asociada{
   width: 60%;
   margin-left:2em;
+}
+
+ol{
+  display: block;
+  list-style-type: upper-alpha;
 }

@@ -9,6 +9,10 @@ body{
   user-select: none;
 }
 
+ol{
+  list-style-type: upper-alpha;
+}
+
 #ae_container{
   transition: margin 0.3s ease;
   padding: 3rem 20px;
@@ -53,6 +57,9 @@ body{
   text-align: center;
   line-height: normal;
   overflow: hidden;
+  padding: 0px;
+  padding-right: 23px;
+  text-align: left;
 }
 
 .card_content span{
@@ -306,6 +313,7 @@ svg{
   stroke-linejoin: round;
   fill: none;
 }
+
 .arrow {
   cursor: pointer;
   position: relative;

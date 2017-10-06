@@ -1,0 +1,109 @@
+[
+  {
+    "nombreAE": "AE 1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
+    "reactivos": [
+      {
+        "reactivo": "Todos los seres vivos tienen en común las siguientes características, excepto:",
+        "respuestas": {
+          "A": "Fotosíntesis@",
+          "B": "Respiración",
+          "C": "Irritabilidad",
+          "D": "Desarrollo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Reproducirse, nutrirse y respirar son algunas de las características que...",
+        "respuestas": {
+          "A": "identifican a los seres vivos.@",
+          "B": "diferencian a procariontes de eucariontes.",
+          "C": "poseen sólo los organismos pluricelulares.",
+          "D": "se presentan exclusivamente en los animales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tanto las bacterias como los seres humanos...",
+        "respuestas": {
+          "A": "respiran, crecen y presentan irratibilidad.@",
+          "B": "se desarrollan, se reproducen y presentan células procariontes.",
+          "C": "están conformados por millones de células, se nutren y crecen.",
+          "D": "presentan núcleo celular bien definido, se adaptan al medio y se nutren."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las funciones de todos los seres vivos son semejantes, porque todos...",
+        "respuestas": {
+          "A": "se reproducen sexualmente.",
+          "B": "están formados por células.@",
+          "C": "usan oxígeno del aire para respirar.",
+          "D": "obtienen energía de otros seres vivos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que presenta un ejemplo de irritabilidad.",
+        "respuestas": {
+          "A": "Cuando nuestra temperatura se elva, sudamos.@",
+          "B": "La mariposa experimenta un proceso de metamorfosis.",
+          "C": "El oso polar está adaptado a las condiciones de su entorno.",
+          "D": "Las plantas producen su propio alimento a partir de luz, agua y dióxido de carbono."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Se dice que hay diversidad en los seres vivos, pues...",
+        "respuestas": {
+          "A": "algunos están constituidos por células y otros no.",
+          "B": "algunos se nutren, respiran y se reproducen, y otros no.",
+          "C": "cada uno tiene formas particulares de realizar las funciones vitales.@",
+          "D": "existe una gran variedda de formas y colores en los animales y plantas."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [
+      2,
+      3
+    ]
+  },
+  {
+    "nombreAE": "Reconocer A dentro de B",
+    "reactivos": [
+      {
+        "reactivo": "Si veo a A, ¿Qué hago?",
+        "respuestas": {
+          "A": "Corro",
+          "B": "Grito",
+          "C": "Empujo@",
+          "D": "Lo saludo"
+        },
+        "img_asociada": "data/img_asociadas/0_0.png"
+      },
+      {
+        "reactivo": "Si A es mejor, eso significa que...",
+        "respuestas": {
+          "A": "A me gusta más",
+          "B": "B me gusta más",
+          "C": "C tiene un hermano",
+          "D": "Me voy con D"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si A salva a B...",
+        "respuestas": {
+          "A": "A recibe dinero",
+          "B": "B le paga a B",
+          "C": "D obtiene ganancias",
+          "D": "C se queda en casa"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [
+      1
+    ]
+  }
+]

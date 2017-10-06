@@ -95,19 +95,20 @@ function init(file_name){
               tmp_html += "<span idAE="+key+" idReactivo="+reactivo+" class='collapsed'><img class='img_asociada' src='assets/"+v[reactivo]["img_asociada"]+"'><br/><br/></span>";
             }
             
+            tmp_html+="<ol class='collapsed' idAE="+key+" idReactivo="+reactivo+">";
             //Agregando respuestas al DOM...
             for(var respuesta in v[reactivo]["respuestas"]){
               if( v[reactivo]["respuestas"][respuesta].toString().indexOf("@") !== -1 ){
-              tmp_html+=" <span style='margin-left:2em;' class='collapsed correct' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
-                                                respuesta+". "+v[reactivo]["respuestas"][respuesta].toString().replace("@","")+
-                                              "<br\></span>";
+              tmp_html+=" <li class='correct' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+                                              v[reactivo]["respuestas"][respuesta].toString().replace("@","")+
+                                              "</li>";
               }else{
-                tmp_html+=" <span style='margin-left:2em;' class='collapsed' idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
-                                                respuesta+". "+v[reactivo]["respuestas"][respuesta]+
-                                              "<br\></span>";
+                tmp_html+=" <li idAE="+key+" idReactivo="+reactivo+" idRespuesta="+respuesta+">"+
+                                              v[reactivo]["respuestas"][respuesta]+
+                                              "</li>";
               }
             }
-            tmp_html += "</div>";
+            tmp_html += "</ol></div>";
             $("#preview_reactivo").append(tmp_html);
           }
 
@@ -145,6 +146,13 @@ function mostrar_preview_respuestas(opt){
     var idReactivo = $(this).parent().parent().attr("idReactivo");
 
     $("#preview_reactivo span").each(function(){
+      if( $(this).attr("idAE") === idAE && $(this).attr("idReactivo") === idReactivo ){
+        $(this).removeClass("collapsed");
+      }else{
+        $(this).addClass("collapsed");
+      }
+    });
+    $("#preview_reactivo ol").each(function(){
       if( $(this).attr("idAE") === idAE && $(this).attr("idReactivo") === idReactivo ){
         $(this).removeClass("collapsed");
       }else{
