@@ -26,6 +26,7 @@ ol{
   height: 200px;
   margin: 9px;
   font-size: 16px;
+  cursor:pointer; 
 }
 
 .card2{
@@ -69,7 +70,6 @@ ol{
 
 .card_content div{
   display: inline-block;
-  /* height: 145px; */
 }
 
 .franja_tarjeta{
@@ -333,5 +333,11 @@ svg{
   .container{
           width: 1280px;
   margin: 0 auto;
+  }
+}
+
+@-moz-document url-prefix() { 
+  .card_content div{
+    display: table-cell;
   }
 }

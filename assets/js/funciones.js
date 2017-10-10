@@ -76,7 +76,12 @@ function init(file_name){
     $.each(data,function(key,val){
       $.each(val,function(k,v){
         if(k==="nombreAE"){
-          $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+v+"</span></div></div>");
+          if(v.toString().indexOf('@')!==-1){
+            var max_largo = v.toString().indexOf('@');
+            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
+          }else{
+            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+v+"</span></div></div>");
+          }
         }
 
         var reactivos = [];
@@ -136,14 +141,20 @@ function init(file_name){
 
 function mostrar_preview_respuestas(opt){
   $(".pregunta_div").click(function(){
+    var idAE = $(this).parent().parent().attr("idAE");
+    var idReactivo = $(this).parent().parent().attr("idReactivo");
     
-    if(opt!=="no_toggle"){
+    var idAE_previamente_seleccionado = $("#preview_reactivo span:not('.collapsed')").attr('idAE');
+    var idReactivo_previamente_seleccionado = $("#preview_reactivo span:not('.collapsed')").attr('idReactivo');
+    
+    //alert("IDs previos: "+idAE_previamente_seleccionado+","+idReactivo_previamente_seleccionado);
+    //alert("IDs clickeados: "+idAE+","+idReactivo);
+    //alert(opt!=="no_toggle");
+    
+    if((opt!=="no_toggle" && idAE === idAE_previamente_seleccionado && idReactivo === idReactivo_previamente_seleccionado)||idAE_previamente_seleccionado == null){
       $("#reactivos").toggleClass("col-md-12 col-md-8");
       $("#preview_reactivo").toggleClass("collapsed col-md-4");
     }
-
-    var idAE = $(this).parent().parent().attr("idAE");
-    var idReactivo = $(this).parent().parent().attr("idReactivo");
 
     $("#preview_reactivo span").each(function(){
       if( $(this).attr("idAE") === idAE && $(this).attr("idReactivo") === idReactivo ){

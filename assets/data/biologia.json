@@ -325,6 +325,512 @@
           "D": "Carne de pollo y de res"
         },
         "img_asociada": ""
+      },
+      {
+        "reactivo": "Si un corredor va a participar en una carrera,¿cuál de las siguientes combinaciones es la mejor opción para enriquecer la dieta del día anterior al evento?",
+        "respuestas": {
+          "A": "Pan y papas@",
+          "B": "Pasta y leche",
+          "C": "Frutas y carne",
+          "D": "Arroz y verduras"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De los siguientes alimentos, ¿cuál es el de mayor valor nutrimental?",
+        "respuestas": {
+          "A": "El mole, porque el chile favorece la absorción de hierro",
+          "B": "El pozole, porque incorpora alimentos devarios grupos@",
+          "C": "Los nopales, porque contienen una gran cantidad de fibra",
+          "D": "La tortilla, porque la masa se nixtamaliza en su preparación"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El buen funcionamiento cerebral depende, entre otras cosas, del consumo de vitaminas del complejo B, así como fósforo y omega 3, que es un ácido graso. ¿Cuál de los siguientes alimentos los contiene en mayor cantidad?",
+        "respuestas": {
+          "A": "Verduras, frutas y pan",
+          "B": "Productos lácteos",
+          "C": "Pescados, mariscos y aguacate@",
+          "D": "Carne de res, cerdo y pollo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Tomando en cuenta el grupo al que pertenecen los siguientes alimentos, elige aquel que se puede consumir en mayor cantidad en un día.?",
+        "respuestas": {
+          "A": "Arroz@",
+          "B": "Leche",
+          "C": "Lentejas",
+          "D": "Cacahuates"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes acciones NO es un buen hábito alimentario?",
+        "respuestas": {
+          "A": "Tomar agua endulzada de frutas.@",
+          "B": "Tomar un refrigerio a media tarde.",
+          "C": "Tomar un refrigerio a media mañana.",
+          "D": "Tomar diariamente alimentos de origen animal."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Todo lo siguiente corresponde al origen de un trastorno alimenticio, excepto:",
+        "respuestas": {
+          "A": "Consumir colaciones entre comidas.@",
+          "B": "Alimentarse a base de carbohidratos.",
+          "C": "Practicar dietas de manera constante.",
+          "D": "Consumir menos calorías de las que se emplean."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige el menú que contenga alimentos de todos los grupos.",
+        "respuestas": {
+          "A": "Menú 1 Entrada: Sopa de verduras Plato fuerte: Espagueti en salsa de tomate con berenjena Postre: Una naranja",
+          "B": "Menú 2 Entrada: Sopa de lentejas Plato fuerte: Pollo en salsa verde con ensalada Postre: Ensalada de frutas",
+          "C": "Menú 3 Entrada: Arroz a la mexicana Plato fuerte: Huarache de frijoles, aguacate, lechuga y queso rallado Postre: Una gelatina@",
+          "D": "Menú 4 Entrada: Papa al horno con queso Plato fuerte: Milanesa de res con espagueti a la mantequilla Postre: Una galleta"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué combinación de alimentos aporta una mayor cantidad de minerales?",
+        "respuestas": {
+          "A": "Leche y pollo",
+          "B": "Zanahoria y queso",
+          "C": "Jitomate y naranja@",
+          "D": "Pan y carne de res"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El índice de masa corporal (IMC) es una medida que resulta de la relación entre dos factores. ¿Cuáles?",
+        "respuestas": {
+          "A": "Peso y edad",
+          "B": "Sexo y edad",
+          "C": "Sexo y estatura",
+          "D": "Peso y estatura@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Con ayuda de la siguiente tabla, determina cuál de estas personas debe buscar atención médica inmediata.",
+        "respuestas": {
+          "A": "Jorge. Tiene un índice de masa corporal de 27.@",
+          "B": "Laura. Tiene un índice de masa corporal de 15.",
+          "C": "Enrique. Tiene un índice de masa corporal de 21.",
+          "D": "Mariana. Tiene un índice de masa corporal de 26."
+        },
+        "img_asociada": "data/img_asociadas/sadbi1cd13_b2_2.jpg"
+      },
+      {
+        "reactivo": "Trastorno caracterizado por bajas concentraciones de hemoglobina en la sangre por falta de hierro en la dieta.",
+        "respuestas": {
+          "A": "Anemia@",
+          "B": "Diabetes",
+          "C": "Anorexia",
+          "D": "Obesidad"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuál de las siguientes opciones para adelgazar NO representa un peligro para tu salud",
+        "respuestas": {
+          "A": "Ejercicio y dieta equilibrada.@",
+          "B": "Dieta equilibrada y bebidas adelgazantes.",
+          "C": "Dieta libre de grasas y ejercicio.",
+          "D": "Todas las anteriores."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La _________ es el conjunto de actos voluntarios de elección, preparación e ingestión de los alimentos; la ________ es el proceso biológico de ___________ de los nutrimentos que se obtienen de los alimentos.",
+        "respuestas": {
+          "A": "nutrición / alimentación / ingestión",
+          "B": "alimentación / nutrición/ ingestión",
+          "C": "nutrición / alimentación /asimilación",
+          "D": "alimentación / nutrición / asimilación@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los procesos de la digestión con los órganos en que se efectúan.<br/><table style='font-size:0.6em'><tr><td>Absorción de agua y sales.</td><td>1a, 2b, 3c, 4d</td></tr><tr><td>Desintegración y fragmentación de algunos hidratos de carbono y formación del bolo alimenticio.</td><td>1b, 2a, 3d, 4c</td></tr><tr><td>Se efectúa la mayor parte de absorción de los nutrimentos.</td><td>1d, 2a, 3b, 4c</td></tr><tr><td>Fragmentación de los alimentos con la ayuda del jugo gástrico y la formación del quimo.</td><td>1d, 2a, 3c, 4b</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d",
+          "B": "1b, 2a, 3d, 4c",
+          "C": "1d, 2a, 3b, 4c@",
+          "D": "1d, 2a, 3c, 4b"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los siguientes alimentos aportan una cantidad importante de hidratos de carbono, excepto:",
+        "respuestas": {
+          "A": "maíz.",
+          "B": "frijol.",
+          "C": "pescado.@",
+          "D": "papas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son alimentos ricos en proteínas y además aportan vitaminas y minerales:",
+        "respuestas": {
+          "A": "frijol y maíz.",
+          "B": "chile y maíz.",
+          "C": "maíz y nopales.",
+          "D": "pescados y mariscos.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los grupos de alimentos con los nutrimentos que contienen.<br/><table style='font-size:0.6em'><tr><td>Cereales</td><td>Proteínas y lípidos</td></tr><tr><td>Frutas y verduras</td><td>Vitaminas, minerales, fibra y agua</td></tr><tr><td>Leguminosas y alimentos de origen animal</td><td>Hidratos de carbono, vitaminas y minerales</td></tr></table>",
+        "respuestas": {
+          "A": "1c, 2b, 3a@",
+          "B": "1b, 2a, 3c",
+          "C": "1a, 2c, 3b",
+          "D": "1b, 2c, 3a"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las siguientes expresiones ofrecen sustento científico para bajar de peso, excepto:",
+        "respuestas": {
+          "A": "una dieta correcta y ejercicio son la mejor manera para bajar de peso.",
+          "B": "al someterse a un régimen alimenticio es necesario considerar el estado general de salud.",
+          "C": "los productos para adelgazar pueden causar reacciones adversas y enfermedades.",
+          "D": "los suplementos alimenticios para bajar de peso están hechos con productos naturales, lo que hace que su uso sea seguro.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El uso de productos y métodos para adelgazar que se anuncian en los medios de comunicación representan ________ en las personas que los utilizan, lo que ocasiona ______________",
+        "respuestas": {
+          "A": "una alternativa / pérdida de peso.",
+          "B": "riesgos a la salud / daños en su calidad de vida.@",
+          "C": "un gasto económico / alteración en su estado de ánimo.",
+          "D": "una opción para bajar de peso / una mejora en su imagen."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "AE 6. <b>Argumenta</b> los beneficios de aplazar el inicio de las relaciones sexuales y de una sexualidad responsable, segura y  satisfactoria, libre de miedos, culpas, falsas creencias@, coerción, discriminación y violencia como parte de su proyecto de vida en el marco de la salud sexual y reproductiva.",
+    "reactivos": [
+      {
+        "reactivo": "Desde el punto de vista de la Biología, ¿qué es el sexo?",
+        "respuestas": {
+          "A": "La capacidad de todos los seres vivos de reproducirse.",
+          "B": "El conjunto de características físicas que distinguen a hombres de mujeres.@",
+          "C": "El conjunto de comportamientos que realizan dos personas para dar y recibir placer sexual.",
+          "D": "Un concepto construido culturalmente que incluye erotismo, reproductividad, afecto y género."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es una de las potencialidades de la sexualidad humana que se refiere a la forma de experimentar y de expresar el placer y el deseo sexuales.",
+        "respuestas": {
+          "A": "Sexo",
+          "B": "Género",
+          "C": "Erotismo@",
+          "D": "Reproductividad"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "En nuestra sociedad es común que los padres procuren que sus hijas sean bonitas, tiernas y delicadas, y que sus hijos varones sean fuertes, valientes e intrépidos. Este es un ejemplo de...",
+        "respuestas": {
+          "A": "roles de género.@",
+          "B": "diferencias sexuales.",
+          "C": "la expresión del afecto.",
+          "D": "características sexuales primarias."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de los siguientes ejemplos NO forma parte del concepto de sexualidad?",
+        "respuestas": {
+          "A": "Una niña de tres años le da un beso a su padre.",
+          "B": "Un padre le explica a su hijo que los hombres no deben expresar tristeza.",
+          "C": "Un helecho se reproduce por medio de la producción y liberación de esporas.@",
+          "D": "Una pareja decide tener un hijo, pues se siente preparada emocional y económicamente."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Sabemos que la reproducción y la reproductividad son conceptos distintos. ¿A qué se refiere el término reproductividad?",
+        "respuestas": {
+          "A": "A la posibilidad de cuidar y educar a otros.@",
+          "B": "Al proceso biológico por medio del cual nos reproducimos.",
+          "C": "A las capacidades reproductivas que tienen todos los seres vivos.",
+          "D": "A la capacidad no ejercida por ciertas personas para producir seres semejantes a ellas."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes NO es una característica sexual secundaria en mujeres?",
+        "respuestas": {
+          "A": "La cadera se ensancha.",
+          "B": "La piel se vuelve más suave.",
+          "C": "Aparece vello púbico y axilar.",
+          "D": "Se distingue la presencia de órganos sexuales femeninos.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Desde qué momento de la vida se hace presente la sexualidad?",
+        "respuestas": {
+          "A": "Desde que nacemos.@",
+          "B": "Desde la primera relación sexual.",
+          "C": "Desde la primera experiencia autoerótica.",
+          "D": "Desde que se presentan las características sexuales secundarias."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "De las siguientes opciones, todas presentan mitos en torno a la sexualidad, excepto una. ¿Cuál?",
+        "respuestas": {
+          "A": "Durante la menstruación la alimentación debe modificarse.",
+          "B": "Existe menos probabilidad de embarazo durante la menstruación.@",
+          "C": "Al tener relaciones sexuales, la anatomía femenina se modifica ligeramente.",
+          "D": "Cuando se tienen relaciones sexuales satisfactorias, la masturbación no se realiza."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Lee las siguientes afirmaciones y determina cuál o cuáles son verdaderas, y cuál o cuáles son falsas. Posteriormente, elige la opción que presenta la combinación correcta de respuestas.<br/><br/>1. La discriminación es una de las consecuencias de los mitos y creencias falsas.<br/>2. La existencia de algunas creencias falsas limita las capacidades afectivas.<br/>3. Aunque pueden causar riesgos a la salud, las creencias falsas raramente dañan la autoestima.",
+        "respuestas": {
+          "A": "1V, 2V, 3V",
+          "B": "1F, 2V, 3F",
+          "C": "1V, 2F, 3V",
+          "D": "1V, 2V, 3F@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los órganos que determinan el sexo de las personas, ya sea masculino o femenino, constituyen las características sexuales ____________, mientras que los cambios ________________que aparecen durante la pubertad son las características sexuales ____________.",
+        "respuestas": {
+          "A": "primarias / físicos y psicológicos / secundarias@",
+          "B": "secundarias / físicos y psicológicos / primarias",
+          "C": "anatómicas / conductuales / de comportamiento",
+          "D": "de hombres y mujeres / morfológicos / secundarias"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Aspecto de la sexualidad relacionado con las características sociales y culturales asociadas con las personas en función de su sexo:",
+        "respuestas": {
+          "A": "erotismo",
+          "B": "género@",
+          "C": "reproducción",
+          "D": "vínvulos afectivos"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los ________ favorecen el pleno desarrollo de la sexualidad, decidir libremente y mantener la salud sexual en las personas.",
+        "respuestas": {
+          "A": "Derechos humanos",
+          "B": "Derechos sexuales@",
+          "C": "Argumentos científicos",
+          "D": "Mitos asociados a la sexualidad"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },{
+    "nombreAE": "AE 7. <b>Compara</b> la eficacia de los diferentes métodos anticonceptivos en la perspectiva de evitar el embarazo en la adolescencia y prevenir ITS, incluidos VPH y VIH.",
+    "reactivos": [
+      {
+        "reactivo": "Selecciona la opción que clasifica mitos y realidades sobre la sexualidad.<br/><br/>a. El sida es una enfermedad de homosexuales<br/>b. La masturbación es causa frecuente de infertilidad<br/>c. Una mujer que tiene hijos es más valiosa que las que no los tienen<br/>d. En la primera relación sexual, puede ocurrir el embarazo",
+        "respuestas": {
+          "A": "Realidad: a, b, c. Mito: d",
+          "B": "Realidad: b, c, d. Mito: a",
+          "C": "Realidad: b, c. Mito: a, d",
+          "D": "Realidad: d. Mito: a, b, c.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es un agente patógeno cuya infección causa el cáncer cervicouterino.",
+        "respuestas": {
+          "A": "Virus del herpes simple",
+          "B": "Virus del herpes genital",
+          "C": "Virus del papiloma humano@",
+          "D": "Virus de la inmunodeficiencia humana"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Para cuál de las siguientes infecciones de transmisión sexual existe vacuna?",
+        "respuestas": {
+          "A": "Clamidiasis",
+          "B": "Herpes genital",
+          "C": "Síndrome de la inmunodeficiencia adquirida (sida)",
+          "D": "Infección causada por el virus del papiloma humano (VPH)@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es un ejemplo de sexo seguro.",
+        "respuestas": {
+          "A": "Besarse, abrazarse y acariciarse.@",
+          "B": "Tener relaciones sexuales usando condón masculino.",
+          "C": "Tener relaciones sexuales usando condón en combinación con un espermicida.",
+          "D": "Tener relaciones sexuales protegidas después de haber hablado con la pareja y llegado a acuerdos."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes opciones ofrece una posibilidad de sexo seguro?",
+        "respuestas": {
+          "A": "La abstinencia",
+          "B": "El coito interrumpido",
+          "C": "El uso del condón masculino o femenino",
+          "D": "La masturbación o masturbación mutua@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es un método anticonceptivo ineficaz porque antes de la eyaculación se libera una gota de semen que limpia y lubrica.",
+        "respuestas": {
+          "A": "Condón femenino",
+          "B": "Ritmo o calendario",
+          "C": "Coito interrumpido@",
+          "D": "Dispositivo intrauterino"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es el único método de anticoncepción que previene las infecciones de transmisión sexual (ITS).",
+        "respuestas": {
+          "A": "Ritmo",
+          "B": "Condón@",
+          "C": "Coito interrumpido",
+          "D": "Dispositivo intrauterino"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Elige la opción que ordena los siguientes anticonceptivos del más eficaz al menos eficaz, para evitar el embarazo.<br/><br/>a. Espermicida solo<br/>b. Parche transdérmico<br/>c. Condón masculino o femenino<br/>d. Coito interrumpido",
+        "respuestas": {
+          "A": "1c, 2b, 3a, 4d",
+          "B": "1b, 2c, 3a, 4d@",
+          "C": "1c, 2b, 3d, 4a",
+          "D": "1b, 2c, 3d, 4a"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes opciones presenta métodos anticonceptivos que previenen el embarazo, pero no las infecciones de transmisión sexual?",
+        "respuestas": {
+          "A": "Condón femenino y anillo vaginal",
+          "B": "Vasectomía y preservativo femenino",
+          "C": "Píldora anticonceptiva y condón masculino",
+          "D": "Dispositivo intrauterino y parche transdérmico@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Observa la clasificación que se hace en dos grupos de los siguientes anticonceptivos y determina cuál fue el criterio empleado para ello.<br/><br/>Grupo 1. Coito interrumpido, ritmo, tener relaciones sexuales de pie y uso de espermicida. <br/>Grupo 2. Condón femenino, condón masculino, abstinencia y uso de condón, y espermicida combinados.",
+        "respuestas": {
+          "A": "Efectividad@",
+          "B": "Prevención de ITS",
+          "C": "Facilidad de manejo",
+          "D": "Requerimiento de prescripción médica"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los siguientes son argumentos científicamente válidos asociados con la sexualidad, excepto:",
+        "respuestas": {
+          "A": "el coito interrumpido es un método eficaz para evitar un embarazo o una ITS.@",
+          "B": "los hombres y las mujeres tenemos igualdad de derechos, de manifestar nuestros sentimientos y emociones",
+          "C": "una mujer tiene la posibilidad de embarazarse en su primera relación sexual si hay coito y ha iniciado su ciclo menstrual.",
+          "D": "el VIH es una ITS que puede adquirir cualquier persona si mantiene relaciones sexuales, sin protección, con una persona infectada."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Relaciona los siguientes síndromes y enfermedades de transmisión sexual con sus agentes causales.<br/><br/><table style='font-size:0.6em'><tr><td>1. Sida</td><td>&nbsp;&nbsp;</td><td>a. VPH</td></tr><tr><td>2. Sífilis</td><td>&nbsp;&nbsp;</td><td>b. VIH</td></tr><tr><td>3. Cáncer cérvico uterino</td><td>&nbsp;&nbsp;</td><td>c. Bacteria Treponema pallidum</td></tr><tr><td>4. Linfogranuloma venéreo</td><td>&nbsp;&nbsp;</td><td>d. Bacteria Chlamydia trachomatis</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2c, 3b, 4d",
+          "B": "1b, 2c, 3d, 4a",
+          "C": "1d, 2a, 3b, 4c",
+          "D": "1b, 2c, 3a, 4d@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Al acto de tener una sola pareja sexual o sexo sin penetración se le llama:",
+        "respuestas": {
+          "A": "masturbación.",
+          "B": "sexo seguro.@",
+          "C": "sexo protegido.",
+          "D": "coito interrumpido."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es el único método anticonceptivo que evita el contacto entre fluidos al tener relaciones sexuales, su uso adecuado proporciona entre 85 y 97 % de efectividad.",
+        "respuestas": {
+          "A": "Condón.@",
+          "B": "Espermicidas.",
+          "C": "Dispositivo intrauterino.",
+          "D": "Píldoras anticonceptivas."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Son métodos anticonceptivos permanentes que consisten en una intervención quirúrgica, en algunos casos pueden ser reversibles.",
+        "respuestas": {
+          "A": "El ritmo y espermicidas.",
+          "B": "Implante intrauterino y condón.",
+          "C": "Vasectomía y salpingoclasia.@",
+          "D": "Inyecciones anticonceptivas y condón."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },{
+    "nombreAE": "AE 8. <b>Explica</b> las implicaciones de las adicciones en la salud personal, familiar y en la sociedad.",
+    "reactivos": [
+      {
+        "reactivo": "Enfermedad crónica obstructiva de los pulmones, relacionada con el tabaquismo y que se caracteriza por la pérdida de elasticidad en los tejidos y la destrucción progresiva de los alvéolos.",
+        "respuestas": {
+          "A": "Cáncer pulmonar",
+          "B": "Bronquitis crónica",
+          "C": "Enfisema pulmonar@",
+          "D": "Enfermedad pulmonar obstructiva crónica"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Lee las siguientes afirmaciones y determina cuál o cuáles son verdaderas, y cuál o cuáles son falsas. Posteriormente, elige la opción que presenta la combinación correcta de respuestas.<br/><lower style='font-size: 0.7em;' >I. El consumo de tabaco incrementa la presión arterial<br/>II. El tabaquismo es una de las causas de los tumores malignos<br/>III. Los fumadores pasivos tienen aún más riesgo de contraer enfermedades relacionadas con el tabaquismo, que los fumadores activos</lower>",
+        "respuestas": {
+          "A": "IV, IIV, IIIF@",
+          "B": "IV, IIF, IIIV",
+          "C": "IF, IIV, IIIV",
+          "D": "IV, IIF, IIIF"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Todas las siguientes son razones por las cuales las personas inician el hábito del tabaquismo, excepto:",
+        "respuestas": {
+          "A": "Por imitación",
+          "B": "Por efecto de la publicidad",
+          "C": "Por necesidad de aceptación social",
+          "D": "Todas las anteriores son causas del inicio del tabaquismo@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes opciones es una consecuencia negativa del tabaquismo en la sociedad?",
+        "respuestas": {
+          "A": "Impulsa la economía mundial.",
+          "B": "Conlleva grandes gastos para los fumadores.",
+          "C": "Implica grandes costos económicos para los gobiernos.@",
+          "D": "Puede provocar cáncer, bronquitis crónica u otras enfermedades."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Las siguientes son enfermedades relacionadas con el consumo de tabaco, excepto:",
+        "respuestas": {
+          "A": "epilepsia.@",
+          "B": "cáncer de pulmón.",
+          "C": "enfisema pulmonar.",
+          "D": "enfermedades del corazón."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Algunas implicaciones sociales y económicas relacionadas con el tabaquismo son:",
+        "respuestas": {
+          "A": "incremento en los costos de las cajetillas de cigarros.",
+          "B": "daños en la salud y en el estado de ánimo de los fumadores.",
+          "C": "aumento en la contaminación ambiental por la generación de humo de tabaco.",
+          "D": "aumento en la mortalidad por cáncer pulmonar en la población e incremento en los gastos para la atención de las enfermedades respiratorias.@"
+        },
+        "img_asociada": ""
       }
     ],
     "unidadesAsociadas": []

@@ -33,6 +33,13 @@
 	  //Go to reactivos (Page2)
 	  $('#ae_container .card').click(function(){
 	    var text = $(this).find(".card_content").html();
+	    
+	    text = text.replace("...<desbordado class=\"collapsed\">","");
+	    text = text.replace("</desbordado>","");
+	    text = text.replace("@","");
+	    
+	    //alert(text);
+	    
 	    var idAE = $(this).attr("idAE");
 	    
 	    $("#header").addClass("collapsed");
@@ -121,14 +128,13 @@
 	    
 	  });
 	  
-	  $("#vista_previa").click(function(){
+	  $("#vista_previa_div").click(function(){
 	    seleccionados_a_print();
 	  });
 	  
-	  $("#ver_respuestas").click(function(){
+	  $("#ver_respuestas_div").click(function(){
 	    $(".correct").toggleClass("bolded");
 	    $("#ver_respuestas_img").toggleAttr('src','assets/img/ver_respuestas_off.png','assets/img/ver_respuestas_on.png')
-	    
 	  });
 	  
 	}); //End of AjaxCallCompleted
@@ -209,7 +215,7 @@
 	  <div class="row">
 	    <div class="col-md-1"></div>
 	    <div class="col-md-2">
-	      <div class="pointer_style">
+	      <div class="pointer_style" id="ver_respuestas_div">
 		<div style="display: inline-block">
 		  <img class="img_btn" id="ver_respuestas_img" src="assets/img/ver_respuestas_off.png">
 		</div>
@@ -217,7 +223,7 @@
 	      </div>
 	    </div>
 	    <div class="col-md-2">
-	      <div class="pointer_style">
+	      <div class="pointer_style" id="vista_previa_div">
 		<div style="display: inline-block">
 		  <img class="img_btn" src="assets/img/vista_previa.png">
 		</div>
