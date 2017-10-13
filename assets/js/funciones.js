@@ -47,7 +47,7 @@ function seleccionados_a_print(){
   var idsReactivos = [];
   var contador = 1;
   
-  $("#reactivos input:checked").each(function(){
+  $("#lista_final input:checked").each(function(){
     idsReactivos.push($(this).attr("id"));
   });
   
@@ -71,7 +71,8 @@ function seleccionados_a_print(){
   window.print();
 }
 
-function init(file_name){
+function init(course_name,file_name){
+  $(".nombre_asignatura").html(course_name);
   $.getJSON("assets/data/"+file_name, function(data){
     $.each(data,function(key,val){
       $.each(val,function(k,v){

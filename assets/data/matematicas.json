@@ -1,0 +1,78 @@
+[
+  {
+    "nombreAE": "Lee, escribe y ordena números naturales hasta de nueve cifras y decimales",
+    "reactivos": [
+      {
+        "reactivo": "Ordena de mayor a menor los siguientes números.<br/><br/><table><tr><td style='padding: 0 0.8em; font-size:0.7em;'>33 009 876</td><td style='padding: 0 0.8em; font-size:0.7em;'>87 999 999</td><td style='padding: 0 0.8em; font-size:0.7em;'>907 999</td><td style='padding: 0 0.8em; font-size:0.7em;'>400 000 000</td></tr></table>",
+        "respuestas": {
+          "A": "90 7999,&nbsp;&nbsp;33 009 876,&nbsp;&nbsp;87 999 999,&nbsp;&nbsp;400 000 000",
+          "B": "87 999 999,&nbsp;&nbsp;907 999,&nbsp;&nbsp;33 009 876,&nbsp;&nbsp;400 000 000",
+          "C": "400 000 000,&nbsp;&nbsp;87 999 999,&nbsp;&nbsp;33 009 876,&nbsp;&nbsp;907 999@",
+          "D": "907 999,&nbsp;&nbsp;33 009 876,&nbsp;&nbsp;87 999 999,&nbsp;&nbsp;400 000 000"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el número que se forma al sumar las siguientes cantidades: 83 decenas de millón, 9 unidades, 59 centenas de millar, 78 decenas, y 124 decenas de millar?",
+        "respuestas": {
+          "A": "831  984  599",
+          "B": "837  140  789@",
+          "C": "835  941  789",
+          "D": "395  978  124"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Carlos tiene 4 billetes de $100, 1 billete de $1 000, 3 monedas de $10, 8 monedas de $1, 3 monedas de ¢50 centavos y 3 monedas de ¢10.  ¿Cuánto dinero tiene en total?",
+        "respuestas": {
+          "A": "$4 138.05",
+          "B": "$4 357.5",
+          "C": "$1 439.8@",
+          "D": "$1 709.15"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "",
+        "respuestas": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "",
+        "respuestas": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "",
+        "respuestas": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "",
+        "respuestas": {
+          "A": "",
+          "B": "",
+          "C": "",
+          "D": ""
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  }
+]

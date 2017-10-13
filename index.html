@@ -10,6 +10,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
     
@@ -24,7 +25,7 @@
       
       $(document).ready(function(){
 	
-	init("biologia.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+	init("Matem&aacute;ticas","matematicas.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 	
 	$(document).ajaxComplete(function(){
 	  centrar_tarjetas();
@@ -137,12 +138,19 @@
 	    $("#ver_respuestas_img").toggleAttr('src','assets/img/ver_respuestas_off.png','assets/img/ver_respuestas_on.png')
 	  });
 	  
+	  $("#lista_final").sortable();
+	  
 	}); //End of AjaxCallCompleted
 	
         $(window).resize(function(){
           centrar_tarjetas();
           igualar_altura_logos();
         });
+	
+//	window.onbeforeunload = function() {
+//	  return "Data will be lost if you leave the page, are you sure?";
+//	};
+	
       });
     </script>
   </head>
@@ -155,7 +163,7 @@
 	<div class="col-md-2 materia_section">
 	  <div class="row">
 	    <div class="col-md-12" style="border-bottom: solid thin #C83335; margin-left: 23px; padding-left: 0px;">
-	      <span style="font-size:2em;font-weight:bold;text-transform: uppercase;">Biolog&iacute;a</span>
+	      <span class="nombre_asignatura" style="font-size:2em;font-weight:bold;text-transform: uppercase;">Asignatura</span>
 	    </div>
 	  </div>
 	  <div class="row">
@@ -190,7 +198,7 @@
 	</div>
 	<div class="col-md-1"></div>
 	<div class="col-md-2" style="border-bottom: solid #C83335 thin;text-align: center;margin-top: 12px;">
-	  <span style="font-size:2em;font-weight:bold;text-transform: uppercase;">Biolog&iacute;a</span>
+	  <span class="nombre_asignatura" style="font-size:2em;font-weight:bold;text-transform: uppercase;">Asignatura</span>
         </div>
 	<div class="col-md-3"></div>
         <div class="col-md-2 logo_castillo_container">
@@ -209,7 +217,7 @@
           <div class="row">
 	    <div class="col-md-1"></div>
             <div class="col-md-7" style="text-align: center">
-              <span style="font-size:2em;font-weight:bold;text-transform: uppercase">Biolog&iacute;a</span>
+              <span class="nombre_asignatura" style="font-size:2em;font-weight:bold;text-transform: uppercase">Asignatura</span>
             </div>
           </div>
 	  <div class="row">
