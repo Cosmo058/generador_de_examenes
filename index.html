@@ -11,18 +11,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});</script>
+    <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
     
 
     <script>
-      $(document).keypress(function(e) { //EventListener DEBUG
-	if(e.which === 13) {
-	  //$("#examen_html").addClass("collapsed");
-	  //$("#examen_html span").removeClass("collapsed");
-	}
-      });
       
       $(document).ready(function(){
 	
@@ -39,9 +35,7 @@
 	    text = text.replace("...<desbordado class=\"collapsed\">","");
 	    text = text.replace("</desbordado>","");
 	    text = text.replace("@","");
-	    
-	    //alert(text);
-	    
+	    	    
 	    var idAE = $(this).attr("idAE");
 	    
 	    $("#header").addClass("collapsed");

@@ -1,6 +1,6 @@
 [
   {
-    "nombreAE": "Lee, escribe y ordena números naturales hasta de nueve cifras y decimales",
+    "nombreAE": "<b>Lee</b>, escribe y ordena números naturales hasta de nueve cifras y decimales",
     "reactivos": [
       {
         "reactivo": "Ordena de mayor a menor los siguientes números.<br/><br/><table><tr><td style='padding: 0 0.8em; font-size:0.7em;'>33 009 876</td><td style='padding: 0 0.8em; font-size:0.7em;'>87 999 999</td><td style='padding: 0 0.8em; font-size:0.7em;'>907 999</td><td style='padding: 0 0.8em; font-size:0.7em;'>400 000 000</td></tr></table>",
@@ -33,42 +33,68 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "",
+        "reactivo": "Ordena de menor a mayor las siguientes medidas.<br/><br/><table><tr><td style='padding: 0 0.8em; font-size:0.7em;'>0.099cm</td><td style='padding: 0 0.8em; font-size:0.7em;'>0.1cm</td><td style='padding: 0 0.8em; font-size:0.7em;'>1.3cm</td><td style='padding: 0 0.8em; font-size:0.7em;'>0.084cm</td></tr></table>",
         "respuestas": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": ""
+          "A": "0.1 cm        1.3 cm,      0.084cm,     0.099 cm",
+          "B": "1.3 cm        0.1 cm,       0.099 cm,     0.084 cm",
+          "C": "0.099 cm,    0.084 cm,   0.1 cm,        1.3 cm",
+          "D": "0.084 cm,     0.099 cm,   0.1 cm,       1.3 cm@"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "",
+        "reactivo": "Un grupo de amigas entrena para un maratón corriendo alrededor de una pista. Comentan que Sandra corre diariamente 3.75 veces la pista, María corre 0.60 veces la pista, Olga corre 2.50 veces la pista; Patricia no dijo qué distancia corre. Sobre la recta de abajo representaron mediante líneas de colores a las distancias que cada una recorre. ¿Cuál color indica entonces la distancia que recorre Patricia?",
         "respuestas": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": ""
+          "A": "Rosa",
+          "B": "Amarillo@",
+          "C": "Azul",
+          "D": "Rojo"
+        },
+        "img_asociada": "data/img_asociadas/PINMA5CD1E16_002a.png"
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "<b>Compara</b> razones expresadas mediante dos números naturales (n por cada m).",
+    "reactivos": [
+      {
+        "reactivo": "María e Irma elaboran arreglos florales. María adorna los suyos con 3 claveles por cada 5 rosas; en cambio, Irma adorna los suyos con 4 claveles por cada 7 rosas. ¿Cuál de las siguientes fracciones representa a la mayor razón de claveles por rosas?",
+        "respuestas": {
+          "A": "\\(4 \\over 11 \\)",
+          "B": "\\( 3 \\over 5 \\)@",
+          "C": "\\( 5 \\over 3 \\)",
+          "D": "\\( 4 \\over 7 \\)"
         },
         "img_asociada": ""
-      },
+      }
+    ],
+    "unidadesAsociadas": []
+  },{
+    "nombreAE": "<b>Identifica</b> juegos en los que interviene o no el azar. Registra resultados de experimentos aleatorios en tablas de frecuencia (frecuencia relativa, frecuencia absoluta).",
+    "reactivos": [
       {
-        "reactivo": "",
+        "reactivo": "La maestra de sexto grado organizó en cuatro equipos al grupo. Pidió que cada uno propusiera un juego de azar y lo presentará al resto de equipos. Identifica al equipo que se equivocó al elegir su juego.",
         "respuestas": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": ""
+          "A": "Equipo 1: Serpientes y escaleras",
+          "B": "Equipo 2: Lotería",
+          "C": "Equipo 3: Ajedrez@",
+          "D": "Equipo 4: La Oca"
         },
         "img_asociada": ""
-      },
+      }
+    ],
+    "unidadesAsociadas": []
+  },{
+    "nombreAE": "<b>Ordena</b> fracciones con denominadores múltiplos.",
+    "reactivos": [
       {
-        "reactivo": "",
+        "reactivo": "Rosa es dueña de una fábrica de muñecos de peluche. Vende al Palacio del Juguete \\(1\\over 8\\) parte de sus muñecas; a El Juguetín \\(7\\over 12\\),  ; a El Barquito de Papel, \\(3\\over 24\\) ,  y a la Fábrica de Santa, \\(1\\over 6\\) . Identifica las tiendas a las que les vendió la misma cantidad.",
         "respuestas": {
-          "A": "",
-          "B": "",
-          "C": "",
-          "D": ""
+          "A": "Palacio del Juguete y El Juguetín",
+          "B":	"El Barquito de Papel y la Fábrica de Santa",
+          "C":	"El Juguetín y la Fábrica de Santa",
+          "D":	"El Palacio del Juguete y El Barquito de papel@"
         },
         "img_asociada": ""
       }
