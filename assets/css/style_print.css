@@ -3,9 +3,14 @@
 }
 
 #examen_html{
-  white-space:nowrap;
   display: block;
   color: #000 !important;
+  font-size: 20px;
+}
+
+li img{
+  width: 50%;
+  vertical-align: top;
 }
 
 .bolded{
@@ -17,7 +22,7 @@
 }
 
 .img_asociada{
-  width: 60%;
+  width: 25%;
   margin-left:2em;
 }
 

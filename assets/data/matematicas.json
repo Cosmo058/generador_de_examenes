@@ -97,6 +97,16 @@
           "D":	"El Palacio del Juguete y El Barquito de papel@"
         },
         "img_asociada": ""
+      },
+      {
+        "reactivo": "Los trabajadores de una fábrica de balones de futbol tienen que empacarlos. Francisco empacó \\( 4 \\over 9 \\) partes de la producción; José, \\( 1 \\over 6 \\); Mario, \\( 1 \\over 3 \\) , y Diego, \\( 1 \\over 18 \\) . Identifica la recta numérica donde están ordenadas correctamente las fracciones de lo que produjo cada uno.",
+        "respuestas": {
+          "A": "<img src='assets/data/img_asociadas/PINMA5CD1E16_005a.png'>",
+          "B": "<img src='assets/data/img_asociadas/PINMA5CD1E16_005b.png'>",
+          "C": "<img src='assets/data/img_asociadas/PINMA5CD1E16_005c.png'>@",
+          "D": "<img src='assets/data/img_asociadas/PINMA5CD1E16_005d.png'>"
+        },
+        "img_asociada": ""
       }
     ],
     "unidadesAsociadas": []

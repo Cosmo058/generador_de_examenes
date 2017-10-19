@@ -290,6 +290,10 @@ input[type=checkbox]{
   width: 100%;
 }
 
+li img{
+  width: 100%;
+}
+
 button {
   background: transparent;
   border: 0;
