@@ -110,5 +110,95 @@
       }
     ],
     "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "<b>Resolver</b> problemas de suma y resta con números naturales, decimales y fracciones con denominadores uno múltiplo del otro.",
+    "reactivos": [
+      {
+        "reactivo": "Luisa tenía \\( 3 \\over 4 \\) kg de mango. Le dio \\( 1 \\over 2 \\) kg a su mamá, y de lo que le sobró le dio a su hermana \\( 1 \\over 8 \\) kg. ¿Cuántos kilogramos de mango le sobraron?",
+        "respuestas": {
+          "A": "\\( 1 \\over 4 \\) de mango",
+          "B":	"\\( 1 \\over 8 \\) de mango@",
+          "C":	"\\( 3 \\over 8 \\) de mango",
+          "D":	"\\( 1 \\over 2 \\) de mango"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tres amigos se comieron una pizza dividida en 8 partes iguales. Rubén comió \\( 4 \\over 16 \\) de la pizza; Carlos, \\( 3 \\over 8 \\), y Diana, \\( 1 \\over 4 \\). ¿Cuál de las siguientes afirmaciones es correcta?",
+        "respuestas": {
+          "A": "Se comieron 7 rebanadas y sobró 1 rebanada.@",
+          "B": "Se comieron 6 rebanadas y sobraron 3 rebanadas.",
+          "C": "Se comieron \\( 7 \\over 8 \\) de la pizza y sobró \\( 1 \\over 2 \\) de la pizza.",
+          "D": "Se comieron  8 rebanadas y no sobró nada."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "<b>Calcula</b> valores faltantes en problemas de proporcionalidad directa con números naturales (incluir tablas de variación)",
+    "reactivos": [
+      {
+        "reactivo": "Mariana debe empacar en una bolsa 30 paletas de dos sabores: tamarindo y grosella. Por cada paleta de tamarindo debe empacar 4 de grosella. Hizo una tabla para saber cuántas paletas de cada sabor debe llevar cada bolsa, pero le faltó completarla. ¿Cuántas paletas de cada sabor deberán ir en una bolsa?",
+        "respuestas": {
+          "A":  "15 de tamarindo 15 de grosella",
+          "B":	"6 de tamarindo y 24 de grosella@",
+          "C":	"8 de tamarindo y 32 de grosella",
+          "D":	"10 de tamarindo y 20 de grosella"
+        },
+        "img_asociada": "data/img_asociadas/PINMA5CD1E16_007a.png"
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "<b>Construye</b> prismas rectos rectangulares a partir de su desarrollo plano",
+    "reactivos": [
+      {
+        "reactivo": "Los integrantes de un equipo escolar tienen que armar un prisma cuadrangular y cada uno diseña su propia propuesta del desarrollo. ¿En qué inciso se muestra el desarrollo correcto del prisma?",
+        "respuestas": {
+          "A": "<img src='assets/data/img_asociadas/PINMA5CD1E16_007b.png'>",
+          "B": "<img src='assets/data/img_asociadas/PINMA5CD1E16_007c.png'>@",
+          "C": "<img src='assets/data/img_asociadas/PINMA5CD1E16_007d.png'>",
+          "D": "<img src='assets/data/img_asociadas/PINMA5CD1E16_007e.png'>"
+        },
+        "img_asociada": "data/img_asociadas/PINMA5CD1E16_007a.png"
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "<b>Recolecta</b>, registra y lee datos en tablas y gráficas de barras e interpreta la moda.",
+    "reactivos": [
+      {
+        "reactivo": "Raúl obtuvo las siguientes calificaciones: 7, 8, 6, 8, 9, 10, 10, 9,10 y  7.  ¿Cuál es la mediana?",
+        "respuestas": {
+          "A": "9",
+          "B": "8.4@",
+          "C": "10",
+          "D": "6"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "nombreAE": "<b>Resuelve</b> problemas que implican calcular el perímetro de polígonos y del círculo o el área de rectángulos con unidades convencionales (metro cuadrado y centímetro cuadrado).",
+    "reactivos": [
+      {
+        "reactivo": "El señor López compró un terreno rectangular, que mide de largo 12 m, y de fondo, 14 m. ¿Cuál es el área del terreno que adquirió?",
+        "respuestas": {
+          "A": "\\( 52^2\\)",
+          "B": "\\( 26^2\\)",
+          "C": "\\( 168^2\\)@",
+          "D": "\\( 200^2\\)"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
   }
 ]
