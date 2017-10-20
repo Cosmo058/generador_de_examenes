@@ -42,7 +42,7 @@ ol{
 .card_content{
   background: #FFF;
   display: table;   /*TODO is it ok??*/
-  font-size: 0.85em;
+  font-size: 1.1em;
   height: 182px;
   width: 200px;
   text-align: center;
@@ -323,6 +323,10 @@ svg{
   position: relative;
   width: 25px;
   height: 25px;
+}
+
+span.ocultar_texto{
+  display: none;
 }
 
 @media (min-width: 992px){

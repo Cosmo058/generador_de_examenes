@@ -77,11 +77,12 @@ function init(course_name,file_name){
     $.each(data,function(key,val){
       $.each(val,function(k,v){
         if(k==="nombreAE"){
+          var texto_caratula = getValuesOf(val,"caratula")[0];
           if(v.toString().indexOf('@')!==-1){
             var max_largo = v.toString().indexOf('@');
-            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
+            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+".</span><br/><span class='ocultar_texto'>"+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
           }else{
-            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+v+"</span></div></div>");
+            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+".</span><br/><span class='ocultar_texto'>"+v+"</span></div></div>");
           }
         }
 

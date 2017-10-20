@@ -13,7 +13,6 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     
     <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});</script>
-    <!--<script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>-->
     <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
@@ -23,7 +22,7 @@
       
       $(document).ready(function(){
 	
-	init("Matem&aacute;ticas","matematicas.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+	init("Biolog&iacute;a","biologia.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 	
 	$(document).ajaxComplete(function(){
 	  centrar_tarjetas();
@@ -36,6 +35,10 @@
 	    text = text.replace("...<desbordado class=\"collapsed\">","");
 	    text = text.replace("</desbordado>","");
 	    text = text.replace("@","");
+	    
+	    text = text.replace("class=\"ocultar_texto\"","");
+	    
+	    //alert(text);
 	    	    
 	    var idAE = $(this).attr("idAE");
 	    
@@ -255,7 +258,6 @@
       <div class="row" id="title">
 	<div class="col-md-7" id="texto">
           <h3>Generador de ex&aacute;menes</h3>
-          <p>Aprendizajes esperados</p>
         </div>
 	<div class="col-md-2"></div>
 	<div class="col-md-3 collapsed" id="contador_a_preview">

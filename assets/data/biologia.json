@@ -1,6 +1,7 @@
 [
   {
-    "nombreAE": "AE 1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
+    "caratula": "La célula: unidad de vida",
+		"nombreAE": "AE 1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
     "reactivos": [
       {
         "reactivo": "Todos los seres vivos tienen en común las siguientes características, excepto:",
@@ -66,73 +67,8 @@
     "unidadesAsociadas": []
   },
   {
-    "nombreAE": "AE2. <b>Infiere</b> el papel que juegan las interacciones depredador-presa y la competencia como parte del equilibrio de las poblaciones en un ecosistema.",
-    "reactivos": [
-      {
-        "reactivo": "El ajolote está en peligro de extinción en Xochimilco, hecho que coincide con la introducción de peces tilapia y carpa. ¿Qué opción explica la reducción de esta especie?",
-        "respuestas": {
-          "A": "Los ajolotes son parásitos de los peces.",
-          "B": "Los peces son depredadores del ajolote.@",
-          "C": "Los ajolotes se alimentan de esas dos especies.",
-          "D": "Los peces contribuyeron a la sobreescplotación de los recursos naturales en Xochimilco."
-        },
-        "img_asociada": ""
-      },
-      {
-        "reactivo": "Si debes elegir un tema para investigar en torno a las especies que regulan ellas mismas su densidad de población, ¿cuál caso lo representaría?",
-        "respuestas": {
-          "A": "La extinción de ratones por el aumento de víboras de cascabel.",
-          "B": "El control del búho moteado para preservar la diversidad genética.",
-          "C": "La muerte de renos por el sobrepastoreo, sin amenaza de depredadores.@",
-          "D": "La disminución del pájaro carpintero por el aumento de los árboles de pino."
-        },
-        "img_asociada": ""
-      },
-      {
-        "reactivo": "Si vas de excursión a un bosque de pinos y encinos, observarás que debajo de los pinos no se desarrollan otras especies. Este es un ejemplo de:",
-        "respuestas": {
-          "A": "parasitismo",
-          "B": "comensalismo",
-          "C": "competencia interespecífica",
-          "D": "competencia intraespecífica@"
-        },
-        "img_asociada": ""
-      },
-      {
-        "reactivo": "Entre las hormigas y la acacia que habitan en zonas tropicales se presenta una interacción biológica: la acacia provee alimento a las hormigas y éstas, a su vez, protegen a la acacia de otros depredadores. Este es un ejemplo de:",
-        "respuestas": {
-          "A": "simbiosis",
-          "B": "mutualismo@",
-          "C": "parasitismo",
-          "D": "comensalismo"
-        },
-        "img_asociada": ""
-      },
-      {
-        "reactivo": "Completa el enunciado.<br/>La depredación se refiere  _______________ de un organismo viviente, vegetal o animal, lo que hace circular _____________ y ____________ por el ecosistema.",
-        "respuestas": {
-          "A": "a las presas / las semillas / los frutos",
-          "B": "al consumo /  la energía / los nutrimentos@",
-          "C": "al nacimiento / a los herbívoros /  a los carnívoros",
-          "D": "a la supervivencia / la energía / a los depredadores"
-        },
-        "img_asociada": ""
-      },
-      {
-        "reactivo": "En la depredación la interacción ocurre cuando una especie ingiere a otra. ¿Cómo se le llama al consumidor?",
-        "respuestas": {
-          "A": "Presa",
-          "B": "Productor",
-          "C": "Depredador",
-          "D": "Consumidor@"
-        },
-        "img_asociada": ""
-      }
-    ],
-    "unidadesAsociadas": []
-  },
-  {
-    "nombreAE": "AE 3. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
+    "caratula": "Funciones de la célula",
+		"nombreAE": "AE 2. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
     "reactivos": [
       {
         "reactivo": "En clase explicaron que la mitocondria es un organelo de la célula animal encargada de:",
@@ -198,7 +134,75 @@
     "unidadesAsociadas": []
   },
   {
-    "nombreAE": "AE 4. <b>Explica</b> la coordinación del sistema nervioso en el funcionamiento del cuerpo.",
+    "caratula": "Presas y depredadores",
+		"nombreAE": "AE3. <b>Infiere</b> el papel que juegan las interacciones depredador-presa y la competencia como parte del equilibrio de las poblaciones en un ecosistema.",
+    "reactivos": [
+      {
+        "reactivo": "El ajolote está en peligro de extinción en Xochimilco, hecho que coincide con la introducción de peces tilapia y carpa. ¿Qué opción explica la reducción de esta especie?",
+        "respuestas": {
+          "A": "Los ajolotes son parásitos de los peces.",
+          "B": "Los peces son depredadores del ajolote.@",
+          "C": "Los ajolotes se alimentan de esas dos especies.",
+          "D": "Los peces contribuyeron a la sobreescplotación de los recursos naturales en Xochimilco."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si debes elegir un tema para investigar en torno a las especies que regulan ellas mismas su densidad de población, ¿cuál caso lo representaría?",
+        "respuestas": {
+          "A": "La extinción de ratones por el aumento de víboras de cascabel.",
+          "B": "El control del búho moteado para preservar la diversidad genética.",
+          "C": "La muerte de renos por el sobrepastoreo, sin amenaza de depredadores.@",
+          "D": "La disminución del pájaro carpintero por el aumento de los árboles de pino."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si vas de excursión a un bosque de pinos y encinos, observarás que debajo de los pinos no se desarrollan otras especies. Este es un ejemplo de:",
+        "respuestas": {
+          "A": "parasitismo",
+          "B": "comensalismo",
+          "C": "competencia interespecífica",
+          "D": "competencia intraespecífica@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Entre las hormigas y la acacia que habitan en zonas tropicales se presenta una interacción biológica: la acacia provee alimento a las hormigas y éstas, a su vez, protegen a la acacia de otros depredadores. Este es un ejemplo de:",
+        "respuestas": {
+          "A": "simbiosis",
+          "B": "mutualismo@",
+          "C": "parasitismo",
+          "D": "comensalismo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Completa el enunciado.<br/>La depredación se refiere  _______________ de un organismo viviente, vegetal o animal, lo que hace circular _____________ y ____________ por el ecosistema.",
+        "respuestas": {
+          "A": "a las presas / las semillas / los frutos",
+          "B": "al consumo /  la energía / los nutrimentos@",
+          "C": "al nacimiento / a los herbívoros /  a los carnívoros",
+          "D": "a la supervivencia / la energía / a los depredadores"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la depredación la interacción ocurre cuando una especie ingiere a otra. ¿Cómo se le llama al consumidor?",
+        "respuestas": {
+          "A": "Presa",
+          "B": "Productor",
+          "C": "Depredador",
+          "D": "Consumidor@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "caratula": "Coordinación del sistema nervioso",
+		"nombreAE": "AE 4. <b>Explica</b> la coordinación del sistema nervioso en el funcionamiento del cuerpo.",
     "reactivos": [
       {
         "reactivo": "Toser es una respuesta involuntaria del organismo ante un evento que el organismo controla mediante:",
@@ -264,7 +268,8 @@
     "unidadesAsociadas": []
   },
   {
-    "nombreAE": "AE 5. <b>Explica</b> cómo evitar el sobrepeso y la obesidad con base en las características de la dieta correcta y las necesidades energéticas en la adolescencia.",
+    "caratula": "Sobrepeso y obesidad",
+		"nombreAE": "AE 5. <b>Explica</b> cómo evitar el sobrepeso y la obesidad con base en las características de la dieta correcta y las necesidades energéticas en la adolescencia.",
     "reactivos": [
       {
         "reactivo": "¿Cuál de los siguientes es un ejemplo de nutrimento",
@@ -520,7 +525,8 @@
     "unidadesAsociadas": []
   },
   {
-    "nombreAE": "AE 6. <b>Argumenta</b> los beneficios de aplazar el inicio de las relaciones sexuales y de una sexualidad responsable, segura y  satisfactoria, libre de miedos, culpas, falsas creencias@, coerción, discriminación y violencia como parte de su proyecto de vida en el marco de la salud sexual y reproductiva.",
+    "caratula": "Sexualidad y proyecto de vida",
+		"nombreAE": "AE 6. <b>Argumenta</b> los beneficios de aplazar el inicio de las relaciones sexuales y de una sexualidad responsable, segura y  satisfactoria, libre de miedos, culpas, falsas creencias@, coerción, discriminación y violencia como parte de su proyecto de vida en el marco de la salud sexual y reproductiva.",
     "reactivos": [
       {
         "reactivo": "Desde el punto de vista de la Biología, ¿qué es el sexo?",
@@ -634,7 +640,8 @@
     ],
     "unidadesAsociadas": []
   },{
-    "nombreAE": "AE 7. <b>Compara</b> la eficacia de los diferentes métodos anticonceptivos en la perspectiva de evitar el embarazo en la adolescencia y prevenir ITS, incluidos VPH y VIH.",
+    "caratula": "Métodos anticonceptivos",
+		"nombreAE": "AE 7. <b>Compara</b> la eficacia de los diferentes métodos anticonceptivos en la perspectiva de evitar el embarazo en la adolescencia y prevenir ITS, incluidos VPH y VIH.",
     "reactivos": [
       {
         "reactivo": "Selecciona la opción que clasifica mitos y realidades sobre la sexualidad.<br/><br/>a. El sida es una enfermedad de homosexuales<br/>b. La masturbación es causa frecuente de infertilidad<br/>c. Una mujer que tiene hijos es más valiosa que las que no los tienen<br/>d. En la primera relación sexual, puede ocurrir el embarazo",
@@ -775,7 +782,8 @@
     ],
     "unidadesAsociadas": []
   },{
-    "nombreAE": "AE 8. <b>Explica</b> las implicaciones de las adicciones en la salud personal, familiar y en la sociedad.",
+    "caratula": "Adicciones",
+		"nombreAE": "AE 8. <b>Explica</b> las implicaciones de las adicciones en la salud personal, familiar y en la sociedad.",
     "reactivos": [
       {
         "reactivo": "Enfermedad crónica obstructiva de los pulmones, relacionada con el tabaquismo y que se caracteriza por la pérdida de elasticidad en los tejidos y la destrucción progresiva de los alvéolos.",
