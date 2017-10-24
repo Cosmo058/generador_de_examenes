@@ -339,8 +339,8 @@ span.ocultar_texto{
 
 @media all and (min-width: 1380px) { /*Above 1380px*/
   .container{
-          width: 1280px;
-  margin: 0 auto;
+    width: 1280px;
+    margin: 0 auto;
   }
 }
 
