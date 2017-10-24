@@ -13,7 +13,6 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     
     <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});</script>
-    <!--<script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>-->
     <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>
     <script src="assets/js/funciones.js"></script>
     <script src="assets/js/controller.js"></script>
@@ -23,6 +22,7 @@
       
       $(document).ready(function(){
 	
+	// init("Nombre_de_la_materia","Archivo_que_contiene_los_reactivos.json")
 	init("Matem&aacute;ticas","matematicas.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 	
 	$(document).ajaxComplete(function(){
