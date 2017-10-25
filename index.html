@@ -146,6 +146,8 @@
           igualar_altura_logos();
         });
 	
+	bind_filter_events();
+	
 //	window.onbeforeunload = function() {
 //	  return "Data will be lost if you leave the page, are you sure?";
 //	};
@@ -256,10 +258,15 @@
 
      <!--Title-->
       <div class="row" id="title">
-	<div class="col-md-7" id="texto">
+	<div class="col-md-6" id="texto">
           <h3>Generador de ex&aacute;menes</h3>
         </div>
-	<div class="col-md-2"></div>
+	<div class="col-md-3">
+	  <p id="filtro_u1">Unidad 1</p>
+	  <p id="filtro_u2">Unidad 2</p>
+	  <p id="filtro_u3">Unidad 3</p>
+	  <p id="filtro_todos">Todas</p>
+	</div>
 	<div class="col-md-3 collapsed" id="contador_a_preview">
 	  <div class="row">
 	    <div class="col-md-7" id="a"  style='margin-top:2px;'></div>

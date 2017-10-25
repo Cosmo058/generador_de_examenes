@@ -23,3 +23,16 @@ function getValuesOf(obj, key) {
   }
   return values;
 }
+
+function getValuesOfArray(obj, key) {
+  var values = [];
+  for (var i in obj) {
+    if (!obj.hasOwnProperty(i)) continue;
+    if (typeof obj[i] === 'array') {
+      values = values.concat(getValuesOf(obj[i], key));
+    } else if (i === key) {
+      values.push(obj[i]);
+    }
+  }
+  return values;
+}

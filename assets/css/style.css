@@ -18,6 +18,8 @@ ol{
   padding: 3rem 20px;
   font-size: 0px;
   background-color: #F6F6F6;
+  background-color: #000;
+  transition: height 1.35s ease; 
 }
 
 .card{
@@ -26,7 +28,8 @@ ol{
   height: 200px;
   margin: 9px;
   font-size: 16px;
-  cursor:pointer; 
+  cursor:pointer;
+  
 }
 
 .card2{

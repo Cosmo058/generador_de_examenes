@@ -1,7 +1,7 @@
 [
   {
     "caratula": "La célula: unidad de vida",
-		"nombreAE": "AE 1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
+    "nombreAE": "AE 1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
     "reactivos": [
       {
         "reactivo": "Todos los seres vivos tienen en común las siguientes características, excepto:",
@@ -64,11 +64,11 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [1]
   },
   {
     "caratula": "Funciones de la célula",
-		"nombreAE": "AE 2. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
+    "nombreAE": "AE 2. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
     "reactivos": [
       {
         "reactivo": "En clase explicaron que la mitocondria es un organelo de la célula animal encargada de:",
@@ -131,11 +131,11 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [1]
   },
   {
     "caratula": "Presas y depredadores",
-		"nombreAE": "AE3. <b>Infiere</b> el papel que juegan las interacciones depredador-presa y la competencia como parte del equilibrio de las poblaciones en un ecosistema.",
+    "nombreAE": "AE3. <b>Infiere</b> el papel que juegan las interacciones depredador-presa y la competencia como parte del equilibrio de las poblaciones en un ecosistema.",
     "reactivos": [
       {
         "reactivo": "El ajolote está en peligro de extinción en Xochimilco, hecho que coincide con la introducción de peces tilapia y carpa. ¿Qué opción explica la reducción de esta especie?",
@@ -198,11 +198,11 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [2]
   },
   {
     "caratula": "Coordinación del sistema nervioso",
-		"nombreAE": "AE 4. <b>Explica</b> la coordinación del sistema nervioso en el funcionamiento del cuerpo.",
+    "nombreAE": "AE 4. <b>Explica</b> la coordinación del sistema nervioso en el funcionamiento del cuerpo.",
     "reactivos": [
       {
         "reactivo": "Toser es una respuesta involuntaria del organismo ante un evento que el organismo controla mediante:",
@@ -265,11 +265,11 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [2]
   },
   {
     "caratula": "Sobrepeso y obesidad",
-		"nombreAE": "AE 5. <b>Explica</b> cómo evitar el sobrepeso y la obesidad con base en las características de la dieta correcta y las necesidades energéticas en la adolescencia.",
+    "nombreAE": "AE 5. <b>Explica</b> cómo evitar el sobrepeso y la obesidad con base en las características de la dieta correcta y las necesidades energéticas en la adolescencia.",
     "reactivos": [
       {
         "reactivo": "¿Cuál de los siguientes es un ejemplo de nutrimento",
@@ -522,7 +522,7 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [1,2,3]
   },
   {
     "caratula": "Sexualidad y proyecto de vida",
@@ -638,10 +638,10 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [2,3]
   },{
     "caratula": "Métodos anticonceptivos",
-		"nombreAE": "AE 7. <b>Compara</b> la eficacia de los diferentes métodos anticonceptivos en la perspectiva de evitar el embarazo en la adolescencia y prevenir ITS, incluidos VPH y VIH.",
+    "nombreAE": "AE 7. <b>Compara</b> la eficacia de los diferentes métodos anticonceptivos en la perspectiva de evitar el embarazo en la adolescencia y prevenir ITS, incluidos VPH y VIH.",
     "reactivos": [
       {
         "reactivo": "Selecciona la opción que clasifica mitos y realidades sobre la sexualidad.<br/><br/>a. El sida es una enfermedad de homosexuales<br/>b. La masturbación es causa frecuente de infertilidad<br/>c. Una mujer que tiene hijos es más valiosa que las que no los tienen<br/>d. En la primera relación sexual, puede ocurrir el embarazo",
@@ -780,10 +780,10 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [3]
   },{
     "caratula": "Adicciones",
-		"nombreAE": "AE 8. <b>Explica</b> las implicaciones de las adicciones en la salud personal, familiar y en la sociedad.",
+    "nombreAE": "AE 8. <b>Explica</b> las implicaciones de las adicciones en la salud personal, familiar y en la sociedad.",
     "reactivos": [
       {
         "reactivo": "Enfermedad crónica obstructiva de los pulmones, relacionada con el tabaquismo y que se caracteriza por la pérdida de elasticidad en los tejidos y la destrucción progresiva de los alvéolos.",
@@ -841,6 +841,6 @@
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": []
+    "unidadesAsociadas": [3]
   }
 ]

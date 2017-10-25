@@ -78,11 +78,14 @@ function init(course_name,file_name){
       $.each(val,function(k,v){
         if(k==="nombreAE"){
           var texto_caratula = getValuesOf(val,"caratula")[0];
+          var unidades_asociadas = getValuesOfArray(val,"unidadesAsociadas");
+          //alert("Unidades asociadas: "+unidades_asociadas);
+          
           if(v.toString().indexOf('@')!==-1){
             var max_largo = v.toString().indexOf('@');
-            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+".</span><br/><span class='ocultar_texto'>"+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
+            $("#ae_container").append("<div class='card' unidades_asociadas='"+unidades_asociadas+"' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+".</span><br/><span class='ocultar_texto'>"+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
           }else{
-            $("#ae_container").append("<div class='card' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+".</span><br/><span class='ocultar_texto'>"+v+"</span></div></div>");
+            $("#ae_container").append("<div class='card' unidades_asociadas='"+unidades_asociadas+"' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+".</span><br/><span class='ocultar_texto'>"+v+"</span></div></div>");
           }
         }
 
@@ -184,3 +187,51 @@ $.fn.toggleAttr = function(attr, attr1, attr2) {
       self.attr(attr, attr1);
   });
 };
+
+function bind_filter_events(){
+  $("#filtro_u1").click(function(){
+    $("#ae_container .card").each(function(){
+      if($(this).attr("unidades_asociadas").toString().indexOf("1")=="-1"){
+        $(this).fadeOut("slow",function(){
+          $(this).addClass("collapsed");
+        });
+      }else{
+        $(this).removeClass("collapsed");
+        $(this).fadeIn("slow");
+      }
+    });
+  });
+  
+  $("#filtro_u2").click(function(){
+    $("#ae_container .card").each(function(){
+      if($(this).attr("unidades_asociadas").toString().indexOf("2")=="-1"){
+        $(this).fadeOut("slow",function(){
+          $(this).addClass("collapsed");
+        });
+      }else{
+        $(this).removeClass("collapsed");
+        $(this).fadeIn("slow");
+      }
+    });
+  });
+  
+  $("#filtro_u3").click(function(){
+    $("#ae_container .card").each(function(){
+      if($(this).attr("unidades_asociadas").toString().indexOf("3")=="-1"){
+        $(this).fadeOut("slow",function(){
+          $(this).addClass("collapsed");
+        });
+      }else{
+        $(this).removeClass("collapsed");
+        $(this).fadeIn("slow");
+      }
+    });
+  });
+  
+  $("#filtro_todos").click(function(){
+    $("#ae_container .card").each(function(){
+      $(this).removeClass("collapsed");
+        $(this).fadeIn("slow");
+    });
+  });
+}
