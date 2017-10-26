@@ -130,6 +130,8 @@
 	  
 	  $("#vista_previa_div").click(function(){
 	    seleccionados_a_print();
+	    $("#examen_html").css("padding","8% 25%");
+	    $("#examen_html").css("height","100%");
 	  });
 	  
 	  $("#ver_respuestas_div").click(function(){
@@ -261,11 +263,11 @@
 	<div class="col-md-6" id="texto">
           <h3>Generador de ex&aacute;menes</h3>
         </div>
-	<div class="col-md-3">
-	  <p id="filtro_u1">Unidad 1</p>
-	  <p id="filtro_u2">Unidad 2</p>
-	  <p id="filtro_u3">Unidad 3</p>
-	  <p id="filtro_todos">Todas</p>
+	<div class="col-md-3" id="botonera_filtros">
+	  <div class="filtro" id="filtro_u1">Unidad 1</div>
+	  <div class="filtro" id="filtro_u2">Unidad 2</div>
+	  <div class="filtro" id="filtro_u3">Unidad 3</div>
+	  <div class="filtro" style="color:#C83335" id="filtro_todos">Todas</div>
 	</div>
 	<div class="col-md-3 collapsed" id="contador_a_preview">
 	  <div class="row">
@@ -319,6 +321,13 @@
       </div>
       <!--/Footer-->
     </div>
-    <div class="collapsed" id="examen_html"></div>
+    <div class="overlay" id="examen_html">
+      <script>
+	function closeNav() {
+	    document.getElementById("examen_html").style.height = "0%";
+	    document.getElementById("examen_html").style.padding = "0%";
+	}
+      </script>
+    </div>
   </body>
 </html>
