@@ -43,11 +43,15 @@ function seleccionados_a_preview(){
 function seleccionados_a_print(){
   $("#examen_html").empty();
   $("#examen_html").append("<a class='closebtn'>&times;</a>");
-  $("#examen_html").append("<a class='printbtn'><img src='assets/img/icon/printer.svg'></a>");
+  $("#examen_html").append("<a class='printbtn'><img style='width:1em;' src='assets/img/icon/printer.svg'></a>");
   
   $(".closebtn").click(function(){
     $("#examen_html").css("padding","0px");
     $("#examen_html").css("height","0%");
+  });
+  
+  $(".printbtn").click(function(){
+    window.print();
   });
   
   
@@ -110,8 +114,11 @@ function init(course_name,file_name){
             tmp_html += "<span class='respuesta_print collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>";
             
             if(v[reactivo]["img_asociada"]!=="" && v[reactivo]["img_asociada"]!==undefined){
-              //alert("tiene img");
-              tmp_html += "<span idAE="+key+" idReactivo="+reactivo+" class='collapsed'><img class='img_asociada' src='assets/"+v[reactivo]["img_asociada"]+"'><br/><br/></span>";
+              if(v[reactivo]["size"]!=="" && v[reactivo]["size"]!==undefined){
+                tmp_html += "<span idAE="+key+" idReactivo="+reactivo+" class='collapsed'><img style='width:"+v[reactivo]["size"]+";' class='img_asociada' src='assets/"+v[reactivo]["img_asociada"]+"'><br/><br/></span>";
+              }else{
+                tmp_html += "<span idAE="+key+" idReactivo="+reactivo+" class='collapsed'><img class='img_asociada' src='assets/"+v[reactivo]["img_asociada"]+"'><br/><br/></span>";
+              }
             }
             
             tmp_html+="<ol class='collapsed' idAE="+key+" idReactivo="+reactivo+">";

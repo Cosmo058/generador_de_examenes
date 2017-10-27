@@ -12,8 +12,8 @@
 }
 
 li img{
-  width: 50%;
   vertical-align: top;
+  margin: 10px 0px;
 }
 
 .bolded{
@@ -36,4 +36,11 @@ ol{
 
 .closebtn{
   display: none;
+}
+.printbtn{
+  display:none;
+}
+
+table{
+  font-size: 1.4em;
 }

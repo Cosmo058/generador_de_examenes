@@ -337,22 +337,26 @@ span.ocultar_texto{
   display: none;
 }
 
+
 #examen_html{
   color: #000;
   width: 100%;
 }
-
 #examen_html *{
-  display: block;
+  display: initial;
 }
-
 #examen_html script{
   display: none;
 }
-
 #examen_html ol{
   display: block;
   list-style-type: upper-alpha;
+}
+#examen_html li{
+  display: list-item;
+}
+#examen_html table{
+  font-size: 1.5em;
 }
 
 .overlay {
@@ -379,13 +383,17 @@ span.ocultar_texto{
     right: 45px;
     font-size: 60px;
     color: #C83335;
+    text-decoration: none;
+    cursor: pointer;
+    transition: font-size 0.2s;
+}.overlay .closebtn:hover{
+    font-size: 66px;
 }
 .overlay .printbtn {
-    position: absolute;
-    top: 40px;
-    right: 45px;
-    font-size: 60px;
-    color: #C83335;
+  position: absolute;
+  top: 40px;
+  left: 45px;
+  font-size: 42px;
 }
 
 @media (min-width: 992px){
