@@ -380,6 +380,13 @@ span.ocultar_texto{
     font-size: 60px;
     color: #C83335;
 }
+.overlay .printbtn {
+    position: absolute;
+    top: 40px;
+    right: 45px;
+    font-size: 60px;
+    color: #C83335;
+}
 
 @media (min-width: 992px){
   #preview_reactivo.collapsed {

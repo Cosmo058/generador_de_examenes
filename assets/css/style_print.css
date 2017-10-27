@@ -3,9 +3,12 @@
 }
 
 #examen_html{
+  padding: 0px !important;
+  margin: 0px;
   display: block;
   color: #000 !important;
   font-size: 20px;
+  width: 90%;
 }
 
 li img{
@@ -29,4 +32,8 @@ li img{
 ol{
   display: block;
   list-style-type: upper-alpha;
+}
+
+.closebtn{
+  display: none;
 }

@@ -20,6 +20,16 @@
 
     <script>
       
+      $(document).keypress(function(e) { //EventListener DEBUG
+	if(e.which === 13) {
+	  $("#reactivos input").prop('checked',true);
+	  seleccionados_a_preview();
+	  seleccionados_a_print();
+	  $("#examen_html").css("padding","8% 25%");
+	  $("#examen_html").css("height","100%");
+	}
+      });
+      
       $(document).ready(function(){
 	
 	init("Biolog&iacute;a","biologia.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
@@ -321,13 +331,6 @@
       </div>
       <!--/Footer-->
     </div>
-    <div class="overlay" id="examen_html">
-      <script>
-	function closeNav() {
-	    document.getElementById("examen_html").style.height = "0%";
-	    document.getElementById("examen_html").style.padding = "0%";
-	}
-      </script>
-    </div>
+    <div class="overlay" id="examen_html"></div>
   </body>
 </html>

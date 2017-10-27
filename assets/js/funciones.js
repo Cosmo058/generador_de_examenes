@@ -42,7 +42,14 @@ function seleccionados_a_preview(){
 
 function seleccionados_a_print(){
   $("#examen_html").empty();
-  $("#examen_html").append("<a href='javascript:void(0)' class='closebtn' onclick='closeNav()'>&times;</a>");
+  $("#examen_html").append("<a class='closebtn'>&times;</a>");
+  $("#examen_html").append("<a class='printbtn'><img src='assets/img/icon/printer.svg'></a>");
+  
+  $(".closebtn").click(function(){
+    $("#examen_html").css("padding","0px");
+    $("#examen_html").css("height","0%");
+  });
+  
   
   $("#examen_html").append('<p>Nombre:________________________________________ Grupo:_______ Fecha:__________</p><br/>');
   
