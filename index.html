@@ -1,336 +1,337 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Generador de ex&aacute;menes</title>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/offline/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
-    <link rel="stylesheet" type="text/css" media="print"  href="assets/css/style_print.css">
-    
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    
-    <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});</script>
-    <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>
-    <script src="assets/js/funciones.js"></script>
-    <script src="assets/js/controller.js"></script>
-    
+<head>
+  <title>Generador de ex&aacute;menes</title>
 
-    <script>
-      
-      $(document).keypress(function(e) { //EventListener DEBUG
-	if(e.which === 13) {
-	  $("#reactivos input").prop('checked',true);
-	  seleccionados_a_preview();
-	  seleccionados_a_print();
-	  $("#examen_html").css("padding","8% 25%");
-	  $("#examen_html").css("height","100%");
-	}
-      });
-      
-      $(document).ready(function(){
-	
-	init("Espa&ntilde;ol&nbsp;&nbsp;3&deg;","espaniol.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
-	
-	$(document).ajaxComplete(function(){
-	  centrar_tarjetas();
-	  igualar_altura_logos();
-	
-	  //Go to reactivos (Page2)
-	  $('#ae_container .card').click(function(){
-	    var text = $(this).find(".card_content").html();
-	    
-	    text = text.replace("...<desbordado class=\"collapsed\">","");
-	    text = text.replace("</desbordado>","");
-	    text = text.replace("@","");
-	    
-	    text = text.replace("class=\"ocultar_texto\"","");
-	    
-	    //alert(text);
-	    	    
-	    var idAE = $(this).attr("idAE");
-	    
-	    $("#header").addClass("collapsed");
-	    $("#header2").removeClass("collapsed");
-	    $("#header3").addClass("collapsed");
-	    
-	    $("#ae_container").toggle();
-	    $("#title").toggle();
-	    $("#ae_seleccionado").toggleClass("collapsed col-md-2");
-	    $("#ae_sub").toggleClass("collapsed col-md-10");
-	    
-	    
-	    $("#reactivos").removeClass("collapsed");
-	    $("#reactivos").addClass("col-md-12");
-	    
-	    $("#ae_seleccionado > div:not(.circle)").html(text);
-	    
-	    $(".card2").each(function(index){
-	      if( $(this).attr("idAE") === idAE ){
-		$(".card2[idAE="+$(this).attr("idAE")+"]").removeClass("collapsed");
-	      }
-	    });
-	  });
-	  
-	  //Back to AE (Page1)
-	  $("#back_to_AE").click(function(){
-	    
-	    $("#header").removeClass("collapsed");
-	    $("#header2").addClass("collapsed");
-	    $("#header3").addClass("collapsed");
-	    
-	    $("#ae_container").toggle();
-	    $("#title").toggle();
-	    $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
-	    $("#ae_sub").toggleClass("col-md-10 collapsed");
-	    
-	    $("#reactivos").addClass("collapsed");
-	    $("#reactivos").removeClass("col-md-8");
-	    $("#reactivos").addClass("col-md-12");
-	    
-	    $("#preview_reactivo").removeClass("col-md-4");
-	    $("#preview_reactivo").addClass("collapsed");
-	    $("#lista_final").addClass("collapsed");
-	    
-	    $(".card2").each(function(index){ //Hide all card2
-	      $(this).addClass("collapsed");
-	    });
-	  });
+  <link rel="stylesheet" type="text/css" media="screen" href="assets/offline/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
+  <link rel="stylesheet" type="text/css" media="print" href="assets/css/style_print.css">
 
-	  mostrar_preview_respuestas("filler");
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-	  //Evento de clicks en los checkbox
-	  $("#reactivos input").click(function(){
-	    $(this).siblings("label").toggleClass("red_background");
-	    $(".num_reactivos").html($("#reactivos input:checkbox:checked").length+" reactivos elegidos");
-	    $("#a").html($("#reactivos input:checkbox:checked").length+" reactivos elegidos</div>");
-	    $("#contador_a_preview").removeClass("collapsed");
-	  });
-	  
-	  //Go to the final questions' preview (Page3)
-	  $("#go_to_preview").click(function(){
-	    
-	    $("#header").addClass("collapsed");
-	    $("#header2").addClass("collapsed");
-	    $("#header3").removeClass("collapsed");
-	    
-	    $("#ae_container").toggle();
-	    $("#title").toggle();
-	    $("#ae_seleccionado").toggleClass("collapsed col-md-2");
-	    $("#ae_sub").toggleClass("collapsed col-md-10");
-	    
-	    $("#reactivos").addClass("collapsed");
-	    $("#preview_reactivo").removeClass("collapsed");
-	    $("#preview_reactivo").addClass("col-md-4");
-	    $("#lista_final").removeClass("collapsed");
-	    $("#lista_final").addClass("col-md-8");
-	    
-	    $("#ae_seleccionado > div:not(.circle)").html("Reactivos seleccionados");
-	    
-	    seleccionados_a_preview();
-	    $("#lista_final label").click(function(){
-	      $(this).toggleClass("red_background");
-	    });
-	    
-	    mostrar_preview_respuestas("no_toggle");
-	    
-	  });
-	  
-	  $("#vista_previa_div").click(function(){
-	    seleccionados_a_print();
-	    $("#examen_html").css("padding","8% 25%");
-	    $("#examen_html").css("height","100%");
-	  });
-	  
-	  $("#ver_respuestas_div").click(function(){
-	    $(".correct").toggleClass("bolded");
-	    $("#ver_respuestas_img").toggleAttr('src','assets/img/ver_respuestas_off.png','assets/img/ver_respuestas_on.png')
-	  });
-	  
-	  $("#lista_final").sortable();
-	  
-	}); //End of AjaxCallCompleted
-	
-        $(window).resize(function(){
-          centrar_tarjetas();
-          igualar_altura_logos();
+  <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});</script>
+  <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>
+  <script src="assets/js/funciones.js"></script>
+  <script src="assets/js/controller.js"></script>
+
+
+  <script>
+    $(document).keypress(function(e) { //EventListener DEBUG
+      if (e.which === 13) {
+        $("#reactivos input").prop('checked', true);
+        seleccionados_a_preview();
+        seleccionados_a_print();
+        $("#examen_html").css("padding", "8% 25%");
+        $("#examen_html").css("height", "100%");
+      }
+    });
+
+    $(document).ready(function() {
+
+      init("Espa&ntilde;ol&nbsp;&nbsp;3&deg;", "espaniol.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+
+      $(document).ajaxComplete(function() {
+        centrar_tarjetas();
+        igualar_altura_logos();
+
+        //Go to reactivos (Page2)
+        $('#ae_container .card').click(function() {
+          var text = $(this).find(".card_content").html();
+
+          text = text.replace("...<desbordado class=\"collapsed\">", "");
+          text = text.replace("</desbordado>", "");
+          text = text.replace("@", "");
+
+          text = text.replace("class=\"ocultar_texto\"", "");
+
+          //alert(text);
+
+          var idAE = $(this).attr("idAE");
+
+          $("#header").addClass("collapsed");
+          $("#header2").removeClass("collapsed");
+          $("#header3").addClass("collapsed");
+
+          $("#ae_container").toggle();
+          $("#title").toggle();
+          $("#ae_seleccionado").toggleClass("collapsed col-md-2");
+          $("#ae_sub").toggleClass("collapsed col-md-10");
+
+
+          $("#reactivos").removeClass("collapsed");
+          $("#reactivos").addClass("col-md-12");
+
+          $("#ae_seleccionado > div:not(.circle)").html(text);
+
+          $(".card2").each(function(index) {
+            if ($(this).attr("idAE") === idAE) {
+              $(".card2[idAE=" + $(this).attr("idAE") + "]").removeClass("collapsed");
+            }
+          });
         });
-	
-	bind_filter_events();
-	
-//	window.onbeforeunload = function() {
-//	  return "Data will be lost if you leave the page, are you sure?";
-//	};
-	
+
+        //Back to AE (Page1)
+        $("#back_to_AE").click(function() {
+
+          $("#header").removeClass("collapsed");
+          $("#header2").addClass("collapsed");
+          $("#header3").addClass("collapsed");
+
+          $("#ae_container").toggle();
+          $("#title").toggle();
+          $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
+          $("#ae_sub").toggleClass("col-md-10 collapsed");
+
+          $("#reactivos").addClass("collapsed");
+          $("#reactivos").removeClass("col-md-8");
+          $("#reactivos").addClass("col-md-12");
+
+          $("#preview_reactivo").removeClass("col-md-4");
+          $("#preview_reactivo").addClass("collapsed");
+          $("#lista_final").addClass("collapsed");
+
+          $(".card2").each(function(index) { //Hide all card2
+            $(this).addClass("collapsed");
+          });
+        });
+
+        mostrar_preview_respuestas("filler");
+
+        //Evento de clicks en los checkbox
+        $("#reactivos input").click(function() {
+          $(this).siblings("label").toggleClass("red_background");
+          $(".num_reactivos").html($("#reactivos input:checkbox:checked").length + " reactivos elegidos");
+          $("#a").html($("#reactivos input:checkbox:checked").length + " reactivos elegidos</div>");
+          $("#contador_a_preview").removeClass("collapsed");
+        });
+
+        //Go to the final questions' preview (Page3)
+        $("#go_to_preview").click(function() {
+
+          $("#header").addClass("collapsed");
+          $("#header2").addClass("collapsed");
+          $("#header3").removeClass("collapsed");
+
+          $("#ae_container").toggle();
+          $("#title").toggle();
+          $("#ae_seleccionado").toggleClass("collapsed col-md-2");
+          $("#ae_sub").toggleClass("collapsed col-md-10");
+
+          $("#reactivos").addClass("collapsed");
+          $("#preview_reactivo").removeClass("collapsed");
+          $("#preview_reactivo").addClass("col-md-4");
+          $("#lista_final").removeClass("collapsed");
+          $("#lista_final").addClass("col-md-8");
+
+          $("#ae_seleccionado > div:not(.circle)").html("Reactivos seleccionados");
+
+          seleccionados_a_preview();
+          $("#lista_final label").click(function() {
+            $(this).toggleClass("red_background");
+          });
+
+          mostrar_preview_respuestas("no_toggle");
+
+        });
+
+        $("#vista_previa_div").click(function() {
+          seleccionados_a_print();
+          $("#examen_html").css("padding", "8% 25%");
+          $("#examen_html").css("height", "100%");
+        });
+
+        $("#ver_respuestas_div").click(function() {
+          $(".correct").toggleClass("bolded");
+          $("#ver_respuestas_img").toggleAttr('src', 'assets/img/ver_respuestas_off.png', 'assets/img/ver_respuestas_on.png')
+        });
+
+        $("#lista_final").sortable();
+
+      }); //End of AjaxCallCompleted
+
+      $(window).resize(function() {
+        centrar_tarjetas();
+        igualar_altura_logos();
       });
-    </script>
-  </head>
 
-  <body>
-    <div class="container">
+      bind_filter_events();
 
-      <!-- Header -->
-      <div class="row" id="header">
-	<div class="col-md-2 materia_section">
-	  <div class="row">
-	    <div class="col-md-12" style="border-bottom: solid thin #C83335; margin-left: 23px; padding-left: 0px;">
-	      <span class="nombre_asignatura" style="font-size:1.6em;font-weight:bold;text-transform: uppercase;">Asignatura</span>
-	    </div>
-	  </div>
-	  <div class="row">
-	    <div class="col-md-12" style="padding-left: 23px; margin-top: 5px;">
-		<div style="display: inline-block">
-		  <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
-		</div>
-		<div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
-	    </div>
-	  </div>
-	</div>
-        <div class="col-md-8"></div>
-	<div class="col-md-2 logo_castillo_container">
-            <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+      //	window.onbeforeunload = function() {
+      //	  return "Data will be lost if you leave the page, are you sure?";
+      //	};
+
+    });
+  </script>
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- Header -->
+    <div class="row" id="header">
+      <div class="col-md-2 materia_section">
+        <div class="row">
+          <div class="col-md-12" style="border-bottom: solid thin #C83335; margin-left: 23px; padding-left: 0px;">
+            <span class="nombre_asignatura" style="font-size:1.6em;font-weight:bold;text-transform: uppercase;">Asignatura</span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12" style="padding-left: 23px; margin-top: 5px;">
+            <div style="display: inline-block">
+              <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
+            </div>
+            <div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
+          </div>
         </div>
       </div>
-     <!--/Header-->
-     <!-- Header2-->
-      <div class="row collapsed" id="header2">
-	<div class="col-md-4">
-	  <div class="row" style="padding-top: 16px;">
-	    <div class="col-md-12" style="padding-left: 23px;"><span style="font-size:24px; font-weight:bold;">Generador de ex&aacute;menes</span></div>
-	  </div>
-	  <div class="row">
-	    <div class="col-md-12"  style="padding-left:23px;">
-	      <div style="display: inline-block">
-		<img class="img_btn" src="assets/img/reactivos_seleccionados.png">
-	      </div>
-	      <div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
-	    </div>
-	  </div>
-	</div>
-	<div class="col-md-1"></div>
-	<div class="col-md-2" style="border-bottom: solid #C83335 thin;text-align: center;margin-top: 12px;">
-	  <span class="nombre_asignatura" style="font-size:1.5em;font-weight:bold;text-transform: uppercase;">Asignatura</span>
+      <div class="col-md-8"></div>
+      <div class="col-md-2 logo_castillo_container">
+        <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+      </div>
+    </div>
+    <!--/Header-->
+    <!-- Header2-->
+    <div class="row collapsed" id="header2">
+      <div class="col-md-4">
+        <div class="row" style="padding-top: 16px;">
+          <div class="col-md-12" style="padding-left: 23px;"><span style="font-size:24px; font-weight:bold;">Generador de ex&aacute;menes</span></div>
         </div>
-	<div class="col-md-3"></div>
-        <div class="col-md-2 logo_castillo_container">
-            <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+        <div class="row">
+          <div class="col-md-12" style="padding-left:23px;">
+            <div style="display: inline-block">
+              <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
+            </div>
+            <div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
+          </div>
         </div>
       </div>
-     <!--/Header2-->
-     <!-- Header3-->
-      <div class="row collapsed" id="header3">
-        <div class="col-md-3">
-	  <div class="row" style="padding-top: 16px;">
-	    <div class="col-md-12"><span style="font-size:24px; font-weight:bold;">Generador de ex&aacute;menes</span></div>
-	  </div>
-	</div>
-        <div class="col-md-8 materia_section">
-          <div class="row">
-	    <div class="col-md-1"></div>
-            <div class="col-md-7" style="text-align: center">
-              <span class="nombre_asignatura" style="font-size:1.6em;font-weight:bold;text-transform: uppercase">Asignatura</span>
+      <div class="col-md-1"></div>
+      <div class="col-md-2" style="border-bottom: solid #C83335 thin;text-align: center;margin-top: 12px;">
+        <span class="nombre_asignatura" style="font-size:1.5em;font-weight:bold;text-transform: uppercase;">Asignatura</span>
+      </div>
+      <div class="col-md-3"></div>
+      <div class="col-md-2 logo_castillo_container">
+        <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+      </div>
+    </div>
+    <!--/Header2-->
+    <!-- Header3-->
+    <div class="row collapsed" id="header3">
+      <div class="col-md-3">
+        <div class="row" style="padding-top: 16px;">
+          <div class="col-md-12"><span style="font-size:24px; font-weight:bold;">Generador de ex&aacute;menes</span></div>
+        </div>
+      </div>
+      <div class="col-md-8 materia_section">
+        <div class="row">
+          <div class="col-md-1"></div>
+          <div class="col-md-7" style="text-align: center">
+            <span class="nombre_asignatura" style="font-size:1.6em;font-weight:bold;text-transform: uppercase">Asignatura</span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-1"></div>
+          <div class="col-md-2">
+            <div class="pointer_style" id="ver_respuestas_div">
+              <div style="display: inline-block">
+                <img class="img_btn" id="ver_respuestas_img" src="assets/img/ver_respuestas_off.png">
+              </div>
+              <div id="ver_respuestas" style="display: inline-block">Respuestas</div>
             </div>
           </div>
-	  <div class="row">
-	    <div class="col-md-1"></div>
-	    <div class="col-md-2">
-	      <div class="pointer_style" id="ver_respuestas_div">
-		<div style="display: inline-block">
-		  <img class="img_btn" id="ver_respuestas_img" src="assets/img/ver_respuestas_off.png">
-		</div>
-		<div id="ver_respuestas" style="display: inline-block">Respuestas</div>
-	      </div>
-	    </div>
-	    <div class="col-md-2">
-	      <div class="pointer_style" id="vista_previa_div">
-		<div style="display: inline-block">
-		  <img class="img_btn" src="assets/img/vista_previa.png">
-		</div>
-		<div id="vista_previa" style="display: inline-block">Vista previa</div>
-	      </div>
-	    </div>
-	    <div class="col-md-3">
-	      <div>
-		<div style="display: inline-block">
-		  <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
-		</div>
-		<div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
-	      </div>
-	    </div>
-	    <div class="col-md-4"></div>
-	  </div>
-        </div>
-	<div class="col-md-1 logo_castillo_container">
-            <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+          <div class="col-md-2">
+            <div class="pointer_style" id="vista_previa_div">
+              <div style="display: inline-block">
+                <img class="img_btn" src="assets/img/vista_previa.png">
+              </div>
+              <div id="vista_previa" style="display: inline-block">Vista previa</div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div>
+              <div style="display: inline-block">
+                <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
+              </div>
+              <div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
+            </div>
+          </div>
+          <div class="col-md-4"></div>
         </div>
       </div>
-     <!--/Header3-->
+      <div class="col-md-1 logo_castillo_container">
+        <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+      </div>
+    </div>
+    <!--/Header3-->
 
-     <!--Title-->
-      <div class="row" id="title">
-	<div class="col-md-6" id="texto">
-          <h3>Generador de ex&aacute;menes</h3>
-        </div>
-	<div class="col-md-3" id="botonera_filtros">
-	  <div class="filtro" id="filtro_u1">Unidad 1</div>
-	  <div class="filtro" id="filtro_u2">Unidad 2</div>
-	  <div class="filtro" id="filtro_u3">Unidad 3</div>
-	  <div class="filtro" style="color:#C83335" id="filtro_todos">Todas</div>
-	</div>
-	<div class="col-md-3 collapsed" id="contador_a_preview">
-	  <div class="row">
-	    <div class="col-md-7" id="a"  style='margin-top:2px;'></div>
-	    <div class="col-md-2" style="margin-left: -30px">
-	      <div class='circle' id='go_to_preview'>
-		<button class='arrow'>
+    <!--Title-->
+    <div class="row" id="title">
+      <div class="col-md-6" id="texto">
+        <h3>Generador de ex&aacute;menes</h3>
+      </div>
+      <div class="col-md-3" id="botonera_filtros">
+        <div class="filtro" id="filtro_u1">Unidad 1</div>
+        <div class="filtro" id="filtro_u2">Unidad 2</div>
+        <div class="filtro" id="filtro_u3">Unidad 3</div>
+        <div class="filtro" style="color:#C83335" id="filtro_todos">Todas</div>
+      </div>
+      <div class="col-md-3 collapsed" id="contador_a_preview">
+        <div class="row">
+          <div class="col-md-7" id="a" style='margin-top:2px;'></div>
+          <div class="col-md-2" style="margin-left: -30px">
+            <div class='circle' id='go_to_preview'>
+              <button class='arrow'>
 		  <svg viewBox='-18 0 100 80' xml:space='preserve'>
 		    <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
 		  </svg>
 		</button>
-	      </div>
-	    </div>
-	  </div>
-	</div>
-      </div>
-      <!--/Title-->
-
-      <!--Main content-->
-      <div class="row" id="main_content">
-        <!--Cards-->
-        <div class="col-md-12" id="ae_container"></div>
-        <!--/Cards-->
-        <div class="collapsed" id="ae_seleccionado"> <!-- col-md-2 -->
-          <div id="sidebar_text">
+            </div>
           </div>
-          <div class="circle" id="back_to_AE">
-            <button class="arrow">
+        </div>
+      </div>
+    </div>
+    <!--/Title-->
+
+    <!--Main content-->
+    <div class="row" id="main_content">
+      <!--Cards-->
+      <div class="col-md-12" id="ae_container"></div>
+      <!--/Cards-->
+      <div class="collapsed" id="ae_seleccionado">
+        <!-- col-md-2 -->
+        <div id="sidebar_text">
+        </div>
+        <div class="circle" id="back_to_AE">
+          <button class="arrow">
               <svg viewBox="-5 0 100 80" xml:space="preserve">
                 <polyline points="45.63,75.8 0.375,38.087 45.63,0.375"/>
               </svg>
             </button>
-          </div>
-        </div>
-        <div class="collapsed" id="ae_sub">
-          <div class="row">
-            <div class="collapsed" id="reactivos"></div>
-	    <div class="collapsed" id="lista_final"></div>
-            <div class="collapsed" id="preview_reactivo"></div>
-          </div>
         </div>
       </div>
-      <!--/Main content-->
-
-      <!--Footer-->
-      <div class="row">
-        <div class="col-md-12" id="footer">
-          D.R. &copy; 2017 | Ediciones Castillo, S.A. de C.V. <br/>
-          TODOS LOS DERECHOS RESERVADOS
+      <div class="collapsed" id="ae_sub">
+        <div class="row">
+          <div class="collapsed" id="reactivos"></div>
+          <div class="collapsed" id="lista_final"></div>
+          <div class="collapsed" id="preview_reactivo"></div>
         </div>
       </div>
-      <!--/Footer-->
     </div>
-    <div class="overlay" id="examen_html"></div>
-  </body>
+    <!--/Main content-->
+
+    <!--Footer-->
+    <div class="row">
+      <div class="col-md-12" id="footer">
+        D.R. &copy; 2017 | Ediciones Castillo, S.A. de C.V. <br/> TODOS LOS DERECHOS RESERVADOS
+      </div>
+    </div>
+    <!--/Footer-->
+  </div>
+  <div class="overlay" id="examen_html"></div>
+</body>
+
 </html>
