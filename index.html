@@ -20,16 +20,6 @@
 
 
   <script>
-    $(document).keypress(function(e) { //EventListener DEBUG
-      if (e.which === 13) {
-        $("#reactivos input").prop('checked', true);
-        seleccionados_a_preview();
-        seleccionados_a_print();
-        $("#examen_html").css("padding", "8% 25%");
-        $("#examen_html").css("height", "100%");
-      }
-    });
-
     $(document).ready(function() {
 
       init("Espa&ntilde;ol&nbsp;&nbsp;3&deg;", "espaniol.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
@@ -48,8 +38,6 @@
 
           text = text.replace("class=\"ocultar_texto\"", "");
 
-          //alert(text);
-
           var idAE = $(this).attr("idAE");
 
           $("#header").addClass("collapsed");
@@ -60,7 +48,6 @@
           $("#title").toggle();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
           $("#ae_sub").toggleClass("collapsed col-md-10");
-
 
           $("#reactivos").removeClass("collapsed");
           $("#reactivos").addClass("col-md-12");
@@ -310,7 +297,7 @@
               <svg viewBox="-5 0 100 80" xml:space="preserve">
                 <polyline points="45.63,75.8 0.375,38.087 45.63,0.375"/>
               </svg>
-            </button>
+          </button>
         </div>
       </div>
       <div class="collapsed" id="ae_sub">
