@@ -1,0 +1,307 @@
+[
+  {
+    "caratula": "Sociedad y naturaleza en el espacio geográfico",
+    "nombreAE": "<b>Explica</b> relaciones entre la sociedad y la naturaleza en diferentes lugares del mundo a partir de los componentes y las características del espacio geográfico.",
+    "reactivos": [
+      {
+        "reactivo": "Lee el siguiente texto: <br> <p style='font-size: 8pt;'> Ubicada en el estado de Querétaro, la Peña de Bernal es un monolito de 360 metros de altura, considerado como el tercero más grande del mundo. Su formación se originó a partir del nacimiento de un volcán, hace varios millones de años. Éste hizo erupción hasta que su chimenea se bloqueó con la lava, la cual se solidificó, de modo que el cuerpo exterior se erosionó hasta dejar al descubierto un gran tapón de roca. En las faldas de la peña se encuentra el pueblo de Bernal, cuyo territorio fue habitado primero por grupos chichimecas y, a partir de 1642, por españoles, los cuales hicieron que los indígenas construyeran hermosos templos y otros edificios de cantera. Estos elementos naturales y arquitectónicos han convertido a Bernal en un atractivo turístico donde sus artesanos confeccionan prendas de lana y también se preparan sabrosos dulces de leche. </p> <br> ¿Qué componentes naturales y culturales han convertido al pueblo de Bernal en un atractivo turístico? ",
+        "respuestas": {
+          "A": "Las prendas de lana y los dulces.",
+          "B": "La peña y las construcciones coloniales.",
+          "C": "Las construcciones de los chichimecas y las prendas de lana.",
+          "D": "La peña y las artesanías."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son los componentes económicos de Pátzcuaro? <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP1_2_L1.pdf' target='_blank'>El Municipio de Pátzcuaro</a>",
+        "respuestas": {
+          "A": "La población de 47 993 habitantes, de los cuales 4 840 hablan alguna lengua indígena.",
+          "B": "La venta de artesanías y el turismo.",
+          "C": "El clima semitemplado húmedo con lluvias en verano.",
+          "D": "La arquitectura tradicional."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para analizar la pérdida de tradiciones en Pátzcuaro, ¿qué componentes del espacio geográfico se deben estudiar con mayor detenimiento? <a href='assets/data/img_asociadas/GE1ED1_GX_AP1_2_L1.pdf' target='_blank'>El Municipio de Pátzcuaro</a>",
+        "respuestas": {
+          "A": "Los sociales.@",
+          "B": "Los naturales.",
+          "C": "Los económicos.",
+          "D": "Los tradicionales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El análisis del espacio geográfico se puede realizar en distintas escalas. En este caso, con base en el estudio del espacio geográfico de Michoacán, ¿qué categoría se necesita? <br> Lee la siguiente ficha. <a href='assets/data/img_asociadas/GE1ED1_GX_AP1_2_L1.pdf' target='_blank'>El Municipio de Pátzcuaro</a>",
+        "respuestas": {
+          "A": "Nacional",
+          "B": "Global",
+          "C": "Internacional",
+          "D": "Local@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para comprender la manera en que los componentes sociales se encuentran dispuestos en Pátzcuaro, necesitamos conocer su... <br> Lee la siguiente ficha. <a href='assets/data/img_asociadas/GE1ED1_GX_AP1_2_L1.pdf' target='_blank'>El Municipio de Pátzcuaro</a>",
+        "respuestas": {
+          "A": "diversidad.",
+          "B": "temporalidad y cambio.",
+          "C": "relación e interacción.",
+          "D": "distribución.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A Pátzcuaro y sus alrededores se les considera como una región geográfica porque... <br> Lee la siguiente ficha. <a href='assets/data/img_asociadas/GE1ED1_GX_AP1_2_L1.pdf' target='_blank'>El Municipio de Pátzcuaro</a>",
+        "respuestas": {
+          "A": "tienen características que los distinguen de otros lugares del estado de Michoacán.@",
+          "B": "existe una población indígena que se dedica a las artesanías y al comercio.",
+          "C": "poseen componentes económicos y sociales.",
+          "D": "su población y el paisaje son tanto naturales como sociales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La manera en que se relacionan los componentes naturales, económicos y sociales le dan a Pátzcuaro una apariencia particular, también conocida como... <br> Lee la siguiente ficha. <a href='assets/data/img_asociadas/GE1ED1_GX_AP1_2_L1.pdf' target='_blank'>El Municipio de Pátzcuaro</a>",
+        "respuestas": {
+          "A": "vista.",
+          "B": "panorámica.",
+          "C": "paisaje.@",
+          "D": "región."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A qué tipo de componente del espacio geográfico hace referencia el siguiente párrafo? <p style='font-size: 8pt;'> En Puebla, México, algunos deslizamientos de tierra se generan por la relación entre los tipos de rocas y suelos; el relieve (lugares montañosos con pendientes fuertes); cantidad de lluvia en el área, y actividad sísmica, entre otros.</p>",
+        "respuestas": {
+          "A": "Culturales.",
+          "B": "Sociales.",
+          "C": "Naturales.@",
+          "D": "Económicos."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Representaciones cartográficas",
+    "nombreAE": "<b>Interpreta</b> representaciones cartográficas para obtener información de diversos lugares, regiones, paisajes y territorios.",
+    "reactivos": [
+      {
+        "reactivo": "<p style='font-size: 8pt;'>Lee el siguiente texto: <br> Ubicada en el estado de Querétaro, la Peña de Bernal es un monolito de 360 metros de altura, considerado como el tercero más grande del mundo. Su formación se originó a partir del nacimiento de un volcán, hace varios millones de años. Éste hizo erupción hasta que su chimenea se bloqueó con la lava, la cual se solidificó, de modo que el cuerpo exterior se erosionó hasta dejar al descubierto un gran tapón de roca. En las faldas de la peña se encuentra el pueblo de Bernal, cuyo territorio fue habitado primero por grupos chichimecas y, a partir de 1642, por españoles, los cuales hicieron que los indígenas construyeran hermosos templos y otros edificios de cantera. Estos elementos naturales y arquitectónicos han convertido a Bernal en un atractivo turístico donde sus artesanos confeccionan prendas de lana y también se preparan sabrosos dulces de leche.</p> <br> ¿Qué escala es la más adecuada para representar a la peña y el pueblo de Bernal en un folleto turístico?",
+        "respuestas": {
+          "A": "Local",
+          "B": "Nacional",
+          "C": "Mundial",
+          "D": "Estatal"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Según la escala de representación, ¿qué proyección cartográfica es la más adecuada para representar al estado de Querétaro?",
+        "respuestas": {
+          "A": "Acimutal polar",
+          "B": "De Peters",
+          "C": "Cónica@",
+          "D": "Acimutal ecuatorial"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si queremos ver en un mapa las poblaciones de una región, necesitamos usar un mapa con escala...",
+        "respuestas": {
+          "A": "pequeña, de 1:1 000 000",
+          "B": "mediana, de 1:2 000 000",
+          "C": "grande, de 1:50 000@",
+          "D": "inmensa, de 1:3 000 000"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuando se habla en el texto de la ubicación de Pátzcuaro, se otorga una... Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP1_2_L1.pdf' target='_blank'>El Municipio de Pátzcuaro</a>",
+        "respuestas": {
+          "A": "localización irregular",
+          "B": "localización absoluta@",
+          "C": "localización indispensable",
+          "D": "localización relativa"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Información geográfica representada con recursos tecnológicos",
+    "nombreAE": "<b>Emplea</b> recursos tecnológicos para obtener y representar información geográfica en las escalas: local, nacional y mundial.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de los siguientes ejemplos corresponde a una utilidad del GPS?",
+        "respuestas": {
+          "A": "Trazar mapas.",
+          "B": "Monitorear especies en peligro de extinción.",
+          "C": "Rastrear vehículos en movimiento.",
+          "D": "B y C.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un investigador del Instituto de Geografía quiere saber qué poblaciones se verían afectadas por la erupción del volcán de Colima. ¿Qué tipo de recurso tecnológico le ayudaría a saber esto?",
+        "respuestas": {
+          "A": "Fotografías aéreas.",
+          "B": "Imágenes de satélite ",
+          "C": "Sistema de Información Geográfica@",
+          "D": "Sistema de Posicionamiento Global"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes enunciados describe una ventaja del uso de recursos tecnológicos para el análisis de la información geográfica? ",
+        "respuestas": {
+          "A": "No se pueden actualizar constantemente.",
+          "B": "Gracias a estos ya no es necesario realizar estudios de campo.",
+          "C": "Permiten el manejo de documentos impresos como libros, revistas y periódicos.",
+          "D": "Permiten hacer consultas interactivas, analizar múltiples variables, editar gran cantidad de datos y presentar los resultados en un mapa.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes características corresponde a una imagen de satélite?",
+        "respuestas": {
+          "A": "Son una representación fiel del territorio.@",
+          "B": "Son más caras que realizar un estudio de campo.",
+          "C": "Es necesario ser un especialista para obtener información de ellas.",
+          "D": "No se obtienen de manera rápida."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El GPS es un sistema de...",
+        "respuestas": {
+          "A": "rastreo",
+          "B": "seguridad",
+          "C": "localización@",
+          "D": "comunicación"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Procesos internos y externos de la Tierra",
+    "nombreAE": "<b>Explica</b> la relación entre la distribución de los tipos de relieve, las regiones sísmicas y volcánicas, con los procesos internos y externos de la Tierra.",
+    "reactivos": [
+      {
+        "reactivo": "La erosión del suelo se puede originar por...",
+        "respuestas": {
+          "A": "la vegetación, el viento y las aguas fluviales.",
+          "B": "la vegetación, la fauna y la lluvia.",
+          "C": "la ausencia de vegetación, de ríos y de cascadas.@",
+          "D": "la ausencia de vegetación, los cultivos y la industria."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La Sierra Gorda pertenece a un relieve mayor denominado... <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L1.pdf' target='_blank'>El Mundo de la Sierra Gorda</a>",
+        "respuestas": {
+          "A": "Sierra Madre Oriental.@",
+          "B": "Sierra Alta de Hidalgo.",
+          "C": "Lomeríos de la Huasteca.",
+          "D": "Cuesta de Huazmazontla."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Analiza el mapa de placas tectónicas y, con la ayuda del texto, responde qué tipo de movimiento originó los Alpes. <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_L2.pdf' target='_blank'>Los Alpes</a>",
+        "respuestas": {
+          "A": "Divergente.",
+          "B": "Transformante.",
+          "C": "Convergente.@",
+          "D": "Trepidante."
+        },
+        "img_asociada": "data/img_asociadas/SIN_GE1ED1_GX_AP4_IMG.png"
+      },
+      {
+        "reactivo": "Los grandes bloques en que se fractura la litósfera reciben el nombre de placas tectónicas, que se encuentran en continuo movimiento. Debido a la dinámica interna de la Tierra, éstas se derivan de dos fenómenos naturales:",
+        "respuestas": {
+          "A": "tornados y huracanes.",
+          "B": "vulcanismo y sismicidad.",
+          "C": "tsunamis y maremotos.",
+          "D": "sequías e inundaciones."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los movimientos y límites entre las placas forman los distintos tipos de relieve, como las fallas y las montañas, entre otros. ¿A qué tipo corresponde una montaña de plegamiento? <br> Lee la siguiente ficha <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L3.pdf' target='_blank'>Los Andes Tropicales en América del Sur</a>",
+        "respuestas": {
+          "A": "Límite convergente.@",
+          "B": "Límite divergente.",
+          "C": "Límite absoluto.",
+          "D": "Límite transformante."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Aguas continentales y oceánicas",
+    "nombreAE": "<b>Analiza</b> la distribución y dinámica de las aguas continentales y oceánicas de la Tierra.",
+    "reactivos": [
+      {
+        "reactivo": "Observa las gráficas y elige la opción que muestre los porcentajes adecuados de distribución del agua dulce en nuestro planeta.",
+        "respuestas": {
+          "A": "30% agua congelada, 69.7% agua superficial y 0.3 agua subterránea.",
+          "B": "0.3% agua congelada, 30% agua superficial y 69.7 agua subterránea.",
+          "C": "69.7% agua congelada, 30% agua superficial y 0.3 agua subterránea.",
+          "D": "69.7% agua congelada, 0.3% agua superficial y 30% agua subterránea.@"
+        },
+        "img_asociada": "data/img_asociadas/SINGE1SB_1E18_S4.png"
+      },
+      {
+        "reactivo": "De acuerdo con el siguiente mapa, ¿qué opción presenta las corrientes marinas que se aproximan a México y de qué tipo son?",
+        "respuestas": {
+          "A": "Contracorriente ecuatorial, fría; corriente ecuatorial del Atlántico Norte, cálida; corriente del Pacífico Norte, cálida.",
+          "B": "Corriente del Golfo, cálida; corriente de California, cálida; corriente ecuatorial del Norte, fría.",
+          "C": "Corriente del Golfo, cálida; corriente de California, fría; corriente ecuatorial del Norte, cálida.@",
+          "D": "Corriente de Humboldt, fría; corriente ecuatorial del Atlántico Sur, cálida; corriente de California, fría."
+        },
+        "img_asociada": "data/img_asociadas/GE1ED1_GX_AP5_IMG2.jpg"
+      },
+      {
+        "reactivo": "Por su ubicación, ¿hacia cuál vertiente desembocan los ríos que cruzan la Sierra Gorda? <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L1.pdf' target='_blank'>El Mundo de la Sierra Gorda</a>",
+        "respuestas": {
+          "A": "Vertiente interior.",
+          "B": "Vertiente oriental.@",
+          "C": "Vertiente del Golfo.",
+          "D": "Vertiente del Pacífico."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué, cuando se contamina el agua, se dice que se contamina todo el planeta? <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_L2.pdf' target='_blank'>Los Alpes</a>",
+        "respuestas": {
+          "A": "Porque si ésta se pierde no la podemos recuperar.",
+          "B": "Porque al contaminarla también contaminamos los mares y ríos.",
+          "C": "Porque ésta tiene un ciclo que pasa por la hidrosfera, la atmósfera y la litosfera.@",
+          "D": "Porque necesitamos de ella para vivir."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son dos de las corrientes marinas cálidas que, al pasar por las costas de México, aumentan la temperatura del aire y el grado de humedad.",
+        "respuestas": {
+          "A": "De Baja California y de Labrador",
+          "B": "Ecuatorial y del Caribe@",
+          "C": "Ecuatorial y de Labrador",
+          "D": "Benguela y de Humboldt"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  }
+]
