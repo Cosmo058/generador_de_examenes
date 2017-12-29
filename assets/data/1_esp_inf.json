@@ -1,0 +1,329 @@
+[
+  {
+    "caratula": "Lee, escribe y ordena números naturales hasta 100.",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "Identifica la palabra que está mal escrita.",
+        "respuestas": {
+          "A": "Buelo@",
+          "B": "Buñuelo",
+          "C": "Broma",
+          "D": "Blanco"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Resuelve problemas de suma y resta con números naturales menores que 100",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál es un listado del contenido de un libro u otra publicación?",
+        "respuestas": {
+          "A": "La bibliografía.",
+          "B": "El glosario.",
+          "C": "El apéndice.",
+          "D": "El índice.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la función de los subtítulos?",
+        "respuestas": {
+          "A": "Dividir en partes el libro para que sea más fácil de leer.",
+          "B": "Dividir en partes el título para que se comprenda major.",
+          "C": "Dividir en partes el tema principal para poder desarrollarlo.@",
+          "D": "No tiene una función en específico."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1,2]
+  },
+  {
+    "caratula": "Estima, compara y ordena eventos usando unidades convencionales de tiempo: día, semana y mes",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué verbo está conjugado en copretérito?",
+        "respuestas": {
+          "A": "Buscar",
+          "B": "Buscó",
+          "C": "Busqué",
+          "D": "Buscaba@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué oración está en tiempo presente?",
+        "respuestas": {
+          "A": "María fue a casa de sus abuelitos.",
+          "B": "Hay que ir por los pasaportes.",
+          "C": "Mañana iremos por tu mascota.",
+          "D": "Yo voy en el autobús.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Narraciones literarias infantiles",
+    "nombreAE": "<b>Lee</b> narraciones de la tradición literaria infantil",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué oración indica causa y efecto?",
+        "respuestas": {
+          "A": "El cielo está muy nublado y no me gusta.",
+          "B": "Quiero irme de vacaciones a la playa.",
+          "C": "Quiero ir al cine.",
+          "D": "Debido a que ayer llovió y me mojé hoy estoy enfermo.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Elaboración de resúmenes",
+    "nombreAE": "<b>Elabora</b> resúmenes en los que se describen procesos naturales.",
+    "reactivos": [
+      {
+        "reactivo": "Hay una afirmación que es correcta sobre el uso del punto, ¿cuál es?",
+        "respuestas": {
+          "A": "Se usa al terminar una palabra.",
+          "B": "Se usa al inicio de cada oración.",
+          "C": "Se usa para separar oraciones.@",
+          "D": "Se usa para separar una palabra de otra."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tipo de oraciones forman un párrafo?",
+        "respuestas": {
+          "A": "Largas y cortas.",
+          "B": "Necesarias y prescindibles.",
+          "C": "Figuradas y literales",
+          "D": "Introductorias y de apoyo.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2]
+  },
+  {
+    "caratula": "Canciones infantiles",
+    "nombreAE": "<b>Entona</b> y comparte canciones infantiles. ",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué expresan los signos de admiración?",
+        "respuestas": {
+          "A": "Una emoción.@",
+          "B": "Una pregunta.",
+          "C": "Una duda.",
+          "D": "Un consejo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En cuál oración se expresa dolor?",
+        "respuestas": {
+          "A": "¿Te duele mucho?",
+          "B": "¡Ay, qué susto me diste!",
+          "C": "¿Dónde te pegaste?",
+          "D": "¡Ay, me piqué con la aguja!@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de estas oraciones NO tiene rima?",
+        "respuestas": {
+          "A": "Mientes con todos los dientes.",
+          "B": "El cabello del apache es negro azabache.",
+          "C": "El cielo tiene nubes en forma de caramelos.@",
+          "D": "Mis guantes son muy elegantes."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2]
+  },
+  {
+    "caratula": "Textos periodísticos",
+    "nombreAE": "<b>Explora</b> las distintas secciones del periódico y elige entre la información dada por los diferentes textos periodísticos, una noticia relevante. ",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de estas palabras NO corresponde a los propósitos del periódico?",
+        "respuestas": {
+          "A": "Informar.",
+          "B": "Orientar.",
+          "C": "Confundir.@",
+          "D": "Entretener."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2]
+  },
+  {
+    "caratula": "Descripción de lugares",
+    "nombreAE": "<b>Escribe</b> textos en los que se describe lugares.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál es el texto que consta de pocas hojas y se entrega a las personas en la mano?",
+        "respuestas": {
+          "A": "Libro.",
+          "B": "Monografía.",
+          "C": "Manual.",
+          "D": "Folleto.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son los dos tipos de folleto que existen?",
+        "respuestas": {
+          "A": "Publicitario e informativo.@",
+          "B": "Verdadero y falso.",
+          "C": "Largo y corto.",
+          "D": "Blanco y negro y a color."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de estas partes NO corresponde al folleto?",
+        "respuestas": {
+          "A": "Portada.",
+          "B": "Prólogo.@",
+          "C": "Contraportada.",
+          "D": "Páginas interiores."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué tipo de texto podemos encontrar las características de seres, objetos, lugares o procesos?",
+        "respuestas": {
+          "A": "Texto expositivo.",
+          "B": "Texto descriptivo.@",
+          "C": "Texto periodístico.",
+          "D": "Texto narrativo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué NO forma parte de un texto descriptivo?",
+        "respuestas": {
+          "A": "Explicar con detalle algo.",
+          "B": "Dar opiniones sobre algo.@",
+          "C": "Exponer los pasos a seguir.",
+          "D": "Presentar las características de algo."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },
+  {
+    "caratula": "Trabalenguas y juego de palabras",
+    "nombreAE": "<b>Practica</b> y crea trabalenguas y juegos de palabras (sopa de letras, trabalenguas, basta, calambures, jitanjáforas, paronomasias).",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué palabra NO forma parte de la familia léxica?",
+        "respuestas": {
+          "A": "Incendio.",
+          "B": "Incendiado.",
+          "C": "Incentivo.@",
+          "D": "Incendiario."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué elemento comparten las palabras de una misma familia léxica?",
+        "respuestas": {
+          "A": "Las letras finales.",
+          "B": "La raíz.@",
+          "C": "El acento.",
+          "D": "Las consonantes."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tipo de palabras son las que suenan igual pero se escriben diferente?",
+        "respuestas": {
+          "A": "Esdrújulas.",
+          "B": "Homófonas.@",
+          "C": "Agudas.",
+          "D": "No existen esas palabras."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Identifica la oración que contiene palabras homófonas.",
+        "respuestas": {
+          "A": "Tengo que cortar el pasto verde y esponjoso.",
+          "B": "El coche de mi mamá está muy sucio.",
+          "C": "Sin querer he roto el florero de cristal de mi tía.",
+          "D": "Mi abuela, que es muy sabia, me ha curado con savia mi raspón.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },
+  {
+    "caratula": "Elaboración de avisos",
+    "nombreAE": "<b>Elabora</b> avisos para difundir algún producto o servicio entre la comunidad escolar.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de estas oraciones NO está escrita en voz pasiva?",
+        "respuestas": {
+          "A": "Mi mamá me compró un helado.@",
+          "B": "El boleto para el cine fue comprado por mi papá.",
+          "C": "El accidente fue provocado por el pavimento mojado.",
+          "D": "El castillo de Chapultepec fue defendido por los niños héroes."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál frase está en voz pasiva?",
+        "respuestas": {
+          "A": "La marea subirá en el verano.",
+          "B": "Pablo ganó el premio Nobel.",
+          "C": "El pueblo fue inundado por el río.@",
+          "D": "El grupo 3° “A” bailó una danza."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },
+  {
+    "caratula": "Obras de teatro infantil",
+    "nombreAE": "<b>Lee</b> obras de teatro infantil.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de estos enunciados es una frase adverbial?",
+        "respuestas": {
+          "A": "Mi mamá tiene un vestido rojo.",
+          "B": "Yo quiero un helado de fresa con chocolate.",
+          "C": "El coche negro es de mi papá.",
+          "D": "La princesa y el príncipe vivieron felices para siempre.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el adverbio en: “¡Se me ha hecho tarde!”?",
+        "respuestas": {
+          "A": "Se.",
+          "B": "Me.",
+          "C": "Ha.",
+          "D": "Tarde.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  }
+]
