@@ -153,10 +153,13 @@
 
       bind_filter_events();
 
-      
+
 
       //---------Tabs
       var active_tab = getUrlParameter("active_tab");
+      if(active_tab!==undefined){
+        $(".tab").removeClass("active");
+      }
       $("#"+active_tab).addClass("active");
 
 
@@ -166,8 +169,8 @@
       $("#tab_mat").click(function(){
         location.href='index.html?nombre_generador=Matemáticas&json_file=matematicas.json&active_tab=tab_mat';
       });
-      $("#tab_cie").click(function(){
-        location.href='index.html?nombre_generador=Ciencias%20Naturales&json_file=biologia.json&active_tab=tab_cie';
+      $("#tab_cdm").click(function(){
+        location.href='index.html?nombre_generador=Conocimiento%20del%20medio&json_file=biologia.json&active_tab=tab_cdm';
       });
       //--------/Tabs
 
@@ -278,9 +281,9 @@
       <div class="col-md-3"></div>
       <div class="col-md-6">
         <div class="row" style="text-align:center;">
-          <div class="tab" id="tab_esp">Espa&ntilde;ol</div>
+          <div class="tab active" id="tab_esp">Espa&ntilde;ol</div>
           <div class="tab" id="tab_mat">Matem&aacute;ticas</div>
-          <div class="tab" id="tab_cie">Ciencias Naturales</div>
+          <div class="tab" id="tab_cdm">Conocimiento del medio</div>
         </div>
       </div>
       <div class="col-md-3"></div>
