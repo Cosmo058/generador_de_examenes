@@ -21,8 +21,14 @@
 
   <script>
     $(document).ready(function() {
+      var nombre_generador = getUrlParameter("nombre_generador");
+      var json_file = getUrlParameter("json_file");
 
-      init("Espa&ntilde;ol&nbsp;&nbsp;1&deg;", "1_esp_inf.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+      if(nombre_generador!=undefined && json_file!=undefined){
+        init(nombre_generador,json_file);
+      }else{
+        init("Espa&ntilde;ol&nbsp;&nbsp;1&deg;", "taller_lectura.json");
+      }
 
       $(document).ajaxComplete(function() {
         centrar_tarjetas();
@@ -147,9 +153,23 @@
 
       bind_filter_events();
 
-      //	window.onbeforeunload = function() {
-      //	  return "Data will be lost if you leave the page, are you sure?";
-      //	};
+      
+
+      //---------Tabs
+      var active_tab = getUrlParameter("active_tab");
+      $("#"+active_tab).addClass("active");
+
+
+      $("#tab_esp").click(function(){
+        location.href='index.html?nombre_generador=Español&json_file=espaniol.json&active_tab=tab_esp';
+      });
+      $("#tab_mat").click(function(){
+        location.href='index.html?nombre_generador=Matemáticas&json_file=matematicas.json&active_tab=tab_mat';
+      });
+      $("#tab_cie").click(function(){
+        location.href='index.html?nombre_generador=Ciencias%20Naturales&json_file=biologia.json&active_tab=tab_cie';
+      });
+      //--------/Tabs
 
     });
   </script>
@@ -157,7 +177,6 @@
 
 <body>
   <div class="container">
-
     <!-- Header -->
     <div class="row" id="header">
       <div class="col-md-2 materia_section">
@@ -255,6 +274,18 @@
     </div>
     <!--/Header3-->
 
+    <div class="row">
+      <div class="col-md-3"></div>
+      <div class="col-md-6">
+        <div class="row" style="text-align:center;">
+          <div class="tab" id="tab_esp">Espa&ntilde;ol</div>
+          <div class="tab" id="tab_mat">Matem&aacute;ticas</div>
+          <div class="tab" id="tab_cie">Ciencias Naturales</div>
+        </div>
+      </div>
+      <div class="col-md-3"></div>
+    </div>
+
     <!--Title-->
     <div class="row" id="title">
       <div class="col-md-6" id="texto">
@@ -272,10 +303,10 @@
           <div class="col-md-2" style="margin-left: -30px">
             <div class='circle' id='go_to_preview'>
               <button class='arrow'>
-		  <svg viewBox='-18 0 100 80' xml:space='preserve'>
-		    <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
-		  </svg>
-		</button>
+	               <svg viewBox='-18 0 100 80' xml:space='preserve'>
+		               <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
+                 </svg>
+	            </button>
             </div>
           </div>
         </div>

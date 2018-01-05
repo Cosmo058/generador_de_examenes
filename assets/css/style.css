@@ -1,7 +1,7 @@
 @font-face { font-family: 'Lato'; font-weight: normal; src: url('../fonts/lato/Lato-Regular.ttf') format('truetype'); }
 @font-face { font-family: 'Lato'; font-weight: bold; src: url('../fonts/lato/Lato-Bold.ttf') format('truetype'); }
 @font-face { font-family: 'Lato'; font-weight: lighter; src: url('../fonts/lato/Lato-Light.ttf') format('truetype'); }
-/*@font-face { font-family: 'Lato'; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf') format('truetype'); }*/
+@font-face { font-family: 'Lato'; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf') format('truetype'); }
 
 body{
   font-family: 'Lato',sans-serif;
@@ -120,14 +120,14 @@ ol{
 #ae_seleccionado div{
   text-align: center;
 }
-
+/*
 #header,#header2,#header3{
   border-bottom: solid 2px;
   border-color: #EEE;
   padding-top: 14px;
   padding-bottom: 10px;
 }
-
+*/
 .logo_castillo_container{
   padding-right: 23px;
   padding-top: 20px;
@@ -137,9 +137,9 @@ ol{
 
 #materia_title{
   height: 50%;
-  
+
   width: 166px; margin-left: 100px; /*TODO*/
-  
+
   border-bottom: solid thin;
   border-color: #C83335;
   font-weight: bold;
@@ -298,6 +298,31 @@ input[type=checkbox]{
   width: 100%;
 }
 
+.tab{
+  padding: 1em;
+  display: inline-block;
+  background-color: #7C7C7C;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  font-weight: 550;
+  color: #fff;
+  border: 1px solid #DDD;
+  border-bottom: none;
+
+  transition: background-color 0.3s ease;
+}
+.tab.active{
+  color: #7c7c7c;
+  background-color: #F6F6F6;
+}
+.tab:hover{
+  background-color: #AAA;
+}
+.tab.active:hover{
+  color: #7c7c7c;
+  background-color: #F6F6F6;
+}
+
 li img{
   width: 100%;
 }
@@ -411,7 +436,7 @@ span.ocultar_texto{
   }
 }
 
-@-moz-document url-prefix() { 
+@-moz-document url-prefix() {
   .card_content div{
     display: table-cell;
   }

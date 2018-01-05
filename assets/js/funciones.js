@@ -10,7 +10,7 @@ function centrar_tarjetas(){
 function igualar_altura_logos(){
   var altura_logo_castillo = $(".logo_castillo_container").css('height');
   $('.materia_section').css('height',altura_logo_castillo);
-  
+
   //var altura_title = $("#texto").css('height');
   //$('#contador_a_preview').css('height',altura_title);
 }
@@ -23,16 +23,16 @@ function mostrar_ancho(){
 
 function seleccionados_a_preview(){
   $("#lista_final").empty();
-  
+
   var idsReactivos = [];
   $("input:checked").each(function(){
     idsReactivos.push($(this).attr("id"));
   });
-  
+
   for(var selected in idsReactivos){
     $("#reactivos .card2").each(function(){
       var $card_tmp = $(this).clone();
-      
+
       if( $(this).attr("idAE")=== idsReactivos[selected].split("_")[0] && $(this).attr("idReactivo")=== idsReactivos[selected].split("_")[1] ){
         $("#lista_final").append($card_tmp.removeClass("collapsed"));
       }
@@ -44,33 +44,33 @@ function seleccionados_a_print(){
   $("#examen_html").empty();
   $("#examen_html").append("<a class='closebtn'>&times;</a>");
   $("#examen_html").append("<a class='printbtn'><img style='width:1em;' src='assets/img/icon/printer.svg'></a>");
-  
+
   $(".closebtn").click(function(){
     $("#examen_html").css("padding","0px");
     $("#examen_html").css("height","0%");
   });
-  
+
   $(".printbtn").click(function(){
     window.print();
   });
-  
-  
+
+
   $("#examen_html").append('<p>Nombre:________________________________________ Grupo:_______ Fecha:__________</p><br/>');
-  
+
   var idsReactivos = [];
   var contador = 1;
-  
+
   $("#lista_final input:checked").each(function(){
     idsReactivos.push($(this).attr("id"));
   });
-  
+
   for(var selected in idsReactivos){
     $("#preview_reactivo div").each(function(){
       var $card_tmp = $(this).clone();
-      
+
       if( $(this).attr("idAE")=== idsReactivos[selected].split("_")[0] && $(this).attr("idReactivo")=== idsReactivos[selected].split("_")[1] ){
         $card_tmp.removeClass("collapsed");
-        
+
         $card_tmp.find(".respuesta_print").html( contador.toString()+". "+ $card_tmp.find(".respuesta_print").html() );
         contador++;
         $("#examen_html").append($card_tmp);
@@ -78,9 +78,9 @@ function seleccionados_a_print(){
       }
     });
   }
-  
+
   $("#examen_html").append("<br/><p>&copy; Todos los derechos reservados, Ediciones Castillo S.A. de C.V.</p>");
-  
+
   //window.print();
 }
 
@@ -93,7 +93,7 @@ function init(course_name,file_name){
           var texto_caratula = getValuesOf(val,"caratula")[0];
           var unidades_asociadas = getValuesOfArray(val,"unidadesAsociadas");
           //alert("Unidades asociadas: "+unidades_asociadas);
-          
+
           if(v.toString().indexOf('@')!==-1){
             var max_largo = v.toString().indexOf('@');
             $("#ae_container").append("<div class='card' unidades_asociadas='"+unidades_asociadas+"' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+"</span><br/><span class='ocultar_texto'>"+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
@@ -112,7 +112,7 @@ function init(course_name,file_name){
             tmp_html = "<div idAE="+key+" idReactivo="+reactivo+">";
             //Agregando preguntas al DOM...
             tmp_html += "<span class='respuesta_print collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>";
-            
+
             if(v[reactivo]["img_asociada"]!=="" && v[reactivo]["img_asociada"]!==undefined){
               if(v[reactivo]["size"]!=="" && v[reactivo]["size"]!==undefined){
                 tmp_html += "<span idAE="+key+" idReactivo="+reactivo+" class='collapsed'><img style='width:"+v[reactivo]["size"]+";' class='img_asociada' src='assets/"+v[reactivo]["img_asociada"]+"'><br/><br/></span>";
@@ -120,7 +120,7 @@ function init(course_name,file_name){
                 tmp_html += "<span idAE="+key+" idReactivo="+reactivo+" class='collapsed'><img class='img_asociada' src='assets/"+v[reactivo]["img_asociada"]+"'><br/><br/></span>";
               }
             }
-            
+
             tmp_html+="<ol class='collapsed' idAE="+key+" idReactivo="+reactivo+">";
             //Agregando respuestas al DOM...
             for(var respuesta in v[reactivo]["respuestas"]){
@@ -164,14 +164,14 @@ function mostrar_preview_respuestas(opt){
   $(".pregunta_div").click(function(){
     var idAE = $(this).parent().parent().attr("idAE");
     var idReactivo = $(this).parent().parent().attr("idReactivo");
-    
+
     var idAE_previamente_seleccionado = $("#preview_reactivo span:not('.collapsed')").attr('idAE');
     var idReactivo_previamente_seleccionado = $("#preview_reactivo span:not('.collapsed')").attr('idReactivo');
-    
+
     //alert("IDs previos: "+idAE_previamente_seleccionado+","+idReactivo_previamente_seleccionado);
     //alert("IDs clickeados: "+idAE+","+idReactivo);
     //alert(opt!=="no_toggle");
-    
+
     if((opt!=="no_toggle" && idAE === idAE_previamente_seleccionado && idReactivo === idReactivo_previamente_seleccionado)||idAE_previamente_seleccionado == null){
       $("#reactivos").toggleClass("col-md-12 col-md-8");
       $("#preview_reactivo").toggleClass("collapsed col-md-4");
@@ -216,7 +216,7 @@ function bind_filter_events(){
     $(".filtro").css("color","#7C7C7C");
     $("#filtro_u1").css("color","#C83335");
   });
-  
+
   $("#filtro_u2").click(function(){
     $("#ae_container .card").each(function(){
       if($(this).attr("unidades_asociadas").toString().indexOf("2")=="-1"){
@@ -228,7 +228,7 @@ function bind_filter_events(){
     $(".filtro").css("color","#7C7C7C");
     $("#filtro_u2").css("color","#C83335");
   });
-  
+
   $("#filtro_u3").click(function(){
     $("#ae_container .card").each(function(){
       if($(this).attr("unidades_asociadas").toString().indexOf("3")=="-1"){
@@ -240,7 +240,7 @@ function bind_filter_events(){
     $(".filtro").css("color","#7C7C7C");
     $("#filtro_u3").css("color","#C83335");
   });
-  
+
   $("#filtro_todos").click(function(){
     $("#ae_container .card").each(function(){
       $(this).removeClass("collapsed");
@@ -249,3 +249,18 @@ function bind_filter_events(){
     $("#filtro_todos").css("color","#C83335");
   });
 }
+
+function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+};
