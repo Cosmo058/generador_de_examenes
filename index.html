@@ -3,6 +3,7 @@
 
 <head>
   <title>Generador de ex&aacute;menes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" type="text/css" media="screen" href="assets/offline/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
@@ -13,8 +14,13 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-  <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});</script>
-  <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>
+  <script type="text/x-mathjax-config">MathJax.Hub.Config({
+    "HTML-CSS":{linebreakers:{ automatic: false },imageFont:null}
+  });</script>
+
+  <!-- <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script> -->
+  <script src="src/MathJax/MathJax.js?config=TeX-AMS_HTML" type="text/javascript" async></script>
+
   <script src="assets/js/funciones.js"></script>
   <script src="assets/js/controller.js"></script>
 
@@ -32,7 +38,7 @@
 
     $(document).ready(function() {
 
-      init("Matem&aacute;ticas 1", "matematicas.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+      init("Matem&aacute;ticas&nbsp;1", "matematicas.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 
       $(document).ajaxComplete(function() {
         centrar_tarjetas();

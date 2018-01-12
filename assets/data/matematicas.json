@@ -437,9 +437,9 @@
       {
         "reactivo": "Las diagonales de un paralelogramo se cortan en sus puntos medios. ¿Qué argumento justifica esta afirmación? Considera la siguiente figura.",
         "respuestas": {
-          "A": "Los triángulos \\(ABC\\) y \\(ABD\\) son congruentes; por tanto, sus lados correspondientes son iguales, así que \\(\\overline{CB} = \\overline{AD} \\) y O es el punto medio de ambos segmentos.",
+          "A": "Los triángulos \\(ABC\\) y \\(ABD\\) son congruentes; por tanto, sus lados correspondientes son iguales, así que \\(\\overline{CB} = \\overline{AD} \\) y \\(O\\) es el punto medio de ambos segmentos.",
           "B": "La afirmación es incorrecta y por ello no se puede justificar.",
-          "C": "Los triángulos \\(ABO\\) y \\(AOD\\) son congruentes; por tanto, sus lados correspondientes miden lo mismo y \\(\\overline{BO} = \\overline{OD}\\) y O es el punto medio de ambos segmentos.",
+          "C": "Los triángulos \\(ABO\\) y \\(AOD\\) son congruentes; por tanto, sus lados correspondientes miden lo mismo y \\(\\overline{BO} = \\overline{OD}\\) y \\(O\\) es el punto medio de ambos segmentos.",
           "D": "Los triángulos \\(ABO\\) y \\(DOC\\) son congruentes; por tanto, sus elementos correspondientes son iguales, de modo que \\(\\overline{AO} = \\overline{OC}\\) y \\(\\overline{BO} = \\overline{OD}\\).@"
         },
         "img_asociada": "data/img_asociadas/MA1ED1_GX_AP10_IMG2.jpg",

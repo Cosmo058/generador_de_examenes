@@ -13,6 +13,15 @@ ol{
   list-style-type: upper-alpha;
 }
 
+span .MathJax{
+  display: inline-block !important;
+  margin-top: 0.25em;
+}
+
+#preview_reactivo li{
+  margin: 0.6em auto;
+}
+
 #ae_container{
   transition: margin 0.3s ease;
   padding: 3rem 20px;
@@ -137,9 +146,9 @@ ol{
 
 #materia_title{
   height: 50%;
-  
+
   width: 166px; margin-left: 100px; /*TODO*/
-  
+
   border-bottom: solid thin;
   border-color: #C83335;
   font-weight: bold;
@@ -411,7 +420,7 @@ span.ocultar_texto{
   }
 }
 
-@-moz-document url-prefix() { 
+@-moz-document url-prefix() {
   .card_content div{
     display: table-cell;
   }
