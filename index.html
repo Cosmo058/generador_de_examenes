@@ -26,17 +26,23 @@
 
 
   <script>
-    $(document).keypress(function(e) { //EventListener DEBUG
-      if (e.which === 13) {
-        $("#reactivos input").prop('checked', true);
-        seleccionados_a_preview();
-        seleccionados_a_print();
-        $("#examen_html").css("padding", "8% 25%");
-        $("#examen_html").css("height", "100%");
-      }
-    });
-
     $(document).ready(function() {
+
+      var flag = true;
+
+      setTimeout(function(){
+        if(flag){
+          $("#instruccion_home_txt").animate({
+            fontSize: "1.2em",
+            color: "#000"
+          },1000).animate({
+            fontSize: "1.0em",
+            color: "#CCC"
+          },1000);
+
+          flag = false;
+        }
+      },1000);
 
       init("Matem&aacute;ticas&nbsp;1", "matematicas.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 
@@ -64,6 +70,7 @@
 
           $("#ae_container").toggle();
           $("#title").toggle();
+          $("#instruccion_home").hide();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
           $("#ae_sub").toggleClass("collapsed col-md-10");
 
@@ -71,7 +78,24 @@
           $("#reactivos").removeClass("collapsed");
           $("#reactivos").addClass("col-md-12");
 
-          $("#ae_seleccionado > div:not(.circle)").html(text);
+          $(".instruccion").animate({
+            fontSize: "1.2em"
+          },1000).animate({
+            fontSize: "1.0em",
+            color: "#CCC"
+          },1000);
+
+          $("#back_txt").animate({
+            fontSize: "1.2em",
+            color:"#FFF"
+          },1000).animate({
+            fontSize: "1.0em",
+            color: "#e28788"
+          },1000);
+
+
+
+          $("#sidebar_text").html(text);
 
           $(".card2").each(function(index) {
             if ($(this).attr("idAE") === idAE) {
@@ -89,6 +113,7 @@
 
           $("#ae_container").toggle();
           $("#title").toggle();
+          $("#instruccion_home").show();
           $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
           $("#ae_sub").toggleClass("col-md-10 collapsed");
 
@@ -113,6 +138,7 @@
           $(".num_reactivos").html($("#reactivos input:checkbox:checked").length + " reactivos elegidos");
           $("#a").html($("#reactivos input:checkbox:checked").length + " reactivos elegidos</div>");
           $("#contador_a_preview").removeClass("collapsed");
+          $("#instruccion_ir_examen").removeClass("collapsed");
         });
 
         //Go to the final questions' preview (Page3)
@@ -124,6 +150,7 @@
 
           $("#ae_container").toggle();
           $("#title").toggle();
+          $("#instruccion_home").hide();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
           $("#ae_sub").toggleClass("collapsed col-md-10");
 
@@ -133,7 +160,7 @@
           $("#lista_final").removeClass("collapsed");
           $("#lista_final").addClass("col-md-8");
 
-          $("#ae_seleccionado > div:not(.circle)").html("Reactivos seleccionados");
+          $("#sidebar_text").html("Reactivos seleccionados");
 
           seleccionados_a_preview();
           $("#lista_final label").click(function() {
@@ -279,25 +306,39 @@
       <div class="col-md-6" id="texto">
         <h3>Generador de ex&aacute;menes</h3>
       </div>
-      <!--<div class="col-md-3" id="botonera_filtros">
+
+
+      <div class="col-md-3" id="botonera_filtros">
+        <!--
         <div class="filtro" id="filtro_u1">Parcial 1</div>
         <div class="filtro" id="filtro_u2">Parcial 2</div>
         <div class="filtro" id="filtro_u3">Parcial 3</div>
         <div class="filtro" style="color:#C83335" id="filtro_todos">Todas</div>
-      </div>-->
+        -->
+      </div>
+
       <div class="col-md-3 collapsed" id="contador_a_preview">
         <div class="row">
           <div class="col-md-7" id="a" style='margin-top:2px;'></div>
           <div class="col-md-2" style="margin-left: -30px">
             <div class='circle' id='go_to_preview'>
               <button class='arrow'>
-		  <svg viewBox='-18 0 100 80' xml:space='preserve'>
-		    <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
-		  </svg>
-		</button>
+		              <svg viewBox='-18 0 100 80' xml:space='preserve'>
+		                  <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
+                  </svg>
+              </button>
             </div>
           </div>
         </div>
+      </div>
+      <div id="instruccion_ir_examen" class="collapsed">
+        <span>Ir al examen</span>
+      </div>
+    </div>
+
+    <div class="row" id="instruccion_home">
+      <div class="col-md-12" style="background-color:#F6F6F6; padding-left:107px;">
+        <h5><span id="instruccion_home_txt" class="instruccion">Seleccionar el tema o los temas que desee evaluar</span></h5>
       </div>
     </div>
     <!--/Title-->
@@ -318,10 +359,19 @@
               </svg>
             </button>
         </div>
+        <div>
+          <br/>
+          <span id="back_txt" style="color:#e28788">Regresar a otros temas</span>
+        </div>
       </div>
       <div class="collapsed" id="ae_sub">
         <div class="row">
-          <div class="collapsed" id="reactivos"></div>
+          <div class="collapsed" id="reactivos">
+            <span id="instruccion_reactivos" class="instruccion" style="background-color:#EEE;border-radius:5px;">
+              Dar clic en el texto para visualizar la pregunta completa.
+            </span>
+            <br/><br/>
+          </div>
           <div class="collapsed" id="lista_final"></div>
           <div class="collapsed" id="preview_reactivo"></div>
         </div>
@@ -332,7 +382,16 @@
     <!--Footer-->
     <div class="row">
       <div class="col-md-12" id="footer">
-        D.R. &copy; 2018 | Ediciones Castillo, S.A. de C.V. <br/> TODOS LOS DERECHOS RESERVADOS
+        &nbsp;<br/>
+        <p>D.R. &copy; 2018 | Ediciones Castillo, S.A. de C.V. |
+          Prohibida la reproducci&oacute;n parcial o total de esta obra por cualquier medio o m&eacute;todo.
+          Todos los derechos reservados.<br/>
+          Insurgentes Sur 1886, col. Florida, Del. &Aacute;lvaro Obreg&oacute;n, M&eacute;xico, CDMX.
+          Ediciones Castillo forma parte del Grupo Macmillan.<br/>
+          <a href="http://www.edicionescastillo.com/politicas-de-privacidad" target="_blank" style="color:#FFF">
+            <b>AVISO DE PRIVACIDAD</b>
+          </a>
+        </p>
       </div>
     </div>
     <!--/Footer-->

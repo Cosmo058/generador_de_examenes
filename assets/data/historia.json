@@ -1,7 +1,7 @@
 [
   {
     "caratula": "Independencia de las Trece Colonias",
-    "nombreAE": "<b>Identifica</b> cuáles fueron los motivos principales del descontento de los colonos con la metrópoli.",
+    "nombreAE": "Identifica cuáles fueron los motivos principales del descontento de los colonos con la metrópoli.",
     "reactivos": [
       {
         "reactivo": "¿Cuál fue el principal motivo económico de descontento de los colonos con el Imperio Británico?",
@@ -53,10 +53,10 @@
       {
         "reactivo": "La Independencia de las Trece Colonias inglesas, reconocida en 1783, fue uno de los antecedentes para que en 1789 se iniciara en Europa la Revolución...",
         "respuestas": {
-          "A": "Rusa",
-          "B": "China",
-          "C": "Democrática",
-          "D": "Francesa@"
+          "A": "Rusa.",
+          "B": "China.",
+          "C": "Democrática.",
+          "D": "Francesa.@"
         },
         "img_asociada": ""
       }
@@ -65,14 +65,14 @@
   },
   {
     "caratula": "Europa y la Independencia de las Trece Colonias",
-    "nombreAE": "<b>Analiza</b> la relación entre la historia de Europa y la independencia de las colonias.",
+    "nombreAE": "Analiza la relación entre la historia de Europa y la independencia de las colonias.",
     "reactivos": [
       {
         "reactivo": "¿Qué acontecimientos europeos contribuyeron a la independencia de las colonias en América?",
         "respuestas": {
           "A": "La pobreza y la hambruna en Europa y la invasión francesa a España.",
           "B": "La independencia de las Trece Colonias y la guerra franco prusiana.",
-          "C": "El movimiento de la Ilustración, la Revolución Francesa, la Revolución Industrial, la invasión francesa a España.",
+          "C": "El movimiento de la Ilustración, la Revolución Francesa, la Revolución Industrial, la invasión francesa a España.@",
           "D": "La guerra franco prusiana, el monopolio de los ingleses sobre las riquezas de la Nueva España."
         },
         "img_asociada": ""
@@ -102,7 +102,7 @@
   },
   {
     "caratula": "Documentos relacionados con la Independencia de las Trece Colonias",
-    "nombreAE": "<b>Examina</b> imágenes, cartas, diarios, documentos oficiales y prensa del siglo XVIII en las Trece Colonias.",
+    "nombreAE": "Examina imágenes, cartas, diarios, documentos oficiales y prensa del siglo XVIII en las Trece Colonias.",
     "reactivos": [
       {
         "reactivo": "Observa detenidamente la imagen y elige la respuesta correcta. <br> Este cuadro es la representación del nacimiento de una nueva nación, consecuencia de una de las primeras revoluciones liberales en el mundo. <br> ¿Qué hecho histórico está representado en la imagen?",
@@ -115,7 +115,7 @@
         "img_asociada": "data/img_asociadas/HI1ED1_GX_AP8_IMG1.png"
       },
       {
-        "reactivo": "Lee el texto y responde la pregunta. <br> <p style='font-size: 8pt;'>“Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados; que cuando quiera que una forma de gobierno se haga destructora de estos principios, el pueblo tiene el derecho a reformarla o abolirla e instituir un nuevo gobierno que se funde en dichos principios, y a organizar sus poderes en la forma que a su juicio ofrecerá las mayores probabilidades de alcanzar su seguridad y felicidad”. Fuente: Declaración de Independencia de los Estados Unidos Mexicanos, en http://www.diputados.gob.mx/biblioteca/bibdig/const_mex/decla_1776.pdf</p> <br> ¿Qué derechos humanos reconoces en este documento?",
+        "reactivo": "Lee el texto y responde la pregunta. <br> <p style='font-size: 8pt;'>“Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados; que cuando quiera que una forma de gobierno se haga destructora de estos principios, el pueblo tiene el derecho a reformarla o abolirla e instituir un nuevo gobierno que se funde en dichos principios, y a organizar sus poderes en la forma que a su juicio ofrecerá las mayores probabilidades de alcanzar su seguridad y felicidad”. <br>Fuente: Declaración de Independencia de los Estados Unidos Mexicanos, en http://www.diputados.gob.mx/biblioteca/bibdig/const_mex/decla_1776.pdf</p> <br> ¿Qué derechos humanos reconoces en este documento?",
         "respuestas": {
           "A": "Derecho a la igualdad, a la vida y a la libertad.@",
           "B": "Derecho a la felicidad, derecho a la educación y a la justicia.",
@@ -125,7 +125,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "Lee el texto y responde la pregunta. <br> <p style='font-size: 8pt;'>“Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados; que cuando quiera que una forma de gobierno se haga destructora de estos principios, el pueblo tiene el derecho a reformarla o abolirla e instituir un nuevo gobierno que se funde en dichos principios, y a organizar sus poderes en la forma que a su juicio ofrecerá las mayores probabilidades de alcanzar su seguridad y felicidad”. Fuente: Declaración de Independencia de los Estados Unidos Mexicanos, en http://www.diputados.gob.mx/biblioteca/bibdig/const_mex/decla_1776.pdf</p> <br> ¿Por qué el gobierno debe encargarse de asegurar y promover la felicidad a sus gobernados?",
+        "reactivo": "Lee el texto y responde la pregunta. <br> <p style='font-size: 8pt;'>“Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre éstos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados; que cuando quiera que una forma de gobierno se haga destructora de estos principios, el pueblo tiene el derecho a reformarla o abolirla e instituir un nuevo gobierno que se funde en dichos principios, y a organizar sus poderes en la forma que a su juicio ofrecerá las mayores probabilidades de alcanzar su seguridad y felicidad”. <br>Fuente: Declaración de Independencia de los Estados Unidos Mexicanos, en http://www.diputados.gob.mx/biblioteca/bibdig/const_mex/decla_1776.pdf</p> <br> ¿Por qué el gobierno debe encargarse de asegurar y promover la felicidad a sus gobernados?",
         "respuestas": {
           "A": "Porque el Estado es el propio generador de la felicidad de sus habitantes.",
           "B": "Porque para el Estado es una de las tareas más sencillas que puede cumplir.",
@@ -136,5 +136,735 @@
       }
     ],
     "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "La guerra del mundo actual",
+    "nombreAE": "Reflexiona sobre la presencia de la guerra en el Mundo actual.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuáles son las causas principales de las guerras en la actualidad?",
+        "respuestas": {
+          "A": "Las guerras son originadas por un fuerte sentimiento nacionalista. Además, existe entre las grandes potencias mundiales una rivalidad por conquistar nuevos territorios en África, Asia y Oceanía. La competencia por exportar sus excedentes de producción industrial es otro factor importante que incita a la guerra.",
+          "B": "Las guerras se inician porque las leyes no promueven la soberanía popular, la libertad y la igualdad. Se exige que se realice la división de poderes: Ejecutivo, Legislativo y Judicial. La guerra demanda que el Estado no intervenga en asuntos económicos y se dé mayor libertad de comercio.",
+          "C": "Las guerras son provocadas por ejercer el control de ciertos países con ricos yacimientos petroleros y de gas natural. Los conflictos fronterizos y los cambios en los regímenes políticos han favorecido la acción de grupos armados religiosos y han dado origen a guerras étnicas y locales.@",
+          "D": "Las guerras se inician cuando los gobiernos que concentran el poder en torno a la figura de un individuo o de una élite, utilizan la fuerza del ejército para controlar territorios que no pertenecen a las fronteras de su Estado. Estos gobiernos quieren aumentar su poder mundial controlando muchas naciones."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa el mapa sobre los conflictos armados en la actualidad y responde. <br> ¿En qué continentes se desarrollan con mayor presencia conflictos bélicos actuales?",
+        "respuestas": {
+          "A": "América y Europa",
+          "B": "Oceanía y África",
+          "C": "Europa y Asia",
+          "D": "Asia y África@"
+        },
+        "img_asociada": "data/img_asociadas/HI1ED1_GX_AP1_IMG.png"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Conflictos bélicos entre países y Estados",
+    "nombreAE": "Distingue entre los conflictos violentos que tienen lugar dentro de algunos países y las guerras entre estados.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuáles son las diferentes causas por las que existen conflictos violentos en algunos países?",
+        "respuestas": {
+          "A": "El monopolio comercial, la creación de nuevas tecnologías, las manifestaciones pacíficas por los derechos humanos.",
+          "B": "El combate contra el narcotráfico, grupos que promueven una nueva forma de gobierno y se oponen a las dictaduras  y  la lucha para acabar con el terrorismo.@",
+          "C": "La lucha para acabar con el terrorismo, las manifestaciones pacíficas por los derechos humanos, la creación de nuevas tecnologías.",
+          "D": "El monopolio comercial, el combate contra el narcotráfico y el surgimiento de nuevos Estados."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son las principales consecuencias sociales de las guerras entre los Estados en el mundo actual?",
+        "respuestas": {
+          "A": "Conflictos territoriales y delimitación de fronteras.",
+          "B": "El narcotráfico y el comercio de armas.",
+          "C": "Desplazamiento forzoso y el surgimiento de movimientos fundamentalistas.@",
+          "D": "Control de recursos naturales y el reconocimiento de naciones libres e independientes."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Procesos y acontecimientos mundiales. Siglos XVIII a XX",
+    "nombreAE": "Reconoce los principales procesos y acontecimientos mundiales de mediados del siglo XVIII a mediados del siglo XX.",
+    "reactivos": [
+      {
+        "reactivo": "Con el surgimiento del Imperio Bizantino y el feudalismo, los reinos europeos se aislaron en sus territorios, mientras que los musulmanes expandieron su cultura y dominios. Sin embargo, las Cruzadas modificaron el panorama europeo cuando...",
+        "respuestas": {
+          "A": "los europeos fueron invadidos por los musulmanes, quienes impusieron su gobierno y cultura, con lo que permitieron a los habitantes del viejo mundo salir de su aislamiento.",
+          "B": "el descubrimiento de América permitió salir a los europeos a conquistar los territorios americanos y emprender una integración económica mundial.",
+          "C": "los europeos establecieron una red de comercio marítimo con Asia, produjeron mercancías y adquirieron tecnología y conocimientos de navegación.@",
+          "D": "el Imperio Musulmán perdió todos sus dominios debido a las derrotas frente a los europeos, quienes invadieron el resto del mundo, incluida América."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Durante los siglos XVI y XVII se establecieron monarquías que conformaron imperios, se desarrolló el comercio mercantil y las funciones políticas se diversificaron. Por otro lado se conservaron prácticas del Antiguo Régimen, que consistían en...",
+        "respuestas": {
+          "A": "una economía predominantemente agraria, controlada por terratenientes y artesanos organizados en corporaciones.@",
+          "B": "actividades comerciales y productivas con libertades y derechos, así como ciudades donde se reunían intelectuales y artistas.",
+          "C": "se mantuvieron las relaciones de vasallaje, los cargos políticos se continuaron heredando y ningún grupo social volvió a pagar impuestos.",
+          "D": "los nobles creaban pactos con los señores feudales, los cuales implicaban fidelidad y ayuda a cambio de protección militar."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En el siglo XV, con las exploraciones y colonizaciones europeas, surgió una economía mundial que inició una nueva etapa en la historia llamada...",
+        "respuestas": {
+          "A": "Edad Media.",
+          "B": "Edad Moderna.@",
+          "C": "Edad Antigua.",
+          "D": "Edad Contemporánea."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A la revolución artística de los siglos XV y XVI, mediante la que se utilizaron nuevas técnicas en todas las ramas de las artes, se le conoce como...",
+        "respuestas": {
+          "A": "Surrealismo.",
+          "B": "Revolución Industrial.",
+          "C": "Renacimiento.@",
+          "D": "Barroco."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El mercantilismo fue la primera forma del capitalismo, mediante la cual se afirmaba que la riqueza de un país se basa en la explotación y comercialización de...",
+        "respuestas": {
+          "A": "esclavos.",
+          "B": "especies marinas.",
+          "C": "especies vegetales.",
+          "D": "metales preciosos.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los incisos ordena en forma cronológica las etapas de la historia?",
+        "respuestas": {
+          "A": "Edad Antigua, Prehistoria, Edad Moderna y Edad Media.",
+          "B": "Prehistoria, Edad Media, Edad Antigua y Edad Moderna.",
+          "C": "Edad Moderna, Edad Antigua, Edad Media y Prehistoria.",
+          "D": "Prehistoria, Edad Antigua, Edad Media y Edad Moderna.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En los siglos XVI y XVII hubo un cambio en el conocimiento y surgió una nueva forma de conocer la realidad que se convirtió en la base de la ciencia moderna. El inglés Francis Bacon fue quien postuló la idea del método...",
+        "respuestas": {
+          "A": "relativo.",
+          "B": "moderno.",
+          "C": "experimental.@",
+          "D": "científico."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La reforma protestante dio inicio con las '95 tesis' que fueron escritas por un monje alemán llamado...",
+        "respuestas": {
+          "A": "Erasmo de Rotterdam.",
+          "B": "Martín Lutero.@",
+          "C": "Juan Calvino.",
+          "D": "León X."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Mientras que en Europa las ideas humanistas se expandían, en América fluía el comercio mundial de la siguiente manera...",
+        "respuestas": {
+          "A": "Los esclavos llegaban de África a América y de México se mandaba plata a Filipinas, de donde se enviaba algodón, café y maderas preciosas a Europa pasando por Perú.",
+          "B": "Productos como aceites, telas y vinos llegaban de Europa a América, y de América salían especias, sedas y artesanías a China, mientras que ésta comerciaba azúcar.",
+          "C": "De Filipinas llegaban productos chinos a Nueva España y de ahí pasaban a Europa, mientras que México enviaba plata a Asia y recibía marfil y esclavos de África.@",
+          "D": "A Nueva España se enviaban productos europeos como papel, telas y manufacturas, de México se enviaba chocolate, azúcar y café a China, y de ésta oro a Filipinas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un invento imprescindible para el descubrimiento del origen de las enfermedades y las formas de prevención y curación fue...",
+        "respuestas": {
+          "A": "los rayos X.",
+          "B": "la penicilina.",
+          "C": "el microscopio.@",
+          "D": "el estetoscopio."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El monarca promulgaba las leyes, obligaba a obedecerlas y juzgaba su cumplimiento con la justificación de que se trataba de un don divino. Esto define una forma de gobierno surgida en el siglo XVII, llamada...",
+        "respuestas": {
+          "A": "democracia.",
+          "B": "socialismo.",
+          "C": "oligarquía.",
+          "D": "absolutismo.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El máximo exponente de la monarquía absoluta fue...",
+        "respuestas": {
+          "A": "Luis XIV, de Francia.@",
+          "B": "Luis XVI, de Francia.",
+          "C": "Enrique I, de Inglaterra.",
+          "D": "Isabel la Católica, de España."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige el inciso que completa los espacios en forma correcta... <br> <p>'Todo para el pueblo, pero sin el pueblo' se convirtió en una frase típica de los ______________________. Algunos de sus representantes fueron_________________ y _________________, quienes practicaron las ideas de la Ilustración al ejercer el poder.</p>",
+        "respuestas": {
+          "A": "absolutistas; Felipe V, de España; Luis XIV, de Francia",
+          "B": "socialistas; Carlos Marx; Lenin",
+          "C": "mercantilistas; Isabel la Católica, de España; Isabel I, de Inglaterra",
+          "D": "déspotas ilustrados; Catalina II, de Rusia; Luis XV, de Francia@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Según esta corriente artística, el mundo debe ser representado como el artista lo percibe y cualquier tema es susceptible de recrearse, además enfatiza en los cambios y en la iluminación...",
+        "respuestas": {
+          "A": "cubista.",
+          "B": "realista.",
+          "C": "impresionista.@",
+          "D": "abstracta."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ideó una nueva forma de producción industrial, conocida como “en serie”, mediante la cual los obreros realizaban acciones rutinarias y recibían mejores sueldos, con lo que se convertían en compradores potenciales.",
+        "respuestas": {
+          "A": "Frederick Taylor.",
+          "B": "Henry Ford.@",
+          "C": "Juan Manuel Rosas.",
+          "D": "Ned Ludd."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fueron aportaciones científicas de Louis Pasteur...",
+        "respuestas": {
+          "A": "la vacuna antirrábica y la esterilización de material quirúrgico.@",
+          "B": "la producción en serie y la organización del trabajo.",
+          "C": "la bombilla eléctrica y el fonógrafo.",
+          "D": "la higiene hospitalaria y el descubrimiento de la penicilina."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Pensamiento liberal",
+    "nombreAE": "Identifica los conceptos de burguesía, liberalismo, revolución, industrialización e imperialismo.",
+    "reactivos": [
+      {
+        "reactivo": "Durante los últimos siglos de la Edad Media surgió en Europa un grupo social que comenzó a adquirir poder político y económico derivado de sus actividades comerciales, lo cual favoreció el crecimiento de reinos y ciudades. ¿De qué grupo se trata?",
+        "respuestas": {
+          "A": "Burgués@",
+          "B": "Feudal",
+          "C": "Islámico",
+          "D": "Mercenario"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Después de los logros científicos del siglo XVII, los intelectuales europeos se convencieron de que la humanidad progresaría a partir de los principios de la ciencia y que ésta se aplicaría en los asuntos administrativos. ¿Cómo llevaron a cabo estas ideas ilustradas los monarcas europeos?",
+        "respuestas": {
+          "A": "Ordenaron las ciudades y promovieron la educación científica, tras eliminar la religiosa.",
+          "B": "Diseñaron estrategias diplomáticas y terminaron con los conflictos bélicos y las rivalidades.",
+          "C": "Fundaron institutos científicos y consultaron las necesidades de la gente para mejorar.",
+          "D": "Aumentaron los impuestos y contrataron a funcionarios preparados en el ámbito científico.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A partir de las ideas ilustradas se difundió que el gobierno no debía basarse en un mandato divino, que los seres humanos son libres e iguales y que por lo tanto debían participar en la elección de sus gobernantes. ¿Cómo se conoció a este pensamiento?",
+        "respuestas": {
+          "A": "Ilustración francesa",
+          "B": "Liberalismo político@",
+          "C": "Despotismo ilustrado",
+          "D": "Liberalismo económico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Este movimiento intelectual, originado en Francia en el siglo XVIII, se apoyaba en el predominio de la razón humana y en la creencia en el progreso.",
+        "respuestas": {
+          "A": "Modernismo",
+          "B": "Ilustración@",
+          "C": "Ciencia",
+          "D": "Enciclopedia"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fue uno de los directores de la enciclopedia, obra donde los ilustrados pretendían hacer una síntesis sistemática y ordenada de todo el saber humano:",
+        "respuestas": {
+          "A": "René Descartes.",
+          "B": "Denis Diderot.@",
+          "C": "Luis XIV.",
+          "D": "Conde de Buffon."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Estos países invadieron México a lo largo del siglo XIX:",
+        "respuestas": {
+          "A": "Alemania y Francia.",
+          "B": "Inglaterra y Estados Unidos de América.",
+          "C": "España y Holanda.",
+          "D": "Estados Unidos de América y Francia.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+{
+    "caratula": "El pensamiento de la Ilustración",
+    "nombreAE": "Reconoce el pensamiento de la Ilustración y su efecto transformador.",
+    "reactivos": [
+      {
+        "reactivo": "El método científico tiene como principios básicos:",
+        "respuestas": {
+          "A": "la organización y la exploración.",
+          "B": "pensar y actuar conforme a la fe cristiana.",
+          "C": "la observación y la experimentación.@",
+          "D": "el estudio y la transformación de la naturaleza."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A partir de la Ilustración y la aplicación del método científico, la vida social se “secularizó”. Este término consiste en:",
+        "respuestas": {
+          "A": "la difusión de ideas y comportamientos religiosos.",
+          "B": "separar la religión de los asuntos políticos y civiles.@",
+          "C": "la libre expresión de ideas políticas por medios impresos.",
+          "D": "divulgar los conocimientos científicos entre la población."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es el conjunto de leyes que aporta garantías, derechos y obligaciones a los ciudadanos de un país.",
+        "respuestas": {
+          "A": "Reglamento",
+          "B": "Constitución@",
+          "C": "Acuerdos políticos",
+          "D": "Tratado"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Relación entre liberalismo y economía capitalista",
+    "nombreAE": "Comprende la relación entre el liberalismo y la economía capitalista.",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué cambios económicos promovió el liberalismo?",
+        "respuestas": {
+          "A": "La libertad de expresión y la división del trabajo.",
+          "B": "Liberar impuestos y restricciones a la circulación de las mercancías.@",
+          "C": "La libertad de culto y prohibió la competencia de los mercados.",
+          "D": "La libertad de elegir a sus gobernantes."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El capitalismo se define como:",
+        "respuestas": {
+          "A": "el sometimiento de un grupo de personas respecto a otras para que trabajen en forma obligada, sin derechos ni libertad.",
+          "B": "la combinación cultural y étnica de individuos de diferentes orígenes que permite un desarrollo económico.",
+          "C": "un sistema económico en el cual las personas invierten sus riquezas para hacer negocios y obtener beneficios.@",
+          "D": "una forma de gobierno mediante la cual los monarcas promulgan las leyes, obligan a obedecerlas y vigilan su cumplimiento."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Modelo de la Revolución Francesa",
+    "nombreAE": "Identifica el modelo de la revolución francesa.",
+    "reactivos": [
+      {
+        "reactivo": "Las colonias americanas lograron su independencia tras enfrentarse a los ejércitos de los imperios europeos. ¿Qué acontecimiento en Europa resultó fundamental para el inicio de las luchas independentistas?",
+        "respuestas": {
+          "A": "La invasión de Francia a España@",
+          "B": "La Revolución Francesa",
+          "C": "La derrota de Napoleón en Waterloo",
+          "D": "El Congreso de Viena"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La Revolución Francesa procesó cambios tan profundos, que se afirma que con ella finalizaron la Edad Moderna y:",
+        "respuestas": {
+          "A": "la Edad Antigua.",
+          "B": "la Prehistoria.",
+          "C": "el Antiguo Régimen.@",
+          "D": "el Liberalismo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La Independencia de las Trece Colonias inglesas, la Revolución Francesa y las ideas liberales fueron antecedentes fundamentales para:",
+        "respuestas": {
+          "A": "la Revolución Mexicana.",
+          "B": "las independencias del resto de América.@",
+          "C": "la invasión napoleónica en España.",
+          "D": "la Revolución Industrial."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Consecuencias del pensamiento liberal",
+    "nombreAE": "Reflexiona sobre la proliferación de las revoluciones liberales y las fuerzas que se oponían a dichas revoluciones.",
+    "reactivos": [
+      {
+        "reactivo": "Napoleón Bonaparte emprendió la expansión de los principios de la Revolución Francesa a partir de la dominación de Europa. ¿Cuáles fueron sus aportes para la vida cívica actual?",
+        "respuestas": {
+          "A": "Instauró los derechos civiles, así como los derechos y obligaciones del Estado, además de que eliminó el liberalismo económico.",
+          "B": "Impuso la libertad política de los ciudadanos, la igualdad ante la ley y la soberanía del gobierno monárquico.",
+          "C": "Difundió la seguridad jurídica de los ciudadanos, además de que estableció el matrimonio civil y la libertad de culto.@",
+          "D": "Proclamó la igualdad entre los reinos americanos y europeos, la soberanía nacional y el constitucionalismo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles fueron los obstáculos a los que se enfrentaron los países latinoamericanos después de su independencia?",
+        "respuestas": {
+          "A": "Crisis económica por la inestabilidad comercial, guerras civiles por el poder político y falta de recursos naturales para la producción industrial.",
+          "B": "Construcción de regímenes políticos capaces de defenderse del exterior, mantenimiento del orden interior y aseguramiento de los derechos de sus gobernados.@",
+          "C": "Falta de elementos militares para organizar ejércitos, intervenciones extranjeras y separación de territorios en busca de independencia.",
+          "D": "Creación de federaciones entre países, luchas entre naciones por territorios y endeudamiento de los gobiernos con bancos españoles."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fue el destacado general que expandió victoriosamente la Revolución Francesa:",
+        "respuestas": {
+          "A": "Maximiliem Robespierre.",
+          "B": "Napoleón Bonaparte.@",
+          "C": "George Washington.",
+          "D": "Luis XVI."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué inciso ordena en forma cronológica los acontecimientos enlistados?",
+        "respuestas": {
+          "A": "Independencia de las Trece Colonias, invasión napoleónica en España, Independencia de México, Revolución Francesa",
+          "B": "Invasión napoleónica en España, Revolución Francesa, Independencia de las Trece Colonias, Independencia de México",
+          "C": "Independencia de las Trece Colonias, Revolución Francesa, invasión napoleónica en España, Independencia de México@",
+          "D": "Independencia de México, Independencia de las Trece Colonias, Revolución Francesa, invasión napoleónica en España"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para su consolidación como naciones independientes, las colonias latinoamericanas se enfrentaron a:",
+        "respuestas": {
+          "A": "la economía devastada y el endeudamiento con potencias extranjeras.@",
+          "B": "el expansionismo europeo en África y Asia.",
+          "C": "la resistencia de Francia.",
+          "D": "la constante interferencia de las potencias asiáticas en los asuntos comerciales."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "La burguesía en las revoluciones liberales",
+    "nombreAE": "Identifica el papel de la burguesía en las revoluciones liberales.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de las siguientes definiciones de burguesía es correcta?",
+        "respuestas": {
+          "A": "La burguesía exigía promover reformas para el desarrollo de sus actividades productivas.@",
+          "B": "La burguesía gozaba de los mismos derechos económicos, políticos y sociales que tenían la nobleza y el clero.",
+          "C": "La burguesía no quería obtener una participación en asuntos políticos y económicos del gobierno.",
+          "D": "Los burgueses querían que las monarquías absolutas fueran la forma de gobierno."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué clase social asumió el poder político a partir de las revoluciones liberales?",
+        "respuestas": {
+          "A": "La clase obrera",
+          "B": "La nobleza",
+          "C": "El clero",
+          "D": "La burguesía@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+{
+    "caratula": "Efecto transformador de la industrialización ",
+    "nombreAE": "Identifica el efecto transformador de la industrialización.",
+    "reactivos": [
+      {
+        "reactivo": "Significó una profunda transformación de la economía, al incorporar máquinas que reemplazaron la fuerza humana y modificar las estructuras sociales.",
+        "respuestas": {
+          "A": "Revolución Francesa",
+          "B": "Renovación de la Industria",
+          "C": "Revoluciones Latinoamericanas",
+          "D": "Revolución Industrial@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fueron inventos producidos durante la Segunda Revolución Industrial:",
+        "respuestas": {
+          "A": "barcos de vapor, telares mecánicos y el teléfono.",
+          "B": "automóviles, el tren subterráneo y la televisión.",
+          "C": "ferrocarriles, las máquinas eléctricas y el telégrafo.@",
+          "D": "tranvías eléctricos, aeroplanos y la radiofonía."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La organización del trabajo industrializado generó movimientos socialistas, que consistían en:",
+        "respuestas": {
+          "A": "el derecho a pertenecer a un sindicato y a la huelga, a fijar el precio de las mercancías y a participar de la riqueza.",
+          "B": "la lucha obrera por mejores salarios, jornadas de trabajo reglamentadas, seguridad social y participación política.@",
+          "C": "el mejoramiento de la calidad de vida de los trabajadores con posibilidades de educación, deporte y entretenimiento.",
+          "D": "la denuncia social de la contaminación ambiental producida por las industrias y el cuidado de los espacios verdes."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En el siglo XIX se comenzaron a utilizar dos nuevas fuentes para generar energía. Una de ellas fue la electricidad y la otra…",
+        "respuestas": {
+          "A": "el carbón.",
+          "B": "la eólica.",
+          "C": "el petróleo.@",
+          "D": "la solar."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Constituyó un medio de transporte fundamental para la consolidación del capitalismo en el siglo XIX, ya que facilitó el traslado de materias primas y manufacturas, vinculó las zonas productivas con las de los mercados, transformó el paisaje e impulsó el desarrollo de los lugares por donde pasaba. ¿De cuál se trata?",
+        "respuestas": {
+          "A": "El barco de vapor",
+          "B": "El automóvil",
+          "C": "El avión",
+          "D": "El ferrocarril@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son organizaciones para la gestión de los intereses de obreros ante los patrones, las cuales exigen el respeto a los derechos laborales, la seguridad en el trabajo, jornadas laborales establecidas y derecho al descanso, entre otras demandas.",
+        "respuestas": {
+          "A": "Gremios",
+          "B": "Agrupaciones",
+          "C": "Sindicatos@",
+          "D": "Partidos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Mediante el principio de selección natural de las especies, Charles Darwin expuso una teoría revolucionaria sobre la evolución de los seres vivos. ¿Qué otro personaje influyó en forma decisiva en los cambios del pensamiento social en el siglo XIX?",
+        "respuestas": {
+          "A": "Thomas Alva Edison",
+          "B": "Henry Ford",
+          "C": "Louis Pasteur",
+          "D": "Karl Marx@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Estados nacionales en Europa: consolidación, unificación y disolución",
+    "nombreAE": "Comprende el proceso de consolidación de los estados nacionales en Europa y su relación con los procesos de unificación (Italia y Alemania) y de disolución (Imperio Austrohúngaro y Otomano).",
+    "reactivos": [
+      {
+        "reactivo": "¿Quién fue el artífice de la unificación alemana?",
+        "respuestas": {
+          "A": "Emperador Carlos I",
+          "B": "Primer ministro Otton von Bismark@",
+          "C": "José Garibaldi",
+          "D": "Guillermo I"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Figura central a favor de la unificación italiana.",
+        "respuestas": {
+          "A": "Emperador Carlos I",
+          "B": "Primer ministro Otton von Bismark",
+          "C": "José Garibaldi@",
+          "D": "Guillermo I"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Quién disolvió oficialmente el Imperio Austrohúngaro?",
+        "respuestas": {
+         "A": "Emperador Carlos I@",
+          "B": "Primer ministro Otton von Bismark",
+          "C": "José Garibaldi",
+          "D": "Guillermo I"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige el inciso que complementa el texto: <br> La necesidad de competir con las grandes potencias por formar un imperio colonial condujo a _________________________________________ a la unificación y formación de un Estado fuerte. Estas naciones lograron la unidad en ______.",
+        "respuestas": {
+          "A": "Francia e Inglaterra; 1887",
+          "B": "Alemania e Italia; 1871@",
+          "C": "Alemania y Gran Bretaña; 1817",
+          "D": "Italia y el Reino Unido; 1867"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Condiciones para el desarrollo del imperialismo",
+    "nombreAE": "Reconoce las condiciones que motivaron el desarrollo del imperialismo.",
+    "reactivos": [
+      {
+        "reactivo": "Elige el inciso que completa los espacios en forma correcta: <br> Tras la decadencia de los imperios coloniales de España y Portugal, emergieron otros, como el Reino Unido, Bélgica, Francia, Estados Unidos de América y Japón, los cuales volcaron sus intereses en _________________ y __________________, ya que eran zonas estratégicas para obtener _______________ y __________ para sus productos.",
+        "respuestas": {
+          "A": "Asia y África; materias primas y mercado.@",
+          "B": "Oceanía y África; especias y esclavos.",
+          "C": "Europa y Asia; oro y espacios de venta",
+          "D": "Las islas Polonesas; especias y materias primas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ideología que justificó las acciones de intervención de Estados Unidos de América en el resto del continente americano durante los siglos XIX y XX.",
+        "respuestas": {
+          "A": "Constitucionalismo",
+          "B": "Liberalismo democrático",
+          "C": "Doctrina Monroe@",
+          "D": "Doctrina económica"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A partir de la segunda mitad del siglo XIX, potencias mundiales como el Reino Unido, Francia y Bélgica expandieron sus dominios coloniales, al apoderarse de regiones de África, Asia y Oceanía. ¿Cuáles fueron las causas?",
+        "respuestas": {
+          "A": "La búsqueda de mercados para vender sus productos y de mano de obra barata para competir en el aspecto comercial.@",
+          "B": "Los países asiáticos y africanos entraron en conflictos comerciales con las potencias europeas, las cuales resultaron invadidas.",
+          "C": "Las potencias europeas perdieron sus colonias americanas, por lo que necesitaban nuevas fuentes de metales preciosos.",
+          "D": "Los imperios europeos producían armas y competían entre ellos, por lo que hallaron en Asia y África nuevos mercados."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fueron las causas económicas de la Guerra de Separación o Secesión de Estados Unidos de América, iniciada en 1861:",
+        "respuestas": {
+          "A": "Los estados del Sur buscaban crear una nueva Confederación para separarse de los estados del Norte por diferencias culturales.",
+          "B": "Los estados del Norte se resistían a suprimir la esclavitud en el país, mientras que los estados del Sur defendían las diferencias culturales.",
+          "C": "Los estados del Sur rechazaban la idea de crear una nueva Confederación con el objetivo de separarse, propuesta por los estados del Norte.",
+          "D": "Los estados del Norte querían gravar las importaciones con impuestos y suprimir la esclavitud, mientras que los estados del Sur no estaban de acuerdo.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A las estrategias de expansión, dominio político, económico o militar de las potencias respecto a otras naciones se les conoce como...",
+        "respuestas": {
+          "A": "imperialismo.@",
+          "B": "expansionismo.",
+          "C": "colonialismo.",
+          "D": "nacionalismo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En el siglo XIX este país se convirtió en la mayor potencia industrial y comercial, al imponer su hegemonía:",
+        "respuestas": {
+          "A": "Francia.",
+          "B": "Gran Bretaña.@",
+          "C": "Alemania.",
+          "D": "Japón."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Presidente estadounidense que enfrentó la Guerra de Secesión, unificó a su país y abolió la esclavitud.",
+        "respuestas": {
+          "A": "Abraham Lincoln@",
+          "B": "George Washington",
+          "C": "Thomas Jefferson",
+          "D": "Robert Malthus"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Competencia entre estados europeos antes de 1914",
+    "nombreAE": "Analiza la competencia existente entre los estados europeos antes de 1914.",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué provocó la competencia entre los países europeos antes de 1914?",
+        "respuestas": {
+          "A": "El respeto a los derechos humanos",
+          "B": "La disolución del Imperio Austrohúngaro",
+          "C": "La pacífica definición de las nuevas fronteras",
+          "D": "La adquisición de nuevos territorios para la obtención de recursos@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A finales del siglo XIX el barón Pierre de Coubertin propuso recrear los Juegos Olímpicos de los antiguos griegos. ¿En qué ciudad y año se llevaron a cabo las primeras Olimpiadas de la era moderna?",
+        "respuestas": {
+          "A": "Londres, en 1896.",
+          "B": "París, en 1985.",
+          "C": "Atenas, en 1986.",
+          "D": "Atenas, en 1896.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Colonialismo en Asia y África",
+    "nombreAE": "Identifica el impacto del colonialismo en Asia y África",
+    "reactivos": [
+      {
+        "reactivo": "Observa el mapa del reparto colonial de África y subraya la respuesta correcta. <br> ¿Qué potencias se quedaron con mayor territorio en la repartición de África?",
+        "respuestas": {
+          "A": "España, Portugal y Francia",
+          "B": "Bélgica, Italia y Reino Unido",
+          "C": "Italia, Alemania y España",
+          "D": "Alemania, Francia y Reino Unido@"
+        },
+        "img_asociada": "data/img_asociadas/HI1ED1_GX_AP17_IMG.png",
+        "size": "70%"
+      },
+       {
+        "reactivo": "¿Por qué surgió el colonialismo de mediados del siglo XIX?",
+        "respuestas": {
+          "A": "Explotación de mano de obra y de recursos naturales de las colonias.",
+          "B": "Confrontación de las potencias comerciales por adquirir nuevos territorios.",
+          "C": "La colonización abarcó los aspectos culturales e ideológicos de los territorios dominados.",
+          "D": "La nueva producción industrial hizo necesario el abasto de una gran cantidad de materias primas y la búsqueda de nuevos mercados para colocar sus mercancías excedentes.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
   }
+
 ]

@@ -24,6 +24,8 @@ function mostrar_ancho(){
 function seleccionados_a_preview(){
   $("#lista_final").empty();
 
+  $("#lista_final").html("<span id='instruccion_lista_final' class='instruccion' style='background-color:#EEE;border-radius:5px;'>Arrastrar cada pregunta para ordenarlas como desee.</span><br/><br/>");
+
   var idsReactivos = [];
   $("input:checked").each(function(){
     idsReactivos.push($(this).attr("id"));
@@ -55,7 +57,7 @@ function seleccionados_a_print(){
   });
 
 
-  $("#examen_html").append('<p>Nombre:________________________________________ Grupo:_______ Fecha:__________</p><br/>');
+  $("#examen_html").append('<p id=\'preview_header\'>Nombre:________________________________________ Grupo:_______ Fecha:__________</p><br/>');
 
   var idsReactivos = [];
   var contador = 1;
@@ -96,9 +98,9 @@ function init(course_name,file_name){
 
           if(v.toString().indexOf('@')!==-1){
             var max_largo = v.toString().indexOf('@');
-            $("#ae_container").append("<div class='card' unidades_asociadas='"+unidades_asociadas+"' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+"</span><br/><span class='ocultar_texto'>"+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
+            $("#ae_container").append("<div class='card' unidades_asociadas='"+unidades_asociadas+"' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+"</span><br/><br/><span class='ocultar_texto'>Aprendizaje esperado: "+v.toString().substring(0,max_largo)+"...<desbordado class='collapsed'> "+v.toString().substring(max_largo)+"</desbordado>"+"</span></div></div>");
           }else{
-            $("#ae_container").append("<div class='card' unidades_asociadas='"+unidades_asociadas+"' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+"</span><br/><span class='ocultar_texto'>"+v+"</span></div></div>");
+            $("#ae_container").append("<div class='card' unidades_asociadas='"+unidades_asociadas+"' idAE="+key+"><div class='franja_tarjeta'></div><div class='card_content'><span>"+texto_caratula+"</span><br/><br/><span class='ocultar_texto'>Aprendizaje esperado: "+v+"</span></div></div>");
           }
         }
 
