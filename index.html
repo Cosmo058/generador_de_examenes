@@ -35,16 +35,16 @@
           $("#instruccion_home_txt").animate({
             fontSize: "1.2em",
             color: "#000"
-          },1000).animate({
+          },500).animate({
             fontSize: "1.0em",
             color: "#CCC"
-          },1000);
+          },500);
 
           flag = false;
         }
       },1000);
 
-      init("Matem&aacute;ticas&nbsp;1", "matematicas.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+      init("Espa&ntilde;ol&nbsp;1", "espaniol_secundaria.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 
       $(document).ajaxComplete(function() {
         centrar_tarjetas();
@@ -80,18 +80,18 @@
 
           $(".instruccion").animate({
             fontSize: "1.2em"
-          },1000).animate({
+          },500).animate({
             fontSize: "1.0em",
             color: "#CCC"
-          },1000);
+          },500);
 
           $("#back_txt").animate({
             fontSize: "1.2em",
             color:"#FFF"
-          },1000).animate({
+          },500).animate({
             fontSize: "1.0em",
             color: "#e28788"
-          },1000);
+          },500);
 
 
 

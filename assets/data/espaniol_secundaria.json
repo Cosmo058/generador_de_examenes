@@ -1,0 +1,116 @@
+[
+  {
+    "caratula": "Reglamento escolar",
+    "nombreAE": "<br> Aprendizaje esperado <br/><br/> <strong>Participa</strong> en la elaboración del reglamento escolar. <br/> ",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué finalidad tienen los reglamentos? Elige la opción que incluye las respuestas. <ul style='list-style-type: decimal;'><li>Evitar los conflictos entre las personas.</li><li>Restringir la libertad de los individuos.</li><li>Promover la amistad entre los hombres.</li><li>Regular la convivencia de los individuos.</li></ul>",
+        "respuestas": {
+          "A": "1 y 3",
+          "B": "2 y 4",
+          "C": "1 y 4@",
+          "D": "3 y 4"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A qué espacios pertenecen las siguientes reglas? Elige la opción que relaciona correctamente las columnas.",
+        "respuestas": {
+          "A": "1 b, 2c, 3d, 4a@",
+          "B": "1a, 2b, 3c, 4d",
+          "C": "1c, 2d, 3d, 4a",
+          "D": "1d, 2c, 3b, 4ª"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué es necesario que los condóminos respeten el reglamento?",
+        "respuestas": {
+          "A": "Porque, si no lo hacen, los demás vecinos pueden molestarse.",
+          "B": "Porque los vecinos deben ser muy ordenados",
+          "C": "Porque permite la convivencia armónica entre todos los vecinos.@",
+          "D": "Para complacer a la administración."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué tiempo y modo están conjugados los verbos en cursivas (podrán, deberán, será...)?",
+        "respuestas": {
+          "A": "Presente de indicativo.",
+          "B": "Presente de subjuntivo.",
+          "C": "Infinitivo.",
+          "D": "Futuro de indicativo.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el propósito de un reglamento escolar?",
+        "respuestas": {
+          "A": "Supervisar todas las acciones de los miembros de la comunidad escolar.",
+          "B": "Establecer normas que permitan relaciones armónicas entre los miembros de la comunidad escolar.@",
+          "C": "Sancionar a los miembros que infrinjan las órdenes de las autoridades escolares.",
+          "D": "Conservar el prestigio de la escuela y la integridad de sus miembros."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tiempo y modo se utilizan en la siguiente norma? Los estudiantes de la Universidad de la Sierra tendrán las siguientes obligaciones.",
+        "respuestas": {
+          "A": "Futuro de indicativo.@",
+          "B": "Presente de indicativo",
+          "C": "Pretérito de indicativo.",
+          "D": "Futuro de subjuntivo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La función de un reglamento es...",
+        "respuestas": {
+          "A": "regular la conducta de los visitantes de una comunidad.",
+          "B": "establecer criterios de trabajo para mejorar la economía.",
+          "C": "comprender el uso de las reglas, y así corregir las leyes.",
+          "D": "proteger derechos, determinar obligaciones y establecer sanciones.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La función de un reglamento interno del salón es:",
+        "respuestas": {
+          "A": "comprender el uso de reglasy así corregit el reglamento de la escuela.",
+          "B": "regular la conducta de la comunidad escolar.",
+          "C": "establecer criterios de aprendizaje para un  mejor aprovechamiento.",
+          "D": "proteger derechos, determinar obligaciones y establecer sanciones.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Fichas de estudio",
+    "nombreAE": "<br>Aprendizaje esperado <br><br><strong>Elabora</strong> fichas temáticas con fines de estudio.",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué es un resumen y para qué sirve?",
+        "respuestas": {
+          "A": "Síntesis de las ideas principales de uno o varios textos. Una de sus funciones es que apoya el estudio de un tema.@",
+          "B": "Recopilación de información de varios textos cuya función es aportar datos sobre un tema.",
+          "C": "Síntesis de las ideas principales de uno o varios textos cuya función es informar sobre un tema.",
+          "D": "Recopilación de información de varios textos cuya función es apoyar el estudio de un tema."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tipo de ficha es?",
+        "respuestas": {
+          "A": "De resumen porque contiene la información más importante.",
+          "B": "De paráfrasis porque dice lo mismo que la cita original pero con otras palabras.",
+          "C": "De cita textual porque utiliza comillas para reproducir la fuente exactamente.@",
+          "D": "Mezcla la cita con el resumen porque no todo el texto está entre comillas."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  }
+]
