@@ -4,6 +4,8 @@
 <head>
   <title>Generador de ex&aacute;menes</title>
 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <link rel="stylesheet" type="text/css" media="screen" href="assets/offline/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
   <link rel="stylesheet" type="text/css" media="print" href="assets/css/style_print.css">
@@ -13,16 +15,35 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
-  <script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});</script>
-  <script src="src/MathJax/MathJax.js?config=TeX-AMS_SVG" type="text/javascript" async></script>
+  <script type="text/x-mathjax-config">MathJax.Hub.Config({
+    "HTML-CSS":{linebreakers:{ automatic: false },imageFont:null}
+  });</script>
+
+  <script src="src/MathJax/MathJax.js?config=TeX-AMS_HTML" type="text/javascript" async></script>
+
   <script src="assets/js/funciones.js"></script>
   <script src="assets/js/controller.js"></script>
 
 
   <script>
     $(document).ready(function() {
+      var flag = true;
       var nombre_generador = getUrlParameter("nombre_generador");
       var json_file = getUrlParameter("json_file");
+
+      setTimeout(function(){
+        if(flag){
+          $("#instruccion_home_txt").animate({
+            fontSize: "1.2em",
+            color: "#000"
+          },500).animate({
+            fontSize: "1.0em",
+            color: "#CCC"
+          },500);
+          flag = false;
+        }
+      },1000);
+
 
       if(nombre_generador!=undefined && json_file!=undefined){
         init(nombre_generador,json_file);
@@ -52,13 +73,29 @@
 
           $("#ae_container").toggle();
           $("#title").toggle();
+          $("#instruccion_home").hide();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
           $("#ae_sub").toggleClass("collapsed col-md-10");
 
           $("#reactivos").removeClass("collapsed");
           $("#reactivos").addClass("col-md-12");
 
-          $("#ae_seleccionado > div:not(.circle)").html(text);
+          $(".instruccion").animate({
+            fontSize: "1.2em"
+          },500).animate({
+            fontSize: "1.0em",
+            color: "#CCC"
+          },500);
+
+          $("#back_txt").animate({
+            fontSize: "1.2em",
+            color:"#FFF"
+          },500).animate({
+            fontSize: "1.0em",
+            color: "#e28788"
+          },500);
+
+          $("#sidebar_text").html(text);
 
           $(".card2").each(function(index) {
             if ($(this).attr("idAE") === idAE) {
@@ -76,6 +113,7 @@
 
           $("#ae_container").toggle();
           $("#title").toggle();
+          $("#instruccion_home").show();
           $("#ae_seleccionado").toggleClass("col-md-2 collapsed");
           $("#ae_sub").toggleClass("col-md-10 collapsed");
 
@@ -100,6 +138,7 @@
           $(".num_reactivos").html($("#reactivos input:checkbox:checked").length + " reactivos elegidos");
           $("#a").html($("#reactivos input:checkbox:checked").length + " reactivos elegidos</div>");
           $("#contador_a_preview").removeClass("collapsed");
+          $("#instruccion_ir_examen").removeClass("collapsed");
         });
 
         //Go to the final questions' preview (Page3)
@@ -111,6 +150,7 @@
 
           $("#ae_container").toggle();
           $("#title").toggle();
+          $("#instruccion_home").hide();
           $("#ae_seleccionado").toggleClass("collapsed col-md-2");
           $("#ae_sub").toggleClass("collapsed col-md-10");
 
@@ -120,7 +160,7 @@
           $("#lista_final").removeClass("collapsed");
           $("#lista_final").addClass("col-md-8");
 
-          $("#ae_seleccionado > div:not(.circle)").html("Reactivos seleccionados");
+          $("#sidebar_text").html("Reactivos seleccionados");
 
           seleccionados_a_preview();
           $("#lista_final label").click(function() {
@@ -288,7 +328,6 @@
       </div>
       <div class="col-md-3"></div>
     </div>
-
     <!--Title-->
     <div class="row" id="title">
       <div class="col-md-6" id="texto">
@@ -310,8 +349,16 @@
 		               <polyline points='0.375,0.375 45.63,38.087 0.375,75.8'/>
                  </svg>
 	            </button>
+              <div id="instruccion_ir_examen" class="collapsed">
+                <span>Ir al examen</span>
+              </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="row" id="instruccion_home">
+        <div class="col-md-12" style="background-color:#F6F6F6; padding-left:122px;">
+          <h5><span id="instruccion_home_txt" class="instruccion">Seleccionar el tema o los temas que desee evaluar</span></h5>
         </div>
       </div>
     </div>
@@ -324,8 +371,7 @@
       <!--/Cards-->
       <div class="collapsed" id="ae_seleccionado">
         <!-- col-md-2 -->
-        <div id="sidebar_text">
-        </div>
+        <div id="sidebar_text"></div>
         <div class="circle" id="back_to_AE">
           <button class="arrow">
               <svg viewBox="-5 0 100 80" xml:space="preserve">
@@ -333,10 +379,21 @@
               </svg>
           </button>
         </div>
+        <div>
+          <br/>
+          <span id="back_txt" style="color:#e28788">Regresar a otros temas o generar el examen</span>
+        </div>
       </div>
       <div class="collapsed" id="ae_sub">
         <div class="row">
-          <div class="collapsed" id="reactivos"></div>
+          <div class="collapsed" id="reactivos">
+            <span id="instruccion_reactivos" class="instruccion" style="background-color:#EEE;border-radius:5px;">
+              D&eacute; en el texto para visualizar la pregunta completa.<br/>
+              D&eacute; clic en la casilla para seleccionar los reactivos.
+            </span>
+            <br/>
+            <br/>
+          </div>
           <div class="collapsed" id="lista_final"></div>
           <div class="collapsed" id="preview_reactivo"></div>
         </div>
@@ -347,7 +404,16 @@
     <!--Footer-->
     <div class="row">
       <div class="col-md-12" id="footer">
-        D.R. &copy; 2017 | Ediciones Castillo, S.A. de C.V. <br/> TODOS LOS DERECHOS RESERVADOS
+        &nbsp;<br/>
+        <p>D.R. &copy; 2018 | Ediciones Castillo, S.A. de C.V. |
+         Prohibida la reproducci&oacute;n parcial o total de esta obra por cualquier medio o m&eacute;todo.
+         Todos los derechos reservados.<br/>
+         Insurgentes Sur 1886, col. Florida, Del. &Aacute;lvaro Obreg&oacute;n, M&eacute;xico, CDMX.
+         Ediciones Castillo forma parte del Grupo Macmillan.<br/>
+         <a href="http://www.edicionescastillo.com/politicas-de-privacidad" target="_blank" style="color:#FFF">
+           <b>AVISO DE PRIVACIDAD</b>
+         </a>
+       </p>
       </div>
     </div>
     <!--/Footer-->
