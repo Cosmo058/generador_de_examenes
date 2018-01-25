@@ -328,6 +328,7 @@ input[type=checkbox]{
 
 .bolded{
   font-weight: 800;
+  font-style: italic;
 }
 
 .pointer_style{

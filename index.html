@@ -144,6 +144,7 @@
         //Go to the final questions' preview (Page3)
         $("#go_to_preview").click(function() {
 
+          $("#sidebar_text").html($("#reactivos input:checkbox:checked").length + " reactivos elegidos");
           $("#header").addClass("collapsed");
           $("#header2").addClass("collapsed");
           $("#header3").removeClass("collapsed");
@@ -160,7 +161,7 @@
           $("#lista_final").removeClass("collapsed");
           $("#lista_final").addClass("col-md-8");
 
-          $("#sidebar_text").html("Reactivos seleccionados");
+          //$("#sidebar_text").html("Reactivos seleccionados");
 
           seleccionados_a_preview();
           $("#lista_final label").click(function() {
@@ -283,7 +284,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-1"></div>
+          <div class="col-md-2"></div>
           <div class="col-md-2">
             <div class="pointer_style" id="ver_respuestas_div">
               <div style="display: inline-block">
@@ -300,15 +301,7 @@
               <div id="vista_previa" style="display: inline-block">Vista previa</div>
             </div>
           </div>
-          <div class="col-md-3">
-            <div>
-              <div style="display: inline-block">
-                <img class="img_btn" src="assets/img/reactivos_seleccionados.png">
-              </div>
-              <div class="num_reactivos" style="display: inline-block">0 reactivos elegidos</div>
-            </div>
-          </div>
-          <div class="col-md-4"></div>
+          <div class="col-md-6"></div>
         </div>
       </div>
       <div class="col-md-1 logo_castillo_container">
