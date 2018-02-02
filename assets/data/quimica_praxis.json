@@ -1,0 +1,159 @@
+[
+  {
+    "caratula": "Bloque 1. Estequiometría",
+    "nombreAE": "<br/>Mol y cantidad de sustancia<br/><br/>Masa molar<br/><br/>Volumen molar<br/><br/>Ley de la conservación de la materia",
+    "reactivos": [
+      {
+        "reactivo": "De las siguientes aseveraciones, ¿cuál explica el número de Avogadro?",
+        "respuestas": {
+          "A": "En condiciones normales de temperatura y presión, el volumen de gases diferentes contiene un número de moléculas diferente.",
+          "B": "En condiciones normales temperatura y presión, un volumen diferente de gases iguales contiene el mismo número de moléculas.",
+          "C": "En condiciones normales de temperatura y presión, volúmenes iguales de gases diferentes contienen el mismo número de moléculas.@",
+          "D": "En condiciones normales de temperatura, pero no de presión, volúmenes iguales de gases diferentes contienen el mismo número de moléculas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A qué concepto refiere “la masa en gramos de una sustancia numéricamente igual a su peso normal o peso molecular”?",
+        "respuestas": {
+          "A": "Molécula",
+          "B": "Mol@",
+          "C": "Teoría atómica de Dalton",
+          "D": "Teoría atómica de Rutherford"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuántas entidades elementales de sodio hay en 1 mol de NaOH?",
+        "respuestas": {
+          "A": "62 × 10<sup>22</sup>",
+          "B": "62 × 10<sup>23</sup>",
+          "C": "6.022 × 10<sup>22</sup>",
+          "D": "6.022  × 10<sup>23</sup>@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuántos moles de sustancia hay en 36 gramos de <sup>12</sup>C?",
+        "respuestas": {
+          "A": "1",
+          "B": "3@",
+          "C": "5",
+          "D": "7"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ordena los compuestos de manera descendente de acuerdo con su masa molar.<br/><ul style='font-size: 9pt; list-style-type: upper-roman;'><li>H<sub>2O</sub></li><li>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> </li><li>HCl</li><li>H<sub>2</sub>SO<sub>4</sub></li><li>C<sub>6</sub>H<sub>14</sub></li><li>CCl<sub>4</sub></li></ul>",
+        "respuestas": {
+          "A": "I, II, IV, VI, V, III",
+          "B": "I, III, V, IV, VI, II",
+          "C": "II, VI, IV, V, III, I@",
+          "D": "III, IV, I, VI, V, II"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la masa molar del bicarbonato de sodio (NaHCO<sub>3</sub>)?",
+        "respuestas": {
+          "A": "78 g/mol",
+          "B": "52 g/mol",
+          "C": "68 g/mol",
+          "D": "84 g/mol@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el volumen molar de 1 mol de Helio a presión de 101 325 Pa y temperatura de 273.15 K?",
+        "respuestas": {
+          "A": "24.466 m<sup>3</sup>",
+          "B": "22.414 m<sup>3</sup>@",
+          "C": "224.601 m<sup>2</sup>",
+          "D": "240.503 m<sup>3</sup>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el volumen molar de 25 g de Magnesio en condiciones normales? Considera que N<sub>A</sub>=12, Masa molar: 24.305 g/mol, densidad: 1.74 g/ml.",
+        "respuestas": {
+          "A": "163 ml",
+          "B": "1.63 × 10<sup>4</sup> m<sup>3</sup>@",
+          "C": "16.3 l",
+          "D": "163 m<sup>3</sup>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el volumen de 1 mol de agua en estado líquido si su volumen molar es de 18 × 10<sup>4</sup> m<sup>3</sup>/mol?",
+        "respuestas": {
+          "A": "18 × 10<sup>4</sup> m<sup>3</sup>",
+          "B": "18 × 10<sup>3</sup> m<sup>3</sup>@",
+          "C": "1.8 × 10<sup>4</sup> m<sup>3</sup>",
+          "D": "1.8 × 10<sup>-3</sup> m<sup>3</sup>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ordena cronológicamente los eventos históricos que favorecieron el desarrollo de la teoría de la conservación de la materia.<ul style='font-size: 7.9pt; list-style-type: upper-roman; padding-left: 20px !important;'><li>Combinación del pensamiento teórico con las actividades experimentales.</li><li>Joseph Black demuestra que la combustión genera gases diferentes a los de la atmósfera.</li><li>Stephen Hales mide la cantidad de aire que se genera por combustión de diversos materiales.</li><li>Henry Cavendish aísla el hidrógeno.</li><li>Jan Baptista van Helmont acuña el término gas.</li></ul>",
+        "respuestas": {
+          "A": "I, II, IV, V, III",
+          "B": "I, III, V, IV, II",
+          "C": "I, V, III, II, IV@",
+          "D": "I, IV, II, III, V"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes reacciones, ¿cuáles no cumplen con la ley de la conservación de la materia? <br/><ul style='font-size: 7.9pt; list-style-type: upper-roman; padding-left: 20px !important;'> <li>H<sub>2</sub>+O<sub>2</sub> <--> H<sub>2</sub>O</li> <li>H<sub>2</sub>O + Na <--> Na(OH)+H<sub>2</sub>O</li> <li>N<sub>2</sub>+H<sub>2</sub> <--> 2NH</li> <li>K<sub>2</sub>CO<sub>3</sub>+C <--> 3CO+2K</li> <li>Cr<sub>2</sub>O<sub>3</sub>+Al <--> Al<sub>2</sub>O<sub>3</sub>+Cr</li> <li>NaNO<sub>3</sub> + KCl <--> NaCl + KNO<sub>3</sub></li> <li>KOH + H<sub>3</sub>PO<sub>4</sub> --> K<sub>3</sub>PO<sub>4</sub> + H<sub>2</sub>O</li></ul>",
+        "respuestas": {
+          "A": "I, VI, VII@",
+          "B": "II, VII, I",
+          "C": "III, IV, II",
+          "D": "IV, V, III"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la combinación correcta de coeficientes para que la siguiente ecuación química se encuentre balanceada?<br/>\\( \\underline{\\hspace{0.3cm}}\\)KNO<sub>3</sub> + \\( \\underline{\\hspace{0.3cm}}\\)H<sub>2</sub>CO<sub>3</sub> \\(\\rightarrow\\) \\( \\underline{\\hspace{0.3cm}}\\)K<sub>2</sub>CO<sub>3</sub> + \\( \\underline{\\hspace{0.3cm}}\\)HNO<sub>3</sub>",
+        "respuestas": {
+          "A": "2,1,2,2",
+          "B": "1,2,1,2@",
+          "C": "2,1,1,2",
+          "D": "2,2,2,2"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son los coeficientes correctos para que la siguiente ecuación química quede balanceada?<br/>\\( \\underline{\\hspace{0.3cm}}\\)SnO<sub>2</sub> + \\( \\underline{\\hspace{0.3cm}}\\)H<sub>2</sub>\\(\\rightarrow\\) \\( \\underline{\\hspace{0.3cm}}\\)Sn<sub>3</sub> \\( \\underline{\\hspace{0.3cm}}\\)H<sub>2</sub>O<sub>2</sub>",
+        "respuestas": {
+          "A": "1,1,2,3",
+          "B": "3,1,2,1",
+          "C": "3,1,1,3",
+          "D": "1,2,1,2@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes reacciones, ¿cuál representa que 2 moles de yoduro de plata, más 1 mol de sulfuro de sodio forman 1 mol de sulfuro de plata y 2 moles de yoduro de sodio? ",
+        "respuestas": {
+          "A": "2 Agl + Na<sub>2</sub>S \\( \\rightarrow \\) Ag<sub>2</sub>S + 2Nal @",
+          "B": "2 Agl + 2 Na<sub>2</sub>S \\( \\rightarrow \\) Ag<sub>2</sub>S + 2 Na",
+          "C": "2 Agl + 2 Na<sub>2</sub>S \\( \\rightarrow \\) 2 Ag<sub>2</sub>S + 2 Nal",
+          "D": "Agl + Na<sub>2</sub>S \\( \\rightarrow \\) Ag<sub>2</sub>S + 2 Nal"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la reacción de combustión del hidrógeno H2 + 0.5O2  → H2O + H3, ¿cuál es el factor que se necesita para calcular la cantidad de agua que se produce a partir de hidrógeno si se conoce la cantidad del mismo?",
+        "respuestas": {
+          "A": "1 mol H<sub>2</sub>",
+          "B": "",
+          "C": "",
+          "D": ""
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  }
+]
