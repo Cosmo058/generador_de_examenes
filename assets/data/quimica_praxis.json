@@ -144,12 +144,606 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "En la reacción de combustión del hidrógeno H2 + 0.5O2  → H2O + H3, ¿cuál es el factor que se necesita para calcular la cantidad de agua que se produce a partir de hidrógeno si se conoce la cantidad del mismo?",
+        "reactivo": "En la reacción de combustión del hidrógeno H <sub>2</sub> + 0.5O <sub>2</sub> \\(\\rightarrow\\) H <sub>2</sub> O + H <sub>3</sub>, ¿cuál es el factor que se necesita para calcular la cantidad de agua que se produce a partir de hidrógeno si se conoce la cantidad del mismo?",
         "respuestas": {
-          "A": "1 mol H<sub>2</sub>",
-          "B": "",
-          "C": "",
-          "D": ""
+          "A": "1 \\(mol\\) H<sub>2</sub> / 1 \\(mol\\) H<sub>2</sub>O",
+          "B": "1 \\(mol\\) H<sub>2</sub>O / 1 \\(mol\\) H<sub>2</sub>@",
+          "C": "1 \\(mol\\) H<sub>2</sub> / 1 \\(mol\\) H<sub>3</sub>",
+          "D": "1 \\(mol\\) H<sub>2</sub>O / 1 \\(mol\\) H<sub>2</sub>O"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De acuerdo con la ecuación balanceada: 2 NH<sub>3</sub> + 2 O<sub>2</sub> → N<sub>2</sub>O + 3 H<sub>2</sub>O, ¿cuántos moles de N<sub>2</sub>O se producen después de que 3 moles de NH<sub>3</sub> reaccionan completamente?",
+        "respuestas": {
+          "A": "1.00",
+          "B": "1.50@",
+          "C": "2.00",
+          "D": "2.50"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La ecuación de la combustión de propano es  C<sub>3</sub>H<sub>8</sub>+5O<sub>2</sub> \\( \\rightarrow \\) 4H<sub>2</sub>O+3CO<sub>2</sub>. ¿Si se queman 200 gramos de propano, cuánta H<sub>2</sub>O se produce?",
+        "respuestas": {
+          "A": "781.82 g@",
+          "B": "327.8 g",
+          "C": "450.54 g",
+          "D": "321.7 g"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El amoniaco es una materia prima importante para producir fertilizantes y se produce por medio de la siguiente reacción:  NH<sub>4</sub>Cl + NaOH NH<sub>3</sub> + H<sub>2</sub>O + NaCl. ¿Cuánto cloruro de amonio se requiere para producir 1000 Kg de amoniaco?",
+        "respuestas": {
+          "A": "1 200.50 Kg",
+          "B": "3 735.29 Kg@",
+          "C": "1 859.65 Kg",
+          "D": "2 879.56 Kg"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La primera etapa para la producción de ácido sulfúrico se realiza por medio de la reacción 2 SO<sub>2</sub> + O<sub>2</sub> \\(\\rightarrow\\) 2 SO<sub>3</sub>. ¿Cuánto dióxido de azufre se requiere para producir 3 520 Kg de trióxido de azufre? SO<sub>2</sub> =",
+        "respuestas": {
+          "A": "1850 Kg",
+          "B": "2530 Kg",
+          "C": "1875 Kg",
+          "D": "2816 Kg@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El óxido nitroso (N<sub>2</sub>O) es un gas incoloro que se usa como analgésico en procesos quirúrgicos. ¿Cuál es la cantidad de sustancia que hay en cilindro de 3 Kg? Considera que 1 \\(mol\\) de esta sustancia tiene 44 g",
+        "respuestas": {
+          "A": "69.70 \\(mol\\)",
+          "B": "80.20 \\(mol\\)",
+          "C": "68.18 \\(mol\\)@",
+          "D": "44.18 \\(mol\\)"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuántos átomos tienen 35 g de sal de mesa?",
+        "respuestas": {
+          "A": "\\(2.5 \\times 10^{22}\\)",
+          "B": "\\(4.3 \\times 10^{23}\\)",
+          "C": "\\(3.6 \\times 10^{23}\\)@",
+          "D": "\\(5.1 \\times 10^{22}\\)"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Como puedes observar en la reacción de la respiración: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>+6O<sub>2</sub> \\(\\rightarrow\\) 6CO<sub>2</sub>+6H<sub>2</sub>O, se oxida la glucosa y se genera dióxido de carbono y agua. ¿Cuántos moles de CO<sub>2</sub> se obtienen a partir de 6 g de glucosa?",
+        "respuestas": {
+          "A": "2 \\(mol\\)",
+          "B": "1.5 \\(mol\\)",
+          "C": "2.5 \\(mol\\)",
+          "D": "0.20 \\(mol\\)@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si 30 g de C (masa molar = 12.01) se queman en un exceso de oxígeno de acuerdo con la reacción balanceada: C + O<sub>2</sub> \\(\\rightarrow\\)  CO<sub>2</sub>. ¿Cuánto CO<sub>2</sub> se produce en gramos?",
+        "respuestas": {
+          "A": "100",
+          "B": "120",
+          "C": "110@",
+          "D": "130"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el reactivo limitante si se hacen reaccionar 20 g de H<sub>2</sub> con 100 g de N<sub>2</sub> de acuerdo con la reacción balanceada 3 H<sub>2</sub> + N<sub>2</sub> \\(\\rightarrow\\) 2 NH<sub>3</sub>?",
+        "respuestas": {
+          "A": "H<sub>2</sub>@",
+          "B": "N<sub>2</sub>",
+          "C": "NH<sub>3</sub>",
+          "D": "No hay reactivo limitante"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Bloque 2. Sistemas dispersos",
+    "nombreAE": "<br/>Materia (Sustancias puras: elementos y compuestos)<br/><br/>Materia (Mezclas: homogéneas y heterogéneas)<br/><br/>Sistemas dispersos (disoluciones)<br/><br/>Sistema disperso (coloides)<br/><br/>Sistemas dispersos (suspensiones)",
+    "reactivos": [
+      {
+        "reactivo": "Si se colocan en un matraz 100.45 gr de SiO<sub>2</sub> con 79.1 gramos de H<sub>2</sub>F<sub>2</sub> los cuales reaccionan de acuerdo con la ecuación balanceada: SiO<sub>2</sub>+2H<sub>2</sub>F<sub>2</sub> \\(\\rightarrow\\) SiF<sub>4</sub>+2H<sub>2</sub>O. ¿Cuál es la relación SiO<sub>2</sub>:H<sub>2</sub>F<sub>2</sub> que tendría que colocarse dentro del matraz para que ambos reactivos se consuman por completo?",
+        "respuestas": {
+          "A": "1:1",
+          "B": "1:2@",
+          "C": "2:1",
+          "D": "2:2"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De acuerdo con su número de componentes, los materiales pueden clasificarse en ",
+        "respuestas": {
+          "A": "Mezclas y Sustancias",
+          "B": "Compuestos y elementos@",
+          "C": "Suspensiones y Coloides",
+          "D": "Mezclas y Coloides"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son ejemplos de sustancias puras",
+        "respuestas": {
+          "A": "Agua contaminada, Aceite de motor, Café americano",
+          "B": "Aire, Flúor, Helio@",
+          "C": "Joyería de oro, Diamantes, Esmeralda",
+          "D": "Sangre, Heces, Orina"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De la lista, selecciona aquellos que sean compuestos.<br/><ul style='font-size: 7.9pt; list-style-type: upper-roman; padding-left: 20px !important;'> <li>Tetracloruro de Carbono</li> <li>Vinagreta</li> <li>Leche</li> <li>Agua</li> <li>Ácido sulfúrico</li> <li>Jugo de Naranja</li> <li>Pasta de Dientes</li> <li>Glucosa</li> <li>Colesterol</li></ul>",
+        "respuestas": {
+          "A": "I, II, III y IV",
+          "B": "V, VI, VII y VIII",
+          "C": "II,V, VIII y IX ",
+          "D": "I, IV, V, VIII y IX@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué no se puede definir una fórmula química del aire?",
+        "respuestas": {
+          "A": "Porque la fórmula cambia con la temperatura y la presión",
+          "B": "Porque la cantidad de agua en el aire varía, lo que hace que su fórmula no sea constante",
+          "C": "Porque el aire no es un compuesto, es una mezcla@",
+          "D": "Porque la fórmula química del aire cambia con los contaminantes disueltos en él"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona las mezclas con los materiales. Anota en el paréntesis la letra que corresponda<br/><br/><table style='font-size:0.7em;'> <tr> <td>I. Mezcla Homogénea</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>a) Ensalada</td> </tr> <tr> <td>II. Mezcla Heterogénea</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>b) Caf&eacute; con az&uacute;car</td> </tr> <tr> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c) Cereal con leche</td> </tr> <tr> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d) Refresco de cola</td> </tr> <tr> <td>&nbsp;&nbsp;&nbsp;</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>e) Tinta</td> </tr></table>",
+        "respuestas": {
+          "A": "I, a; II, b; I, c; II, d y II, e",
+          "B": "I, b; II, a; II, c; I, d y I, e",
+          "C": "I, a; II, b; I, c; I, d y II, e",
+          "D": "I, b; II,a; II,c; I, d y I,e@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la afirmación correcta.<br/><br/><ul style='font-size: 7.9pt; list-style-type: upper-roman; padding-left: 20px !important;'><li>La sal de mar es un compuesto</li><li>La leche es una mezcla</li><li>El dióxido de carbono es una mezcla</li><li>El fenol es una mezcla</li><li>El agua de Jamaica es una mezcla</li><li>El aceite de maíz es una mezcla</li><li>El café con leche es una mezcla</li><li>El agua hirviendo es un compuesto</li></ul>",
+        "respuestas": {
+          "A": "I, III, V, VI, VIII",
+          "B": "II, IV, VI, VII, VIII",
+          "C": "I,II, V, VII, VIII@",
+          "D": "I,II, III, V, VII"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona las características que sean propias de las mezclas.<br/><ul style='font-size: 7.9pt; list-style-type: upper-roman; padding-left: 20px !important;'> <li>Tienen composición variable.</li> <li>Tienen composición definida.</li> <li>Se pueden separar por métodos experimentales.</li> <li>Se pueden separar por métodos químicos.</li> <li>No se encuentran unidas mediante enlaces químico.</li> <li>Se encuentran unidas mediante enlaces químicos.</li></ul>",
+        "respuestas": {
+          "A": "I, III y V@",
+          "B": "II, IV y VI",
+          "C": "I,IV y VI",
+          "D": "II, III y V"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A diferencia de las mezclas homogéneas, las mezclas heterogéneas presentan…",
+        "respuestas": {
+          "A": "compuestos.",
+          "B": "fases.@",
+          "C": "elementos.",
+          "D": "sustancias."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Todos los sistemas dispersos son… ",
+        "respuestas": {
+          "A": "compuestos.",
+          "B": "elementos.",
+          "C": "mezclas.@",
+          "D": "sustancias."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De la lista, ¿cuáles son propiedades de las disoluciones?<br/><ul style='font-size: 7.9pt; list-style-type: upper-roman; padding-left: 20px !important;'><li>Son mezclas heterogéneas</li><li>Son transparentes</li><li>Presentan 1 fase</li><li>El tamaño de partículas de la fase dispersa es mayor a 1 nm</li><li>Son mezclas homogéneas</li><li>Son turbias</li><li>Presentan partículas de la fase dispersa menores a 1 nm</li><li>Presentan 2 o más fases</li></ul>",
+        "respuestas": {
+          "A": "II, IV, V y VIII",
+          "B": "I, II, III y VII",
+          "C": "I, IV,VI, VIII",
+          "D": "II, III, V y VII@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El aire esta conformado por 78% de nitrógeno, 20.94% de oxígeno, 0.03% de dióxido de carbono y 0.93% de otros gases. Con base a estos porcentajes, ¿cuál es el gas que actúa como disolvente en la atmósfera?",
+        "respuestas": {
+          "A": "Oxígeno",
+          "B": "Dióxido de carbono",
+          "C": "Nitrógeno@",
+          "D": "Otros gases"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el tipo de disolución con su ejemplo correspondiente.<br/><br/><table style='font-size:0.7em;'> <tr> <td>I.Líquido-Gas</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>a)Medalla de bronce</td> </tr> <tr> <td>II.Gas-Gas</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>b)Refresco de cola</td> </tr> <tr> <td>III.Gas-Líquido</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c)Atmosfera del planeta Marte</td> </tr> <tr> <td>IV.Sólido-Líquido</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d)Medicamento nebulizado</td> </tr> <tr> <td>V.Sólido-Sólido</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>e)Amalgama </td> </tr></table>",
+        "respuestas": {
+          "A": "Ib, IIc, IIId, IVe y Va@",
+          "B": "IIb, IIId, Ie, IVa y Vc",
+          "C": "Ib, IIe, IIId IVa y Vc",
+          "D": "IIa, IIId, Ic, IVe y Vb"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué criterio se emplea para clasificar una mezcla como coloide, suspensión o disolución?",
+        "respuestas": {
+          "A": "Tipo de fase dispersa presente.",
+          "B": "Tiempo de separación de las fases.",
+          "C": "Cantidad de fases presentes.",
+          "D": "Tamaño de las partículas dispersas.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son los coloides más importantes?",
+        "respuestas": {
+          "A": "Aquellos en los cuales el medio de dispersión o fase dispersante es el alcohol.",
+          "B": "Aquellos en los cuales el medio de dispersión o fase dispersante es la acetona.",
+          "C": "Aquellos en los cuales el medio de dispersión o fase dispersante es el benceno.@",
+          "D": "Aquellos en los cuales el medio de dispersión o fase dispersante es el agua."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La sangre está compuesta por diferentes tipos de células como eritrocitos, plaquetas, linfocitos y una matriz fluida denominada plasma. Tomando en cuenta la composición de las diferentes fases de la sangre, ¿qué tipo de coloide es?",
+        "respuestas": {
+          "A": "Líquido-sólido@",
+          "B": "Sólido-gas",
+          "C": "Líquido-líquido",
+          "D": "Gas-gas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué proceso se utiliza para eliminar partículas coloidales?",
+        "respuestas": {
+          "A": "Filtración",
+          "B": "Coagulación@",
+          "C": "Calentamiento",
+          "D": "Evaporación"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Supón que entras en una casa abandonada y enciendes tu linterna. Al hacerlo observas pequeñas partículas flotando en el ambiente. ¿A qué fenómeno físico se atribuye?",
+        "respuestas": {
+          "A": "Efecto Tyndall@",
+          "B": "Efecto Torricelli",
+          "C": "Efecto Galileo",
+          "D": "Efecto Descartes"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿El tamaño de las partículas dispersas de un coloide oscila entre?",
+        "respuestas": {
+          "A": "1 a 1000 nm",
+          "B": "Menos de 1nm",
+          "C": "Más de 1000 nm@",
+          "D": "1 nm"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿De qué son ejemplos las suspensiones?",
+        "respuestas": {
+          "A": "Compuestos",
+          "B": "Disoluciones",
+          "C": "Mezclas homogéneas",
+          "D": "Mezclas heterogéneas@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Como las suspensiones comerciales y comunes no son estables, ¿qué tipo de sustancias se utilizan en la industria para evitar que se precipiten las partículas?",
+        "respuestas": {
+          "A": "Agentes coagulantes",
+          "B": "Agentes estabilizadores@",
+          "C": "Agentes  precipitantes",
+          "D": "Agentes iónicos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una solución diluida es aquella que…",
+        "respuestas": {
+          "A": "tiene igual cantidad de soluto que de disolvente.",
+          "B": "tiene mucha cantidad de soluto y poca de disolvente.",
+          "C": "tiene poca cantidad de soluto y poca cantidad de disolvente.",
+          "D": "tiene poca cantidad de soluto y mucha cantidad de disolvente.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una solución saturada es aquella que…",
+        "respuestas": {
+          "A": "tiene igual cantidad de soluto que de disolvente.",
+          "B": "tiene mucha cantidad de soluto y poca de disolvente.@",
+          "C": "tiene poca cantidad de soluto y poca cantidad de disolvente.",
+          "D": "tiene poca cantidad de soluto y mucha cantidad de disolvente."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tipo de disolución es una gota de tinta en 4 litros de agua?",
+        "respuestas": {
+          "A": "Saturada",
+          "B": "Equilibrada",
+          "C": "Diluida@",
+          "D": "Concentrada"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Criterio que se utiliza para decidir si “poco” o “mucho” soluto se puede disolver?",
+        "respuestas": {
+          "A": "Propiedad del soluto de disolverse en el solvente.@",
+          "B": "Propiedad del disolvente de disolver todos los solutos.",
+          "C": "Propiedad del soluto y del solvente de atraerse.",
+          "D": "Propiedad del soluto y del solvente de formar mezclas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El peso molecular de la glucosa es de 108.6 g/mol. ¿Cómo se prepararían 250 ml de una solución 1M de glucosa?                                                                                                            ",
+        "respuestas": {
+          "A": "Se pesan 108.6 gramos de glucosa y se aforan a 250 ml con agua.",
+          "B": "Se pesan 54.3 gramos de glucosa y se aforan a 250 ml con agua.",
+          "C": "Se pesan 10.86 gramos de glucosa y se aforan a 250 ml con agua.",
+          "D": "Se pesan 27.15 gramos de glucosa y se aforan a 250 ml con agua.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la concentración molar de una solución que se preparó pesando 0.2925 gramos de NaCl para después diluirlos en 100 ml de agua? Considera que el peso molecular del NaCl es de 58.5 g/mol ... ",
+        "respuestas": {
+          "A": "0.1 M",
+          "B": "0.2 M",
+          "C": "0.05 M@",
+          "D": "0.75 M"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se prepara 1 litro de solución de glucosa al 10% en agua?",
+        "respuestas": {
+          "A": "Se pesan 10 gramos de glucosa y se disuelven en 1000 ml de solución.",
+          "B": "Se pesan 100 gramos de glucosa y se disuelven en 1000 ml de solución.@",
+          "C": "Se pesan 10 gramos de glucosa y se disuelven en 100 ml de solución.",
+          "D": "Se pesan 100 gramos de glucosa y se disuelven en 100 ml de solución."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La NOM-025-SSA1-2014 establece que cantidades de SO<sub>3</sub> superiores a 0.087 ppm pueden exacerbar los síntomas respiratorios en pacientes sensibles a este compuesto. ¿Qué significa 0.087 ppm?",
+        "respuestas": {
+          "A": "Que hay 87 partes de SO<sub>3</sub> por cada 1 000 partes de aire.",
+          "B": "Que hay 87 partes de SO<sub>3</sub> por cada 100 000 partes de aire.",
+          "C": "Que hay 87 partes de SO<sub>3</sub> por cada 1000 000 partes de aire.@",
+          "D": "Que hay 87 partes de SO<sub>3</sub> por cada 100 000 000 partes de aire."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un coloide está formado por partículas de tres tamaños diferentes. Si se desea separar las partículas más grandes (de 0.8 micras) del resto, ¿qué método utilizarías para hacerlo?",
+        "respuestas": {
+          "A": "Filtración@",
+          "B": "Imantación",
+          "C": "Evaporación",
+          "D": "Cristalización"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Durante la “Fiebre del oro” en Estados Unidos, miles de personas viajaron al oeste para buscar pepitas de oro en los ríos. Colocaban en una plancha perforada sedimentos del río y empezaban a agitarla hasta que únicamente quedaban pepitas de oro en la plancha. ¿Qué método de separación estaban utilizando?",
+        "respuestas": {
+          "A": "Centrifugación",
+          "B": "Tamizado@",
+          "C": "Evaporación",
+          "D": "Sublimación"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para producir mezcal se necesitan pencas de maguey que se limpian y cuecen a altas temperaturas, con el fin de extraerles todos los carbohidratos. Después, las pencas se exprimen para retirar todo el líquido azucarado posible, el cual se separa para fermentarlo y producir alcohol. Dicho alcohol finalmente se purifica para obtener el mezcal. Tomando en cuenta los pasos anteriores, ¿cuál es la secuencia más lógica de métodos de separación utilizados durante la producción de mezcal?",
+        "respuestas": {
+          "A": "Sedimentación, Filtración, Destilación",
+          "B": "Sedimentación, Centrifugación, Destilación",
+          "C": "Sedimentación, Filtración, Sublimación",
+          "D": "Sedimentación, Decantación, Destilación@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si se quiere separar una mezcla de toxinas en sangre y además conocer la proporción en la que se encuentran, ¿qué método de separación se puede utilizar?",
+        "respuestas": {
+          "A": "Filtración",
+          "B": "Electroforesis",
+          "C": "Cromatografía@",
+          "D": "Difusión Radial"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué es un ácido de Arrhenius?",
+        "respuestas": {
+          "A": "Un material que es capaz de donar protones.",
+          "B": "Un material que es capaz de aceptar protones.",
+          "C": "Un material neutro que al disolverse en agua produce OH",
+          "D": "Un material neutro que al disolverse en agua produce H<sup>+</sup>.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tipo de iones involucra una reacción ácido-base común?",
+        "respuestas": {
+          "A": "Hidróxido y Nitrato",
+          "B": "Hidrógeno e Hidróxido@",
+          "C": "Sodio y Cloro",
+          "D": "Hidrógeno e Hidronio "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el pH de una solución con una concentración de iones hidrógeno de \\(1 \\times 10^{-5}\\)",
+        "respuestas": {
+          "A": "+5@",
+          "B": "+0.5",
+          "C": "-5",
+          "D": "+/- 5"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la diferencia entre un ácido fuerte y un ácido débil?",
+        "respuestas": {
+          "A": "La cantidad de iones hidrógeno en el ácido fuerte es menor que en el ácido débil.",
+          "B": "El ácido fuerte no se ioniza por completo, el ácido débil sí.",
+          "C": "El ácido fuerte se disocia por completo en solución acuosa, el ácido débil no.@",
+          "D": "La cantidad de iones hidrógeno en el ácido fuerte es mayor que en el ácido débil."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Bloque 3. Compuestos del carbono y Macromoléculas",
+    "nombreAE": "<br/>Carbono<br/><br/>Cadenas<br/><br/>Fórmulas",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál es el objeto de estudio de la química orgánica?",
+        "respuestas": {
+          "A": "Estructura, comportamiento y propiedades del carbono.@",
+          "B": "Estructura, composición y propiedades del silicio.",
+          "C": "Estructura, comportamiento e hibridación del hidrógeno.",
+          "D": "Estructura, reacciones y propiedades del nitrógeno."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la configuración electrónica del carbono?",
+        "respuestas": {
+          "A": " \\( 1S^{2}2S^{2}2px^{2}2py^{1}2pz{1} \\) ",
+          "B": " \\( 1S^{2}2S^{2}2px^{1}2py^{1} \\) @",
+          "C": " \\( 1S^{2}2S^{2} \\) ",
+          "D": " \\( 1S^{2}2S^{2}2px^{1}2py^{1}2pz{1} \\) "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De la siguiente lista de aseveraciones, selecciona aquellas que son parte de la teoría estructural de los compuestos orgánicos.<ul style='font-size: 7.9pt; list-style-type: upper-roman; padding-left: 20px !important;'><li>El átomo de un mismo elemento puede formar un número variable de enlaces dependiendo del compuesto que forme.</li><li>Un átomo de carbono se puede enlazar con átomos de diferentes elementos así como a átomos de carbono.</li><li>El oxígeno tiene la capacidad de enlazarse con tres átomos diferentes.</li><li>El átomo de un mismo elemento puede formar un número fijo de enlaces.</li><li>El número de enlaces que puede formar un elemento depende directamente del número de neutrones en su núcleo.</li></ul>",
+        "respuestas": {
+          "A": "I y III",
+          "B": "IV y V",
+          "C": "III y IV",
+          "D": "II y IV@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De los siguientes tipos de hibridación, ¿cuáles son posibles para un átomo de carbono?",
+        "respuestas": {
+          "A": "\\(sp\\) y \\(sp^{2}\\)",
+          "B": "\\(sp\\), \\(sp^{2}\\) y \\(sp^{4}\\)",
+          "C": "\\(sp\\), \\(sp^{2}\\) y \\(sp^{3}\\)@",
+          "D": "\\(sp^{2}\\) y \\(sp^{3}\\)"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En función del tipo de cadena que forman, ¿los compuestos orgánicos se pueden clasificar en?",
+        "respuestas": {
+          "A": "Cícliclos, homocíclicos, lineales, alicíclicos y ramificados.",
+          "B": "Cíclicos, homocíclicos, acíclicos, alicíclicos y aromáticos.",
+          "C": "Cíclicos, homocíclicos, heterocíclicos, alicíclicos y aromáticos.@",
+          "D": "Cíclicos, homocíclicos, heterocíclicos, acíclicos y alicíclicos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa las siguientes estructuras e indica el hidrocarburo que tiene cadena abierta<br/><br/><table style='font-size:0.7em;'> <tr> <td> a) Isooctano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> c) Ciclohexano carbaldehído <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_045.png'/> </td> </tr> <tr> <td> b) Ciclopentano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_059.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> d) Benzoato de isopropilo <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_051.png'/> </td> </tr></table>",
+        "respuestas": {
+          "A": "a@",
+          "B": "b",
+          "C": "c",
+          "D": "d"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes estructuras, ¿cuál es una cadena cerrada?<br/><br/><table style='font-size:0.7em;'> <tr> <td>a) Fructuosa <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c) ácido 3,5-dimetilhexanoico <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr> <tr> <td>b) 1-bromo-4-clorobutano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d) Glucosa <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr></table> //TODO",
+        "respuestas": {
+          "A": "a",
+          "B": "b",
+          "C": "c",
+          "D": "d@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa las siguientes fórmulas y selecciona las que son de compuestos no saturados.<br/><br/><table style='font-size:0.7em;'> <tr> <td>I Ciclohexeno <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> III Propileno <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr> <tr> <td> II Ciclohexano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> IV Hexano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr></table> //TODO",
+        "respuestas": {
+          "A": "I, IV",
+          "B": "I, III@",
+          "C": "II, III",
+          "D": "II, IV"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la fórmula condensada del ácido palmítico?<br/>(CH<sub>3</sub> - CH<sub>2</sub> - CH<sub>2</sub>- CH<sub>2</sub> – CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> - CH<sub>2</sub> – COOH)?",
+        "respuestas": {
+          "A": "C<sub>14</sub>H<sub>32</sub>O<sub>2</sub>",
+          "B": "C<sub>16</sub>H<sub>34</sub>O<sub>2</sub>",
+          "C": "C<sub>16</sub>H<sub>32</sub>O<sub>2</sub>@",
+          "D": "C<sub>14</sub>H<sub>34</sub>O<sub>2</sub>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los compuestos con su fórmula condensada<br/><br/><table style='font-size:0.7em;'> <tr> <td>I. Metano</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>a) CH<sub>4</sub> </td> </tr> <tr> <td> II. Eteno </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> b) C<sub>3</sub>H<sub>4</sub> </td> </tr> <tr> <td> III. 1-Heptino </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> c) C<sub>2</sub>H<sub>4</sub> </td> </tr> <tr> <td> IV. 1-Octeno </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> d) C<sub>3</sub>H<sub>6</sub> </td> </tr> <tr> <td> V. 1-Hexeno </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> e) C<sub>7</sub>H<sub>12</sub> </td> </tr> <tr> <td> VI. Pentano </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> f) C<sub>4</sub>H<sub>6</sub> </td> </tr> <tr> <td> VII. 1-Buteno </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> g) C<sub>8</sub>H<sub>13</sub> </td> </tr> <tr> <td> VIII. 1-Butino </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> h) C<sub>4</sub>H<sub>8</sub> </td> </tr> <tr> <td> IX. 1-Propeno </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> i) C<sub>6</sub>H<sub>12</sub> </td> </tr> <tr> <td> X. Propino </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> j) C<sub>5</sub>H<sub>12</sub> </td> </tr></table>",
+        "respuestas": {
+          "A": "Ia, IIc, IIIe, IVg, Vi, VIj, VIIh VIIIf, IXd, Xb@",
+          "B": "Ib, IIa, IIIg, IVe, Vh, VIj, VIIf, VIIIh, IXb, Xd",
+          "C": "Ic, IIe, IIIa, IVj, Vg, VIi, VIIb, VIIId, IXf, Xh",
+          "D": "Id, IIc, IIId, IVh, Va, VIe, VIIb, VIIIg, IXh, Xi"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la fórmula semidesarrollada del butano?",
+        "respuestas": {
+          "A": "C<sub>4</sub>H<sub>10</sub>",
+          "B": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>@",
+          "C": "<img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png' />",
+          "D": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son ejemplos de fórmulas desarrolladas, excepto:",
+        "respuestas": {
+          "A": "n-butano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png' />",
+          "B": "Isobutano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png' />",
+          "C": "CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+          "D": "etilamina <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png' />"
         },
         "img_asociada": ""
       }
