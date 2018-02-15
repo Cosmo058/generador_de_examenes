@@ -1,0 +1,290 @@
+[
+  {
+    "caratula":"Lee, escribe y ordena hasta 100.",
+    "nombreAE": "Lee, escribe y ordena números naturales hasta 100.",
+    "reactivos": [
+      {
+        "reactivo": "Observa la imagen y responde la siguiente pregunta: ¿Cuántas niñas faltan para igualar el número de niños?",
+        "respuestas": {
+          "A": "0@",
+          "B": "2",
+          "C": "7"
+        },
+        "img_asociada": "data/img_asociadas/1p_mab1_exa_12.png",
+        "size":"300px"
+      },
+      {
+        "reactivo": "Observa la imagen y reponde la siguiente pregunta: ¿Cuántas niñas están sentadas?",
+        "respuestas": {
+          "A": "1",
+          "B": "3",
+          "C": "2@"
+        },
+        "img_asociada": "data/img_asociadas/1p_mab1_exa_12.png",
+        "size":"300px"
+      },
+      {
+        "reactivo": "Juan tiene 8 caballos, 3 pelotas, 15 canicas y 11 coches de juguete. ¿De cuáles tiene más?",
+        "respuestas": {
+          "A": "Caballos",
+          "B": "Pelotas",
+          "C": "Canicas@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Juan y Marcela están completando una sucesión para su tarea de matemáticas. ¿Qué números faltan? <br>6, 7, 8, ____, 10, 11, ____, 13, 14, 15, _____, 17, 18, 19, ____",
+        "respuestas": {
+          "A": "8, 11, 15, 19",
+          "B": "9, 12, 16, 20@",
+          "C": "13, 17, 20, 21"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Luis está completando tres sucesiones en su cuaderno.<br>¿Qué números le faltan?<br>10, 11, __, 13, 14<br>6, 7, __, 9<br>21, __, 22; 23",
+        "respuestas": {
+          "A": "16, 13, 4",
+          "B": "18, 14, 6",
+          "C": "12, 8, 22@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cuál de las series numéricas está ordenada de manera ascendente?",
+        "respuestas": {
+          "A": "13, 12, 7, 6, 10",
+          "B": "19, 18, 17, 16, 15",
+          "C": "10, 11, 12, 13, 14@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "En una sucesión que Lupita anotó en el pizarrón, escribió los números 30, 29, 28, 27, 26, 25,24. Los números están colocados en…",
+        "respuestas": {
+          "A": "orden alfabético",
+          "B": "orden ascendente",
+          "C": "orden descendente@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cuál de las series numéricas está ordenada de manera descendente?",
+        "respuestas": {
+          "A": "1, 12, 3, 14, 5",
+          "B": "20, 19, 18, 17, 16@",
+          "C": "8, 9, 10, 11, 12"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Paco anotó, en el pizarrón, los siguientes números 14, 6, 2, 7, 11, 15, 4. ¿Cómo se escriben con letra los últimos 3?",
+        "respuestas": {
+          "A": "Once, quince, cuatro@",
+          "B": "Catorce, dos, cuatro",
+          "C": "Seis, quince, catorce"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cuál número está escrito correctamente?",
+        "respuestas": {
+          "A": "16 dieciséis@",
+          "B": "11 dieciuno",
+          "C": "veinticero"
+        },
+        "img_asociada": "",
+        "size":""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "caratula": "Suma y resta con números menores a 100.",
+    "nombreAE": "Resuelve problemas de suma y resta con números naturales menores que 100.",
+    "reactivos": [
+      {
+        "reactivo": "Tania tenía 8 libros y a su hermana le regaló 5, ¿ahora Tania tiene más o menos libros? ¿cuántos tiene?",
+        "respuestas": {
+          "A": "Más libros, 13",
+          "B": "Menos libros, 3@",
+          "C": "Menos libros, 13"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "4 + 4 = 8, ¿cuál es otro par de números que sumados dan 8?",
+        "respuestas": {
+          "A": "5 y 3@",
+          "B": "4 y 5",
+          "C": "3 y 3"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la carretera a Oaxaca, Priscila encontró que las curvas siguen un patrón que puede verse en los señalamientos.<br>Identifica qué señalamiento falta para completar la sucesión:",
+        "respuestas": {
+          "A": "Figura 1",
+          "B": "Figura 2",
+          "C": "Figura 3@"
+        },
+        "img_asociada": "data/img_asociadas/1p_mab1_exa_07.png",
+        "size":"300px"
+      },
+      {
+        "reactivo": "En la veterinaria hay seis gatos y tres perros. ¿Cuántos perros faltan para igualar el número de gatos?",
+        "respuestas": {
+          "A": "12",
+          "B": "4",
+          "C": "3@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la pared de una tienda se colgaron varias flechas que siguen un patrón. ¿Cuáles son las dos figuras que faltan para completar la sucesión?",
+        "respuestas": {
+          "A": "Figura 2",
+          "B": "Figura 3",
+          "C": "Figura 4@"
+        },
+        "img_asociada": "data/img_asociadas/1p_mab1_exa_11.png",
+        "size":"300px"
+      },
+      {
+        "reactivo": "Observa el cartel y responde la siguiente pregunta: ¿A qué hora son las funciones los domingos en la mañana?",
+        "respuestas": {
+          "A": "9 de la mañana@",
+          "B": "10 de la mañana",
+          "C": "7 de la mañana"
+        },
+        "img_asociada": "data/img_asociadas/1p_mab1_exa_13",
+        "size":"300px"
+      },
+      {
+        "reactivo": "¿Cuál es el patrón de la sucesión: 3, 4, 5, 3, 4, 5, 3, 4, 5?",
+        "respuestas": {
+          "A": "Cinco, tres, cuatro",
+          "B": "Tres veces el cuatro y tres el tres",
+          "C": "Tres, cuatro, cinco@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Eventos usando: día, semana y mes.",
+    "nombreAE": "Estima, compara y ordena eventos usando unidades convencionales de tiempo: día, semana y mes.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál actividad dura menos?",
+        "respuestas": {
+          "A": "Ir a la escuela",
+          "B": "Comer",
+          "C": "Lavarse los dientes@"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "¿Cuál es el noveno mes del año?",
+        "respuestas": {
+          "A": "Agosto",
+          "B": "Septiembre@",
+          "C": "Noviembre",
+          "D": "Octubre"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "El cumpleaños de Juan está marcado en el calendario. Si María cumple años una semana después, ¿cuál es su fecha de cumpleaños?",
+        "respuestas": {
+          "A": "2 de agosto",
+          "B": "16 de septiembre",
+          "C": "12 de agosto",
+          "D": "16 de agosto@"
+        },
+        "img_asociada": "data/img_asociadas/PINMA3CD1E16_002.png",
+	       "size":"350px"
+      },
+      {
+        "reactivo": "¿A cuál de los siguientes recipientes le cabe más agua?",
+        "respuestas": {
+          "A": "Al gotero",
+          "B": "A la bañera@",
+          "C": "A la jarra",
+          "D": "A la taza"
+        },
+        "img_asociada": "data/img_asociadas/PINMA3CD1E16_002.png",
+	       "size":"350px"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Configuraciones con figuras geométricas.",
+    "nombreAE": "Construye configuraciones utilizando figuras geométricas.",
+    "reactivos": [
+      {
+        "reactivo": "Dos paralelas se cortan por transversales de modo que forman los ángulos que se muestran en la figura. ¿Cuánto mide el ángulo \\(x\\)?",
+        "respuestas": {
+          "A": "50°",
+          "B": "90°",
+          "C": "75°@",
+          "D": "65°"
+        },
+        "img_asociada": "data/img_asociadas/MA1ED1_GX_AP10_IMG1.jpg",
+	       "size":"70%"
+      },
+      {
+        "reactivo": "¿Cuál de las figuras geométricas de la imagen tiene más lados rectos?",
+        "respuestas": {
+          "A": "El triángulo",
+          "B": "El pentágono@",
+          "C": "El romboide",
+          "D": "El rectángulo"
+        },
+        "img_asociada": "data/img_asociadas/PINMA3CD1E16.png",
+	       "size":"300px"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Hace registros personales.",
+    "nombreAE": "Recolecta datos y hace registros personales.",
+    "reactivos": [
+      {
+        "reactivo": "Dos paralelas se cortan por transversales de modo que forman los ángulos que se muestran en la figura. ¿Cuánto mide el ángulo \\(x\\)?",
+        "respuestas": {
+          "A": "50°",
+          "B": "90°",
+          "C": "75°@",
+          "D": "65°"
+        },
+        "img_asociada": "data/img_asociadas/MA1ED1_GX_AP10_IMG1.jpg",
+	       "size":"70%"
+      },
+      {
+        "reactivo": "La siguiente tabla muestra las preferencias respecto a los deportes favoritos del grupo de 1.º A. ¿Cuáles deportes tienen la misma preferencia en este grupo?",
+        "respuestas": {
+          "A": "Volibol y atletismo",
+          "B": "Atletismo y futbol",
+          "C": "Natación y volibol",
+          "D": "Natación y atletismo@"
+        },
+        "img_asociada": "data/img_asociadas/PINMA3CD1E16_001b.png",
+	       "size":"300px"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  }
+]

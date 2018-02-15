@@ -688,7 +688,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "De las siguientes estructuras, ¿cuál es una cadena cerrada?<br/><br/><table style='font-size:0.7em;'> <tr> <td>a) Fructuosa <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c) ácido 3,5-dimetilhexanoico <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr> <tr> <td>b) 1-bromo-4-clorobutano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d) Glucosa <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr></table> //TODO",
+        "reactivo": "De las siguientes estructuras, ¿cuál es una cadena cerrada?<br/><br/><table style='font-size:0.7em;'> <tr> <td>a) Fructuosa <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_094.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c) ácido 3,5-dimetilhexanoico <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_049.png'/> </td> </tr> <tr> <td>b) 1-bromo-4-clorobutano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_037.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d) Glucosa <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_090.png'/> </td> </tr></table> //TODO",
         "respuestas": {
           "A": "a",
           "B": "b",
@@ -698,7 +698,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "Observa las siguientes fórmulas y selecciona las que son de compuestos no saturados.<br/><br/><table style='font-size:0.7em;'> <tr> <td>I Ciclohexeno <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> III Propileno <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr> <tr> <td> II Ciclohexano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> IV Hexano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr></table> //TODO",
+        "reactivo": "Observa las siguientes fórmulas y selecciona las que son de compuestos no saturados.<br/><br/><table style='font-size:0.7em;'> <tr> <td>I Ciclohexeno <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_066.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> III Propileno <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_016.png'/> </td> </tr> <tr> <td> II Ciclohexano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> <td>&nbsp;&nbsp;&nbsp;</td> <td> IV Hexano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png'/> </td> </tr></table> //TODO",
         "respuestas": {
           "A": "I, IV",
           "B": "I, III@",
@@ -742,8 +742,278 @@
         "respuestas": {
           "A": "n-butano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png' />",
           "B": "Isobutano <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png' />",
-          "C": "CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+          "C": "CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>@",
           "D": "etilamina <img style='width:100px !important;' src='assets/data/img_asociadas/BPXQU2SB1E18_B3T_056.png' />"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa las siguientes fórmulas desarrolladas de isómeros del pentano e identifica que tipo de isomería presentan.<br/><br/><table style='font-size:0.7em;'> <tr> <td> <img src='' /> n-pentano </td> <td> <img src='' /> Isopentano</td> <td> <img src='' /> Neopentano</td> </tr></table>",
+        "respuestas": {
+          "A": "Isomería de cadena@",
+          "B": "Isomería de posición",
+          "C": "Isomería de función",
+          "D": "Isomería química"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa las siguientes formulas e identifica el tipo de isomería que presentan<br/><br/><table style='font-size:0.7em;'> <tr> <td> <img src='' /> 2-pentanol </td> <td> <img src='' /> 3-pentanol </td> </tr></table>",
+        "respuestas": {
+          "A": "Isomería de cadena",
+          "B": "Isomería de posición@",
+          "C": "Isomería de función",
+          "D": "Isomería química"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa las estructuras del 2-butanol y el dietil-éter e identifica el tipo de isomería que presentan <br/><br/><table style='font-size:0.7em;'> <tr> <td> <img src='' /> 2-butanol </td> <td> <img src='' /> dietil-éter </td> </tr></table>",
+        "respuestas": {
+          "A": "Isomería de cadena",
+          "B": "Isomería de posición",
+          "C": "Isomería química",
+          "D": "Isomería de función@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A qué tipo de isomería pertenecen los siguientes compuestos? <br/><br/> <table style='font-size:0.7em;'> <tr> <td> <img src='' /> n-butano </td> <td> <img src='' /> Isobutano </td> </tr></table>",
+        "respuestas": {
+          "A": "Isomería de función",
+          "B": "Isomería de posición",
+          "C": "Isomería de cadena@",
+          "D": "Isomería química"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son tipos de hidrocarburos",
+        "respuestas": {
+          "A": "Alcanos, alquenos, alquinos y compuestos aminados.",
+          "B": "Alcanos, alquenos, alquinos y aminas aromáticas.",
+          "C": "Alcanos, alquenos, aminas y compuestos aromáticos.",
+          "D": "Alcanos, alquenos, alquinos y compuestos aromáticos.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La siguiente fórmula desarrollada, ¿a qué compuesto corresponde?<br/><br/><img src='' />",
+        "respuestas": {
+          "A": "Buteno",
+          "B": "Butino",
+          "C": "Ciclobutano",
+          "D": "n-butano"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se llama el siguiente compuesto?<br/><br/><img src='' />",
+        "respuestas": {
+          "A": "Ciclopentano",
+          "B": "Benceno@",
+          "C": "Fenol",
+          "D": "Ciclohexano"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se llama el siguiente compuesto?<br/><br/><img src='' />",
+        "respuestas": {
+          "A": "but-2-eno@",
+          "B": "but-3-eno",
+          "C": "but-1-eno",
+          "D": "isobuteno"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa la fórmula y asigna nombre al compuesto.<br/><br/><img src='' />",
+        "respuestas": {
+          "A": "Acetileno",
+          "B": "But-2-ino",
+          "C": "But-1-ino@",
+          "D": "Propino"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para separar un alcano de una mezcla de azúcares y alcoholes se solubiliza. ¿Cuáles de los siguientes solventes orgánicos podrías utilizar?<br/><ul style='font-size: 9pt; list-style-type: upper-roman;'> <li>Agua y etanol</li> <li>Éter y acetona</li> <li>Acetona y agua </li> <li>Cloroformo y benceno</li></ul>",
+        "respuestas": {
+          "A": "I y III",
+          "B": "II y IV@",
+          "C": "II y III",
+          "D": "III y IV"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De los siguientes productos, ¿cuáles son resultado de la combustión de hidrocarburos?",
+        "respuestas": {
+          "A": "O<sub>2</sub> y CO<sub>2</sub>",
+          "B": "O<sub>2</sub> y H<sub>2</sub>O",
+          "C": "Hidrocarburo y CO<sub>2</sub>",
+          "D": "CO<sub>2</sub> y H<sub>2</sub>O@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes fórmulas químicas, ¿cuál representa a un alcohol?<br/><br/><table style='font-size:0.7em;'> <tr> <td> a) <img src='' /> </td> <td> c) <img src='' /> </td> </tr> <tr> <td> b) <img src='' /> </td> <td> d) <img src='' /> </td> </tr></table>",
+        "respuestas": {
+          "A": "a",
+          "B": "b",
+          "C": "c@",
+          "D": "d"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes fórmulas, ¿cuál representa a una amina?<br/><br/><table style='font-size:0.7em;'> <tr> <td> a) <img src='' /> </td> <td> c) <img src='' /> </td> </tr> <tr> <td> b) <img src='' /> </td> <td> d) <img src='' /> </td> </tr></table>",
+        "respuestas": {
+          "A": "a",
+          "B": "b@",
+          "C": "c",
+          "D": "d"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ejemplo de un aldehído es:<br/><br/><table style='font-size:0.7em;'> <tr> <td> a) <img src='' /> </td> <td> c) <img src='' /> </td> </tr> <tr> <td> b) <img src='' /> </td> <td> d) <img src='' /> </td> </tr></table>",
+        "respuestas": {
+          "A": "a@",
+          "B": "b",
+          "C": "c",
+          "D": "d"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ejemplo de un éster es:<br/><br/><table style='font-size:0.7em;'> <tr> <td> a) <img src='' /> </td> <td> c) <img src='' /> </td> </tr> <tr> <td> b) <img src='' /> </td> <td> d) <img src='' /> </td> </tr></table>",
+        "respuestas": {
+          "A": "a",
+          "B": "b",
+          "C": "c",
+          "D": "d@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes compuesto es un ácido carboxílico?<br/><br/><table style='font-size:0.7em;'> <tr> <td> a) <img src='' /> </td> <td> c) <img src='' /> </td> </tr> <tr> <td> b) <img src='' /> </td> <td> d) <img src='' /> </td> </tr></table>",
+        "respuestas": {
+          "A": "a",
+          "B": "b",
+          "C": "c@",
+          "D": "d"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa la molécula de glucosa y selecciona el inciso que describa sus características.<br/><br/><img src='' />",
+        "respuestas": {
+          "A": "Es aldosa, hexosa@",
+          "B": "Es cetosa, pentosa",
+          "C": "Es aldosa, pentosa",
+          "D": "Es cetosa, hexosa"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La oxidación de la glucosa es uno de los procesos biológicos más importantes para los seres vivos. ¿Cuáles son los principales productos de este proceso biológico?",
+        "respuestas": {
+          "A": "H<sub>2</sub>O, acetaldehído y energía",
+          "B": "H<sub>2</sub>O, CO<sub>2</sub> y piruvato",
+          "C": "H<sub>2</sub>O, CO<sub>2</sub> y ATP@",
+          "D": "H<sub>2</sub>O, CO<sub>2</sub> y piruvato"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la unidad básica de los azúcares?",
+        "respuestas": {
+          "A": "Aminoácidos",
+          "B": "Monosacáridos@",
+          "C": "Nucleótidos",
+          "D": "Ésteres de ácidos grasos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es una característica de los lípidos?",
+        "respuestas": {
+          "A": "Solubles en agua y en solventes orgánicos.",
+          "B": "Insolubles en solventes orgánicos e insolubles en agua.",
+          "C": "Insolubles en agua y solubles en solventes orgánicos.@",
+          "D": "Solubles en agua e insolubles en solventes orgánicos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son funciones de los lípidos, excepto que…",
+        "respuestas": {
+          "A": "forman bicapas lipídicas.",
+          "B": "son hormonas sexuales.",
+          "C": "son aislantes térmicos.",
+          "D": "forman anticuerpos.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué se les llama así a los ácidos grasos esenciales?<br/><br/><ul style='font-size: 9pt; list-style-type: upper-roman;'> <li>Porque los sintetiza nuestro cuerpo.</li> <li>Porque no son sintetizados por el cuerpo.</li> <li>Porque se obtienen a través de la dieta.</li> <li>Porque no están presentes en la dieta.</li></ul>",
+        "respuestas": {
+          "A": "I, II",
+          "B": "III, I",
+          "C": "II, III@",
+          "D": "IV, I"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los aminoácidos son las unidades estructurales de…",
+        "respuestas": {
+          "A": "los lípidos.",
+          "B": "los carbohidratos.",
+          "C": "los ácidos nucleicos.",
+          "D": "las proteínas.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Para formar proteínas los aminoácidos se enlazan entre si formando un enlace de tipo?",
+        "respuestas": {
+          "A": "Covalente polar",
+          "B": "Iónico ",
+          "C": "Peptídico@",
+          "D": "Glicosídico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el tipo de estructura de las proteínas con sus características.<br/><br/><table style='font-size:0.7em;'> <tr> <td>I. Primaria</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>a) Caracterizada por interacciones entre &alpha;-hélices y tiras &beta;-plegadas para formar proteínas fibrilares</td> </tr> <tr> <td>II. Secundaria</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>b) Formada por aminoácidos unidos entre sí por enlaces peptídicos</td> </tr> <tr> <td>III. Terciaria</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c) Varias cadenas polipeptídicas se unen entre sí mediante enlaces débiles como puentes de hidrógeno y fuerzas de Van der Waals</td> </tr> <tr> <td>IV. Cuaternaria</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d) Se caracteriza por el plegamiento de una cadena lineal en &alpha;-hélices y tiras &beta;-plegadas</td> </tr></table>",
+        "respuestas": {
+          "A": "Ib IId IIIa IVc@",
+          "B": "Ia IIc IIIb IVd",
+          "C": "Id IIa IIIc IVb",
+          "D": "Ic IIb IIId IVa"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La celulosa y el caucho son ejemplos de…",
+        "respuestas": {
+          "A": "homopolímeros sintéticos",
+          "B": "homopolímeros naturales@",
+          "C": "copolímeros naturales",
+          "D": "copolímeros sintéticos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son tipos de copolímeros?",
+        "respuestas": {
+          "A": "Al azar, alternado, en bloque e injertado.@",
+          "B": "Al azar, alternado, en bloque y ramificado.",
+          "C": "Al azar, lineal, en bloque y ramificado.",
+          "D": "Al azar, alternado, lineal e injertado. "
         },
         "img_asociada": ""
       }

@@ -1,0 +1,254 @@
+[
+  {
+    "caratula":"Lee, escribe y ordena hasta 10000.",
+    "nombreAE": "Lee, escribe y ordena números naturales hasta 10000.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál es la lista que tiene ordenados los números de mayor a menor?",
+        "respuestas": {
+          "A": "103, 130, 100",
+          "B": "130, 103, 100@",
+          "C": "103, 100, 130",
+          "D": "100, 130, 103"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cuál serie está en orden de mayor a menor?",
+        "respuestas": {
+          "A": "1 315, 1 722, 7 835, 6 549",
+          "B": "9 876, 4 418, 1 117, 1 611",
+          "C": "7 510, 5 431, 2 542, 1 312@",
+          "D": "1 378, 2 810, 7 899, 8 531"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Compara los ahorros de Rosario con los de sus amigas y señala quién ahorró más dinero.",
+        "respuestas": {
+          "A": "Rosario 623 pesos",
+          "B": "Julia 632 pesos@",
+          "C": "Lidia 236 pesos",
+          "D": "Hortensia 362 pesos"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cómo se lee el número 5087?",
+        "respuestas": {
+          "A": "Cinco mil ochocientos siete.",
+          "B": "Quinientos ochenta y siete.",
+          "C": "Cinco mil ochenta y siete.@",
+          "D": "Cincuenta mil ochenta y siete."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Joaquín dictó a sus amigos el siguiente número: seis mil setecientos cincuenta y cuatro. ¿Quién de ellos lo escribió correctamente?",
+        "respuestas": {
+          "A": "Jorge escribió 670054",
+          "B": "Luis escribió 6000 + 700+ 50",
+          "C": "Carmen escribió 67054",
+          "D": "Sonia escribió 6754@"
+        },
+        "img_asociada": "",
+        "size":""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "caratula": "Multiplicación y división con divisores y concientes de una cifra.",
+    "nombreAE": "Calcula mentalmente multiplicaciones de números de una cifra por números de una cifra y por múltiplos de 10, así como divisiones con divisores y cocientes de una cifra.",
+    "reactivos": [
+      {
+        "reactivo": "Teresa hizo una multiplicación en la calculadora y obtuvo como resultado 2300, ¿cuál fue la multiplicación que tecleó?",
+        "respuestas": {
+          "A": "23 X 100@",
+          "B": "23 X 10",
+          "C": "23 X 1000",
+          "D": "23 X 1"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Martín quiere comprar 10 paquetes de galletas, si cada paquete le cuesta 12 pesos, ¿cuánto dinero tienen que pagar por los 10 paquetes?",
+        "respuestas": {
+          "A": "100 pesos",
+          "B": "210 pesos",
+          "C": "102 pesos",
+          "D": "120 pesos@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La maestra de 3º “A” compró 9 bolsas con chaquiras para hacer pulseras. Si las bolsas que compró tienen 100 chaquiras, ¿cuántas bolsas compró?",
+        "respuestas": {
+          "A": "90",
+          "B": "9000",
+          "C": "900@",
+          "D": "100"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Carlos compró 5 libros. Si cada uno le costó $80, ¿qué operación utilizó para saber cuánto pagar?",
+        "respuestas": {
+          "A": "5 + 80 = 85 pesos.",
+          "B": "70 + 10 + 5 = 85 pesos.",
+          "C": "5 × 80 = 400 pesos.@",
+          "D": "80 – 5 = 75 pesos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En las tiendas comerciales los focos están en paquetes de 4, ¿cuántos paquetes de 4 focos, cada uno, debe tomar Joaquín si necesita 36 focos?",
+        "respuestas": {
+          "A": "8 paquetes",
+          "B": "9 paquetes@",
+          "C": "7 paquetes",
+          "D": "4 paquetes"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cuántas piezas tiene el rompecabezas que le regalaron a Julián? si para calcularlas hizo la siguiente operación: 25 x 20",
+        "respuestas": {
+          "A": "450 piezas",
+          "B": "250 piezas",
+          "C": "500 piezas@",
+          "D": "45 piezas"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Pablo compró 14 coches de 20 pesos cada uno; ¿cuánto pagó por los coches?",
+        "respuestas": {
+          "A": "14 × 20 = $280@",
+          "B": "14 + 20 = $34",
+          "C": "280 + 280 = $560",
+          "D": "20 + 80 = $100"
+        },
+        "img_asociada": "",
+        "size":""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Multiplicación con producto con hasta tres cifras.",
+    "nombreAE": "Resuelve problemas de multiplicación con números naturales cuyo producto sea hasta de tres cifras.",
+    "reactivos": [
+      {
+        "reactivo": "Elige las operaciones que hizo Jesús para saber cuántos cuadros hay en esta representación:",
+        "respuestas": {
+          "A": "3 x8 = 24 9 x 2 = 18 6 x9 = 54@",
+          "B": "10 x 8 = 80 8 x 5 = 40",
+          "C": "3 + 8 = 11 9+2 = 11 6 + 9 = 15",
+          "D": "3 x 9 = 27 6 x 8 = 48 9 x 2 = 18"
+        },
+        "img_asociada": "data/img_asociadas/3p_mab2_exa_01.png",
+	       "size":"500px"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Fracciones con denominador dos, cuatro y ocho.",
+    "nombreAE": "Usa fracciones con denominadores dos, cuatro y ocho para expresar relaciones parte-todo, medidas y resultados de repartos.",
+    "reactivos": [
+      {
+        "reactivo": "Carlos y Sandra hicieron el siguiente esquema para representar la parte que se comieron de un panqué de naranja. ¿Qué fracción del panqué se comieron?",
+        "respuestas": {
+          "A": "\\(\\frac{1}{8}\\)",
+          "B": "\\(\\frac{3}{4}\\)",
+          "C": "\\(\\frac{1}{4}\\)",
+          "D": "\\(\\frac{2}{8}\\)"
+        },
+        "img_asociada": "data/img_asociadas/3p_mab3_exa_01.jpg",
+	       "size":"500px"
+      },
+      {
+        "reactivo": "Una señora ocupó \\(\\frac{4}{8}\\) de un metro de tela para hacer manteles. ¿Qué dibujo representa la parte que ocupó de tela?",
+        "respuestas": {
+          "A": "Dibujo 1@",
+          "B": "Dibujo 2",
+          "C": "Dibujo 3",
+          "D": "Dibujo 4"
+        },
+        "img_asociada": "data/img_asociadas/3p_mab3_exa_02.png",
+	       "size":"300px"
+      },
+      {
+        "reactivo": "Un jardín se dividió en 6 partes iguales y en 2 de ellas se sembraron rosas. ¿Cuál fracción representa la parte del jardín sembrada de rosas?",
+        "respuestas": {
+          "A": "\\(\\frac{6}{2}\\)",
+          "B": "\\(\\frac{1}{6}\\)",
+          "C": "\\(\\frac{1}{2}\\)",
+          "D": "\\(\\frac{2}{6}\\)@"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes dibujos representa la fracción \\(\\frac{4}{2}\\)?",
+        "respuestas": {
+          "A": "Dibujo 1",
+          "B": "Dibujo 2@",
+          "C": "Dibujo 3",
+          "D": "Dibujo 4"
+        },
+        "img_asociada": "data/img_asociadas/3p_mab4_exa_01.png",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Ramiro y sus compañeros de equipo eligieron piezas para formar enteros, compara sus piezas y señala quién de ellos puede formar: \\(1\\frac{1}{2}\\)",
+        "respuestas": {
+          "A": "Ramiro.",
+          "B": "Luisa.",
+          "C": "Rogelio.@",
+          "D": "Sonia."
+        },
+        "img_asociada": "data/img_asociadas/3p_mab4_exa_02.png",
+	       "size":"500px"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Suma y resta hasta 10,000.",
+    "nombreAE": "Resuelve problemas de suma y resta con números naturales hasta 10000. Usa los algoritmos convenciales para sumar y restar.",
+    "reactivos": [
+      {
+        "reactivo": "Silvia preparó 136 jugos de naranja por la mañana y 112 por la tarde. Si al final del día vendió todos los jugos, ¿cuántos jugos vendió?",
+        "respuestas": {
+          "A": "248 jugos@",
+          "B": "158 jugos",
+          "C": "226 jugos",
+          "D": "134 jugos"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "Observa la lista de precios. Elige la opción que indica lo que el papá de Inés pagó por un combo 2, unas palomitas y dos refrescos.",
+        "respuestas": {
+          "A": "$248.00",
+          "B": "$148.00",
+          "C": "$213.00",
+          "D": "$166.00@"
+        },
+        "img_asociada": "data/img_asociadas/B3_20.png",
+	       "size":"400px"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  }
+]
