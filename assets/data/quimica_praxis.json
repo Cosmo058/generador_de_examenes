@@ -242,14 +242,7 @@
           "D": "No hay reactivo limitante"
         },
         "img_asociada": ""
-      }
-    ],
-    "unidadesAsociadas": [1]
-  },
-  {
-    "caratula": "Bloque 2. Sistemas dispersos",
-    "nombreAE": "<br/>Materia (Sustancias puras: elementos y compuestos)<br/><br/>Materia (Mezclas: homogéneas y heterogéneas)<br/><br/>Sistemas dispersos (disoluciones)<br/><br/>Sistema disperso (coloides)<br/><br/>Sistemas dispersos (suspensiones)",
-    "reactivos": [
+      },
       {
         "reactivo": "Si se colocan en un matraz 100.45 gr de SiO<sub>2</sub> con 79.1 gramos de H<sub>2</sub>F<sub>2</sub> los cuales reaccionan de acuerdo con la ecuación balanceada: SiO<sub>2</sub>+2H<sub>2</sub>F<sub>2</sub> \\(\\rightarrow\\) SiF<sub>4</sub>+2H<sub>2</sub>O. ¿Cuál es la relación SiO<sub>2</sub>:H<sub>2</sub>F<sub>2</sub> que tendría que colocarse dentro del matraz para que ambos reactivos se consuman por completo?",
         "respuestas": {
@@ -259,7 +252,14 @@
           "D": "2:2"
         },
         "img_asociada": ""
-      },
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Bloque 2. Sistemas dispersos",
+    "nombreAE": "<br/>Materia (Sustancias puras: elementos y compuestos)<br/><br/>Materia (Mezclas: homogéneas y heterogéneas)<br/><br/>Sistemas dispersos (disoluciones)<br/><br/>Sistema disperso (coloides)<br/><br/>Sistemas dispersos (suspensiones)",
+    "reactivos": [
       {
         "reactivo": "De acuerdo con su número de componentes, los materiales pueden clasificarse en ",
         "respuestas": {
