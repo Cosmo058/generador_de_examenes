@@ -1,0 +1,167 @@
+[
+  {
+    "caratula": "Tipos de clima en la Tierra",
+    "nombreAE": "Explica la distribución de los tipos de climas en la Tierra a partir de la relación entre sus elementos y factores.",
+    "reactivos": [
+      {
+        "reactivo": "Para la clasificación climática, Köppen consideró la relación de la temperatura, la humedad y la vegetación. Con base en ello distribuyó los climas del mundo en cinco grandes grupos. ¿Cuáles son las relaciones que se establecen entre las dos columnas? <br> <table><tr><td>a) Cálidos húmedos</td><td>1.  Bosques de coníferas</td></tr><tr><td>b)  Secos</td><td>2.  Bosques mixtos</td></tr><tr><td>c)  Templados</td><td>3.  Hielos perpetuos</td></tr><tr><td>d)  Fríos</td><td>4.  Selvas</td></tr><tr><td>e)  Polares de alta montaña</td><td>5.  Matorrales</td></tr></table>",
+        "respuestas": {
+          "A": "a-5, b-2, c-1, d-1 y e-3",
+          "B": "a-4, b-2, c-1, d-3 y e-3",
+          "C": "a-4, b-5, c-2, d-1 y e-3@",
+          "D": "a-3, b-2, c-1, d-4 y e-5"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El sector oriental de la Sierra Gorda es más húmedo debido a... <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L1.pdf' target='_blank'>El Mundo de la Sierra Gorda</a>",
+        "respuestas": {
+          "A": "la sombra pluvial.",
+          "B": "la existencia de ríos caudalosos.@",
+          "C": "la presencia de bosques caducifolios.",
+          "D": "la humedad por la altitud de la sierra."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué factor influye en la variación climática que da origen a varios microambientes en la Sierra Gorda? <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L1.pdf' target='_blank'>El Mundo de la Sierra Gorda</a>",
+        "respuestas": {
+          "A": "Altitud",
+          "B": "Latitud",
+          "C": "Humedad@",
+          "D": "Temperatura"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál factor modifica los elementos del clima? <br> Observa el esquema y contesta:",
+        "respuestas": {
+          "A": "La precipitación",
+          "B": "El relieve",
+          "C": "La humedad atmosférica@",
+          "D": "La evaporación"
+        },
+        "img_asociada": "data/img_asociadas/GE1ED1_GX_AP6_IMG1.jpg",
+        "size": "80%"
+      },
+      {
+        "reactivo": "Las estaciones del año se relacionan con el movimiento de traslación. En combinación con éste, ¿qué otro factor hace que las estaciones del año se inviertan en el hemisferio norte respecto del sur? <br> Lee la siguiente ficha <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L3.pdf' target='_blank'>Los Andes Tropicales en América del Sur</a>",
+        "respuestas": {
+          "A": "Rotación terrestre.",
+          "B": "Zonas térmicas.",
+          "C": "Eje de inclinación terrestre.@",
+          "D": "Velocidad del movimiento de rotación."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La distribución de los climas y las distintas formaciones de las zonas naturales se deben a:",
+        "respuestas": {
+          "A": "la latitud y la longitud.",
+          "B": "la inclinación de los rayos solares.",
+          "C": "la altitud y la latitud.@",
+          "D": "la longitud y la altitud."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El bióxido de carbono contribuye al calentamiento global, por lo cual se ha convertido en uno de los temas ambientales más importantes de la actualidad. ¿Qué medida puede disminuir significativamente los niveles de bióxido de carbono en la atmósfera?",
+        "respuestas": {
+          "A": "Uso de la bicicleta en lugar del automóvil para que se ahorre energía y se proteja el ecosistema.",
+          "B": "Tecnologías que garantizan una operación limpia, ecológica y económica del manejo de energías y residuos, entre otros.@",
+          "C": "Técnicas empleadas para conocer los ecosistemas.",
+          "D": "Ecología aplicada."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Biodiversidad de la Tierra",
+    "nombreAE": "Argumenta que la biodiversidad de la Tierra es resultado de las relaciones e interacciones entre los elementos naturales del espacio geográfico.",
+    "reactivos": [
+      {
+        "reactivo": "Son países megadiversos:",
+        "respuestas": {
+          "A": "Japón, Canadá, Ecuador, Argentina y México.",
+          "B": "Brasil, Colombia, Madagascar y China.@",
+          "C": "Brasil, Canadá, Madagascar y México.",
+          "D": "Japón, Ecuador, Venezuela e Indonesia."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La variedad de formas de vida y de adaptaciones de los organismos que se encuentran en la biósfera se le llama:",
+        "respuestas": {
+          "A": "diversidad.",
+          "B": "biodiversidad.@",
+          "C": "microdiversidad.",
+          "D": "megadiversidad."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la Sierra Gorda existen los siguientes tipos de vegetación o cultivos: bosques de coníferas y encinares, platanares y caña de azúcar, así como vegetación xerófita. ¿A qué región natural corresponde cada tipo de vegetación? <br> Lee la siguiente ficha  <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L1.pdf' target='_blank'>El Mundo de la Sierra Gorda</a>",
+        "respuestas": {
+          "A": "Tropical húmeda, tropical subhúmeda y templada",
+          "B": "Templada húmeda, tropical subhúmeda y semiárida@",
+          "C": "Templada subhúmeda, tropical húmeda y semiárida",
+          "D": "Tropical subhúmeda, templada subhúmeda y semiárida"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué similitud existe entre los rasgos geográficos de Madagascar e Indonesia para concentrar una gran diversidad y especies endémicas? <br> Lee la siguiente ficha <a href='assets/data/img_asociadas/GE1ED1_GX_AP4_5_6_7_L3.pdf' target='_blank'>Los Andes Tropicales en América del Sur</a>",
+        "respuestas": {
+          "A": "Sus latitudes",
+          "B": "Sus coordenadas@",
+          "C": "Su relieve",
+          "D": "Su condición de isla"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es la región más extensa de nuestro país y en ella se concentra 60% de la flora y la fauna endémica de la República Mexicana. Asimismo, los organismos vegetales que alberga son el nopal, el agave, el cactus, la yuca y el pasto, entre otros.",
+        "respuestas": {
+          "A": "Región árida y semiárida@",
+          "B": "Región templada húmeda",
+          "C": "Región sagrada endémica",
+          "D": "Región tropical húmeda"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Se le llama así a la variedad de formas de vida y de adaptaciones de los organismos que se encuentran en la biosfera.",
+        "respuestas": {
+          "A": "Diversidad",
+          "B": "Biodiversidad@",
+          "C": "Microdiversidad",
+          "D": "Megadiversidad"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En México, ¿cuál es la región natural que ocupa 60% del territorio del país y se localiza en el norte, noreste y centro?",
+        "respuestas": {
+          "A": "Árida y semiárida@",
+          "B": "Templada subhúmeda",
+          "C": "Tropical subhúmeda",
+          "D": "Templada húmeda"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué porción de la Tierra se concentra la mayor diversidad biológica o biodiversidad?",
+        "respuestas": {
+          "A": "En la región circumpolar, principalmente en la Tundra",
+          "B": "En las montañas de latitudes superiores a los 30°, en los bosques",
+          "C": "En la región intertropical, principalmente en las selvas húmedas@",
+          "D": "En las zonas templadas de latitudes superiores a 20°, en las estepas"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  }
+]

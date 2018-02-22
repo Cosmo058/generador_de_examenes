@@ -1,0 +1,471 @@
+[
+  {
+    "caratula":"Fracciones decimales y notación decimal",
+    "nombreAE": "Convierte fracciones decimales a notación decimal y viceversa. Aproxima algunas fracciones no decimales usando la notación decimal. Ordena fracciones y números decimales. ",
+    "reactivos": [
+      {
+        "reactivo": "El número decimal 175.846 es un número...",
+        "respuestas": {
+          "A": "decimal finito.",
+          "B": "decimal periódico puro.@",
+          "C": "decimal periódico mixto.",
+          "D": "Ninguna de las anteriores."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "El número decimal 1.56 es un número...",
+        "respuestas": {
+          "A": "decimal finito.",
+          "B": "decimal periódico puro.",
+          "C": "decimal periódico mixto.@",
+          "D": "Ninguna de las anteriores"
+        },
+        "img_asociada": "",
+	"size":""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes números se encuentra entre 0.001 y 0.002?",
+        "respuestas": {
+          "A": "0.0010",
+          "B": "0.0110",
+          "C": "0.0012@",
+          "D": "0.0120"
+        },
+        "img_asociada": "",
+	"size":""
+      },
+      {
+        "reactivo": "De acuerdo con la imagen, ¿qué letra representa la cantidad de \\(11 \\over 5 \\) L de agua?",
+        "respuestas": {
+          "A": "a@",
+          "B": "b",
+          "C": "c",
+          "D": "d"
+        },
+        "img_asociada": "data/img_asociadas/sadma1cd13_b1_01.jpg",
+	"size":"100px"
+      },
+      {
+        "reactivo": "Cuando se comparan dos números racionales con el mismo denominador, la manera más sencilla de saber cuál es más grande consiste en…",
+        "respuestas": {
+          "A": "multiplicar por el denominador común y simplificarlas.",
+          "B": "observar qué numerador es mayor.@",
+          "C": "identificar el más cercano al cero en la recta numérica.",
+          "D": "reducirlas a su mínima expresión y compararlas."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Un paquete de cuatro donas se repartió en partes iguales entre cinco personas. ¿Qué fracción le tocó a cada quién?",
+        "respuestas": {
+          "A": "0.8@",
+          "B": "0.45",
+          "C": "\\(5 \\over 4 \\)",
+          "D": "\\(1 \\over 5 \\)"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "¿Cuál de las fracciones es equivalente irreducible de \\(12 \\over 42 \\)?",
+        "respuestas": {
+          "A": "\\(24 \\over 84 \\)",
+          "B": "\\(6 \\over 21 \\)",
+          "C": "\\(2 \\over 7 \\)@",
+          "D": "\\(3 \\over 8 \\)"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "Como sabes, el número π equivale a 3.141592… ¿Cuál de los siguientes números fraccionarios está más próximo al valor de \\( \\pi \\)?",
+        "respuestas": {
+          "A": "\\(19 \\over 6 \\)",
+          "B": "\\(28 \\over 9 \\)",
+          "C": "\\(25 \\over 8 \\)",
+          "D": "\\(22 \\over 7 \\)@"
+        },
+        "img_asociada": "",
+	       "size":""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "caratula": "Suma y resta con enteros, fracciones y decimales",
+    "nombreAE": "Resuelve problemas de suma o resta con números enteros, fracciones y decimales positivos y negativos.",
+    "reactivos": [
+      {
+        "reactivo": "Cecilia compró un terreno. Una tercera parte la ocupó para hacer un balneario, una sexta parte la puso en renta y una octava parte la ocupará para sembrar. ¿Qué parte del terreno queda disponible?",
+        "respuestas": {
+          "A": "\\(1 \\over 17 \\)",
+          "B": "\\(9 \\over 24 \\)@",
+          "C": "\\(15 \\over 24 \\)",
+          "D": "\\(17 \\over 3 \\)"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Juan y María compraron un terreno para siembra. Él desyerbó la tercera parte del terreno y ella dos quintas partes. ¿Qué fracción del terreno le falta a quien desyerbó la parte menor para igualar la que desyerbó su compañero?",
+        "respuestas": {
+          "A": "\\(1 \\over 3 \\)",
+          "B": "\\(1 \\over 12 \\)",
+          "C": "\\(1 \\over 15 \\)@",
+          "D": "\\(6 \\over 15 \\)"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ramón y Alberto están pintando una barda. Si Ramón ya pintó la cuarta parte y Alberto dos terceras partes, ¿qué parte falta por pintar?",
+        "respuestas": {
+          "A": "\\(1 \\over 12 \\)@",
+          "B": "\\(1 \\over 8 \\)",
+          "C": "\\(1 \\over 15 \\)",
+          "D": "\\(1 \\over 24 \\)"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En una memoria USB de 16 GB fueron grabados seis archivos de 1.5 GB cado uno. Si después se grabaron tres archivos de \\(3 \\over 4 \\) GB y uno de 1.5 GB, ¿hasta dónde marcó la barra de llenado?",
+        "respuestas": {
+          "A": "<img src='assets/data/img_asociadas/sadma1cd13_b1_02a.jpg' alt=''>",
+          "B": "<img src='assets/data/img_asociadas/sadma1cd13_b1_02b.jpg' alt=''>",
+          "C": "<img src='assets/data/img_asociadas/sadma1cd13_b1_02c.jpg' alt=''>@",
+          "D": "No cupieron los archivos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si César mide 1.78 m de estatura, y su hermano Héctor, 0.19 m menos, ¿cuánto mide Héctor?",
+        "respuestas": {
+          "A": "0.59 m",
+          "B": "1.59 m@",
+          "C": "1.97 m",
+          "D": "1.60 m"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para el cumpleaños de Juan, varios de sus amigos llevaron las siguientes cantidades de agua fresca: Luis llevó cuatro envases de 1\\(1 \\over 2 \\) L; María, dos envases de 2\\(1 \\over 2 \\) L, y Andrés, seis envases de 0.75 L. ¿Cuántos litros de agua fresca hay en total?",
+        "respuestas": {
+          "A": "14\\(1 \\over 2 \\) L",
+          "B": "15\\(1 \\over 2 \\) L@",
+          "C": "14 L",
+          "D": "15 L"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El Mar Muerto, lago situado entre Israel, Jordania y Palestina, está a –416.5 m respecto al nivel del mar, y el monte Éverest, la montaña más alta del mundo, tiene una altura de 8 850 m sobre el nivel del mar. ¿Cuál es la diferencia de altura entre el Éverest y el Mar Muerto?",
+        "respuestas": {
+          "A": "8 433.5 m",
+          "B": "9 266.5 m@",
+          "C": "–8 433.5 m",
+          "D": "–9 266.5 m"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A las seis de la mañana en El Chico, Hidalgo, se registró una temperatura de –3 °C. ¿Cuál fue la temperatura a las diez de la mañana si ésta aumentó 12 °C?",
+        "respuestas": {
+          "A": "&minus;15 °C",
+          "B": "15 °C",
+          "C": "&minus;9 °C",
+          "D": "9 °C@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuando se suman dos números negativos el resultado siempre es un número...",
+        "respuestas": {
+          "A": "positivo.",
+          "B": "negativo.@",
+          "C": "entero.",
+          "D": "mixto."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige el resultado correcto de la operación 15+(&minus;18)+3+(&minus;11)+22+(&minus;4).",
+        "respuestas": {
+          "A": "73",
+          "B": "&minus;7",
+          "C": "7@",
+          "D": "&minus;73"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Multiplicación con fracciones y decimales y división con decimales",
+    "nombreAE": "Resuelve problemas de multiplicación con fracciones y decimales y de divisiones con decimales.",
+    "reactivos": [
+      {
+        "reactivo": "¿Por cuál potencia de 10 conviene multiplicar el dividendo y el divisor de la división 1.47 ÷ 1.1 para escribirla de modo que ambos sean números enteros?",
+        "respuestas": {
+          "A": "10",
+          "B": "100@",
+          "C": "1000",
+          "D": "10000"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Jorge quiere pintar una pared, la cual mide 6.7 m de largo por 3.2 m de alto. Si cada litro de pintura alcanza para 11.5 m<sup>2</sup>, ¿cuántos litros necesita para pintarla toda?",
+        "respuestas": {
+          "A": "1.82 L",
+          "B": "2 L",
+          "C": "5.49 L",
+          "D": "1.86 L@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si una caja con ocho lápices cuesta $9.60, ¿cuál es el costo de cada lápiz?",
+        "respuestas": {
+          "A": "$1.20@",
+          "B": "$2.10",
+          "C": "$1.99",
+          "D": "$1.19"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cierto automóvil de carreras alcanza una velocidad de 47.83 m/s, si mantiene esa velocidad, subraya la distancia que recorrerá en 0.231 min, obténlo sin usar calculadora.",
+        "respuestas": {
+          "A": "662.9238 m@",
+          "B": "661.9845 m",
+          "C": "11.04873 m",
+          "D": "110.4873 m"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un garrafón tiene 17.450 L de agua. ¿Cuántas botellas de 0.6 L se pueden llenar con esa cantidad de agua?",
+        "respuestas": {
+          "A": "27",
+          "B": "28",
+          "C": "29@",
+          "D": "30"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Patricia quiere comprar bombones para sus amigos y tiene $23.50. Si cada bombón cuesta $0.50, ¿cuántos puede comprar?",
+        "respuestas": {
+          "A": "47@",
+          "B": "46",
+          "C": "11",
+          "D": "12"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Miguel compró 3.5 pliegos de papel de China a $4.50 cada uno. ¿Cuánto pagó en total?",
+        "respuestas": {
+          "A": "$15.50",
+          "B": "$1.28",
+          "C": "$15.75@",
+          "D": "$1.00"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuántos pedazos de 1.75 m se pueden obtener de una tela que mide 7.7 m?",
+        "respuestas": {
+          "A": "4.4 pedazos@",
+          "B": "3.5 pedazos",
+          "C": "12.4 pedazos",
+          "D": "13.5 pedazos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Al final de cada año cierta colección de joyas aumenta su valor 0.05 veces respecto a su valor del año anterior, si a mediados del año 2000 su valor era de $30 000, ¿cuál habría sido su valor a mediados del año 2003?",
+        "respuestas": {
+          "A": "$32 000.25",
+          "B": "$35 000.55",
+          "C": "$34 728.75@",
+          "D": "$34 500.30"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa el letrero que José vio en el banco. Si José cambia $700.50 a dólares, ¿qué cantidad recibirá?",
+        "respuestas": {
+          "A": "54.10 dólares",
+          "B": "54.07 dólares",
+          "C": "54.09 dólares@",
+          "D": "54.08 dólares"
+        },
+        "img_asociada": "data/img_asociadas/sadma1cd13_b4_01.jpg",
+	       "size":"150px"
+      },
+      {
+        "reactivo": "El lunes, Javier vendió 13.3 kg de arroz. Si cada kilogramo lo vende a $17.50, ¿cuánto recibió por la venta de ese día?",
+        "respuestas": {
+          "A": "$131.57",
+          "B": "$133.00",
+          "C": "$232.75@",
+          "D": "$232.57"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El ancho de un riel del metro mide aproximadamente 8 pulgadas. Si 3 pulgadas equivalen a 7.62 cm, ¿a cuántos centímetros equivale al ancho del riel?",
+        "respuestas": {
+          "A": "20.18 cm",
+          "B": "20.24 cm",
+          "C": "20.32 cm@",
+          "D": "20.35 cm"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El resultado de \\(3\\times\\frac{1}{3}\\)  es:",
+        "respuestas": {
+          "A": "1@",
+          "B": "3",
+          "C": "0",
+          "D": "30"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la elaboración de tres pantalones se usan \\(\\frac{7}{3}\\) de metro de tela. ¿Cuántos metros de tela se requieren para hacer cinco pantalones?",
+        "respuestas": {
+          "A": "\\(\\frac{7}{3}\\) de metro",
+          "B": "35 metros",
+          "C": "\\(\\frac{14}{3}\\) de metro",
+          "D": "\\(\\frac{35}{9}\\) de metro@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Construcción de triángulos y cuadriláteros",
+    "nombreAE": "Analiza la existencia y unicidad en la construcción de triángulos y cuadriláteros y determina y utiliza criterios de congruencia de triángulos.",
+    "reactivos": [
+      {
+        "reactivo": "Dos paralelas se cortan por transversales de modo que forman los ángulos que se muestran en la figura. ¿Cuánto mide el ángulo \\(x\\)?",
+        "respuestas": {
+          "A": "50°",
+          "B": "90°",
+          "C": "75°@",
+          "D": "65°"
+        },
+        "img_asociada": "data/img_asociadas/MA1ED1_GX_AP10_IMG1.jpg",
+	       "size":"70%"
+      },
+      {
+        "reactivo": "¿Cuánto suman los ángulos internos de un romboide cualquiera?",
+        "respuestas": {
+          "A": "180°",
+          "B": "360°@",
+          "C": "540°",
+          "D": "720°"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las siguientes tríadas de números corresponden a las medidas, en centímetros, de tres segmentos rectos. ¿Con qué tríada no se puede construir un triángulo?",
+        "respuestas": {
+          "A": "3, 4, 5",
+          "B": "2, 3, 4",
+          "C": "3, 3, 3",
+          "D": "2, 3, 6@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A la suma de los ángulos internos de un paralelogramo se le resta la suma de los ángulos internos de un triángulo escaleno. ¿Cuál es el resultado final?",
+        "respuestas": {
+          "A": "360°",
+          "B": "0°",
+          "C": "90°",
+          "D": "180°@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Con cuál de las siguientes condiciones se puede construir un triángulo único?",
+        "respuestas": {
+          "A": "Se conocen las longitudes de sus tres lados.@",
+          "B": "Dos de sus lados miden lo mismo y su suma es mayor que el tercer lado.",
+          "C": "Se conoce la longitud de dos de sus lados.",
+          "D": "Se conoce la medida de sus ángulos internos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si un cuadrilátero tiene todos sus vértices sobre una circunferencia, sus ángulos opuestos suman…",
+        "respuestas": {
+          "A": "360°",
+          "B": "180°@",
+          "C": "90°",
+          "D": "60°"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si la suma de cualquier par de ángulos internos de un triángulo es 120°, entonces el triángulo es…",
+        "respuestas": {
+          "A": "isósceles.",
+          "B": "equilátero.@",
+          "C": "escaleno.",
+          "D": "obtusángulo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los triángulos que se forman al dividir un paralelogramo con una diagonal son…",
+        "respuestas": {
+          "A": "perpendiculares entre sí.",
+          "B": "congruentes.@",
+          "C": "iguales.",
+          "D": "equiláteros."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las diagonales de un paralelogramo se cortan en sus puntos medios. ¿Qué argumento justifica esta afirmación? Considera la siguiente figura.",
+        "respuestas": {
+          "A": "Los triángulos \\(ABC\\) y \\(ABD\\) son congruentes; por tanto, sus lados correspondientes son iguales, así que \\(\\overline{CB} = \\overline{AD} \\) y \\(O\\) es el punto medio de ambos segmentos.",
+          "B": "La afirmación es incorrecta y por ello no se puede justificar.",
+          "C": "Los triángulos \\(ABO\\) y \\(AOD\\) son congruentes; por tanto, sus lados correspondientes miden lo mismo y \\(\\overline{BO} = \\overline{OD}\\) y \\(O\\) es el punto medio de ambos segmentos.",
+          "D": "Los triángulos \\(ABO\\) y \\(DOC\\) son congruentes; por tanto, sus elementos correspondientes son iguales, de modo que \\(\\overline{AO} = \\overline{OC}\\) y \\(\\overline{BO} = \\overline{OD}\\).@"
+        },
+        "img_asociada": "data/img_asociadas/MA1ED1_GX_AP10_IMG2.jpg",
+	       "size":"70%"
+      },
+      {
+        "reactivo": "¿En cuál de los siguientes casos no se obtienen, necesariamente, triángulos congruentes?",
+        "respuestas": {
+          "A": "La longitud de dos lados de un primer triángulo es igual a la longitud de dos lados de un segundo triángulo y la medida del ángulo que se forma entre estos dos lados es la misma en ambos triángulos.",
+          "B": "Las longitudes de los lados correspondientes de dos triángulos son iguales.",
+          "C": "Uno de los lados de un primer triángulo tiene la misma longitud que uno de los lados de un segundo triángulo y los ángulos correspondientes a cada triángulo, que se forman en cada uno de esos lados, son iguales.",
+          "D": "Al sumar la longitud de los lados de dos triángulos se obtiene el mismo valor.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Al trazar la diagonal mayor de un romboide se obtienen triángulos congruentes. ¿Cuál de los siguientes criterios justifica la afirmación anterior?",
+        "respuestas": {
+          "A": "Ninguno porque no se forman triángulos congruentes al trazar la diagonal mayor.",
+          "B": "Con el criterio LAL porque los lados de un romboide miden lo mismo y los dos triángulos tienen un ángulo correspondiente que mide 90°.",
+          "C": "Con el criterio AA porque la diagonal divide en dos partes iguales dos de los ángulos internos del romboide.",
+          "D": "Con el criterio ALA porque la diagonal es un lado de ambos triángulos y los ángulos que forman la diagonal y los lados del romboide miden, correspondientemente, lo mismo.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  }
+]
