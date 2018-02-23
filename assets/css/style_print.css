@@ -7,7 +7,7 @@
   margin: 0px;
   display: block;
   color: #000 !important;
-  font-size: 20px;
+  font-size: 18px;
   width: 90%;
 }
 
@@ -29,13 +29,18 @@ li img{
 }
 
 .img_asociada{
-  width: 25%;
+  width: 40%;
   margin-left:2em;
 }
 
 ol{
   display: block;
   list-style-type: upper-alpha;
+  margin-top: -0.9em;
+}
+
+p{
+  font-size: 12pt !important;
 }
 
 .closebtn{

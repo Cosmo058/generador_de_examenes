@@ -76,7 +76,7 @@ function seleccionados_a_print(){
         $card_tmp.find(".respuesta_print").html( contador.toString()+". "+ $card_tmp.find(".respuesta_print").html() );
         contador++;
         $("#examen_html").append($card_tmp);
-        $("#examen_html").append("<br/><br/>");
+        $("#examen_html").append("<br/><br/><br/>");
       }
     });
   }
