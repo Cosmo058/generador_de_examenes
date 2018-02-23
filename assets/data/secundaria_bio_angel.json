@@ -134,6 +134,173 @@
     "unidadesAsociadas": [1]
   },
   {
+    "caratula": "Diversidad nutricional y evolución",
+    "nombreAE": "<b>Compara</b> la diversidad de formas de nutrición, relación con el medio y reproducción e identifica que son resultado de la evolución.",
+    "reactivos": [
+      {
+        "reactivo": "Elige la opción que presenta un ejemplo de adaptación conductual.",
+        "respuestas": {
+          "A": "Algunas especies de camaleón pasan inadvertidas para sus depredadores, pues pueden cambiar de color por factores externos.",
+          "B": "La mosca de las flores es indefensa pero tiene tal parecido con la abeja y la avispa, que sus depredadores prefieren evadirla.",
+          "C": "Durante el invierno, el pingüino emperador macho incuba el huevo que puso la hembra, mientras ella se ausenta para buscar alimento.@",
+          "D": "Los ojos de las lechuzas están rodeados por un conjunto de plumas rígidas que sirven de “antena parabólica” para captar mejor los sonidos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Característica distintiva de los seres vivos que les ha permitido, mediante cambios evolutivos, sobrevivir y permanecer en el planeta.",
+        "respuestas": {
+          "A": "Respiración",
+          "B": "Nutrición",
+          "C": "Adaptación@",
+          "D": "Organización celular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los cambios evolutivos son ______________ que proporcionan _______________ a los seres vivos que les permiten permanecer en el planeta y diversificarse.",
+        "respuestas": {
+          "A": "recursos/alimento",
+          "B": "rasgos/beneficios",
+          "C": "adaptaciones/ventajas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son los tipos de adaptaciones que se presentan en los seres vivos, excepto…",
+        "respuestas": {
+          "A": "visuales@",
+          "B": "morfológicas.",
+          "C": "fisiológicas.",
+          "D": "de comportamiento."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes pares de grupos de organismos presenta adaptaciones relacionadas con la nutrición?",
+        "respuestas": {
+          "A": "Los seres humanos y otros mamíferos",
+          "B": "Las plantas y los hongos",
+          "C": "Los insectos y las aves",
+          "D": "Todas las anteriores@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las adaptaciones que presenta el colibrí, ¿cuál está relacionada con la nutrición?",
+        "respuestas": {
+          "A": "El macho realiza una danza frente a la hembra, para atraer la atención de ésta.",
+          "B": "Sus alas pueden rotar hasta 180°, lo que le permite permanecer casi inmóvil en el aire.",
+          "C": "Utiliza su pico para extraer el néctar de las flores y para cazar pequeños insectos y arañas.@",
+          "D": "Para conservar su energía, entra en un estado que disminuye su actividad y su temperatura."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes NO es una adaptación de la reproducción?",
+        "respuestas": {
+          "A": "El apareamiento",
+          "B": "El cuidado de las crías",
+          "C": "El cortejo antes del apareamiento",
+          "D": "El abandono de las crías defectuosas@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contiene un ejemplo de adaptación relacionada directamente con la reproducción.",
+        "respuestas": {
+          "A": "Las esporas de los mohos@",
+          "B": "Los estomas de las plantas",
+          "C": "El color de los zorros polares",
+          "D": "La espiritrompa de las mariposas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los siguientes son factores que favorecen la polinización, excepto uno. ¿Cuál?",
+        "respuestas": {
+          "A": "La forma de las flores",
+          "B": "El peso ligero del polen",
+          "C": "El olor y color de las flores",
+          "D": "La humedad contenida en el polen@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si con sólo una parte de una planta obtienes una completa, estás propiciando:",
+        "respuestas": {
+          "A": "Reproducción sexual con un progenitor",
+          "B": "Reproducción asexual con un progenitor@",
+          "C": "Reproducción sexual con dos progenitores",
+          "D": "Reproducción asexual con dos progenitores"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una característica de la reproducción asexual es que...",
+        "respuestas": {
+          "A": "en ella se da una recombinación genética.",
+          "B": "los nuevos individuos son distintos entre sí.",
+          "C": "se favorece la variabilidad genética de las poblaciones.",
+          "D": "los nuevos individuos son idénticos a los progenitores.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Observa la imagen y determina qué tipo de reproducción se representa.",
+        "respuestas": {
+          "A": "Sexual",
+          "B": "Alternativa",
+          "C": "Asexual por gemación@",
+          "D": "Asexual por fragmentación"
+        },
+        "img_asociada": "data/img_asociadas/BI1ED18_GX_AP11_IMG1.jpg",
+        "size":"80%"
+      },
+      {
+        "reactivo": "Son adaptaciones de las plantas que favorecen su reproducción al atraer a los insectos polinizadores.",
+        "respuestas": {
+          "A": "El poder llevar a cabo la fotosíntesis.",
+          "B": "El dimorfismo sexual y el apareamiento.",
+          "C": "La producción de néctar y el color de los pétalos.@",
+          "D": "La capacidad de crecer en zonas secas y mantener el agua en su interior."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las siguientes son adaptaciones en la reproducción de los animales, excepto:",
+        "respuestas": {
+          "A": "cortejo.",
+          "B": "migración",
+          "C": "dimorfismo sexual.",
+          "D": "dispersión de las semillas.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La reproducción sexual se caracteriza porque en ella intervienen dos progenitores, por lo que su descendencia presenta:",
+        "respuestas": {
+          "A": "estabilidad.",
+          "B": "variabilidad.@",
+          "C": "resistencia.",
+          "D": "supervivencia."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La formación de estolones, bulbos, rizomas y tubérculos en las plantas son ejemplos de reproducción:",
+        "respuestas": {
+          "A": "sexual.",
+          "B": "asexual.@",
+          "C": "por polinización.",
+          "D": "por división celular."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
     "caratula": "Presas y depredadores",
     "nombreAE": "AE3. <b>Infiere</b> el papel que juegan las interacciones depredador-presa y la competencia como parte del equilibrio de las poblaciones en un ecosistema.",
     "reactivos": [
@@ -523,6 +690,160 @@
       }
     ],
     "unidadesAsociadas": [1,2,3]
+  },
+  {
+    "caratula": "Evolución de los seres vivos",
+    "nombreAE": "<b>Reconoce</b> que el conocimiento de los seres vivos se actualiza con base en las explicaciones de Darwin acerca del cambio de los seres vivos en el tiempo (relación entre el medioambiente, las características adaptativas y la sobrevivencia).",
+    "reactivos": [
+      {
+        "reactivo": "El fósil de un organismo nos brinda información sobre:",
+        "respuestas": {
+          "A": "sus hábitos.",
+          "B": "sus características morfológicas.",
+          "C": "las características de su ecosistema.",
+          "D": "todas las anteriores.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué idea propuso Darwin, al encontrar semejanzas entre los organismos que vivieron hace miles de años y los que viven ahora?",
+        "respuestas": {
+          "A": "Que las condiciones de la Tierra en el pasado eran parecidas a las actuales.",
+          "B": "Que cada especie actual desciende de una especie que existió en el pasado.@",
+          "C": "Que existía una gran diversidad morfológica entre las especies en ese entonces.",
+          "D": "Que las características de los organismos permanecen estables a través del tiempo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Darwin planteó que la evolución...",
+        "respuestas": {
+          "A": "ocurre “dando saltos” a lo largo de cientos de años.",
+          "B": "resulta de la selección de ligeros cambios adaptativos.@",
+          "C": "selecciona a los individuos sobrevivientes de varias catástrofes.",
+          "D": "se da por la herencia genética de habilidades de los padres a los hijos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De acuerdo con los planteamientos de Darwin, ¿cuál de las afirmaciones siguientes es correcta?",
+        "respuestas": {
+          "A": "Los seres vivos cambian por necesidad a través del tiempo.",
+          "B": "Los depredadores determinan qué organismos deben vivir.",
+          "C": "De manera natural, el ambiente selecciona los organismos más aptos.@",
+          "D": "Los animales más rápidos y fuertes siempre son los que sobreviven y se reproducen."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes ideas, ¿cuál de ellas NO se relaciona con la teoría de la selección natural?",
+        "respuestas": {
+          "A": "Algunos organismos están mejor adaptados que otros para sobrevivir en cierto ambiente.",
+          "B": "Los seres humanos estamos sujetos a la selección natural.",
+          "C": "Los seres vivos producen más descendencia de la que sobrevive.",
+          "D": "Los cambios evolutivos se observan de una generación a la siguiente.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué los fósiles representan evidencias de la evolución?",
+        "respuestas": {
+          "A": "Porque permiten conocer que existió vida hace millones de años.",
+          "B": "Porque son restos de organismos que existieron hace mucho tiempo.",
+          "C": "Porque sus restos quedaron atrapados en las rocas.",
+          "D": "Porque tienen características morfológicas similares a los organismos actuales.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Darwin explicó que lo que les permiten a los individuos de una especie sobrevivir en su ambiente y reproducirse son las:",
+        "respuestas": {
+          "A": "variaciones.@",
+          "B": "extremidades.",
+          "C": "distintas conductas.",
+          "D": "condiciones ambientales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fenómeno que ocurre al llevarse a cabo adaptaciones simultáneas en dos o más especies que les permite interactuar, beneficiarse entre sí y con ello sobrevivir.",
+        "respuestas": {
+          "A": "Adaptación",
+          "B": "Coevolución@",
+          "C": "Relación depredador-presa",
+          "D": "Depredación"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Cambios tecnológicos y estudio de los seres vivos",
+    "nombreAE": "<b>Identifica</b> cómo los cambios tecnológicos favorecen el avance en el conocimiento de los seres vivos.",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué instrumento utilizarías para observar una célula?",
+        "respuestas": {
+          "A": "Lupa",
+          "B": "Telescopio",
+          "C": "Microscopio@",
+          "D": "Endoscopio"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona las partes del microscopio con su función.<br/><br/><table style='font-size:0.7em;'> <tr> <td>A. Ocular</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>I. Sistema de lentes que permite girarlos para elegir el aumento deseado.</td> </tr> <tr> <td>B. Revólver</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>II. Lugar donde se coloca la muestra a observar.</td> </tr> <tr> <td>C. Platina</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>III. Lente cercana a la preparación o muestra a observar.</td> </tr> <tr> <td>D. Objetivo</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>IV. Lente situada cerca del ojo del observador.</td> </tr></table>",
+        "respuestas": {
+          "A": "AI, BII, CIII, DIV",
+          "B": "AII, BI, CIII, DIV",
+          "C": "AIII, BIV, CI, DII",
+          "D": "AIV, BI, CII, DIII@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para una presentación en clase sobre el metabolismo de los seres vivos se requiere identificar qué disciplinas han contribuido a su estudio. Señala aquellas que te ayuden a comprenderlo.",
+        "respuestas": {
+          "A": "Química y fisiología@",
+          "B": "Química y anatomía",
+          "C": "Microscopía y genética",
+          "D": "Ecología y microbiología"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El virus del papiloma humano (VPH) es una enfermedad de transmisión sexual muy contagiosa y la principal causa del cáncer cervicouterino. ¿Cuál de estos aparatos es fundamental para la detección de esta enfermedad?",
+        "respuestas": {
+          "A": "Lupa",
+          "B": "Endoscopio@",
+          "C": "Microscopio",
+          "D": "Estetoscopio"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De entre los siguientes, ¿cuál es el desarrollo tecnológico que dio inicio al descubrimiento de las causas de las enfermedades microbianas?",
+        "respuestas": {
+          "A": "Las vacunas",
+          "B": "Los antibióticos",
+          "C": "El microscopio@",
+          "D": "La pasteurización"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La invención del microscopio permitió el descubrimiento de ____________ y ___________ la cual es la unidad anatómica de la vida.",
+        "respuestas": {
+          "A": "las enfermedades/la célula",
+          "B": "la microscopía/la anatomía",
+          "C": "los microorganismos/la célula@",
+          "D": "la observación microscópica/la teoría celular"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
   },
   {
     "caratula": "Sexualidad y proyecto de vida",

@@ -1,5 +1,139 @@
 [
   {
+    "caratula": "La célula: unidad de vida",
+    "nombreAE": "AE 1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
+    "reactivos": [
+      {
+        "reactivo": "Todos los seres vivos tienen en común las siguientes características, excepto:",
+        "respuestas": {
+          "A": "Fotosíntesis@",
+          "B": "Respiración",
+          "C": "Irritabilidad",
+          "D": "Desarrollo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Reproducirse, nutrirse y respirar son algunas de las características que...",
+        "respuestas": {
+          "A": "identifican a los seres vivos.@",
+          "B": "diferencian a procariontes de eucariontes.",
+          "C": "poseen sólo los organismos pluricelulares.",
+          "D": "se presentan exclusivamente en los animales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tanto las bacterias como los seres humanos...",
+        "respuestas": {
+          "A": "respiran, crecen y presentan irratibilidad.@",
+          "B": "se desarrollan, se reproducen y presentan células procariontes.",
+          "C": "están conformados por millones de células, se nutren y crecen.",
+          "D": "presentan núcleo celular bien definido, se adaptan al medio y se nutren."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las funciones de todos los seres vivos son semejantes, porque todos...",
+        "respuestas": {
+          "A": "se reproducen sexualmente.",
+          "B": "están formados por células.@",
+          "C": "usan oxígeno del aire para respirar.",
+          "D": "obtienen energía de otros seres vivos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que presenta un ejemplo de irritabilidad.",
+        "respuestas": {
+          "A": "Cuando nuestra temperatura se elva, sudamos.@",
+          "B": "La mariposa experimenta un proceso de metamorfosis.",
+          "C": "El oso polar está adaptado a las condiciones de su entorno.",
+          "D": "Las plantas producen su propio alimento a partir de luz, agua y dióxido de carbono."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Se dice que hay diversidad en los seres vivos, pues...",
+        "respuestas": {
+          "A": "algunos están constituidos por células y otros no.",
+          "B": "algunos se nutren, respiran y se reproducen, y otros no.",
+          "C": "cada uno tiene formas particulares de realizar las funciones vitales.@",
+          "D": "existe una gran variedda de formas y colores en los animales y plantas."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Funciones de la célula",
+    "nombreAE": "AE 2. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
+    "reactivos": [
+      {
+        "reactivo": "En clase explicaron que la mitocondria es un organelo de la célula animal encargada de:",
+        "respuestas": {
+          "A": "realizar la fotosíntesis.",
+          "B": "llevar a cabo la respiración.@",
+          "C": "realizar la producción de proteínas.",
+          "D": "mantener el medio intracelular diferenciado del entorno."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En una exposición, a partir de una maqueta, se presenta el citoplasma, donde se encuentran diversas sustancias y estructuras que intervienen en el funcionamiento de la célula. ¿Cuál es la función del citoplasma?",
+        "respuestas": {
+          "A": "Almacenar el material genético y controlar todas las actividades celulares.",
+          "B": "Producir energía, almacenar sustancias y crear partes de los componentes sanguíneos.",
+          "C": "Participar en el crecimiento de la célula, comunicar al medio intracelular, aislar a la célula del medio.",
+          "D": "Incorporar sustancias para la producción de energía, almacenar sustancias de reserva y brindar forma a las células.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El mecanismo que posibilita la división de una célula en dos, cuyo descubrimiento y primeros estudios se deben al médico alemán Walther Flemming y se lleva a cabo en:",
+        "respuestas": {
+          "A": "el núcleo@",
+          "B": "el citoplasma",
+          "C": "la membrana",
+          "D": "la pared celular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona el inciso que contenga las palabras para completar el enunciado.<br/>Los organismos ____________ están formados por varias células. Las __________ semejantes se unen en tejidos. Cada __________ realiza una función específica y a su vez se agrupan en órganos.",
+        "respuestas": {
+          "A": "unicelulares / células / tejido",
+          "B": "pluricelulares / células / tejido@",
+          "C": "unicelulares / membranas /sistema",
+          "D": "unicelulares y pluricelulares / mitocondrias / aparato"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la clase de Biología el maestro explicó: “la célula es la unidad básica de todo ser vivo y realiza funciones vitales”. ¿Cuáles son esas funciones?",
+        "respuestas": {
+          "A": "Eliminar nutrimentos, procesar y producir sustancias.",
+          "B": "Asimilar nutrimentos, eliminar residuos, producir sustancias.@",
+          "C": "Generar energía, procesar virus, conformar tejidos y órganos.",
+          "D": "Obtener energía, eliminar desechos, producir materias primas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona las partes de la célula con sus funciones.<br/><br/><table style='font-size:0.6em'><tr><td>A. Núcleo</td><td>&nbsp;&nbsp;</td><td>I. Control del flujo de sustancias.</td></tr><tr><td>B. Citoplasma</td><td>&nbsp;&nbsp;</td><td>II. Junto con el núcleo regula la actividad de la célula.</td></tr><tr><td>C. Pared celular</td><td>&nbsp;&nbsp;</td><td>III. Contiene la información genética.</td></tr><tr><td>D. Membrana</td><td>&nbsp;&nbsp;</td><td>IV. Da forma a la célula.</td></tr></table>",
+        "respuestas": {
+          "A": "AI, BIV, CII, DIII",
+          "B": "AII, BIII, CI, DIV",
+          "C": "AIII, BII, CIV, DI@",
+          "D": "AIV, BI, CIII, DII"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
     "caratula": "Diversidad nutricional y evolución",
     "nombreAE": "<b>Compara</b> la diversidad de formas de nutrición, relación con el medio y reproducción e identifica que son resultado de la evolución.",
     "reactivos": [
@@ -165,6 +299,330 @@
       }
     ],
     "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Coordinación del sistema nervioso",
+    "nombreAE": "AE 4. <b>Explica</b> la coordinación del sistema nervioso en el funcionamiento del cuerpo.",
+    "reactivos": [
+      {
+        "reactivo": "Toser es una respuesta involuntaria del organismo ante un evento que el organismo controla mediante:",
+        "respuestas": {
+          "A": "las células de la nariz",
+          "B": "los pulmones y garganta",
+          "C": "los pulmones y bronquios",
+          "D": "el sistema nervioso periférico@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Llegó el final del ciclo escolar y debes presentar tus exámenes, lo que te pone nervioso y presentas colitis (inflamación del colón). ¿Qué sistemas u órganos del cuerpo activan esa respuesta?",
+        "respuestas": {
+          "A": "El sistema nervioso y el cerebro@",
+          "B": "El sistema nervioso y el estómago",
+          "C": "El sistema digestivo y el sistema nervioso",
+          "D": "El sistema circulatorio y el sistema nervioso"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El sistema nervioso periférico está formado por:",
+        "respuestas": {
+          "A": "Cerebelo",
+          "B": "Médula espinal",
+          "C": "Corteza cerebral",
+          "D": "Fibras nerviosas que estructuran los nervios@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Completa el enunciado.<br/>Si te quemas la mano con un matraz caliente inmediatamente las neuronas ____________ envían la información al___________ , que a su vez envía un mensaje a los músculos de tu mano para que la retires.",
+        "respuestas": {
+          "A": "espejo / cerebelo",
+          "B": "internas / cerebro",
+          "C": "motoras / corazón",
+          "D": "sensitivas / cerebro@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los principales sistemas del cuerpo que regulan las actividades corporales, desde el equilibrio interno, hasta la nutrición, el crecimiento y el desarrollo, entre otros, son:",
+        "respuestas": {
+          "A": "óseo y nervioso",
+          "B": "nervioso y endócrino@",
+          "C": "digestivo y respiratorio",
+          "D": "circulatorio y muscular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las principales células del sistema nervioso se conocen como:",
+        "respuestas": {
+          "A": "axones",
+          "B": "nervios",
+          "C": "vértebras",
+          "D": "neuronas@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2]
+  },
+  {
+    "caratula": "Sobrepeso y obesidad",
+    "nombreAE": "AE 5. <b>Explica</b> cómo evitar el sobrepeso y la obesidad con base en las características de la dieta correcta y las necesidades energéticas en la adolescencia.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de los siguientes es un ejemplo de nutrimento",
+        "respuestas": {
+          "A": "La carne",
+          "B": "Las leguminosas",
+          "C": "Los lípidos@",
+          "D": "Los cereales"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una de las funciones de los carbohidratos es...",
+        "respuestas": {
+          "A": "formar las uñas y el cabello.",
+          "B": "proporcionar energía rápida.@",
+          "C": "favorecer el tránsito intestinal.",
+          "D": "reemplazar las células muertas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los osos polares tienen grandes cantidades de grasa, pues las grasas...",
+        "respuestas": {
+          "A": "evitan que el calor se pierda.@",
+          "B": "son esenciales para formar proteínas.",
+          "C": "proporcionan energía inmediata para contrarrestar el frío.",
+          "D": "se almacenan en forma de almidón para crear una capa aislante."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La formación del bolo alimenticio es importante por ser el inicio de la descomposición de los alimentos. ¿En qué parte del sistema digestivo se forma?",
+        "respuestas": {
+          "A": "En la boca@",
+          "B": "En el estómago",
+          "C": "En el intestino delgado",
+          "D": "En el intestino grueso"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si nuestro intestino delgado no funcionara correctamente, tendríamos...",
+        "respuestas": {
+          "A": "exceso de bilis.",
+          "B": "falta de glucógeno.",
+          "C": "falta de nutrimentos.@",
+          "D": "exceso de glucosa en la sangre."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes pares de alimentos contrinuye, en mayor medida, al fortalecimiento de los cartílagos, huesos y dientes?",
+        "respuestas": {
+          "A": "Crema y arroz",
+          "B": "Frijoles y queso@",
+          "C": "Leche y aguacate",
+          "D": "Carne de pollo y de res"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si un corredor va a participar en una carrera,¿cuál de las siguientes combinaciones es la mejor opción para enriquecer la dieta del día anterior al evento?",
+        "respuestas": {
+          "A": "Pan y papas@",
+          "B": "Pasta y leche",
+          "C": "Frutas y carne",
+          "D": "Arroz y verduras"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De los siguientes alimentos, ¿cuál es el de mayor valor nutrimental?",
+        "respuestas": {
+          "A": "El mole, porque el chile favorece la absorción de hierro",
+          "B": "El pozole, porque incorpora alimentos devarios grupos@",
+          "C": "Los nopales, porque contienen una gran cantidad de fibra",
+          "D": "La tortilla, porque la masa se nixtamaliza en su preparación"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El buen funcionamiento cerebral depende, entre otras cosas, del consumo de vitaminas del complejo B, así como fósforo y omega 3, que es un ácido graso. ¿Cuál de los siguientes alimentos los contiene en mayor cantidad?",
+        "respuestas": {
+          "A": "Verduras, frutas y pan",
+          "B": "Productos lácteos",
+          "C": "Pescados, mariscos y aguacate@",
+          "D": "Carne de res, cerdo y pollo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Tomando en cuenta el grupo al que pertenecen los siguientes alimentos, elige aquel que se puede consumir en mayor cantidad en un día.?",
+        "respuestas": {
+          "A": "Arroz@",
+          "B": "Leche",
+          "C": "Lentejas",
+          "D": "Cacahuates"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes acciones NO es un buen hábito alimentario?",
+        "respuestas": {
+          "A": "Tomar agua endulzada de frutas.@",
+          "B": "Tomar un refrigerio a media tarde.",
+          "C": "Tomar un refrigerio a media mañana.",
+          "D": "Tomar diariamente alimentos de origen animal."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Todo lo siguiente corresponde al origen de un trastorno alimenticio, excepto:",
+        "respuestas": {
+          "A": "Consumir colaciones entre comidas.@",
+          "B": "Alimentarse a base de carbohidratos.",
+          "C": "Practicar dietas de manera constante.",
+          "D": "Consumir menos calorías de las que se emplean."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige el menú que contenga alimentos de todos los grupos.",
+        "respuestas": {
+          "A": "Menú 1 Entrada: Sopa de verduras Plato fuerte: Espagueti en salsa de tomate con berenjena Postre: Una naranja",
+          "B": "Menú 2 Entrada: Sopa de lentejas Plato fuerte: Pollo en salsa verde con ensalada Postre: Ensalada de frutas",
+          "C": "Menú 3 Entrada: Arroz a la mexicana Plato fuerte: Huarache de frijoles, aguacate, lechuga y queso rallado Postre: Una gelatina@",
+          "D": "Menú 4 Entrada: Papa al horno con queso Plato fuerte: Milanesa de res con espagueti a la mantequilla Postre: Una galleta"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué combinación de alimentos aporta una mayor cantidad de minerales?",
+        "respuestas": {
+          "A": "Leche y pollo",
+          "B": "Zanahoria y queso",
+          "C": "Jitomate y naranja@",
+          "D": "Pan y carne de res"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El índice de masa corporal (IMC) es una medida que resulta de la relación entre dos factores. ¿Cuáles?",
+        "respuestas": {
+          "A": "Peso y edad",
+          "B": "Sexo y edad",
+          "C": "Sexo y estatura",
+          "D": "Peso y estatura@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Con ayuda de la siguiente tabla, determina cuál de estas personas debe buscar atención médica inmediata.",
+        "respuestas": {
+          "A": "Jorge. Tiene un índice de masa corporal de 27.@",
+          "B": "Laura. Tiene un índice de masa corporal de 15.",
+          "C": "Enrique. Tiene un índice de masa corporal de 21.",
+          "D": "Mariana. Tiene un índice de masa corporal de 26."
+        },
+        "img_asociada": "data/img_asociadas/sadbi1cd13_b2_2.jpg"
+      },
+      {
+        "reactivo": "Trastorno caracterizado por bajas concentraciones de hemoglobina en la sangre por falta de hierro en la dieta.",
+        "respuestas": {
+          "A": "Anemia@",
+          "B": "Diabetes",
+          "C": "Anorexia",
+          "D": "Obesidad"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuál de las siguientes opciones para adelgazar NO representa un peligro para tu salud",
+        "respuestas": {
+          "A": "Ejercicio y dieta equilibrada.@",
+          "B": "Dieta equilibrada y bebidas adelgazantes.",
+          "C": "Dieta libre de grasas y ejercicio.",
+          "D": "Todas las anteriores."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La _________ es el conjunto de actos voluntarios de elección, preparación e ingestión de los alimentos; la ________ es el proceso biológico de ___________ de los nutrimentos que se obtienen de los alimentos.",
+        "respuestas": {
+          "A": "nutrición / alimentación / ingestión",
+          "B": "alimentación / nutrición/ ingestión",
+          "C": "nutrición / alimentación /asimilación",
+          "D": "alimentación / nutrición / asimilación@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los procesos de la digestión con los órganos en que se efectúan.<br/><table style='font-size:0.6em'><tr><td>Absorción de agua y sales.</td><td>1a, 2b, 3c, 4d</td></tr><tr><td>Desintegración y fragmentación de algunos hidratos de carbono y formación del bolo alimenticio.</td><td>1b, 2a, 3d, 4c</td></tr><tr><td>Se efectúa la mayor parte de absorción de los nutrimentos.</td><td>1d, 2a, 3b, 4c</td></tr><tr><td>Fragmentación de los alimentos con la ayuda del jugo gástrico y la formación del quimo.</td><td>1d, 2a, 3c, 4b</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d",
+          "B": "1b, 2a, 3d, 4c",
+          "C": "1d, 2a, 3b, 4c@",
+          "D": "1d, 2a, 3c, 4b"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los siguientes alimentos aportan una cantidad importante de hidratos de carbono, excepto:",
+        "respuestas": {
+          "A": "maíz.",
+          "B": "frijol.",
+          "C": "pescado.@",
+          "D": "papas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son alimentos ricos en proteínas y además aportan vitaminas y minerales:",
+        "respuestas": {
+          "A": "frijol y maíz.",
+          "B": "chile y maíz.",
+          "C": "maíz y nopales.",
+          "D": "pescados y mariscos.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los grupos de alimentos con los nutrimentos que contienen.<br/><table style='font-size:0.6em'><tr><td>Cereales</td><td>Proteínas y lípidos</td></tr><tr><td>Frutas y verduras</td><td>Vitaminas, minerales, fibra y agua</td></tr><tr><td>Leguminosas y alimentos de origen animal</td><td>Hidratos de carbono, vitaminas y minerales</td></tr></table>",
+        "respuestas": {
+          "A": "1c, 2b, 3a@",
+          "B": "1b, 2a, 3c",
+          "C": "1a, 2c, 3b",
+          "D": "1b, 2c, 3a"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las siguientes expresiones ofrecen sustento científico para bajar de peso, excepto:",
+        "respuestas": {
+          "A": "una dieta correcta y ejercicio son la mejor manera para bajar de peso.",
+          "B": "al someterse a un régimen alimenticio es necesario considerar el estado general de salud.",
+          "C": "los productos para adelgazar pueden causar reacciones adversas y enfermedades.",
+          "D": "los suplementos alimenticios para bajar de peso están hechos con productos naturales, lo que hace que su uso sea seguro.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El uso de productos y métodos para adelgazar que se anuncian en los medios de comunicación representan ________ en las personas que los utilizan, lo que ocasiona ______________",
+        "respuestas": {
+          "A": "una alternativa / pérdida de peso.",
+          "B": "riesgos a la salud / daños en su calidad de vida.@",
+          "C": "un gasto económico / alteración en su estado de ánimo.",
+          "D": "una opción para bajar de peso / una mejora en su imagen."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1,2,3]
   },
   {
     "caratula": "Evolución de los seres vivos",
