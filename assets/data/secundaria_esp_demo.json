@@ -21,7 +21,8 @@
           "C": "1c, 2d, 3d, 4a",
           "D": "1d, 2c, 3b, 4ª"
         },
-        "img_asociada": ""
+        "img_asociada": "img/reactivo2.jpg",
+        "size": "60%"
       },
       {
         "reactivo": "¿Por qué es necesario que los condóminos respeten el reglamento?",

@@ -52,16 +52,6 @@
           "D": "Obligaciones"
         },
         "img_asociada": ""
-      },
-      {
-        "reactivo": "¿Cuáles son los derechos que gozan todos los seres humanos por el sólo hecho de existir y que protegen su dignidad?",
-        "respuestas": {
-          "A": "Derechos constitucionales",
-          "B": "Derechos civiles",
-          "C": "Derechos humanos@",
-          "D": "Derechos internacionales"
-        },
-        "img_asociada": ""
       }
     ],
     "unidadesAsociadas": [1]
@@ -117,43 +107,6 @@
           "B": "un código de conducta.",
           "C": "normas morales y jurídicas.@",
           "D": "normas religiosas"
-        },
-        "img_asociada": ""
-      }
-    ],
-    "unidadesAsociadas": [1]
-  },
-  {
-    "caratula": "Gobierno democrático: organización y representación",
-    "nombreAE": "<b>Reconoce</b> la forma de organización del gobierno democrático, así como las atribuciones y responsabilidades de los representantes populares.",
-    "reactivos": [
-      {
-        "reactivo": "El gobierno democrático se caracteriza por... <br> <ol style='list-style-type: decimal;'><li>división de poderes.</li><li>dependencia central.</li><li>voto libre y secreto.</li><li>poder absoluto.</li></ol>",
-        "respuestas": {
-          "A": "1, 3@",
-          "B": "1, 4",
-          "C": "2, 3",
-          "D": "2, 4"
-        },
-        "img_asociada": ""
-      },
-       {
-        "reactivo": "La elaboración de las leyes que protegerán los derechos de los ciudadanos en un gobierno democrático es una atribución del...",
-        "respuestas": {
-          "A": "poder notarial.",
-          "B": "dependencia central.@",
-          "C": "voto libre y secreto.",
-          "D": "poder absoluto."
-        },
-        "img_asociada": ""
-      },
-       {
-        "reactivo": "Forma de gobierno donde las decisiones son tomadas por el pueblo.",
-        "respuestas": {
-          "A": "Democracia@",
-          "B": "Legalidad y justicia",
-          "C": "Dictadura",
-          "D": "Representatividad de las minorías"
         },
         "img_asociada": ""
       }

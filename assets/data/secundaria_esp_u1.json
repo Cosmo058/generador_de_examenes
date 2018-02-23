@@ -1,0 +1,789 @@
+[
+  {
+    "caratula": "Reglamento escolar",
+    "nombreAE": "<strong>Participa</strong> en la elaboración del reglamento escolar. <br/> ",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué finalidad tienen los reglamentos? Elige la opción que incluye las respuestas. <ul style='list-style-type: decimal;'><li>Evitar los conflictos entre las personas.</li><li>Restringir la libertad de los individuos.</li><li>Promover la amistad entre los hombres.</li><li>Regular la convivencia de los individuos.</li></ul>",
+        "respuestas": {
+          "A": "1 y 3",
+          "B": "2 y 4",
+          "C": "1 y 4@",
+          "D": "3 y 4"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A qué espacios pertenecen las siguientes reglas? Elige la opción que relaciona correctamente las columnas.<br/><br/><table style='font-size:0.7em;'> <tr> <td>1. Mostrar la credencial de estudiante al ingresar al plantel.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>a)Reglamento de la biblioteca</td> </tr> <tr> <td>2. No conducir a más de 20 km/h en zonas escolares.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>b)Reglamento escolar</td> </tr> <tr> <td>3. No consumir alimentos dentro de los salones.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c)Reglamento de tránsito</td> </tr> <tr> <td>4. Consultar únicamente tres libros a la vez.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d)Reglamento del aula</td> </tr></table>",
+        "respuestas": {
+          "A": "1 b, 2c, 3d, 4a@",
+          "B": "1a, 2b, 3c, 4d",
+          "C": "1c, 2d, 3d, 4a",
+          "D": "1d, 2c, 3b, 4ª"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué es necesario que los condóminos respeten el reglamento? <br/> Lee el siguiente reglamento. <a href='assets/data/img_asociadas/ES1ED18_GX_AP1L1.pdf' target='_blank'>Lectura Reglamento</a>",
+        "respuestas": {
+          "A": "Porque, si no lo hacen, los demás vecinos pueden molestarse.",
+          "B": "Porque los vecinos deben ser muy ordenados.",
+          "C": "Porque permite la convivencia armónica entre todos los vecinos.@",
+          "D": "Para complacer a la administración."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué tiempo y modo están conjugados los verbos en cursivas (podrán, deberán, será...)? <br/> Lee el siguiente reglamento. <a href='assets/data/img_asociadas/ES1ED18_GX_AP1L1.pdf' target='_blank'>Lectura Reglamento</a>",
+        "respuestas": {
+          "A": "Presente de indicativo.",
+          "B": "Presente de subjuntivo.",
+          "C": "Infinitivo.",
+          "D": "Futuro de indicativo.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el propósito de un reglamento escolar?",
+        "respuestas": {
+          "A": "Supervisar todas las acciones de los miembros de la comunidad escolar.",
+          "B": "Establecer normas que permitan relaciones armónicas entre los miembros de la comunidad escolar.@",
+          "C": "Sancionar a los miembros que infrinjan las órdenes de las autoridades escolares.",
+          "D": "Conservar el prestigio de la escuela y la integridad de sus miembros."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tiempo y modo se utilizan en la siguiente norma? Los estudiantes de la Universidad de la Sierra tendrán las siguientes obligaciones.",
+        "respuestas": {
+          "A": "Futuro de indicativo.@",
+          "B": "Presente de indicativo",
+          "C": "Pretérito de indicativo.",
+          "D": "Futuro de subjuntivo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La función de un reglamento es...",
+        "respuestas": {
+          "A": "regular la conducta de los visitantes de una comunidad.",
+          "B": "establecer criterios de trabajo para mejorar la economía.",
+          "C": "comprender el uso de las reglas, y así corregir las leyes.",
+          "D": "proteger derechos, determinar obligaciones y establecer sanciones.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La función de un reglamento interno del salón es:",
+        "respuestas": {
+          "A": "comprender el uso de reglasy así corregit el reglamento de la escuela.",
+          "B": "regular la conducta de la comunidad escolar.",
+          "C": "establecer criterios de aprendizaje para un  mejor aprovechamiento.",
+          "D": "proteger derechos, determinar obligaciones y establecer sanciones.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+
+  {
+    "caratula": "Fichas de estudio",
+    "nombreAE": "<strong>Elabora</strong> fichas temáticas con fines de estudio.",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué es un resumen y para qué sirve?",
+        "respuestas": {
+          "A": "Síntesis de las ideas principales de uno o varios textos. Una de sus funciones es que apoya el estudio de un tema.@",
+          "B": "Recopilación de información de varios textos cuya función es aportar datos sobre un tema.",
+          "C": "Síntesis de las ideas principales de uno o varios textos cuya función es informar sobre un tema.",
+          "D": "Recopilación de información de varios textos cuya función es apoyar el estudio de un tema."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tipo de ficha es? <br/>Lee la siguiente ficha. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L1.pdf' target='_blank'>Las pirámides mayas</a> ",
+        "respuestas": {
+          "A": "De resumen porque contiene la información más importante.",
+          "B": "De paráfrasis porque dice lo mismo que la cita original pero con otras palabras.",
+          "C": "De cita textual porque utiliza comillas para reproducir la fuente exactamente.@",
+          "D": "Mezcla la cita con el resumen porque no todo el texto está entre comillas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el dato que falta en la referencia bibliográfica de la ficha?<br/>Lee la siguiente ficha. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L1.pdf' target='_blank'>Las pirámides mayas</a>",
+        "respuestas": {
+          "A": "El número de la revista",
+          "B": "El número de páginas de la revista@",
+          "C": "El nombre del artículo",
+          "D": "El número de páginas del artículo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A qué tema pertenece la información que contiene la ficha?<br/>Lee la siguiente ficha. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L2.pdf' target='_blank'>La cultura… en 365 días</a>",
+        "respuestas": {
+          "A": "Decoraciones",
+          "B": "Arquitectura del siglo XVII@",
+          "C": "Fusión de los estilos persa, indio y turco",
+          "D": "Influencia de la arquitectura francesa"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una paráfrasis para explicar que el Taj Mahal es 'producto de la fusión de los estilos persa, indio y turco', es…<br/>Lee lo siguiente. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L2.pdf' target='_blank'>La cultura… en 365 días</a>",
+        "respuestas": {
+          "A": "en su construcción participaron los tres pueblos.",
+          "B": "es un templo que sintetiza una triple combinación arquitectónica.@",
+          "C": "persas, indios y turcos hicieron templos similares.",
+          "D": "el Taj Mahal influyó en los estilos arquitectónicos persa, indio y turco."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes frases resume la información?<br>Lee lo siguiente. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L3.pdf' target='_blank'>El gen maestro y el don lenguaje</a>",
+        "respuestas": {
+          "A": "La genética influye en la comunicación humana.@",
+          "B": "Hay familias con miembros que no leen ni hablan bien.",
+          "C": "Es casi imposible estudiar la herencia genética.",
+          "D": "Los problemas para leer o escribir son muy antiguos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "'Los problemas humanos de articulación y comprensión del lenguaje se conocen desde el siglo XIX, pero su investigación genética continúa hasta nuestros días' Lo anterior significa que...",
+        "respuestas": {
+          "A": "los neandertales ya tenían este tipo de problemas.",
+          "B": "en el siglo XX aún no se sabía de estas dificultades.",
+          "C": "la investigación genética en este rubro abarca tres siglos.@",
+          "D": "es imposible conocer la secuencia del ADN humano."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿El resumen cumple el propósito de informar sobre la escasez de agua en el mundo?",
+        "respuestas": {
+          "A": "Sí, porque maneja un lenguaje claro.@",
+          "B": "Sí, porque aborda el tema con ejemplos.",
+          "C": "No, porque no utiliza analogías y comparaciones.",
+          "D": "No, porque no proporciona ninguna medida de cuidado."
+        },
+        "img_asociada": "img/reactivo8.jpg",
+        "size": "60%"
+      },
+      {
+        "reactivo": "¿La ficha de resumen no está completa. ¿Qué datos hacen falta?",
+        "respuestas": {
+          "A": "El registro bibliográfico y la indicación del tema@",
+          "B": "El código de color, analogías y comparaciones",
+          "C": "Los propósitos de la investigación y las comparaciones",
+          "D": "El registro bibliográfico y la especificación del propósito"
+        },
+        "img_asociada": "img/reactivo8.jpg",
+        "size": "60%"
+      },
+      {
+        "reactivo": "Los esquemas que describen un proceso se caracterizan por ordenar las etapas...",
+        "respuestas": {
+          "A": "en orden alfabético.",
+          "B": "cronológicamente.@",
+          "C": "según su importancia en los resultados.",
+          "D": "de acuerdo con los criterios establecidos por el investigador."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Para qué sirven los recursos gráficos (tablas, gráficas, fotografías, mapas, etcétera) de los textos informativos?",
+        "respuestas": {
+          "A": "Para aclarar las ideas presentadas.",
+          "B": "Para apoyar la información presentada.@",
+          "C": "Para citar de dónde se obtiene la información.",
+          "D": "Para explicar algún concepto específico."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se llama la relación que guarda la palabra señalada en asterisco y la definición que se explica al final de la ficha?<br/>Lee la ficha de resumen y responde. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L4.pdf' target='_blank'>Cambios físicos en la adolescencia</a>",
+        "respuestas": {
+          "A": "Glosario",
+          "B": "Palabras clave",
+          "C": "Referencia cruzada@",
+          "D": "Referencia bibliográfica"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué es importante que en las fichas de resumen se registren los datos de la fuente donde se obtuvo la información?",
+        "respuestas": {
+          "A": "Porque son los datos que incluye una ficha de resumen.",
+          "B": "Para no olvidar de dónde se obtuvo la información.",
+          "C": "Para saber de qué fuente proviene la información y consultarla posteriormente para ampliar o aclarar la información.@",
+          "D": "Para incluir los datos del libro en la bibliografía consultada del trabajo de investigación."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes referencias bibliográficas tiene los datos completos y le permitiría a la lectora encontrar más información sobre los hoyos negros?",
+        "respuestas": {
+          "A": "Thorne, <em>Agujeros negros y tiempo curvo: el escandaloso legado de Einstein:</em> Crítica, 2010.",
+          "B": "Stephen W. Hawking, <em>Historia del tiempo: del Big Bang a los agujeros negros</em>, Barcelona, 1992, pp. 247.",
+          "C": "Abrahamson, Guillermo, <em>Viaje a las estrellas: de cómo y con qué los hombres midieron el universo</em>, Buenos Aires: FCE, 2010, pp. 127.",
+          "D": "Davies, P. C. W., <em>La frontera del infinito: de los agujeros negros a los confines del Universo</em>, Barcelona: Salvat, 1988, pp. 211.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Refranes, dichos y pregones populares",
+    "nombreAE": "<b>Recopila</b> y comparte refranes, dichos y pregones populares",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué refrán se puede usar en la misma situación que el siguiente?<br/>Quien tiene tienda, que la atienda.",
+        "respuestas": {
+          "A": "Para caballo duro, bozal de seda.",
+          "B": "Al caballo que rabea, ningún charro lo desea.",
+          "C": "A caballo regalado no hay que mirarle el diente. ",
+          "D": "A ojo del amo engorda el caballo.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Lee la siguiente situación y responde. <br>¿Qué refrán puede ayudar a Alina en esta situación?",
+        "respuestas": {
+          "A": "Una golondrina no hace verano.",
+          "B": "Más vale pájaro en mano que ciento volando. ",
+          "C": "Por el canto se conoce al pájaro.@",
+          "D": "La gallina de mi vecina más huevos pone que la mía."
+        },
+        "img_asociada": "img/reactivoAE3_2.jpg",
+        "size": "60%"
+
+      },
+      {
+        "reactivo": "¿Qué propósitos tienen los refranes?",
+        "respuestas": {
+          "A": "Aconsejar en una situación o problema.@",
+          "B": "Divertir con una historia o idea.",
+          "C": "Narrar una historia o suceso.",
+          "D": "Vender un producto o servicio."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de estos pregones puede usarse para vender un remedio para la salud?",
+        "respuestas": {
+          "A": "Damitas y caballeros, muy buenos días.<br/>En esta ocasión le traigo a la venta<br/>un lapicero de moda, lapicero de novedad,<br/>con siete puntillas intercambiables, siete colores diferentes.<br/>Sólo cinco pesos vale, sólo cinco pesos cuesta.",
+          "B": "Ya llegaron sus ricos y deliciosos tamales oaxaqueños.<br/>Hay tamales oaxaqueños, tamales calientitos.<br/>Acérquese y pida sus ricos tamales oaxaqueños.",
+          "C": "Lleve el audífono, audífono de chícharo.<br/>Audífono de alta fidelidad, excelente sonido.<br/>Para la computadora, el mp3, la tablet, el celular.<br/>Diez pesos le vale, diez pesos le cuesta. No pague más.",
+          "D": "Este maravilloso producto fortalece los ojos,<br/>limpia las arterías, combate las cataratas,<br/>la carnosidad, el enrojecimiento excesivo, la ceguera.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué recursos se emplean en el siguiente refrán?<br/><br/>Camarón que se duermese lo lleva la corriente</br><br/>1. Se describe una situación humorística.<br/>2. Se emplean palabras que riman.<br/>3. Se repiten palabras con sonidos parecidos.<br/>4. Se hace una exageración.",
+        "respuestas": {
+          "A": "2 y 4",
+          "B": "1 y 2@",
+          "C": "2 y 3",
+          "D": "3 y 4"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En cuáles de estos pregones se emplean las enumeraciones o listas de elementos?",
+        "respuestas": {
+          "A": "1 y 3",
+          "B": "2 y 3",
+          "C": "2 y 4",
+          "D": "1 y 4@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué significa el siguiente refrán?<br/><br/>El que siembra vientos<br/>cosecha tempestades.",
+        "respuestas": {
+          "A": "Los problemas se pueden detener si se detectan pronto.",
+          "B": "Nuestras acciones afectan a otras personas. ",
+          "C": "La gente recibe las consecuencias de sus acciones.@",
+          "D": "Es necesario sembrar antes de que empiecen las lluvias."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de estos refranes advierte sobre la mentira y las apariencias?",
+        "respuestas": {
+          "A": "Una buena capa<br/>todo lo tapa.@",
+          "B": "Al nopal lo van a ver<br/>sólo cuando tiene tunas.",
+          "C": "El comal le dijo a la olla:<br/>“¡Mira qué tiznada estás!”",
+          "D": "Ovejas bobas,<br/>por donde va una van todas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son algunos textos de la lírica tradicional mexicana.",
+        "respuestas": {
+          "A": "Leyendas, canciones e historias",
+          "B": "Versos, mitos y adivinanzas",
+          "C": "Anécdotas, corridos y baladas",
+          "D": "Refranes, coplas y calaveras@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la importancia de conocer los textos de la lírica tradicional mexicana?",
+        "respuestas": {
+          "A": "Ubicar la fecha en que fueron escritos.",
+          "B": "Conocer el origen de las culturas.",
+          "C": "Descubrir hechos relevantes para la sociedad.",
+          "D": "Valorar la riqueza cultural de México.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2]
+  },
+  {
+    "caratula": "Investigación de un tema",
+    "nombreAE": "<b>Elige</b> un tema y hace una pequeña investigación",
+    "reactivos": [
+      {
+        "reactivo": "Lee el siguiente texto y responde. <a href='assets/data/doc_asociados/sec_esp/ES1ED18_GX_AP1L2.pdf' target='_blank'>Lectura ¿Qué es biodiversidad?</a><br/>¿Cuál de estas gráficas complementa la información del fragmento anterior?",
+        "respuestas": {
+          "A": "<table style='font-size:0.7em;border:solid 1px'> <tr> <td>Pa&iacute;s</td> <td>Plantas</td> <td>Mam&iacute;feros</td> <td>Aves</td> <td>Reptiles</td> <td>Anfibios</td> </tr> <tr> <td>Brasil</td> <td>56,215</td> <td>648</td> <td>1,712</td> <td>630</td> <td>779</td> </tr> <tr> <td>Colombia</td> <td>48,000</td> <td>456</td> <td>1,815</td> <td>520</td> <td>634</td> </tr> <tr> <td>China</td> <td>32,200</td> <td>502</td> <td>1,221</td> <td>387</td> <td>334</td> </tr> <tr> <td>Indonesia</td> <td>29,375</td> <td>670</td> <td>1,604</td> <td>511</td> <td>300</td> </tr> <tr> <td>M&eacute;xico</td> <td>23,424</td> <td>564</td> <td>1,150</td> <td>864</td> <td>376</td> </tr> <tr> <td>Venezuela</td> <td>21,073</td> <td>353</td> <td>1,392</td> <td>293</td> <td>315</td> </tr> <tr> <td>Ecuador</td> <td>21,000</td> <td>271</td> <td>1,559</td> <td>374</td> <td>462</td> </tr></table>@",
+          "B": "<img style='width:50%' src='assets/data/img_asociadas/sec_esp/ES1ED1_GX_AP2_IMG1b.jpg'/><br/>Ubicaci&oacute;n de Sud&aacute;frica<br/><br/>",
+          "C": "<img style='width:50%' src='assets/data/img_asociadas/sec_esp/ES1ED1_GX_AP2_IMG1c.jpg'/><br/>El ajolote, una famosa especie mexicana.<br/><br/>",
+          "D": "<table style='font-size:0.7em;'> <tr> <td>Marinas</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Terrestres</td> </tr> <tr> <td>Vaquita marina</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Mariposa monarca</td> </tr> <tr> <td>Tortuga de carey</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Jaguar</td> </tr> <tr> <td>Tiburón martillo</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Ballena azul</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Tiburón ballena</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Coral</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr></table>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Lee el siguiente texto.<br/><br/>Cuando alguien habla de la gran riqueza natural que tiene México, muchos imaginan sus hermosas y cálidas playas, las impresionantes regiones montañosas, los extensos desiertos del norte y las ricas selvas del sur. Sin embargo, la verdadera riqueza reside en el número de especies que habitan en cada uno de estos ecosistemas y que convierten a nuestro país en uno de los más diversos del mundo. Entre ellas se cuentan más de 23 mil especies de plantas, más de mil de aves y casi 900 de reptiles. Algunas son únicas de esta tierra, como el ajolote, el jaguar, el lobo mexicano, el saraguato y el águila real.<br/><br/>¿Cuál de las siguientes opciones es la oración temática del párrafo?",
+        "respuestas": {
+          "A": "…muchos imaginan sus hermosas y cálidas playas, las impresionantes regiones montañosas, los extensos desiertos del norte y las ricas selvas del sur.",
+          "B": "Entre ellas se cuentan más de 23 mil especies de plantas, más de mil de aves y casi 900 de reptiles.",
+          "C": "Algunas son únicas de esta tierra, como el ajolote, el jaguar, el lobo mexicano, el saraguato y el águila real. ",
+          "D": "Sin embargo, la verdadera riqueza reside en el número de especies que habitan en cada uno de estos ecosistemas y que convierten a nuestro país en uno de los más diversos del mundo.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En cuál de los siguientes párrafos del texto, se emplea la elipsis para darle cohesión al párrafo.<br/><br/>El 21.5% de los mexicanos son parte de un pueblo indígena. Esto quiere decir que comparten formas de vida, costumbres, tradiciones y creencias que son distintas de aquellas de la población mestiza. Esta diversidad aporta una gran riqueza a la cultura de nuestra nación.Algunos de ellos viven en comunidades conformadas en su mayoría por miembros del mismo pueblo indígena, pero otros forman parte de poblaciones en las que conviven todos los días con los mestizos e, incluso, con integrantes de otros pueblos indígenas. Una proporción importante de estos pueblos habla lenguas indígenas, que es un componente importante de su identidad. Hay algunas con cientos de miles de hablantes y cuya existencia es bien conocida por gran parte de los mexicanos, como el náhuatl, el maya y el tzeltal.Sin embargo, también existen algunas lenguas indígenas que cuentan con un número muy pequeño de usuarios, como el awateko, que es hablado por sólo 17 personas; el ayapaneco, por 24; el kaqchikel, por 6; el teko, por 81; o el oluteco por 90. Todas ellas en grave peligro de desaparecer.",
+        "respuestas": {
+          "A": "Primero",
+          "B": "Segundo",
+          "C": "Tercero",
+          "D": "Cuarto@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué opción se emplean los pronombres para evitar la repetición del término lengua?",
+        "respuestas": {
+          "A": "Actualmente existen en el mundo alrededor de cinco mil lenguas vivas, esto quiere decir que cuentan con hablantes que aprenden la lengua de sus padres y que utilizan esa lengua en su vida cotidiana durante toda su vida. Sin embargo, cada año, mueren alrededor de 25 lenguas De hecho, los expertos pronostican que al concluir el siglo XXI habrán desaparecido probablemente la mitad de las lenguas que actualmente existen. ¿Qué perderá la humanidad cuando esto ocurra? ",
+          "B": "Actualmente existen en el mundo alrededor de cinco mil lenguas vivas, esto quiere decir que cuentan con hablantes que las aprenden de sus padres y que las utilizan en su vida cotidiana durante toda su vida. Sin embargo, cada año, mueren alrededor de 25 de ellas. De hecho, los expertos pronostican que al concluir el siglo XXI habrán desaparecido probablemente la mitad de las que actualmente existen. ¿Qué perderá la humanidad cuando esto ocurra?@",
+          "C": "Actualmente existen en el mundo alrededor de cinco mil lenguas vivas, esto quiere decir que cuentan con hablantes que aprenden de sus padres y que utilizan en su vida cotidiana durante toda su vida. Sin embargo, cada año, mueren alrededor de 25. De hecho, los expertos pronostican que al concluir el siglo XXI habrán desaparecido probablemente la mitad. ¿Qué perderá la humanidad cuando esto ocurra?",
+          "D": "Actualmente existen en el mundo alrededor de cinco mil lenguas vivas, esto quiere decir que cuentan con hablantes que aprenden el idioma de sus padres y que utilizan ese lenguaje en su vida cotidiana durante toda su vida. Sin embargo, cada año, mueren alrededor de 25 sistemas lingüísticos. De hecho, los expertos pronostican que al concluir el siglo XXI habrán desaparecido probablemente la mitad de lenguas que actualmente existen. ¿Qué perderá la humanidad cuando esto ocurra?"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En cuál de estas opciones se subrayan términos que se emplean para referirse a la misma situación, fenómeno u objeto?",
+        "respuestas": {
+          "A": "La vida se caracteriza por el surgimiento de nuevas <u>especies</u> a lo largo del tiempo, sin embargo, este proceso también se ve acompañado por la extinción de otras especies por diversas causas. La desaparición de un linaje de <u>plantas</u>, <u>animales</u>, <u>bacterias</u> o <u>seres vivos</u> representa siempre una tragedia cuando no es producto de causas naturales, sino de la acción del hombre.",
+          "B": "La vida se caracteriza por el <u>surgimiento</u> de nuevas especies a lo largo del tiempo, sin embargo, este <u>proceso</u> también se ve acompañado por la extinción de otras especies por diversas causas. La desaparición de un linaje de plantas, animales, bacterias o seres vivos representa siempre una tragedia cuando no es producto de causas naturales, sino de la acción del hombre.@",
+          "C": "La vida se caracteriza por el surgimiento de nuevas especies a lo largo del tiempo, sin embargo, este <u>proceso</u> también se ve acompañado por la <u>extinción</u> de otras especies por diversas causas. La desaparición de un linaje de plantas, animales, bacterias o seres vivos representa siempre una tragedia cuando no es producto de causas naturales, sino de la acción del hombre.",
+          "D": "La vida se caracteriza por el surgimiento de nuevas especies a lo largo del tiempo, sin embargo, este proceso también se ve acompañado por la extinción de otras especies por diversas causas. La desaparición de un linaje de plantas, animales, bacterias o <u>seres vivos</u> representa siempre una tragedia cuando no es producto de causas naturales, sino de la acción del <u>hombre</u>."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Al investigar sobre un tema, ¿qué se debe revisar primero en una fuente de información para saber si será útil?",
+        "respuestas": {
+          "A": "El título, los subtítulos y los apoyos gráficos@",
+          "B": "El autor del texto y la editorial",
+          "C": "El título, la fecha y el país de la publicación",
+          "D": "El autor del texto y la fecha"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La estructura del reglamento está incompleta porque carece de:<br/><br/><table style='font-size:0.7em;border:solid 1px'> <tr> <td> <b>Reglamento del grupo 1&deg;D</b> <br/> 1.Asistir puntualmente a clases.<br/> 2.Prestar atención al maestro.<br> 3.Respetarse unos a otros.<br> 4.Mantener el orden y la disciplina en el salón.<br> 5.Trabajar con empeño y entusiasmo.<br> 6.Levantar la mano para participar.<br> 7.Mantener limpio el salón de clases.<br> 8.Trabajar en equipo.<br> </td> </tr></table>",
+        "respuestas": {
+          "A": "presentación, propósitos, destinatarios y apartados.",
+          "B": "recursos gráficos para organizar la información.",
+          "C": "una redacción precisa de derechos y obligaciones organizados mediante recursos gráficos.",
+          "D": "normas, responsabilidades y sanciones específicas.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué modo o tiempo verbal se utilizó en la redacción del reglamento del grupo 1º D?<br/><br/><table style='font-size:0.7em;border:solid 1px'> <tr> <td> <b>Reglamento del grupo 1&deg;D</b> <br/> 1.Asistir puntualmente a clases.<br/> 2.Prestar atención al maestro.<br> 3.Respetarse unos a otros.<br> 4.Mantener el orden y la disciplina en el salón.<br> 5.Trabajar con empeño y entusiasmo.<br> 6.Levantar la mano para participar.<br> 7.Mantener limpio el salón de clases.<br> 8.Trabajar en equipo.<br> </td> </tr></table>",
+        "respuestas": {
+          "A": "Infinitivo@",
+          "B": "Imperativo",
+          "C": "Imperativo",
+          "D": "Presente"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son los pasos para un proceso de investigación?",
+        "respuestas": {
+          "A": "Obtener los datos, definir el método, diseñar la investigación, analizar los datos y elaborar el informe.",
+          "B": "Diseñar la investigación, definir el método, obtener los datos, analizarlos y elaborar el informe.@",
+          "C": "Definir el método, diseñar la investigación, obtener los datos, analizar los datos y elaborar el informe.",
+          "D": "Diseñar la investigación, definir el método, obtener los datos, elaborar el informe y analizar los datos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son las fuentes más adecuadas para realizar una investigación sobre un tema como \"Cambios físicos en la adolescencia\"?",
+        "respuestas": {
+          "A": "Cine, radio y prensa",
+          "B": "Periódicos, revistas y carteles",
+          "C": "Internet, televisión y bibliotecas",
+          "D": "Internet, libros de texto y folletos informativos@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si se quisiera buscar información en internet, ¿qué páginas electrónicas serían las más recomendables para consultar?",
+        "respuestas": {
+          "A": "Páginas de organismos públicos o de instituciones educativas@",
+          "B": "Páginas de particulares o de empresas con fines de lucro",
+          "C": "Redes sociales, blogs y foros abiertos de discusión",
+          "D": "Ninguna página de internet es recomendable para investigar"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuando se consulta una fuente impresa para un tema de investigación, ¿qué es lo primero que se recomienda revisar para elegirla o descartarla?",
+        "respuestas": {
+          "A": "En el título del texto y el nombre del autor",
+          "B": "En las imágenes y el nombre de la editorial",
+          "C": "En subtítulos, palabras destacadas y recursos gráficos@",
+          "D": "En las palabras resaltadas con color y en las referencias"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "caratula": "Subgéneros literarios",
+    "nombreAE": "<b>Lee</b> narraciones de diversos subgéneros: ciencia ficción, terror, policiaco, aventuras, sagas u otros.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cómo se hace presente la tecnología en este fragmento?<br/>Lee el texto y responde. <a href='assets/data/doc_asociados/sec_esp/ES1ED1_GX_AP14L1.pdf' target='_blank'>El sueño del robot</a>",
+        "respuestas": {
+          "A": "Mediante la crítica social al trato dado a los robots",
+          "B": "Por la descripción como un recurso tecnológico",
+          "C": "Mediante el personaje principal, que es un robot@",
+          "D": "Por la descripción de las actividades del robot"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la expresión \"Nunca descansaba, salvo los días en que tenía que recargarse de energía en los mantenimientos de máquinas autómatas\", se identifica...",
+        "respuestas": {
+          "A": "la ciencia porque expresa los conocimientos obtenidos mediante la observación del comportamiento de las máquinas.",
+          "B": "el lenguaje literario porque emplea metáforas y recursos poéticos.",
+          "C": "la tecnología porque expresa el aprovechamiento del conocimiento científico en el trabajo.@",
+          "D": "la fantasía porque habla de cosas y seres irreales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el tema que se aborda en el texto? <br/>Lee el texto. <a href='assets/data/doc_asociados/sec_esp/ES1ED1_GX_AP14L2.pdf' target='_blank'>Baby H.P.</a>",
+        "respuestas": {
+          "A": "Vida extraterrestre",
+          "B": "Tecnología de ficción@",
+          "C": "Inteligencia artificial",
+          "D": "Seres autómatas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El tono es la actitud o la emoción del narrador de un texto. ¿Qué tono tiene la lectura?<br/>Lee el texto. <a href='assets/data/doc_asociados/sec_esp/ES1ED1_GX_AP14L2.pdf' target='_blank'>Baby H.P.</a>",
+        "respuestas": {
+          "A": "Irónico.@",
+          "B": "Periodístico.",
+          "C": "Formal.",
+          "D": "Moralista"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Algunos propósitos que puede tener un cuento de ciencia ficción son…",
+        "respuestas": {
+          "A": "hacer una crítica a la sociedad, provocar emociones o simplemente divertir.@",
+          "B": "criticar una obra o a la sociedad, y debatir sobre un punto de vista.",
+          "C": "promover el conocimiento del lenguaje y emocionar al lector.",
+          "D": "exponer los resultados de una investigación científica y divertir."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son las características sociales del personaje protagónico?<br/>Lee el cuento y responde. <a href='assets/data/doc_asociados/sec_esp/ES1ED1_GX_AP14L3.pdf' target='_blank'>A la deriva.</a>",
+        "respuestas": {
+          "A": "Una persona de campo, que no tiene conocimiento de primeros auxilios@",
+          "B": "Una persona de campo muy humilde",
+          "C": "Una persona que viste con huaraches y saco",
+          "D": "Una persona triste porque la víbora lo mordió"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Quiénes son los personajes protagonista y antagonista, respectivamente?<br/>Lee el texto y responde. <a href='assets/data/doc_asociados/sec_esp/ES1ED1_GX_AP14L4.pdf' target='_blank'>Rumpelstiltskin</a>",
+        "respuestas": {
+          "A": "El rey y Rumpelstiltskin.",
+          "B": "El molinero y el rey.",
+          "C": "La muchacha y el rey.",
+          "D": "La muchacha y Rumpelstiltskin.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El tema en un cuento puede definirse como la...",
+        "respuestas": {
+          "A": "secuencia de acciones.",
+          "B": "idea central o asunto principal.@",
+          "C": "construcción de personajes principales, secundarios e incidentales.",
+          "D": "manera en que se van desarrollando los acontecimientos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué persona está el narrador en ambos cuentos?<br/><a href='assets/data/doc_asociados/sec_esp/ES1ED1_GX_AP14L5.pdf' target='_blank'>El sueño del rey</a>",
+        "respuestas": {
+          "A": "En primera persona de singular",
+          "B": "En segunda persona de singular",
+          "C": "En tercera persona de singular@",
+          "D": "En primera persona de plural"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué tipo de texto buscarías si quisieras saber sobre el contenido de una novela antes de leerla completa?",
+        "respuestas": {
+          "A": "Un reportaje.",
+          "B": "Una reseña.@",
+          "C": "Un ensayo.",
+          "D": "Una entrevista."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes opciones, ¿dónde buscarías una reseña sobre un libro de poemas?",
+        "respuestas": {
+          "A": "En una enciclopedia.",
+          "B": "En una revista literaria.@",
+          "C": "En un libro de ensayos.",
+          "D": "En la televisión."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "caratula": "Exposición de un tema",
+    "nombreAE": "<b>Presenta</b> una exposición acerca de un tema de interés general",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué se debe considerar al seleccionar la información de un tema para una exposición oral?",
+        "respuestas": {
+          "A": "La fama del autor y que aparezca en muchos sitios de internet",
+          "B": "La confiabilidad de la fuente y el guión de la exposición",
+          "C": "El propósito de la investigación y exposición, la actualidad y confiabilidad de la información y la disponibilidad de la fuente@",
+          "D": "El propósito de la investigación y que no haya ninguna fuente de internet, pues no son confiables"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la mejor manera de organizar una exposición?",
+        "respuestas": {
+          "A": "Mediante un diagrama de flujo",
+          "B": "Mediante un guión@",
+          "C": "Usando un diagrama de proceso",
+          "D": "Repartiendo las tareas de forma equitativa"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué elementos debe tener el guión de una exposición?",
+        "respuestas": {
+          "A": "Estructura del tema, orden de los participantes, tiempo de exposición de cada uno y apoyos audiovisuales a usar@",
+          "B": "Toda la información proveniente de las fichas",
+          "C": "El orden de los participantes",
+          "D": "Una descripción detallada de lo que se espera en cada parte de la exposición"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la estructura de una exposición?",
+        "respuestas": {
+          "A": "Planteamiento, clímax y desenlace",
+          "B": "Introducción, desarrollo y conclusión@",
+          "C": "Introducción, preguntas y cierre",
+          "D": "Introducción, presentación y preguntas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los conceptos son parte fundamental en la comprensión del contenido de una exposición. ¿Qué se necesita para que al público le queden claros y los pueda ampliar?",
+        "respuestas": {
+          "A": "Repetirlos durante la exposición.",
+          "B": "Preguntar muchas veces al auditorio para saber si ya entendió.",
+          "C": "Si son difíciles, lo mejor es no mencionarlos para no dejar dudas.",
+          "D": "Hacer un glosario de los conceptos o palabras clave.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son ejemplos de recursos prosódicos que se usan al exponer.",
+        "respuestas": {
+          "A": "Repetición, ejemplificación y uso de conectores",
+          "B": "Ejemplificación y solicitud de explicaciones",
+          "C": "Entonación y volumen adecuados, así como empleo de pausas@",
+          "D": "Uso de pausas y de conectores"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué momento de la exposición deben emplearse recursos discursivos y los prosódicos?",
+        "respuestas": {
+          "A": "En toda, porque es la forma de mantener al público interesado@",
+          "B": "Al inicio, para comenzar a hablar sobre el tema",
+          "C": "Cuando se incluyen los materiales de apoyo visual",
+          "D": "Cuando se olvide alguna parte de la misma"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la utilidad de las TIC en una exposición?",
+        "respuestas": {
+          "A": "Sirven para organizar la intervención de los expositores.",
+          "B": "Ayudan a decidir si se emplean mapas o gráficas como material de apoyo.",
+          "C": "Se utilizan para atraer la atención del público.",
+          "D": "Son material de apoyo para presentar información y como fuentes de consulta.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Algunos recursos prosódicos son...",
+        "respuestas": {
+          "A": "actitud corporal, uso de instrumentos musicales y lectura en voz baja.",
+          "B": "pausas prolongadas, postura encorvada y lectura en voz alta.",
+          "C": "entonación adecuada, pausas necesarias y volumen preciso.@",
+          "D": "Depetición, expectativa y rápida articulación."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes opciones es un recurso prosódico?",
+        "respuestas": {
+          "A": "El acento@",
+          "B": "La interpretación",
+          "C": "El movimiento",
+          "D": "La metáfora"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Son los recursos gráficos en los que se pueden ordenar datos?",
+        "respuestas": {
+          "A": "Gráficas y mapas",
+          "B": "Mapas y diapositivas",
+          "C": "Tablas y gráficas@",
+          "D": "Mapas, tablas y gráficas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El siguiente mapa conceptual presenta...<br/>Observa el mapa <a href='assets/data/doc_asociados/sec_esp/ES1ED18_GX_AP4_IMG1.pdf' target='_blank'>Reciclaje</a>",
+        "respuestas": {
+          "A": "el tema del reciclaje.@",
+          "B": "la clasificación de la basura.",
+          "C": "los empleos que se generan con el reciclaje.",
+          "D": "los problemas ambientales y de salud que causa la basura."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En el mapa conceptual, la jerarquía entre los distintos conceptos se establece a partir de...<br/>Observa el mapa <a href='assets/data/doc_asociados/sec_esp/ES1ED18_GX_AP4_IMG1.pdf' target='_blank'>Reciclaje</a>",
+        "respuestas": {
+          "A": "las líneas de colores.",
+          "B": "la distancia que los separa del concepto central.@",
+          "C": "y otros recursos gráficos.",
+          "D": "los conectores y los signos entre ellos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se llaman las palabras que van relacionando los conceptos?",
+        "respuestas": {
+          "A": "Adhesiones",
+          "B": "Conectores@",
+          "C": "Enlaces",
+          "D": "Interjecciones"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Algunas características de los mapas conceptuales son…",
+        "respuestas": {
+          "A": "utilizan palabras o conceptos clave que se ordenan por niveles jerárquicos.@",
+          "B": "emplean colores o recuadros y no se incluye la información más importante.",
+          "C": "ordenan información y no utilizan conectores.",
+          "D": "registran mucha información y no se emplean conectores."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los elementos encerrados en rectángulos son…<br/>Observa el mapa <a href='assets/data/doc_asociados/sec_esp/ES1ED18_GX_AP4_IMG2.pdf' target='_blank'>Seres vivos</a>",
+        "respuestas": {
+          "A": "hechos.",
+          "B": "temas.",
+          "C": "conceptos.@",
+          "D": "subtemas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el marco conceptual desarrollado en el mapa?<br/>Observa el mapa <a href='assets/data/doc_asociados/sec_esp/ES1ED18_GX_AP4_IMG2.pdf' target='_blank'>Seres vivos</a>",
+        "respuestas": {
+          "A": "Los tipos de seres vivos",
+          "B": "Los seres vivos@",
+          "C": "Los reinos animales",
+          "D": "Los seres orgánicos e inorgánicos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si no estuvieran las líneas horizontales a la izquierda conectando las palabras en fondo verde, significaría que:<br/>Observa el mapa <a href='assets/data/doc_asociados/sec_esp/ES1ED18_GX_AP4_IMG2.pdf' target='_blank'>Seres vivos</a>",
+        "respuestas": {
+          "A": "pertenecen a una categoría inferior.@",
+          "B": "no hay relación entre ellas.",
+          "C": "con ejemplos de los reinos.",
+          "D": "no pertenecen a ningún reino."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los elementos prosódicos:",
+        "respuestas": {
+          "A": "permiten hablar correctamente en distintas situaciones.",
+          "B": "son utilizados en los diálogos de los guiones teatrales.",
+          "C": "ayudan a representar un personaje con el cuerpo y la voz.",
+          "D": "se relacionan con los matices, ritmo y fuerza de la expresión oral.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  }
+]

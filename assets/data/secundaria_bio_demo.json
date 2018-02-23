@@ -1,0 +1,116 @@
+[
+  {
+    "caratula": "La célula: unidad de vida",
+    "nombreAE": "AE 1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
+    "reactivos": [
+      {
+        "reactivo": "Todos los seres vivos tienen en común las siguientes características, excepto:",
+        "respuestas": {
+          "A": "Fotosíntesis@",
+          "B": "Respiración",
+          "C": "Irritabilidad",
+          "D": "Desarrollo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Reproducirse, nutrirse y respirar son algunas de las características que...",
+        "respuestas": {
+          "A": "identifican a los seres vivos.@",
+          "B": "diferencian a procariontes de eucariontes.",
+          "C": "poseen sólo los organismos pluricelulares.",
+          "D": "se presentan exclusivamente en los animales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tanto las bacterias como los seres humanos...",
+        "respuestas": {
+          "A": "respiran, crecen y presentan irratibilidad.@",
+          "B": "se desarrollan, se reproducen y presentan células procariontes.",
+          "C": "están conformados por millones de células, se nutren y crecen.",
+          "D": "presentan núcleo celular bien definido, se adaptan al medio y se nutren."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las funciones de todos los seres vivos son semejantes, porque todos...",
+        "respuestas": {
+          "A": "se reproducen sexualmente.",
+          "B": "están formados por células.@",
+          "C": "usan oxígeno del aire para respirar.",
+          "D": "obtienen energía de otros seres vivos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que presenta un ejemplo de irritabilidad.",
+        "respuestas": {
+          "A": "Cuando nuestra temperatura se elva, sudamos.@",
+          "B": "La mariposa experimenta un proceso de metamorfosis.",
+          "C": "El oso polar está adaptado a las condiciones de su entorno.",
+          "D": "Las plantas producen su propio alimento a partir de luz, agua y dióxido de carbono."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Se dice que hay diversidad en los seres vivos, pues...",
+        "respuestas": {
+          "A": "algunos están constituidos por células y otros no.",
+          "B": "algunos se nutren, respiran y se reproducen, y otros no.",
+          "C": "cada uno tiene formas particulares de realizar las funciones vitales.@",
+          "D": "existe una gran variedda de formas y colores en los animales y plantas."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Funciones de la célula",
+    "nombreAE": "AE 2. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
+    "reactivos": [
+      {
+        "reactivo": "En clase explicaron que la mitocondria es un organelo de la célula animal encargada de:",
+        "respuestas": {
+          "A": "realizar la fotosíntesis.",
+          "B": "llevar a cabo la respiración.@",
+          "C": "realizar la producción de proteínas.",
+          "D": "mantener el medio intracelular diferenciado del entorno."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En una exposición, a partir de una maqueta, se presenta el citoplasma, donde se encuentran diversas sustancias y estructuras que intervienen en el funcionamiento de la célula. ¿Cuál es la función del citoplasma?",
+        "respuestas": {
+          "A": "Almacenar el material genético y controlar todas las actividades celulares.",
+          "B": "Producir energía, almacenar sustancias y crear partes de los componentes sanguíneos.",
+          "C": "Participar en el crecimiento de la célula, comunicar al medio intracelular, aislar a la célula del medio.",
+          "D": "Incorporar sustancias para la producción de energía, almacenar sustancias de reserva y brindar forma a las células.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El mecanismo que posibilita la división de una célula en dos, cuyo descubrimiento y primeros estudios se deben al médico alemán Walther Flemming y se lleva a cabo en:",
+        "respuestas": {
+          "A": "el núcleo@",
+          "B": "el citoplasma",
+          "C": "la membrana",
+          "D": "la pared celular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona el inciso que contenga las palabras para completar el enunciado.<br/>Los organismos ____________ están formados por varias células. Las __________ semejantes se unen en tejidos. Cada __________ realiza una función específica y a su vez se agrupan en órganos.",
+        "respuestas": {
+          "A": "unicelulares / células / tejido",
+          "B": "pluricelulares / células / tejido@",
+          "C": "unicelulares / membranas /sistema",
+          "D": "unicelulares y pluricelulares / mitocondrias / aparato"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  }
+]

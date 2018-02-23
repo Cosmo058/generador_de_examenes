@@ -1,7 +1,7 @@
 [
   {
     "caratula": "Pensamiento liberal",
-    "nombreAE": "Identifica los conceptos de burguesía, liberalismo, revolución, industrialización e imperialismo.",
+    "nombreAE": "<b>Identifica</b> los conceptos de burguesía, liberalismo, revolución, industrialización e imperialismo.",
     "reactivos": [
       {
         "reactivo": "Durante los últimos siglos de la Edad Media surgió en Europa un grupo social que comenzó a adquirir poder político y económico derivado de sus actividades comerciales, lo cual favoreció el crecimiento de reinos y ciudades. ¿De qué grupo se trata?",
@@ -68,7 +68,7 @@
   },
 {
     "caratula": "El pensamiento de la Ilustración",
-    "nombreAE": "Reconoce el pensamiento de la Ilustración y su efecto transformador.",
+    "nombreAE": "<b>Reconoce</b> el pensamiento de la Ilustración y su efecto transformador.",
     "reactivos": [
       {
         "reactivo": "El método científico tiene como principios básicos:",
@@ -105,7 +105,7 @@
   },
   {
     "caratula": "Relación entre liberalismo y economía capitalista",
-    "nombreAE": "Comprende la relación entre el liberalismo y la economía capitalista.",
+    "nombreAE": "<b>Comprende</b> la relación entre el liberalismo y la economía capitalista.",
     "reactivos": [
       {
         "reactivo": "¿Qué cambios económicos promovió el liberalismo?",
@@ -132,7 +132,7 @@
   },
   {
     "caratula": "Modelo de la Revolución Francesa",
-    "nombreAE": "Identifica el modelo de la revolución francesa.",
+    "nombreAE": "<b>Identifica</b> el modelo de la revolución francesa.",
     "reactivos": [
       {
         "reactivo": "Las colonias americanas lograron su independencia tras enfrentarse a los ejércitos de los imperios europeos. ¿Qué acontecimiento en Europa resultó fundamental para el inicio de las luchas independentistas?",
@@ -169,7 +169,7 @@
   },
   {
     "caratula": "Consecuencias del pensamiento liberal",
-    "nombreAE": "Reflexiona sobre la proliferación de las revoluciones liberales y las fuerzas que se oponían a dichas revoluciones.",
+    "nombreAE": "<b>Reflexiona</b> sobre la proliferación de las revoluciones liberales y las fuerzas que se oponían a dichas revoluciones.",
     "reactivos": [
       {
         "reactivo": "Napoleón Bonaparte emprendió la expansión de los principios de la Revolución Francesa a partir de la dominación de Europa. ¿Cuáles fueron sus aportes para la vida cívica actual?",
@@ -226,7 +226,7 @@
   },
   {
     "caratula": "La burguesía en las revoluciones liberales",
-    "nombreAE": "Identifica el papel de la burguesía en las revoluciones liberales.",
+    "nombreAE": "<b>Identifica</b> el papel de la burguesía en las revoluciones liberales.",
     "reactivos": [
       {
         "reactivo": "¿Cuál de las siguientes definiciones de burguesía es correcta?",
@@ -253,7 +253,7 @@
   },
 {
     "caratula": "Efecto transformador de la industrialización ",
-    "nombreAE": "Identifica el efecto transformador de la industrialización.",
+    "nombreAE": "<b>Identifica</b> el efecto transformador de la industrialización.",
     "reactivos": [
       {
         "reactivo": "Significó una profunda transformación de la economía, al incorporar máquinas que reemplazaron la fuerza humana y modificar las estructuras sociales.",
@@ -330,7 +330,7 @@
   },
   {
     "caratula": "Estados nacionales en Europa: consolidación, unificación y disolución",
-    "nombreAE": "Comprende el proceso de consolidación de los estados nacionales en Europa y su relación con los procesos de unificación (Italia y Alemania) y de disolución (Imperio Austrohúngaro y Otomano).",
+    "nombreAE": "<b>Comprende</b> el proceso de consolidación de los estados nacionales en Europa y su relación con los procesos de unificación (Italia y Alemania) y de disolución (Imperio Austrohúngaro y Otomano).",
     "reactivos": [
       {
         "reactivo": "¿Quién fue el artífice de la unificación alemana?",
@@ -377,7 +377,7 @@
   },
   {
     "caratula": "Condiciones para el desarrollo del imperialismo",
-    "nombreAE": "Reconoce las condiciones que motivaron el desarrollo del imperialismo.",
+    "nombreAE": "<b>Reconoce</b> las condiciones que motivaron el desarrollo del imperialismo.",
     "reactivos": [
       {
         "reactivo": "Elige el inciso que completa los espacios en forma correcta: <br> Tras la decadencia de los imperios coloniales de España y Portugal, emergieron otros, como el Reino Unido, Bélgica, Francia, Estados Unidos de América y Japón, los cuales volcaron sus intereses en _________________ y __________________, ya que eran zonas estratégicas para obtener _______________ y __________ para sus productos.",
@@ -454,7 +454,7 @@
   },
   {
     "caratula": "Competencia entre estados europeos antes de 1914",
-    "nombreAE": "Analiza la competencia existente entre los estados europeos antes de 1914.",
+    "nombreAE": "<b>Analiza</b> la competencia existente entre los estados europeos antes de 1914.",
     "reactivos": [
       {
         "reactivo": "¿Qué provocó la competencia entre los países europeos antes de 1914?",
@@ -481,7 +481,7 @@
   },
   {
     "caratula": "Colonialismo en Asia y África",
-    "nombreAE": "Identifica el impacto del colonialismo en Asia y África",
+    "nombreAE": "<b>Identifica</b> el impacto del colonialismo en Asia y África",
     "reactivos": [
       {
         "reactivo": "Observa el mapa del reparto colonial de África y subraya la respuesta correcta. <br> ¿Qué potencias se quedaron con mayor territorio en la repartición de África?",

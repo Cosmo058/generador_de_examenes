@@ -1,7 +1,7 @@
 [
   {
     "caratula":"Fracciones decimales y notación decimal",
-    "nombreAE": "Convierte fracciones decimales a notación decimal y viceversa. Aproxima algunas fracciones no decimales usando la notación decimal. Ordena fracciones y números decimales. ",
+    "nombreAE": "<b>Convierte</b> fracciones decimales a notación decimal y viceversa. Aproxima algunas fracciones no decimales usando la notación decimal. Ordena fracciones y números decimales. ",
     "reactivos": [
       {
         "reactivo": "El número decimal 175.846 es un número...",
@@ -96,7 +96,7 @@
   },
   {
     "caratula": "Suma y resta con enteros, fracciones y decimales",
-    "nombreAE": "Resuelve problemas de suma o resta con números enteros, fracciones y decimales positivos y negativos.",
+    "nombreAE": "<b>Resuelve</b> problemas de suma o resta con números enteros, fracciones y decimales positivos y negativos.",
     "reactivos": [
       {
         "reactivo": "Cecilia compró un terreno. Una tercera parte la ocupó para hacer un balneario, una sexta parte la puso en renta y una octava parte la ocupará para sembrar. ¿Qué parte del terreno queda disponible?",
@@ -203,7 +203,7 @@
   },
   {
     "caratula": "Multiplicación con fracciones y decimales y división con decimales",
-    "nombreAE": "Resuelve problemas de multiplicación con fracciones y decimales y de divisiones con decimales.",
+    "nombreAE": "<b>Resuelve</b> problemas de multiplicación con fracciones y decimales y de divisiones con decimales.",
     "reactivos": [
       {
         "reactivo": "¿Por cuál potencia de 10 conviene multiplicar el dividendo y el divisor de la división 1.47 ÷ 1.1 para escribirla de modo que ambos sean números enteros?",
@@ -351,7 +351,7 @@
   },
   {
     "caratula": "Construcción de triángulos y cuadriláteros",
-    "nombreAE": "Analiza la existencia y unicidad en la construcción de triángulos y cuadriláteros y determina y utiliza criterios de congruencia de triángulos.",
+    "nombreAE": "<b>Analiza</b> la existencia y unicidad en la construcción de triángulos y cuadriláteros y determina y utiliza criterios de congruencia de triángulos.",
     "reactivos": [
       {
         "reactivo": "Dos paralelas se cortan por transversales de modo que forman los ángulos que se muestran en la figura. ¿Cuánto mide el ángulo \\(x\\)?",

@@ -1,7 +1,7 @@
 [
   {
     "caratula": "Sociedad y naturaleza en el espacio geográfico.",
-    "nombreAE": "Explica relaciones entre la sociedad y la naturaleza en diferentes lugares del mundo a partir de los componentes y las características del espacio geográfico.",
+    "nombreAE": "<b>Explica</b> relaciones entre la sociedad y la naturaleza en diferentes lugares del mundo a partir de los componentes y las características del espacio geográfico.",
     "reactivos": [
       {
         "reactivo": "Lee el siguiente texto: <br> <p style='font-size: 8pt;'> Ubicada en el estado de Querétaro, la Peña de Bernal es un monolito de 360 metros de altura, considerado como el tercero más grande del mundo. Su formación se originó a partir del nacimiento de un volcán, hace varios millones de años. Éste hizo erupción hasta que su chimenea se bloqueó con la lava, la cual se solidificó, de modo que el cuerpo exterior se erosionó hasta dejar al descubierto un gran tapón de roca. En las faldas de la peña se encuentra el pueblo de Bernal, cuyo territorio fue habitado primero por grupos chichimecas y, a partir de 1642, por españoles, los cuales hicieron que los indígenas construyeran hermosos templos y otros edificios de cantera. Estos elementos naturales y arquitectónicos han convertido a Bernal en un atractivo turístico donde sus artesanos confeccionan prendas de lana y también se preparan sabrosos dulces de leche. </p> <br> ¿Qué componentes naturales y culturales han convertido al pueblo de Bernal en un atractivo turístico? ",
@@ -118,7 +118,7 @@
   },
   {
     "caratula": "Representaciones cartográficas.",
-    "nombreAE": "Interpreta representaciones cartográficas para obtener información de diversos lugares, regiones, paisajes y territorios.",
+    "nombreAE": "<b>Interpreta</b> representaciones cartográficas para obtener información de diversos lugares, regiones, paisajes y territorios.",
     "reactivos": [
       {
         "reactivo": "Lee el siguiente texto: <br> <p style='font-size: 8pt;'> <br> Ubicada en el estado de Querétaro, la Peña de Bernal es un monolito de 360 metros de altura, considerado como el tercero más grande del mundo. Su formación se originó a partir del nacimiento de un volcán, hace varios millones de años. Éste hizo erupción hasta que su chimenea se bloqueó con la lava, la cual se solidificó, de modo que el cuerpo exterior se erosionó hasta dejar al descubierto un gran tapón de roca. En las faldas de la peña se encuentra el pueblo de Bernal, cuyo territorio fue habitado primero por grupos chichimecas y, a partir de 1642, por españoles, los cuales hicieron que los indígenas construyeran hermosos templos y otros edificios de cantera. Estos elementos naturales y arquitectónicos han convertido a Bernal en un atractivo turístico donde sus artesanos confeccionan prendas de lana y también se preparan sabrosos dulces de leche.</p> <br> ¿Qué escala es la más adecuada para representar a la peña y el pueblo de Bernal en un folleto turístico?",
@@ -299,7 +299,7 @@
           "C": "cónica simple.",
           "D": "cilíndrica de Mercator."
         },
-        "img_asociada": "data/img_asociadas/GE1ED1_GX_AP2_IMG2.jpg", 
+        "img_asociada": "data/img_asociadas/GE1ED1_GX_AP2_IMG2.jpg",
         "size":"45%"
       }
     ],
@@ -307,7 +307,7 @@
   },
   {
     "caratula": "Información geográfica representada con recursos tecnológicos.",
-    "nombreAE": "Emplea recursos tecnológicos para obtener y representar información geográfica en las escalas: local, nacional y mundial.",
+    "nombreAE": "<b>Emplea</b> recursos tecnológicos para obtener y representar información geográfica en las escalas: local, nacional y mundial.",
     "reactivos": [
       {
         "reactivo": "¿Cuál de los siguientes ejemplos corresponde a una utilidad del GPS?",
@@ -384,7 +384,7 @@
   },
   {
     "caratula": "Procesos internos y externos de la Tierra.",
-    "nombreAE": "Explica la relación entre la distribución de los tipos de relieve, las regiones sísmicas y volcánicas, con los procesos internos y externos de la Tierra.",
+    "nombreAE": "<b>Explica</b> la relación entre la distribución de los tipos de relieve, las regiones sísmicas y volcánicas, con los procesos internos y externos de la Tierra.",
     "reactivos": [
       {
         "reactivo": "La erosión del suelo se puede originar por...",
@@ -493,7 +493,7 @@
   },
   {
     "caratula": "Aguas continentales y oceánicas.",
-    "nombreAE": "Analiza la distribución y dinámica de las aguas continentales y oceánicas de la Tierra.",
+    "nombreAE": "<b>Analiza</b> la distribución y dinámica de las aguas continentales y oceánicas de la Tierra.",
     "reactivos": [
       {
         "reactivo": "Observa las gráficas y elige la opción que muestre los porcentajes adecuados de distribución del agua dulce en nuestro planeta.",
@@ -572,7 +572,7 @@
   },
   {
     "caratula": "Tipos de clima en la Tierra",
-    "nombreAE": "Explica la distribución de los tipos de climas en la Tierra a partir de la relación entre sus elementos y factores.",
+    "nombreAE": "<b>Explica</b> la distribución de los tipos de climas en la Tierra a partir de la relación entre sus elementos y factores.",
     "reactivos": [
       {
         "reactivo": "Para la clasificación climática, Köppen consideró la relación de la temperatura, la humedad y la vegetación. Con base en ello distribuyó los climas del mundo en cinco grandes grupos. ¿Cuáles son las relaciones que se establecen entre las dos columnas? <br> <table><tr><td>a) Cálidos húmedos</td><td>1.  Bosques de coníferas</td></tr><tr><td>b)  Secos</td><td>2.  Bosques mixtos</td></tr><tr><td>c)  Templados</td><td>3.  Hielos perpetuos</td></tr><tr><td>d)  Fríos</td><td>4.  Selvas</td></tr><tr><td>e)  Polares de alta montaña</td><td>5.  Matorrales</td></tr></table>",
@@ -650,7 +650,7 @@
   },
   {
     "caratula": "Biodiversidad de la Tierra",
-    "nombreAE": "Argumenta que la biodiversidad de la Tierra es resultado de las relaciones e interacciones entre los elementos naturales del espacio geográfico.",
+    "nombreAE": "<b>Argumenta</b> que la biodiversidad de la Tierra es resultado de las relaciones e interacciones entre los elementos naturales del espacio geográfico.",
     "reactivos": [
       {
         "reactivo": "Son países megadiversos:",

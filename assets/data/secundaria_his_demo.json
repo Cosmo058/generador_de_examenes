@@ -1,0 +1,123 @@
+[
+  {
+    "caratula": "Pensamiento liberal",
+    "nombreAE": "<b>Identifica</b> los conceptos de burguesía, liberalismo, revolución, industrialización e imperialismo.",
+    "reactivos": [
+      {
+        "reactivo": "Durante los últimos siglos de la Edad Media surgió en Europa un grupo social que comenzó a adquirir poder político y económico derivado de sus actividades comerciales, lo cual favoreció el crecimiento de reinos y ciudades. ¿De qué grupo se trata?",
+        "respuestas": {
+          "A": "Burgués@",
+          "B": "Feudal",
+          "C": "Islámico",
+          "D": "Mercenario"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Después de los logros científicos del siglo XVII, los intelectuales europeos se convencieron de que la humanidad progresaría a partir de los principios de la ciencia y que ésta se aplicaría en los asuntos administrativos. ¿Cómo llevaron a cabo estas ideas ilustradas los monarcas europeos?",
+        "respuestas": {
+          "A": "Ordenaron las ciudades y promovieron la educación científica, tras eliminar la religiosa.",
+          "B": "Diseñaron estrategias diplomáticas y terminaron con los conflictos bélicos y las rivalidades.",
+          "C": "Fundaron institutos científicos y consultaron las necesidades de la gente para mejorar.",
+          "D": "Aumentaron los impuestos y contrataron a funcionarios preparados en el ámbito científico.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A partir de las ideas ilustradas se difundió que el gobierno no debía basarse en un mandato divino, que los seres humanos son libres e iguales y que por lo tanto debían participar en la elección de sus gobernantes. ¿Cómo se conoció a este pensamiento?",
+        "respuestas": {
+          "A": "Ilustración francesa",
+          "B": "Liberalismo político@",
+          "C": "Despotismo ilustrado",
+          "D": "Liberalismo económico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Este movimiento intelectual, originado en Francia en el siglo XVIII, se apoyaba en el predominio de la razón humana y en la creencia en el progreso.",
+        "respuestas": {
+          "A": "Modernismo",
+          "B": "Ilustración@",
+          "C": "Ciencia",
+          "D": "Enciclopedia"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fue uno de los directores de la enciclopedia, obra donde los ilustrados pretendían hacer una síntesis sistemática y ordenada de todo el saber humano:",
+        "respuestas": {
+          "A": "René Descartes.",
+          "B": "Denis Diderot.@",
+          "C": "Luis XIV.",
+          "D": "Conde de Buffon."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+{
+    "caratula": "El pensamiento de la Ilustración",
+    "nombreAE": "<b>Reconoce</b> el pensamiento de la Ilustración y su efecto transformador.",
+    "reactivos": [
+      {
+        "reactivo": "El método científico tiene como principios básicos:",
+        "respuestas": {
+          "A": "la organización y la exploración.",
+          "B": "pensar y actuar conforme a la fe cristiana.",
+          "C": "la observación y la experimentación.@",
+          "D": "el estudio y la transformación de la naturaleza."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A partir de la Ilustración y la aplicación del método científico, la vida social se “secularizó”. Este término consiste en:",
+        "respuestas": {
+          "A": "la difusión de ideas y comportamientos religiosos.",
+          "B": "separar la religión de los asuntos políticos y civiles.@",
+          "C": "la libre expresión de ideas políticas por medios impresos.",
+          "D": "divulgar los conocimientos científicos entre la población."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es el conjunto de leyes que aporta garantías, derechos y obligaciones a los ciudadanos de un país.",
+        "respuestas": {
+          "A": "Reglamento",
+          "B": "Constitución@",
+          "C": "Acuerdos políticos",
+          "D": "Tratado"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Relación entre liberalismo y economía capitalista",
+    "nombreAE": "<b>Comprende</b> la relación entre el liberalismo y la economía capitalista.",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué cambios económicos promovió el liberalismo?",
+        "respuestas": {
+          "A": "La libertad de expresión y la división del trabajo.",
+          "B": "Liberar impuestos y restricciones a la circulación de las mercancías.@",
+          "C": "La libertad de culto y prohibió la competencia de los mercados.",
+          "D": "La libertad de elegir a sus gobernantes."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El capitalismo se define como:",
+        "respuestas": {
+          "A": "el sometimiento de un grupo de personas respecto a otras para que trabajen en forma obligada, sin derechos ni libertad.",
+          "B": "la combinación cultural y étnica de individuos de diferentes orígenes que permite un desarrollo económico.",
+          "C": "un sistema económico en el cual las personas invierten sus riquezas para hacer negocios y obtener beneficios.@",
+          "D": "una forma de gobierno mediante la cual los monarcas promulgan las leyes, obligan a obedecerlas y vigilan su cumplimiento."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  }
+]
