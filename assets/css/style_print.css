@@ -1,27 +1,36 @@
+#video_tutorial{
+  display: none;
+}
+video{
+  display: none;
+}
+
 .container{
   display: none;
 }
 
 #examen_html{
   padding: 0px !important;
-  margin: 0px;
+  margin: 0 auto;
   display: block;
   color: #000 !important;
-  font-size: 18px;
+  font-size: 12px;
   width: 90%;
 }
 
 #preview_header{
-  margin-top: 60px:
+  margin-top: 60px;
 }
 
 li img{
   vertical-align: top;
   margin: 10px 0px;
+
 }
 
 .bolded{
-  font-weight: bold;
+  font-weight: 800;
+  font-style: italic;
 }
 
 #examen_html *{
@@ -31,16 +40,17 @@ li img{
 .img_asociada{
   width: 40%;
   margin-left:2em;
+  display: block;
 }
 
 ol{
   display: block;
   list-style-type: upper-alpha;
-  margin-top: -0.9em;
+  margin-top: 0;
 }
 
 p{
-  font-size: 12pt !important;
+  font-size: 12px !important;
 }
 
 .closebtn{
@@ -51,5 +61,6 @@ p{
 }
 
 table{
-  font-size: 1.4em;
+  font-size: 1.0em;
+  border: solid 1px;
 }

@@ -26,6 +26,18 @@
 
 
   <script>
+
+    $(document).keypress(function(e) { //EventListener DEBUG
+      if (e.which === 13) {
+        $("#reactivos input").prop('checked', true);
+        $(".correct").toggleClass("bolded");
+        seleccionados_a_preview();
+        seleccionados_a_print();
+        $("#examen_html").css("padding", "8% 25%");
+        $("#examen_html").css("height", "100%");
+      }
+    });
+
     $(document).ready(function() {
 
       var flag = true;
@@ -44,7 +56,7 @@
         }
       },1000);
 
-      init("Qu&iacute;mica", "quimica_praxis.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
+      init("Test", "secundaria_mat_u1.json"); //Poblar el DOM con los AE, reactivos y respuestas (mediante AJAX)
 
       $(document).ajaxComplete(function() {
         centrar_tarjetas();
@@ -193,9 +205,22 @@
 
       bind_filter_events();
 
-      //	window.onbeforeunload = function() {
-      //	  return "Data will be lost if you leave the page, are you sure?";
-      //	};
+      $("#boton_tutorial").click(function(){
+        $("source").attr("src","assets/video/tutorial.mp4");
+        $("video")[0].load();
+        $("#video_tutorial").css("height","100%");
+      });
+
+      $(".closebtn").click(function(){
+        $("#video_tutorial").css("height","0px");
+        $("video")[0].pause();
+      });
+
+      	// window.onbeforeunload = function() {
+        //   window.stop();
+        //   alert("stopped");
+      	//   return "Data will be lost if you leave the page, are you sure?";
+      	// };
 
     });
   </script>
@@ -231,7 +256,9 @@
     <div class="row collapsed" id="header2">
       <div class="col-md-4">
         <div class="row" style="padding-top: 16px;">
-          <div class="col-md-12" style="padding-left: 23px;"><span style="font-size:24px; font-weight:bold;">Generador de ex&aacute;menes</span></div>
+          <div class="col-md-12" style="padding-left: 23px;">
+            <span style="font-size:24px; font-weight:bold;">Generador de ex&aacute;menes</span>
+          </div>
         </div>
         <div class="row">
           <div class="col-md-12" style="padding-left:23px;">
@@ -248,7 +275,7 @@
       </div>
       <div class="col-md-3"></div>
       <div class="col-md-2 logo_castillo_container">
-        <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo">
+        <img src="assets/img/logo/logo_castillo.png" alt="logo_castillo"/>
       </div>
     </div>
     <!--/Header2-->
@@ -295,6 +322,7 @@
 
     <!--Title-->
     <div class="row" id="title">
+      <span id="boton_tutorial">Tutorial</span>
       <div class="col-md-6" id="texto">
         <h3>Generador de ex&aacute;menes</h3>
       </div>
@@ -391,6 +419,12 @@
     <!--/Footer-->
   </div>
   <div class="overlay" id="examen_html"></div>
+  <div class="black_overlay" id="video_tutorial">
+    <a class='closebtn'>&times;</a>
+    <video controls style="width:80%;margin: 0 auto;display:block;padding-top:10%">
+      <source src="" type="video/mp4"/>
+    </video>
+  </div>
 </body>
 
 </html>

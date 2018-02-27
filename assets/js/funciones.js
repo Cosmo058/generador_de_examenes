@@ -76,7 +76,7 @@ function seleccionados_a_print(){
         $card_tmp.find(".respuesta_print").html( contador.toString()+". "+ $card_tmp.find(".respuesta_print").html() );
         contador++;
         $("#examen_html").append($card_tmp);
-        $("#examen_html").append("<br/><br/><br/>");
+        $("#examen_html").append("<br/>");
       }
     });
   }
@@ -113,7 +113,7 @@ function init(course_name,file_name){
           for(var reactivo in v){
             tmp_html = "<div idAE="+key+" idReactivo="+reactivo+">";
             //Agregando preguntas al DOM...
-            tmp_html += "<span class='respuesta_print collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"<br/><br/></span>";
+            tmp_html += "<span class='respuesta_print collapsed' idAE="+key+" idReactivo="+reactivo+">"+reactivos[reactivo]+"</span>";
 
             if(v[reactivo]["img_asociada"]!=="" && v[reactivo]["img_asociada"]!==undefined){
               if(v[reactivo]["size"]!=="" && v[reactivo]["size"]!==undefined){

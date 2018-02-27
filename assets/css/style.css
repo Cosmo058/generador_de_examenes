@@ -1,7 +1,22 @@
 @font-face { font-family: 'Lato'; font-weight: normal; src: url('../fonts/lato/Lato-Regular.ttf') format('truetype'); }
 @font-face { font-family: 'Lato'; font-weight: bold; src: url('../fonts/lato/Lato-Bold.ttf') format('truetype'); }
-@font-face { font-family: 'Lato'; font-weight: lighter; src: url('../fonts/lato/Lato-Light.ttf') format('truetype'); }
+@font-face { font-family: 'Lato'; font-weight: light; src: url('../fonts/lato/Lato-Light.ttf') format('truetype'); }
 /*@font-face { font-family: 'Lato'; font-weight: 550; src: url('../fonts/lato/Lato-Semibold.ttf') format('truetype'); }*/
+
+#boton_tutorial{
+  position: relative;
+  top: 25px;
+  left: 17%;
+  font-weight: bold;
+  color: #C83335;
+  opacity: 0.6;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+#boton_tutorial:hover{
+  font-size: 1.1em;
+  opacity: 1;
+}
 
 body{
   font-family: 'Lato',sans-serif;
@@ -359,14 +374,14 @@ svg{
 }
 #back_to_AE polyline{
   stroke: #C83335;
-  stroke-width: 8;
+  stroke-width: 8px;
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
 }
 #contador_a_preview polyline{
   stroke: #FFF;
-  stroke-width: 8;
+  stroke-width: 8px;
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
@@ -403,6 +418,37 @@ span.ocultar_texto{
 }
 #examen_html table{
   font-size: 1.5em;
+}
+
+.black_overlay{
+  height: 0%;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  background-color: rgba(0,0,0, 0.89);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+.black_overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+.black_overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+    color: #C83335;
+    text-decoration: none;
+    cursor: pointer;
+    transition: font-size 0.2s;
+}.black_overlay .closebtn:hover{
+    font-size: 66px;
 }
 
 .overlay {
