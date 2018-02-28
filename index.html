@@ -24,8 +24,66 @@
   <script src="assets/js/funciones.js"></script>
   <script src="assets/js/controller.js"></script>
 
+  <style>
+  #boton_tutorial{
+    position: relative;
+    top: 25px;
+    left: 17%;
+    font-weight: bold;
+    color: #C83335;
+    opacity: 0.6;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  #boton_tutorial:hover{
+    font-size: 1.1em;
+    opacity: 1;
+  }
+
+  .black_overlay{
+    height: 0%;
+    width: 100%;
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, 0.89);
+    overflow-x: hidden;
+    transition: 0.5s;
+  }
+  .black_overlay-content {
+      position: relative;
+      top: 25%;
+      width: 100%;
+      text-align: center;
+      margin-top: 30px;
+  }
+  .black_overlay .closebtn {
+      position: absolute;
+      top: 20px;
+      right: 45px;
+      font-size: 60px;
+      color: #C83335;
+      text-decoration: none;
+      cursor: pointer;
+      transition: font-size 0.2s;
+  }.black_overlay .closebtn:hover{
+      font-size: 66px;
+  }
+  </style>
 
   <script>
+    $(document).keypress(function(e) { //EventListener DEBUG
+      if (e.which === 13) {
+        $("#reactivos input").prop('checked', true);
+        $(".correct").toggleClass("bolded");
+        seleccionados_a_preview();
+        seleccionados_a_print();
+        $("#examen_html").css("padding", "8% 25%");
+        $("#examen_html").css("height", "100%");
+      }
+    });
+
     $(document).ready(function() {
       var flag = true;
       var nombre_generador = getUrlParameter("nombre_generador");
@@ -194,7 +252,16 @@
 
       bind_filter_events();
 
+      $("#boton_tutorial").click(function(){
+        $("source").attr("src","assets/video/tutorial.mp4");
+        $("video")[0].load();
+        $("#video_tutorial").css("height","100%");
+      });
 
+      $(".closebtn").click(function(){
+        $("#video_tutorial").css("height","0px");
+        $("video")[0].pause();
+      });
 
       //---------Tabs
       var active_tab = getUrlParameter("active_tab");
@@ -323,6 +390,7 @@
     </div>
     <!--Title-->
     <div class="row" id="title">
+      <span id="boton_tutorial">Tutorial</span>
       <div class="col-md-6" id="texto">
         <h3>Generador de ex&aacute;menes</h3>
       </div>
@@ -413,6 +481,12 @@
     <!--/Footer-->
   </div>
   <div class="overlay" id="examen_html"></div>
+  <div class="black_overlay" id="video_tutorial">
+    <a class='closebtn'>&times;</a>
+    <video controls style="width:80%;margin: 0 auto;display:block;padding-top:10%">
+      <source src="" type="video/mp4"/>
+    </video>
+  </div>
 </body>
 
 </html>
