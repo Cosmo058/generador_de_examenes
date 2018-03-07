@@ -14,7 +14,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "La adolescencia es una etapa de transformación y desarrollarlo que inicia con al pubertad y termina, aproximadamente, a los...",
+        "reactivo": "La adolescencia es una etapa de transformación y desarrollarlo que inicia con la pubertad y termina, aproximadamente, a los...",
         "respuestas": {
           "A": "15 años.",
           "B": "18 años.",
@@ -148,7 +148,7 @@
     "nombreAE": "<b>Reflexiona</b> sobre los grupos de pertenencia de los adolescentes y su papel en la conformación de identidades juveniles.",
     "reactivos": [
       {
-        "reactivo": "Cuando decides formar parte de un grupo con el que te identificas se dice que compartes…",
+        "reactivo": "Cuando decides formar parte de un grupo con el que te identificas se dice que compartes con &eacute;l…",
         "respuestas": {
           "A": "autonomía.",
           "B": "dignidad.",
@@ -158,12 +158,12 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "En la actualidad los jóvenes comparten aficiones, formas de pensar, valores, tradiciones, costumbres, entre otros factores que se expresan como parte de su...",
+        "reactivo": "Completa el siguiente texto: En la actualidad los jóvenes comparten aficiones, formas de pensar, valores, tradiciones, costumbres, entre otros factores que se expresan como parte de su ____________.",
         "respuestas": {
-          "A": "identidad.@",
-          "B": "apego.",
-          "C": "vínculo.",
-          "D": "convivencia."
+          "A": "identidad@",
+          "B": "apego",
+          "C": "vínculo",
+          "D": "convivencia"
         },
         "img_asociada": ""
       },
@@ -205,7 +205,7 @@
     "nombreAE": "<b>Reconoce</b> la cultura de paz como un conjunto de valores, actitudes, comportamientos y estilos de vida basados en el respeto a la vida y el rechazo a todo tipo de violencia.",
     "reactivos": [
       {
-        "reactivo": "Identifica dos valores fundamentales para la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Respeto.</li><li>Honradez.</li><li>Justicia.</li><li>Paciencia.</li></ol>",
+        "reactivo": "Identifica dos valores fundamentales para la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Respeto</li><li>Honradez</li><li>Justicia</li><li>Paciencia</li></ol>",
         "respuestas": {
           "A": "1, 3@",
           "B": "1, 4",
@@ -215,7 +215,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "Son elementos importantes para que se pueda construir la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Equidad.</li><li>Diálogo.</li><li>Consenso.</li><li>Disenso.</li></ol>",
+        "reactivo": "Son elementos importantes para que se pueda construir la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Equidad</li><li>Diálogo</li><li>Consenso</li><li>Disenso</li></ol>",
         "respuestas": {
           "A": "1, 3",
           "B": "1, 4",

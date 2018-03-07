@@ -1,7 +1,7 @@
 [
   {
     "caratula": "Reglamento escolar",
-    "nombreAE": "<br> Aprendizaje esperado <br/><br/> <strong>Participa</strong> en la elaboración del reglamento escolar. <br/> ",
+    "nombreAE": "<strong>Participa</strong> en la elaboración del reglamento escolar. <br/> ",
     "reactivos": [
       {
         "reactivo": "¿Qué finalidad tienen los reglamentos? Elige la opción que incluye las respuestas. <ul style='list-style-type: decimal;'><li>Evitar los conflictos entre las personas.</li><li>Restringir la libertad de los individuos.</li><li>Promover la amistad entre los hombres.</li><li>Regular la convivencia de los individuos.</li></ul>",
@@ -14,33 +14,33 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "¿A qué espacios pertenecen las siguientes reglas? Elige la opción que relaciona correctamente las columnas.",
+        "reactivo": "¿A qué espacios pertenecen las siguientes reglas? Elige la opción que relaciona correctamente las columnas.<br/><br/><table style='font-size:0.7em;'> <tr> <td>1. Mostrar la credencial de estudiante al ingresar al plantel.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>a)Reglamento de la biblioteca</td> </tr> <tr> <td>2. No conducir a más de 20 km/h en zonas escolares.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>b)Reglamento escolar</td> </tr> <tr> <td>3. No consumir alimentos dentro de los salones.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>c)Reglamento de tránsito</td> </tr> <tr> <td>4. Consultar únicamente tres libros a la vez.</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>d)Reglamento del aula</td> </tr></table>",
         "respuestas": {
           "A": "1 b, 2c, 3d, 4a@",
           "B": "1a, 2b, 3c, 4d",
           "C": "1c, 2d, 3d, 4a",
-          "D": "1d, 2c, 3b, 4ª"
+          "D": "1d, 2c, 3b, 4a"
         },
-        "img_asociada": "img/reactivo2.jpg",
-        "size": "60%"
+        "img_asociada": "",
+        "size": ""
       },
       {
-        "reactivo": "¿Por qué es necesario que los condóminos respeten el reglamento?",
+        "reactivo": "¿Por qué es necesario que los condóminos respeten el reglamento?<br/> Lee el siguiente reglamento. <a href='assets/data/img_asociadas/ES1ED18_GX_AP1L1.pdf' target='_blank'>Lectura Reglamento</a>",
         "respuestas": {
           "A": "Porque, si no lo hacen, los demás vecinos pueden molestarse.",
-          "B": "Porque los vecinos deben ser muy ordenados",
+          "B": "Porque los vecinos deben ser muy ordenados.",
           "C": "Porque permite la convivencia armónica entre todos los vecinos.@",
           "D": "Para complacer a la administración."
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "¿En qué tiempo y modo están conjugados los verbos en cursivas (podrán, deberán, será...)?",
+        "reactivo": "¿En qué tiempo y modo están conjugados los verbos en cursivas (podrán, deberán, será...)?<br/> Lee el siguiente reglamento. <a href='assets/data/img_asociadas/ES1ED18_GX_AP1L1.pdf' target='_blank'>Lectura Reglamento</a>",
         "respuestas": {
-          "A": "Presente de indicativo.",
-          "B": "Presente de subjuntivo.",
-          "C": "Infinitivo.",
-          "D": "Futuro de indicativo.@"
+          "A": "Presente de indicativo",
+          "B": "Presente de subjuntivo",
+          "C": "Infinitivo",
+          "D": "Futuro de indicativo@"
         },
         "img_asociada": ""
       },
@@ -89,7 +89,7 @@
   },
   {
     "caratula": "Fichas de estudio",
-    "nombreAE": "<br>Aprendizaje esperado <br><br><strong>Elabora</strong> fichas temáticas con fines de estudio.",
+    "nombreAE": "<strong>Elabora</strong> fichas temáticas con fines de estudio.",
     "reactivos": [
       {
         "reactivo": "¿Qué es un resumen y para qué sirve?",
@@ -102,7 +102,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "¿Qué tipo de ficha es?",
+        "reactivo": "¿Qué tipo de ficha es?<br/>Lee la siguiente ficha. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L1.pdf' target='_blank'>Las pirámides mayas</a>",
         "respuestas": {
           "A": "De resumen porque contiene la información más importante.",
           "B": "De paráfrasis porque dice lo mismo que la cita original pero con otras palabras.",

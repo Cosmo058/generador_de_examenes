@@ -19,7 +19,7 @@
           "A": "1 b, 2c, 3d, 4a@",
           "B": "1a, 2b, 3c, 4d",
           "C": "1c, 2d, 3d, 4a",
-          "D": "1d, 2c, 3b, 4ª"
+          "D": "1d, 2c, 3b, 4a"
         },
         "img_asociada": ""
       },
@@ -36,10 +36,10 @@
       {
         "reactivo": "¿En qué tiempo y modo están conjugados los verbos en cursivas (podrán, deberán, será...)? <br/> Lee el siguiente reglamento. <a href='assets/data/img_asociadas/ES1ED18_GX_AP1L1.pdf' target='_blank'>Lectura Reglamento</a>",
         "respuestas": {
-          "A": "Presente de indicativo.",
-          "B": "Presente de subjuntivo.",
-          "C": "Infinitivo.",
-          "D": "Futuro de indicativo.@"
+          "A": "Presente de indicativo",
+          "B": "Presente de subjuntivo",
+          "C": "Infinitivo",
+          "D": "Futuro de indicativo@"
         },
         "img_asociada": ""
       },
@@ -132,7 +132,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "Una paráfrasis para explicar que el Taj Mahal es 'producto de la fusión de los estilos persa, indio y turco', es…<br/>Lee lo siguiente. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L2.pdf' target='_blank'>La cultura… en 365 días</a>",
+        "reactivo": "Una paráfrasis para explicar que el Taj Mahal es \"producto de la fusión de los estilos persa, indio y turco\", es…<br/>Lee lo siguiente. <a href='assets/data/img_asociadas/ES1ED1_GX_AP13L2.pdf' target='_blank'>La cultura… en 365 días</a>",
         "respuestas": {
           "A": "en su construcción participaron los tres pueblos.",
           "B": "es un templo que sintetiza una triple combinación arquitectónica.@",
@@ -152,7 +152,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "'Los problemas humanos de articulación y comprensión del lenguaje se conocen desde el siglo XIX, pero su investigación genética continúa hasta nuestros días' Lo anterior significa que...",
+        "reactivo": "\"Los problemas humanos de articulación y comprensión del lenguaje se conocen desde el siglo XIX, pero su investigación genética continúa hasta nuestros días\" Lo anterior significa que...",
         "respuestas": {
           "A": "los neandertales ya tenían este tipo de problemas.",
           "B": "en el siglo XX aún no se sabía de estas dificultades.",
@@ -293,7 +293,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "¿En cuáles de estos pregones se emplean las enumeraciones o listas de elementos?",
+        "reactivo": "¿En cuáles de estos pregones se emplean las enumeraciones o listas de elementos?<br/><table style='font-size:0.7em;'> <tr> <td> <b>Preg&oacute;n 1</b><br/>Este maravilloso producto fortalece los ojos,limpia las arterías,combate las cataratas,la carnosidad, el enrojecimiento excesivo, la ceguera. </td> <td> <b>Preg&oacute;n 2</b><br/>Damitas y caballeros, muy buenos días.En esta ocasión le traigo a la venta un lapicero de moda, lapicero de novedad, con siete puntillas intercambiables, siete colores diferentes. Sólo cinco pesos vale, sólo cinco pesos cuesta. </td> </tr> <tr> <td> <br/> <b>Preg&oacute;n 3</b><br/>Ya llegaron sus ricos y deliciosos tamales oaxaqueños. Hay tamales oaxaqueños, tamales calientitos. Acérquese y pida sus ricos tamales oaxaqueños. </td> <td> <br/> <b>Preg&oacute;n 4</b><br/>Lleve el audífono, audífono de chícharo. Audífono de alta fidelidad, excelente sonido. Para la computadora, el mp3, la tablet, el celular. Diez pesos le vale, diez pesos le cuesta. No pague más. </td> </tr></table>",
         "respuestas": {
           "A": "1 y 3",
           "B": "2 y 3",
@@ -352,10 +352,10 @@
       {
         "reactivo": "Lee el siguiente texto y responde. <a href='assets/data/doc_asociados/sec_esp/ES1ED18_GX_AP1L2.pdf' target='_blank'>Lectura ¿Qué es biodiversidad?</a><br/>¿Cuál de estas gráficas complementa la información del fragmento anterior?",
         "respuestas": {
-          "A": "<table style='font-size:0.7em;border:solid 1px'> <tr> <td>Pa&iacute;s</td> <td>Plantas</td> <td>Mam&iacute;feros</td> <td>Aves</td> <td>Reptiles</td> <td>Anfibios</td> </tr> <tr> <td>Brasil</td> <td>56,215</td> <td>648</td> <td>1,712</td> <td>630</td> <td>779</td> </tr> <tr> <td>Colombia</td> <td>48,000</td> <td>456</td> <td>1,815</td> <td>520</td> <td>634</td> </tr> <tr> <td>China</td> <td>32,200</td> <td>502</td> <td>1,221</td> <td>387</td> <td>334</td> </tr> <tr> <td>Indonesia</td> <td>29,375</td> <td>670</td> <td>1,604</td> <td>511</td> <td>300</td> </tr> <tr> <td>M&eacute;xico</td> <td>23,424</td> <td>564</td> <td>1,150</td> <td>864</td> <td>376</td> </tr> <tr> <td>Venezuela</td> <td>21,073</td> <td>353</td> <td>1,392</td> <td>293</td> <td>315</td> </tr> <tr> <td>Ecuador</td> <td>21,000</td> <td>271</td> <td>1,559</td> <td>374</td> <td>462</td> </tr></table>@",
+          "A":"<br/>N&uacute;mero de especies por pa&iacute;s<table style='font-size:0.7em;border:solid 1px'> <tr> <td>Pa&iacute;s</td> <td>Plantas</td> <td>Mam&iacute;feros</td> <td>Aves</td> <td>Reptiles</td> <td>Anfibios</td> </tr> <tr> <td>Brasil</td> <td>56,215</td> <td>648</td> <td>1,712</td> <td>630</td> <td>779</td> </tr> <tr> <td>Colombia</td> <td>48,000</td> <td>456</td> <td>1,815</td> <td>520</td> <td>634</td> </tr> <tr> <td>China</td> <td>32,200</td> <td>502</td> <td>1,221</td> <td>387</td> <td>334</td> </tr> <tr> <td>Indonesia</td> <td>29,375</td> <td>670</td> <td>1,604</td> <td>511</td> <td>300</td> </tr> <tr> <td>M&eacute;xico</td> <td>23,424</td> <td>564</td> <td>1,150</td> <td>864</td> <td>376</td> </tr> <tr> <td>Venezuela</td> <td>21,073</td> <td>353</td> <td>1,392</td> <td>293</td> <td>315</td> </tr> <tr> <td>Ecuador</td> <td>21,000</td> <td>271</td> <td>1,559</td> <td>374</td> <td>462</td> </tr></table>@",
           "B": "<img style='width:50%' src='assets/data/img_asociadas/sec_esp/ES1ED1_GX_AP2_IMG1b.jpg'/><br/>Ubicaci&oacute;n de Sud&aacute;frica<br/><br/>",
           "C": "<img style='width:50%' src='assets/data/img_asociadas/sec_esp/ES1ED1_GX_AP2_IMG1c.jpg'/><br/>El ajolote, una famosa especie mexicana.<br/><br/>",
-          "D": "<table style='font-size:0.7em;'> <tr> <td>Marinas</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Terrestres</td> </tr> <tr> <td>Vaquita marina</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Mariposa monarca</td> </tr> <tr> <td>Tortuga de carey</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Jaguar</td> </tr> <tr> <td>Tiburón martillo</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Ballena azul</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Tiburón ballena</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Coral</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr></table>"
+          "D": "</br>Especies mexicanas en peligro de extinci&oacute;n<br/><table style='font-size:0.7em;'> <tr> <td>Marinas</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Terrestres</td> </tr> <tr> <td>Vaquita marina</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Mariposa monarca</td> </tr> <tr> <td>Tortuga de carey</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>Jaguar</td> </tr> <tr> <td>Tiburón martillo</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Ballena azul</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Tiburón ballena</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr> <tr> <td>Coral</td> <td>&nbsp;&nbsp;&nbsp;</td> <td></td> </tr></table>"
         },
         "img_asociada": ""
       },
@@ -370,7 +370,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "¿En cuál de los siguientes párrafos del texto, se emplea la elipsis para darle cohesión al párrafo.<br/><br/>El 21.5% de los mexicanos son parte de un pueblo indígena. Esto quiere decir que comparten formas de vida, costumbres, tradiciones y creencias que son distintas de aquellas de la población mestiza. Esta diversidad aporta una gran riqueza a la cultura de nuestra nación.Algunos de ellos viven en comunidades conformadas en su mayoría por miembros del mismo pueblo indígena, pero otros forman parte de poblaciones en las que conviven todos los días con los mestizos e, incluso, con integrantes de otros pueblos indígenas. Una proporción importante de estos pueblos habla lenguas indígenas, que es un componente importante de su identidad. Hay algunas con cientos de miles de hablantes y cuya existencia es bien conocida por gran parte de los mexicanos, como el náhuatl, el maya y el tzeltal.Sin embargo, también existen algunas lenguas indígenas que cuentan con un número muy pequeño de usuarios, como el awateko, que es hablado por sólo 17 personas; el ayapaneco, por 24; el kaqchikel, por 6; el teko, por 81; o el oluteco por 90. Todas ellas en grave peligro de desaparecer.",
+        "reactivo": "¿En cuál de los siguientes párrafos del texto, se emplea la elipsis para darle cohesión al párrafo.<br/><br/>El 21.5% de los mexicanos son parte de un pueblo indígena. Esto quiere decir que comparten formas de vida, costumbres, tradiciones y creencias que son distintas de aquellas de la población mestiza. Esta diversidad aporta una gran riqueza a la cultura de nuestra nación.<br/><br/>Algunos de ellos viven en comunidades conformadas en su mayoría por miembros del mismo pueblo indígena, pero otros forman parte de poblaciones en las que conviven todos los días con los mestizos e, incluso, con integrantes de otros pueblos indígenas.<br/><br/>Una proporción importante de estos pueblos habla lenguas indígenas, que es un componente importante de su identidad. Hay algunas con cientos de miles de hablantes y cuya existencia es bien conocida por gran parte de los mexicanos, como el náhuatl, el maya y el tzeltal.<br/><br/>Sin embargo, también existen algunas lenguas indígenas que cuentan con un número muy pequeño de usuarios, como el awateko, que es hablado por sólo 17 personas; el ayapaneco, por 24; el kaqchikel, por 6; el teko, por 81; o el oluteco por 90. Todas ellas en grave peligro de desaparecer.",
         "respuestas": {
           "A": "Primero",
           "B": "Segundo",
@@ -579,10 +579,10 @@
       {
         "reactivo": "De las siguientes opciones, ¿dónde buscarías una reseña sobre un libro de poemas?",
         "respuestas": {
-          "A": "En una enciclopedia.",
-          "B": "En una revista literaria.@",
-          "C": "En un libro de ensayos.",
-          "D": "En la televisión."
+          "A": "En una enciclopedia",
+          "B": "En una revista literaria@",
+          "C": "En un libro de ensayos",
+          "D": "En la televisión"
         },
         "img_asociada": ""
       }

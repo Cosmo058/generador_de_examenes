@@ -4,7 +4,7 @@
     "nombreAE": "<b>Reconoce</b> la cultura de paz como un conjunto de valores, actitudes, comportamientos y estilos de vida basados en el respeto a la vida y el rechazo a todo tipo de violencia.",
     "reactivos": [
       {
-        "reactivo": "Identifica dos valores fundamentales para la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Respeto.</li><li>Honradez.</li><li>Justicia.</li><li>Paciencia.</li></ol>",
+        "reactivo": "Identifica dos valores fundamentales para la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Respeto</li><li>Honradez</li><li>Justicia</li><li>Paciencia</li></ol>",
         "respuestas": {
           "A": "1, 3@",
           "B": "1, 4",
@@ -14,7 +14,7 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "Son elementos importantes para que se pueda construir la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Equidad.</li><li>Diálogo.</li><li>Consenso.</li><li>Disenso.</li></ol>",
+        "reactivo": "Son elementos importantes para que se pueda construir la cultura de paz. <br> <ol style='list-style-type: decimal;'><li>Equidad</li><li>Diálogo</li><li>Consenso</li><li>Disenso</li></ol>",
         "respuestas": {
           "A": "1, 3",
           "B": "1, 4",
