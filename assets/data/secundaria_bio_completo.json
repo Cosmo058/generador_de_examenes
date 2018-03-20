@@ -1,0 +1,1470 @@
+[
+  {
+    "caratula": "La célula: unidad de vida",
+    "nombreAE": "1. <b>Identifica</b> a la célula como unidad estructural de los seres vivos.",
+    "reactivos": [
+      {
+        "reactivo": "Todos los seres vivos tienen en común las siguientes características, excepto:",
+        "respuestas": {
+          "A": "Fotosíntesis@",
+          "B": "Respiración",
+          "C": "Irritabilidad",
+          "D": "Desarrollo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Reproducirse, nutrirse y respirar son algunas de las características que...",
+        "respuestas": {
+          "A": "identifican a los seres vivos.@",
+          "B": "diferencian a procariontes de eucariontes.",
+          "C": "poseen sólo los organismos pluricelulares.",
+          "D": "se presentan exclusivamente en los animales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tanto las bacterias como los seres humanos...",
+        "respuestas": {
+          "A": "respiran, crecen y presentan irratibilidad.@",
+          "B": "se desarrollan, se reproducen y presentan células procariontes.",
+          "C": "están conformados por millones de células, se nutren y crecen.",
+          "D": "presentan núcleo celular bien definido, se adaptan al medio y se nutren."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las funciones de todos los seres vivos son semejantes, porque todos...",
+        "respuestas": {
+          "A": "se reproducen sexualmente.",
+          "B": "están formados por células.@",
+          "C": "usan oxígeno del aire para respirar.",
+          "D": "obtienen energía de otros seres vivos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que presenta un ejemplo de irritabilidad.",
+        "respuestas": {
+          "A": "Cuando nuestra temperatura se elva, sudamos.@",
+          "B": "La mariposa experimenta un proceso de metamorfosis.",
+          "C": "El oso polar está adaptado a las condiciones de su entorno.",
+          "D": "Las plantas producen su propio alimento a partir de luz, agua y dióxido de carbono."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Se dice que hay diversidad en los seres vivos, pues...",
+        "respuestas": {
+          "A": "algunos están constituidos por células y otros no.",
+          "B": "algunos se nutren, respiran y se reproducen, y otros no.",
+          "C": "cada uno tiene formas particulares de realizar las funciones vitales.@",
+          "D": "existe una gran variedda de formas y colores en los animales y plantas."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Presas y depredadores",
+    "nombreAE": "2. <b>Identifica</b> el papel que juegan las interacciones depredador-presa y la competencia como parte del equilibrio de las poblaciones en un ecosistema.",
+    "reactivos": [
+      {
+        "reactivo": "El ajolote está en peligro de extinción en Xochimilco, hecho que coincide con la introducción de peces tilapia y carpa. ¿Qué opción explica la reducción de esta especie?",
+        "respuestas": {
+          "A": "Los ajolotes son parásitos de los peces.",
+          "B": "Los peces son depredadores del ajolote.@",
+          "C": "Los ajolotes se alimentaron de esas dos especies de peces.",
+          "D": "Los peces contribuyeron a la sobreexplotación de los recursos naturales en Xochimilco."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si debes elegir un tema para investigar en torno a las especies que regulan ellas mismas su densidad de población, ¿cuál caso lo representaría?",
+        "respuestas": {
+          "A": "La extinción de ratones por el aumento de víboras de cascabel.",
+          "B": "El control del búho moteado para preservar la diversidad genética.",
+          "C": "La muerte de renos por el sobrepastoreo, sin amenaza de depredadores.@",
+          "D": "La disminución del pájaro carpintero por el aumento de los árboles de pino."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si vas de excursión a un bosque de pinos y encinos, observarás que debajo de los pinos no se desarrollan otras especies. Este es un ejemplo de…",
+        "respuestas": {
+          "A": "parasitismo.",
+          "B": "comensalismo.",
+          "C": "competencia interespecífica.",
+          "D": "competencia intraespecífica.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Entre las hormigas y la acacia que habitan en zonas tropicales se presenta una interacción biológica: la acacia provee alimento a las hormigas y éstas, a su vez, protegen a la acacia de otros depredadores. Este es un ejemplo de…",
+        "respuestas": {
+          "A": "simbiosis",
+          "B": "mutualismo.@",
+          "C": "parasitismo.",
+          "D": "comensalismo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contiene las palabras que completan el enunciado.<br>La depredación se refiere _______________ de un organismo viviente, vegetal o animal, lo que hace circular _____________ y ____________ por el ecosistema.",
+        "respuestas": {
+          "A": "al consumo / la energía / los nutrimentos@",
+          "B": "a las presas / las semillas / los frutos",
+          "C": "al nacimiento / a los herbívoros / a los carnívoros",
+          "D": "a la supervivencia / la energía / a los depredadores"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En una cadena o trama alimenticia cuando una especie ingiere a otra, el papel que está fungiendo es de…",
+        "respuestas": {
+          "A": "presa",
+          "B": "productor",
+          "C": "depredador ",
+          "D": "consumidor@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Funciones de la célula",
+    "nombreAE": "3. <b>Identifica</b> las funciones de la célula y sus estructuras básicas (pared celular, membrana, citoplasma y núcleo).",
+    "reactivos": [
+      {
+        "reactivo": "En clase explicaron que la mitocondria es un organelo de la célula animal encargada de:",
+        "respuestas": {
+          "A": "realizar la fotosíntesis.",
+          "B": "llevar a cabo la respiración.@",
+          "C": "realizar la producción de proteínas.",
+          "D": "mantener el medio intracelular diferenciado del entorno."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En una exposición, a partir de una maqueta, se presenta el citoplasma, donde se encuentran diversas sustancias y estructuras que intervienen en el funcionamiento de la célula. ¿Cuál es la función del citoplasma?",
+        "respuestas": {
+          "A": "Almacenar el material genético y controlar todas las actividades celulares.",
+          "B": "Producir energía, almacenar sustancias y crear partes de los componentes sanguíneos.",
+          "C": "Participar en el crecimiento de la célula, comunicar al medio intracelular, aislar a la célula del medio.",
+          "D": "Incorporar sustancias para la producción de energía, almacenar sustancias de reserva y brindar forma a las células.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El mecanismo que posibilita la división de una célula en dos, cuyo descubrimiento y primeros estudios se deben al médico alemán Walther Flemming y se lleva a cabo en:",
+        "respuestas": {
+          "A": "el núcleo@",
+          "B": "el citoplasma",
+          "C": "la membrana",
+          "D": "la pared celular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contenga las palabras para completar el enunciado.<br/>Los organismos ____________ están formados por varias células. Las __________ semejantes se unen en tejidos. Cada __________ realiza una función específica y a su vez se agrupan en órganos.",
+        "respuestas": {
+          "A": "unicelulares / células / tejido",
+          "B": "pluricelulares / células / tejido@",
+          "C": "unicelulares / membranas /sistema",
+          "D": "unicelulares y pluricelulares / mitocondrias / aparato"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En la clase de Biología el maestro explicó: “la célula es la unidad básica de todo ser vivo y realiza funciones vitales”. ¿Cuáles son esas funciones?",
+        "respuestas": {
+          "A": "Eliminar nutrimentos, procesar y producir sustancias.",
+          "B": "Asimilar nutrimentos, eliminar residuos, producir sustancias.@",
+          "C": "Generar energía, procesar virus, conformar tejidos y órganos.",
+          "D": "Obtener energía, eliminar desechos, producir materias primas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que relaciona las partes de la célula con sus funciones.<br/><br/><table style='font-size:0.6em'><tr><td>A. Núcleo</td><td>&nbsp;&nbsp;</td><td>I. Control del flujo de sustancias.</td></tr><tr><td>B. Citoplasma</td><td>&nbsp;&nbsp;</td><td>II. Junto con el núcleo regula la actividad de la célula.</td></tr><tr><td>C. Pared celular</td><td>&nbsp;&nbsp;</td><td>III. Contiene la información genética.</td></tr><tr><td>D. Membrana</td><td>&nbsp;&nbsp;</td><td>IV. Da forma a la célula.</td></tr></table>",
+        "respuestas": {
+          "A": "AI, BIV, CII, DIII",
+          "B": "AII, BIII, CI, DIV",
+          "C": "AIII, BII, CIV, DI@",
+          "D": "AIV, BI, CIII, DII"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+  {
+    "caratula": "Coordinación del sistema nervioso",
+    "nombreAE": "4. <b>Explica</b> la coordinación del sistema nervioso en el funcionamiento del cuerpo.",
+    "reactivos": [
+      {
+        "reactivo": "Toser es una respuesta involuntaria del organismo ante un evento que el organismo controla mediante:",
+        "respuestas": {
+          "A": "las células de la nariz",
+          "B": "los pulmones y garganta",
+          "C": "los pulmones y bronquios",
+          "D": "el sistema nervioso periférico@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Llegó el final del ciclo escolar y debes presentar tus exámenes, lo que te pone nervioso y presentas colitis (inflamación del colón). ¿Qué sistemas u órganos del cuerpo activan esa respuesta?",
+        "respuestas": {
+          "A": "El sistema nervioso y el cerebro@",
+          "B": "El sistema nervioso y el estómago",
+          "C": "El sistema digestivo y el sistema nervioso",
+          "D": "El sistema circulatorio y el sistema nervioso"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El sistema nervioso periférico está formado por:",
+        "respuestas": {
+          "A": "Cerebelo",
+          "B": "Médula espinal",
+          "C": "Corteza cerebral",
+          "D": "Fibras nerviosas que estructuran los nervios@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contiene las palabras que completan el enunciado.<br/>Si te quemas la mano con un matraz caliente inmediatamente las neuronas ____________ envían la información al___________ , que a su vez envía un mensaje a los músculos de tu mano para que la retires.",
+        "respuestas": {
+          "A": "espejo / cerebelo",
+          "B": "internas / cerebro",
+          "C": "motoras / corazón",
+          "D": "sensitivas / cerebro@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los principales sistemas del cuerpo que regulan las actividades corporales, desde el equilibrio interno, hasta la nutrición, el crecimiento y el desarrollo, entre otros, son:",
+        "respuestas": {
+          "A": "óseo y nervioso",
+          "B": "nervioso y endócrino@",
+          "C": "digestivo y respiratorio",
+          "D": "circulatorio y muscular"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las principales células del sistema nervioso se conocen como:",
+        "respuestas": {
+          "A": "axones",
+          "B": "nervios",
+          "C": "vértebras",
+          "D": "neuronas@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2]
+  },
+  {
+    "caratula": "Sobrepeso y obesidad",
+    "nombreAE": "5. <b>Explica</b> cómo evitar el sobrepeso y la obesidad con base en las características de la dieta correcta y las necesidades energéticas en la adolescencia.",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuál de los siguientes es un ejemplo de nutrimento",
+        "respuestas": {
+          "A": "La carne",
+          "B": "Las leguminosas",
+          "C": "Los lípidos@",
+          "D": "Los cereales"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una de las funciones de los carbohidratos es...",
+        "respuestas": {
+          "A": "formar las uñas y el cabello.",
+          "B": "proporcionar energía rápida.@",
+          "C": "favorecer el tránsito intestinal.",
+          "D": "reemplazar las células muertas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los osos polares tienen grandes cantidades de grasa, pues las grasas...",
+        "respuestas": {
+          "A": "evitan que el calor se pierda.@",
+          "B": "son esenciales para formar proteínas.",
+          "C": "proporcionan energía inmediata para contrarrestar el frío.",
+          "D": "se almacenan en forma de almidón para crear una capa aislante."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La formación del bolo alimenticio es importante por ser el inicio de la descomposición de los alimentos. ¿En qué parte del sistema digestivo se forma?",
+        "respuestas": {
+          "A": "En la boca@",
+          "B": "En el estómago",
+          "C": "En el intestino delgado",
+          "D": "En el intestino grueso"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si nuestro intestino delgado no funcionara correctamente, tendríamos...",
+        "respuestas": {
+          "A": "exceso de bilis.",
+          "B": "falta de glucógeno.",
+          "C": "falta de nutrimentos.@",
+          "D": "exceso de glucosa en la sangre."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes pares de alimentos contrinuye, en mayor medida, al fortalecimiento de los cartílagos, huesos y dientes?",
+        "respuestas": {
+          "A": "Crema y arroz",
+          "B": "Frijoles y queso@",
+          "C": "Leche y aguacate",
+          "D": "Carne de pollo y de res"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si un corredor va a participar en una carrera,¿cuál de las siguientes combinaciones es la mejor opción para enriquecer la dieta del día anterior al evento?",
+        "respuestas": {
+          "A": "Pan y papas@",
+          "B": "Pasta y leche",
+          "C": "Frutas y carne",
+          "D": "Arroz y verduras"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De los siguientes alimentos, ¿cuál es el de mayor valor nutrimental?",
+        "respuestas": {
+          "A": "El mole, porque el chile favorece la absorción de hierro",
+          "B": "El pozole, porque incorpora alimentos devarios grupos@",
+          "C": "Los nopales, porque contienen una gran cantidad de fibra",
+          "D": "La tortilla, porque la masa se nixtamaliza en su preparación"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El buen funcionamiento cerebral depende, entre otras cosas, del consumo de vitaminas del complejo B, así como fósforo y omega 3, que es un ácido graso. ¿Cuál de los siguientes alimentos los contiene en mayor cantidad?",
+        "respuestas": {
+          "A": "Verduras, frutas y pan",
+          "B": "Productos lácteos",
+          "C": "Pescados, mariscos y aguacate@",
+          "D": "Carne de res, cerdo y pollo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de los siguientes platillos mexicanos tiene un mayor contenido de fibra?",
+        "respuestas": {
+          "A": "Tinga de pollo",
+          "B": "Arroz con mole",
+          "C": "Pescado a la diabla",
+          "D": "Ensalada de nopales@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tomando en cuenta el grupo al que pertenecen los siguientes alimentos, elige aquel que se puede consumir en mayor cantidad en un día.",
+        "respuestas": {
+          "A": "Arroz@",
+          "B": "Leche",
+          "C": "Lentejas",
+          "D": "Cacahuates"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes acciones NO es un buen hábito alimentario?",
+        "respuestas": {
+          "A": "Tomar agua endulzada de frutas.@",
+          "B": "Tomar un refrigerio a media tarde.",
+          "C": "Tomar un refrigerio a media mañana.",
+          "D": "Tomar diariamente alimentos de origen animal."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Todo lo siguiente corresponde al origen de un trastorno alimenticio, excepto:",
+        "respuestas": {
+          "A": "Consumir colaciones entre comidas.@",
+          "B": "Alimentarse a base de carbohidratos.",
+          "C": "Practicar dietas de manera constante.",
+          "D": "Consumir menos calorías de las que se emplean."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige el menú que contenga alimentos de todos los grupos.",
+        "respuestas": {
+          "A": "Menú 1 Entrada: Sopa de verduras Plato fuerte: Espagueti en salsa de tomate con berenjena Postre: Una naranja",
+          "B": "Menú 2 Entrada: Sopa de lentejas Plato fuerte: Pollo en salsa verde con ensalada Postre: Ensalada de frutas",
+          "C": "Menú 3 Entrada: Arroz a la mexicana Plato fuerte: Huarache de frijoles, aguacate, lechuga y queso rallado Postre: Una gelatina@",
+          "D": "Menú 4 Entrada: Papa al horno con queso Plato fuerte: Milanesa de res con espagueti a la mantequilla Postre: Una galleta"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué combinación de alimentos aporta una mayor cantidad de minerales?",
+        "respuestas": {
+          "A": "Leche y pollo",
+          "B": "Zanahoria y queso",
+          "C": "Jitomate y naranja@",
+          "D": "Pan y carne de res"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El índice de masa corporal (IMC) es una medida que resulta de la relación entre dos factores. ¿Cuáles?",
+        "respuestas": {
+          "A": "Peso y edad",
+          "B": "Sexo y edad",
+          "C": "Sexo y estatura",
+          "D": "Peso y estatura@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Con ayuda de la siguiente tabla, determina cuál de estas personas debe buscar atención médica inmediata.",
+        "respuestas": {
+          "A": "Jorge. Tiene un índice de masa corporal de 27.@",
+          "B": "Laura. Tiene un índice de masa corporal de 15.",
+          "C": "Enrique. Tiene un índice de masa corporal de 21.",
+          "D": "Mariana. Tiene un índice de masa corporal de 26."
+        },
+        "img_asociada": "data/img_asociadas/sadbi1cd13_b2_2.jpg"
+      },
+      {
+        "reactivo": "Trastorno caracterizado por bajas concentraciones de hemoglobina en la sangre por falta de hierro en la dieta.",
+        "respuestas": {
+          "A": "Anemia@",
+          "B": "Diabetes",
+          "C": "Anorexia",
+          "D": "Obesidad"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál de las siguientes opciones para adelgazar NO representa un peligro para tu salud?",
+        "respuestas": {
+          "A": "Ejercicio y dieta equilibrada.@",
+          "B": "Dieta equilibrada y bebidas adelgazantes.",
+          "C": "Dieta libre de grasas y ejercicio.",
+          "D": "Todas las anteriores."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contiene las palabras que completan el enunciado.<br> La _________ es el conjunto de actos voluntarios de elección, preparación e ingestión de los alimentos; la ________ es el proceso biológico de ___________ de los nutrimentos que se obtienen de los alimentos.",
+        "respuestas": {
+          "A": "nutrición / alimentación / ingestión",
+          "B": "alimentación / nutrición/ ingestión",
+          "C": "nutrición / alimentación /asimilación",
+          "D": "alimentación / nutrición / asimilación@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los siguientes alimentos aportan una cantidad importante de hidratos de carbono, excepto:",
+        "respuestas": {
+          "A": "maíz.",
+          "B": "frijol.",
+          "C": "pescado.@",
+          "D": "papas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son alimentos ricos en proteínas y además aportan vitaminas y minerales:",
+        "respuestas": {
+          "A": "frijol y maíz.",
+          "B": "chile y maíz.",
+          "C": "maíz y nopales.",
+          "D": "pescados y mariscos.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que relaciona los grupos de alimentos con los nutrimentos que contienen.<br/><table style='font-size:0.6em'><tr><td>Cereales</td><td>Proteínas y lípidos</td></tr><tr><td>Frutas y verduras</td><td>Vitaminas, minerales, fibra y agua</td></tr><tr><td>Leguminosas y alimentos de origen animal</td><td>Hidratos de carbono, vitaminas y minerales</td></tr></table>",
+        "respuestas": {
+          "A": "1c, 2b, 3a@",
+          "B": "1b, 2a, 3c",
+          "C": "1a, 2c, 3b",
+          "D": "1b, 2c, 3a"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las siguientes expresiones ofrecen sustento científico para bajar de peso, excepto:",
+        "respuestas": {
+          "A": "una dieta correcta y ejercicio son la mejor manera para bajar de peso.",
+          "B": "al someterse a un régimen alimenticio es necesario considerar el estado general de salud.",
+          "C": "los productos para adelgazar pueden causar reacciones adversas y enfermedades.",
+          "D": "los suplementos alimenticios para bajar de peso están hechos con productos naturales, lo que hace que su uso sea seguro.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contiene las palabras que completan el enunciado.<br>El uso de productos y métodos para adelgazar que se anuncian en los medios de comunicación representan ________ en las personas que los utilizan, lo que ocasiona ______________",
+        "respuestas": {
+          "A": "una alternativa / pérdida de peso.",
+          "B": "riesgos a la salud / daños en su calidad de vida.@",
+          "C": "un gasto económico / alteración en su estado de ánimo.",
+          "D": "una opción para bajar de peso / una mejora en su imagen."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1,2,3]
+  },
+  {
+    "caratula": "Sexualidad y proyecto de vida",
+    "nombreAE": "6. <b>Argumenta</b> los beneficios de aplazar el inicio de las relaciones sexuales y de una sexualidad responsable, segura y  satisfactoria, libre de miedos, culpas, falsas creencias@, coerción, discriminación y violencia como parte de su proyecto de vida en el marco de la salud sexual y reproductiva.",
+    "reactivos": [
+      {
+        "reactivo": "Desde el punto de vista de la Biología, ¿qué es el sexo?",
+        "respuestas": {
+          "A": "La capacidad de todos los seres vivos de reproducirse.",
+          "B": "El conjunto de características físicas que distinguen a hombres de mujeres.@",
+          "C": "El conjunto de comportamientos que realizan dos personas para dar y recibir placer sexual.",
+          "D": "Un concepto construido culturalmente que incluye erotismo, reproductividad, afecto y género."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es una de las potencialidades de la sexualidad humana que se refiere a la forma de experimentar y de expresar el placer y el deseo sexuales.",
+        "respuestas": {
+          "A": "Sexo",
+          "B": "Género",
+          "C": "Erotismo@",
+          "D": "Reproductividad"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "En nuestra sociedad es común que los padres procuren que sus hijas sean bonitas, tiernas y delicadas, y que sus hijos varones sean fuertes, valientes e intrépidos. Este es un ejemplo de...",
+        "respuestas": {
+          "A": "roles de género.@",
+          "B": "diferencias sexuales.",
+          "C": "la expresión del afecto.",
+          "D": "características sexuales primarias."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de los siguientes ejemplos NO forma parte del concepto de sexualidad?",
+        "respuestas": {
+          "A": "Una niña de tres años le da un beso a su padre.",
+          "B": "Un padre le explica a su hijo que los hombres no deben expresar tristeza.",
+          "C": "Un helecho se reproduce por medio de la producción y liberación de esporas.@",
+          "D": "Una pareja decide tener un hijo, pues se siente preparada emocional y económicamente."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Sabemos que la reproducción y la reproductividad son conceptos distintos. ¿A qué se refiere el término reproductividad?",
+        "respuestas": {
+          "A": "A la posibilidad de cuidar y educar a otros.@",
+          "B": "Al proceso biológico por medio del cual nos reproducimos.",
+          "C": "A las capacidades reproductivas que tienen todos los seres vivos.",
+          "D": "A la capacidad no ejercida por ciertas personas para producir seres semejantes a ellas."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes NO es una característica sexual secundaria en mujeres?",
+        "respuestas": {
+          "A": "La cadera se ensancha.",
+          "B": "La piel se vuelve más suave.",
+          "C": "Aparece vello púbico y axilar.",
+          "D": "Se distingue la presencia de órganos sexuales femeninos.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Desde qué momento de la vida se hace presente la sexualidad?",
+        "respuestas": {
+          "A": "Desde que nacemos.@",
+          "B": "Desde la primera relación sexual.",
+          "C": "Desde la primera experiencia autoerótica.",
+          "D": "Desde que se presentan las características sexuales secundarias."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "De las siguientes opciones, todas presentan mitos en torno a la sexualidad, excepto una. ¿Cuál?",
+        "respuestas": {
+          "A": "Durante la menstruación la alimentación debe modificarse.",
+          "B": "Existe menos probabilidad de embarazo durante la menstruación.@",
+          "C": "Al tener relaciones sexuales, la anatomía femenina se modifica ligeramente.",
+          "D": "Cuando se tienen relaciones sexuales satisfactorias, la masturbación no se realiza."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Lee las siguientes afirmaciones y determina cuál o cuáles son verdaderas, y cuál o cuáles son falsas. Posteriormente, elige la opción que presenta la combinación correcta de respuestas.<br/><br/>1. La discriminación es una de las consecuencias de los mitos y creencias falsas.<br/>2. La existencia de algunas creencias falsas limita las capacidades afectivas.<br/>3. Aunque pueden causar riesgos a la salud, las creencias falsas raramente dañan la autoestima.",
+        "respuestas": {
+          "A": "1V, 2V, 3V",
+          "B": "1F, 2V, 3F",
+          "C": "1V, 2F, 3V",
+          "D": "1V, 2V, 3F@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Selecciona la opción que contiene las palabras que completan el enunciado.<br>Los órganos que determinan el sexo de las personas, ya sea masculino o femenino, constituyen las características sexuales ____________, mientras que los cambios ________________que aparecen durante la pubertad son las características sexuales ____________.",
+        "respuestas": {
+          "A": "primarias / físicos y psicológicos / secundarias@",
+          "B": "secundarias / físicos y psicológicos / primarias",
+          "C": "anatómicas / conductuales / de comportamiento",
+          "D": "de hombres y mujeres / morfológicos / secundarias"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Aspecto de la sexualidad relacionado con las características sociales y culturales asociadas con las personas en función de su sexo:",
+        "respuestas": {
+          "A": "erotismo",
+          "B": "género@",
+          "C": "reproducción",
+          "D": "vínvulos afectivos"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los ________ favorecen el pleno desarrollo de la sexualidad, decidir libremente y mantener la salud sexual en las personas.",
+        "respuestas": {
+          "A": "Derechos humanos",
+          "B": "Derechos sexuales@",
+          "C": "Argumentos científicos",
+          "D": "Mitos asociados a la sexualidad"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2,3]
+  },
+  {
+    "caratula": "Métodos anticonceptivos",
+    "nombreAE": "7. <b>Compara</b> la eficacia de los diferentes métodos anticonceptivos en la perspectiva de evitar el embarazo en la adolescencia y prevenir ITS, incluidos VPH y VIH.",
+    "reactivos": [
+      {
+        "reactivo": "Selecciona la opción que clasifica mitos y realidades sobre la sexualidad.<br/><br/>a. El sida es una enfermedad de homosexuales<br/>b. La masturbación es causa frecuente de infertilidad<br/>c. Una mujer que tiene hijos es más valiosa que las que no los tienen<br/>d. En la primera relación sexual, puede ocurrir el embarazo",
+        "respuestas": {
+          "A": "Realidad: a, b, c. Mito: d",
+          "B": "Realidad: b, c, d. Mito: a",
+          "C": "Realidad: b, c. Mito: a, d",
+          "D": "Realidad: d. Mito: a, b, c.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es un agente patógeno cuya infección causa el cáncer cervicouterino.",
+        "respuestas": {
+          "A": "Virus del herpes simple",
+          "B": "Virus del herpes genital",
+          "C": "Virus del papiloma humano@",
+          "D": "Virus de la inmunodeficiencia humana"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Para cuál de las siguientes infecciones de transmisión sexual existe vacuna?",
+        "respuestas": {
+          "A": "Clamidiasis",
+          "B": "Herpes genital",
+          "C": "Síndrome de la inmunodeficiencia adquirida (sida)",
+          "D": "Infección causada por el virus del papiloma humano (VPH)@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es un ejemplo de sexo seguro.",
+        "respuestas": {
+          "A": "Besarse, abrazarse y acariciarse.@",
+          "B": "Tener relaciones sexuales usando condón masculino.",
+          "C": "Tener relaciones sexuales usando condón en combinación con un espermicida.",
+          "D": "Tener relaciones sexuales protegidas después de haber hablado con la pareja y llegado a acuerdos."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes opciones ofrece una posibilidad de sexo seguro?",
+        "respuestas": {
+          "A": "La abstinencia",
+          "B": "El coito interrumpido",
+          "C": "El uso del condón masculino o femenino",
+          "D": "La masturbación o masturbación mutua@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es un método anticonceptivo ineficaz porque antes de la eyaculación se libera una gota de semen que limpia y lubrica.",
+        "respuestas": {
+          "A": "Condón femenino",
+          "B": "Ritmo o calendario",
+          "C": "Coito interrumpido@",
+          "D": "Dispositivo intrauterino"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es el único método de anticoncepción que previene las infecciones de transmisión sexual (ITS).",
+        "respuestas": {
+          "A": "Ritmo",
+          "B": "Condón@",
+          "C": "Coito interrumpido",
+          "D": "Dispositivo intrauterino"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Elige la opción que ordena los siguientes anticonceptivos del más eficaz al menos eficaz, para evitar el embarazo.<br/><br/>a. Espermicida solo<br/>b. Parche transdérmico<br/>c. Condón masculino o femenino<br/>d. Coito interrumpido",
+        "respuestas": {
+          "A": "1c, 2b, 3a, 4d",
+          "B": "1b, 2c, 3a, 4d@",
+          "C": "1c, 2b, 3d, 4a",
+          "D": "1b, 2c, 3d, 4a"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes opciones presenta métodos anticonceptivos que previenen el embarazo, pero no las infecciones de transmisión sexual?",
+        "respuestas": {
+          "A": "Condón femenino y anillo vaginal",
+          "B": "Vasectomía y preservativo femenino",
+          "C": "Píldora anticonceptiva y condón masculino",
+          "D": "Dispositivo intrauterino y parche transdérmico@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Observa la clasificación que se hace en dos grupos de los siguientes anticonceptivos y determina cuál fue el criterio empleado para ello.<br/><br/>Grupo 1. Coito interrumpido, ritmo, tener relaciones sexuales de pie y uso de espermicida. <br/>Grupo 2. Condón femenino, condón masculino, abstinencia y uso de condón, y espermicida combinados.",
+        "respuestas": {
+          "A": "Efectividad@",
+          "B": "Prevención de ITS",
+          "C": "Facilidad de manejo",
+          "D": "Requerimiento de prescripción médica"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los siguientes son argumentos científicamente válidos asociados con la sexualidad, excepto:",
+        "respuestas": {
+          "A": "el coito interrumpido es un método eficaz para evitar un embarazo o una ITS.@",
+          "B": "los hombres y las mujeres tenemos igualdad de derechos, de manifestar nuestros sentimientos y emociones",
+          "C": "una mujer tiene la posibilidad de embarazarse en su primera relación sexual si hay coito y ha iniciado su ciclo menstrual.",
+          "D": "el VIH es una ITS que puede adquirir cualquier persona si mantiene relaciones sexuales, sin protección, con una persona infectada."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Selecciona la opción que relaciona correctamente los siguientes síndromes y enfermedades de transmisión sexual con sus agentes causales.<br/><br/><table style='font-size:0.6em'><tr><td>1. Sida</td><td>&nbsp;&nbsp;</td><td>a. VPH</td></tr><tr><td>2. Sífilis</td><td>&nbsp;&nbsp;</td><td>b. VIH</td></tr><tr><td>3. Cáncer cérvico uterino</td><td>&nbsp;&nbsp;</td><td>c. Bacteria Treponema pallidum</td></tr><tr><td>4. Linfogranuloma venéreo</td><td>&nbsp;&nbsp;</td><td>d. Bacteria Chlamydia trachomatis</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2c, 3b, 4d",
+          "B": "1b, 2c, 3d, 4a",
+          "C": "1d, 2a, 3b, 4c",
+          "D": "1b, 2c, 3a, 4d@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Al acto de tener una sola pareja sexual o sexo sin penetración se le llama:",
+        "respuestas": {
+          "A": "masturbación.",
+          "B": "sexo seguro.@",
+          "C": "sexo protegido.",
+          "D": "coito interrumpido."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Es el único método anticonceptivo que evita el contacto entre fluidos al tener relaciones sexuales, su uso adecuado proporciona entre 85 y 97 % de efectividad.",
+        "respuestas": {
+          "A": "Condón.@",
+          "B": "Espermicidas.",
+          "C": "Dispositivo intrauterino.",
+          "D": "Píldoras anticonceptivas."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Son métodos anticonceptivos permanentes que consisten en una intervención quirúrgica, en algunos casos pueden ser reversibles.",
+        "respuestas": {
+          "A": "El ritmo y espermicidas.",
+          "B": "Implante intrauterino y condón.",
+          "C": "Vasectomía y salpingoclasia.@",
+          "D": "Inyecciones anticonceptivas y condón."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },{
+    "caratula": "Adicciones e implicaciones",
+    "nombreAE": "8. <b>Explica</b> las implicaciones de las adicciones en la salud personal, familiar y en la sociedad.",
+    "reactivos": [
+      {
+        "reactivo": "Enfermedad crónica obstructiva de los pulmones, relacionada con el tabaquismo y que se caracteriza por la pérdida de elasticidad en los tejidos y la destrucción progresiva de los alvéolos.",
+        "respuestas": {
+          "A": "Cáncer pulmonar",
+          "B": "Bronquitis crónica",
+          "C": "Enfisema pulmonar@",
+          "D": "Enfermedad pulmonar obstructiva crónica"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Lee las siguientes afirmaciones y determina cuál o cuáles son verdaderas, y cuál o cuáles son falsas. Posteriormente, elige la opción que presenta la combinación correcta de respuestas.<br/><lower style='font-size: 0.7em;' >I. El consumo de tabaco incrementa la presión arterial<br/>II. El tabaquismo es una de las causas de los tumores malignos<br/>III. Los fumadores pasivos tienen aún más riesgo de contraer enfermedades relacionadas con el tabaquismo, que los fumadores activos</lower>",
+        "respuestas": {
+          "A": "IV, IIV, IIIF@",
+          "B": "IV, IIF, IIIV",
+          "C": "IF, IIV, IIIV",
+          "D": "IV, IIF, IIIF"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "De las siguientes opciones ¿cuál es la causa del hábito del tabaquismo?",
+        "respuestas": {
+          "A": "Por imitación",
+          "B": "Por efecto de la publicidad",
+          "C": "Por necesidad de aceptación social",
+          "D": "Todas las anteriores.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes opciones es una consecuencia negativa del tabaquismo en la sociedad?",
+        "respuestas": {
+          "A": "Impulsa la economía mundial.",
+          "B": "Conlleva grandes gastos para los fumadores.",
+          "C": "Implica grandes costos económicos para los gobiernos.@",
+          "D": "Puede provocar cáncer, bronquitis crónica u otras enfermedades."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Las siguientes son enfermedades relacionadas con el consumo de tabaco, excepto:",
+        "respuestas": {
+          "A": "Epilepsia.@",
+          "B": "Cáncer de pulmón.",
+          "C": "Enfisema pulmonar.",
+          "D": "Enfermedades del corazón."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Algunas implicaciones sociales y económicas relacionadas con el tabaquismo son…",
+        "respuestas": {
+          "A": "el incremento en los costos de las cajetillas de cigarros.",
+          "B": "los daños en la salud y en el estado de ánimo de los fumadores.",
+          "C": "el aumento en la contaminación ambiental por la generación de humo de tabaco.",
+          "D": "el aumento en la mortalidad por cáncer pulmonar en la población e incremento en los gastos para la atención de las enfermedades respiratorias.@"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },{
+    "caratula": "Transformaciones de energía en Ecosistemas",
+    "nombreAE": "9. <b>Representa</b> las transformaciones de la energía en los ecosistemas, en función de la fuente primaria y las cadenas tróficas.",
+    "reactivos": [
+      {
+        "reactivo": "Los productores de un ecosistema ocupan ese nivel porque son…",
+        "respuestas": {
+          "A": "aerobios.",
+          "B": "autótrofos.@",
+          "C": "anaerobios.",
+          "D": "heterótrofos."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Toma en cuenta los siguientes organismos: gato, pájaro, gusano y manzano. ¿Qué orden tendría el flujo de energía que puede formarse con ellos?",
+        "respuestas": {
+          "A": "Gato, gusano, pájaro, manzano",
+          "B": "Pájaro, manzano, gato, gusano",
+          "C": "Gusano, manzano, pájaro, gato",
+          "D": "Manzano, gusano, pájaro, gato@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "En una cadena alimentaria formada por un gato, un pájaro, un gusano y un manzano, el consumidor primario sería...",
+        "respuestas": {
+          "A": "el gato.",
+          "B": "el pájaro.",
+          "C": "el gusano.@",
+          "D": "el manzano."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿A qué nivel trófico pertenece el moho?",
+        "respuestas": {
+          "A": "Productores",
+          "B": "Consumidores primarios",
+          "C": "Consumidores secundarios",
+          "D": "Descomponedores@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Selecciona la opción que completa correctamente el siguiente esquema de una red trófica: ",
+        "respuestas": {
+          "A": "A-Carnívoros, B-Herbívoros, C-Productores, D-Descomponedores@",
+          "B": "A-Descomponedores, B-Carnívoros, C-Herbívoros, D-Productores",
+          "C": "A-Productores, B-Descomponedores, C-Carnívoros, D-Herbívoros",
+          "D": "A-Herbívoros, B-Carnívoros, C-Descomponedores, D-Productores"
+        },
+        "img_asociada": "data/img_asociadas/sec_bio/BI1ED1_GX_AP9_IMG1.jpg"
+      },{
+        "reactivo": "¿Qué nivel trófico ocupamos los seres humanos, como especie, en una red alimentaria?",
+        "respuestas": {
+          "A": "Productores",
+          "B": "Consumidores primarios y secundarios@",
+          "C": "Descomponedores",
+          "D": "Todas las anteriores"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Qué sucede en un ecosistema cuando aumenta el número de consumidores primarios?",
+        "respuestas": {
+          "A": "Aumentan los productores.",
+          "B": "Disminuyen los productores.@",
+          "C": "Disminuyen los descomponedores.",
+          "D": "Disminuyen los consumidores secundarios."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Son ejemplos de organismos productores en las redes alimentarias, excepto:",
+        "respuestas": {
+          "A": "Algas fotosintéticas",
+          "B": "Hongos@",
+          "C": "Bacterias fotosintéticas",
+          "D": "Plantas"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de los siguientes organismos tiene la capacidad de producir su propio alimento?",
+        "respuestas": {
+          "A": "Un champiñón",
+          "B": "Un animal carnívoro",
+          "C": "Un animal herbívoro",
+          "D": "Una planta carnívora@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál es uno de los productos de la fotosíntesis?",
+        "respuestas": {
+          "A": "Agua",
+          "B": "Glucosa@",
+          "C": "Clorofila",
+          "D": "Dióxido de carbono"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las opciones presenta solamente organismos heterótrofos?",
+        "respuestas": {
+          "A": "Plantas y algas",
+          "B": "Animales y hongos@",
+          "C": "Bacterias y animales",
+          "D": "Algas y hongos"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Una característica distintiva de los autótrofos es que...",
+        "respuestas": {
+          "A": "toman su alimento de la tierra.",
+          "B": "realizan fotosíntesis en lugar de respirar.",
+          "C": "emplean agua y CO2 para producir azúcares.@",
+          "D": "respiran dióxido de carbono y liberan oxígeno."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Qué tipo de organismos son los que introducen la energía a los ecosistemas?",
+        "respuestas": {
+          "A": "Carnívoros",
+          "B": "Autótrofos@",
+          "C": "Heterótrofos",
+          "D": "Descomponedores"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿En qué radica la importancia ecológica del fitoplancton?",
+        "respuestas": {
+          "A": "Introduce energía a los ecosistemas terrestres.",
+          "B": "Es fuente de energía para los consumidores secundarios.",
+          "C": "Inicia la cadena alimentaria en los lagos, lagunas, ríos y océanos.@",
+          "D": "Provee de energía a los organismos autótrofos de ecosistemas acuáticos."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los organismos ________ actúan sobre todos los niveles tróficos, degradan la materia orgánica y producen sustancias más simples que son utilizadas por _________ como nutrimentos.",
+        "respuestas": {
+          "A": "fotosintéticos / los productores",
+          "B": "descomponedores / las plantas@",
+          "C": "descomponedores / los parásitos",
+          "D": "fotosintéticos / los consumidores primarios"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los seres ______________ se alimentan de los __________, estos últimos son la base de ___________.",
+        "respuestas": {
+          "A": "heterótrofos / autótrofos / las cadenas y redes alimentarias@",
+          "B": "autótrofos / heterótrofos / las interacciones en los ecosistemas",
+          "C": "autótrofos / heterótrofos / el flujo de energía en los ecosistemas",
+          "D": "heterótrofos / productores primarios / las cadenas y redes alimentarias"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },{
+    "caratula": "Biodiversidad en México",
+    "nombreAE": "10. <b>Explica</b> la importancia ética, estética, ecológica y cultural de la biodiversidad en México.",
+    "reactivos": [
+      {
+        "reactivo": "Hace muchos años, en el Parque Nacional Archipiélago Espíritu Santo, en Baja California Sur, se introdujeron varias cabras que se aclimataron y sobrepoblaron la zona, lo que afectó la biodiversidad. ¿Cuál opción solucionaría este hecho de manera ética?",
+        "respuestas": {
+          "A": "Sacrificar a todas las cabras.",
+          "B": "Esterilizar a todas las cabras.",
+          "C": "Enfermar a un grupo de cabras.",
+          "D": "Trasladar a las cabras a otro lugar.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "El siguiente es un fragmento de la introducción de un folleto informativo. Selecciona la opción que contiene la palabra más adecuada para completarlo.<br><br>En diversas artesanías mexicanas se emplean fibras vegetales provenientes de plantas como la palma, el henequén y el mimbre. La fibra se encuentra en la pared celular que da ________ a los objetos que con ellas se elaboran.",
+        "respuestas": {
+          "A": "color",
+          "B": "forma",
+          "C": "rigidez@",
+          "D": "originalidad"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "La Orquesta de Vegetales Viena se creó en 1998 con la participación de 11 músicos que construyeron sus instrumentos a partir de vegetales, como flautas de zanahoria y trompetas de pimientos, entre otros. La elección de los vegetales está determinada por la zona, dado que en ello influye la temperatura y la humedad. Este es un ejemplo de…",
+        "respuestas": {
+          "A": "valor ético de la biodiversidad.",
+          "B": "valor cultural de la biodiversidad.@",
+          "C": "valor ecológico de la biodiversidad.",
+          "D": "valor económico de la biodiversidad."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "La pérdida de biodiversidad es consecuencia de varias acciones humanas, principalmente de la contaminación ambiental. ¿Cuál de las siguientes acciones impacta de manera inmediata y con efecto cascada en todos los ecosistemas?",
+        "respuestas": {
+          "A": "La selección natural",
+          "B": "La generación de basura",
+          "C": "La contaminación del agua@",
+          "D": "La contaminación del suelo"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "A todos los seres vivos que habitan la Tierra se les llama…",
+        "respuestas": {
+          "A": "población.",
+          "B": "comunidad.",
+          "C": "ecosistema.",
+          "D": "biodiversidad.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Se llama biodiversidad de una región a la...",
+        "respuestas": {
+          "A": "abundancia de organismos de una especie.",
+          "B": "diversidad de plantas y animales presentes.",
+          "C": "variedad de especies que se encuentran en ella.@",
+          "D": "interacción entre los organismos y su medio ambiente."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },{
+    "caratula": "Diversidad nutricional y evolución",
+    "nombreAE": "11. <b>Compara</b> la diversidad de formas de nutrición, relación con el medio y reproducción e identifica que son resultado de la evolución.",
+    "reactivos": [
+      {
+        "reactivo": "Elige la opción que presenta un ejemplo de adaptación conductual.",
+        "respuestas": {
+          "A": "Algunas especies de camaleón pasan inadvertidas para sus depredadores, pues pueden cambiar de color por factores externos.",
+          "B": "La mosca de las flores es indefensa pero tiene tal parecido con la abeja y la avispa, que sus depredadores prefieren evadirla",
+          "C": "Durante el invierno, el pingüino emperador macho incuba el huevo que puso la hembra, mientras ella se ausenta para buscar alimento.@",
+          "D": "Los ojos de las lechuzas están rodeados por un conjunto de plumas rígidas que sirven de “antena parabólica” para captar mejor los sonidos."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Característica distintiva de los seres vivos que les ha permitido, mediante cambios evolutivos, sobrevivir y permanecer en el planeta.",
+        "respuestas": {
+          "A": "Respiración",
+          "B": "Nutrición",
+          "C": "Adaptación@",
+          "D": "Organización celular"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los cambios evolutivos son ______________ que proporcionan _______________ a los seres vivos que les permiten permanecer en el planeta y diversificarse.",
+        "respuestas": {
+          "A": "recursos / alimento",
+          "B": "rasgos / beneficios",
+          "C": "adaptaciones / ventajas@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Son los tipos de adaptaciones que se presentan en los seres vivos, excepto:",
+        "respuestas": {
+          "A": "Visuales@",
+          "B": "Morfológicas",
+          "C": "Fisiológicas",
+          "D": "De comportamiento"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de los siguientes pares de grupos de organismos presenta adaptaciones relacionadas con la nutrición?",
+        "respuestas": {
+          "A": "Los seres humanos y otros mamíferos",
+          "B": "Las plantas y los hongos",
+          "C": "Los insectos y las aves",
+          "D": "Todas las anteriores@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "De las adaptaciones que presenta el colibrí, ¿cuál está relacionada con la nutrición?",
+        "respuestas": {
+          "A": "El macho realiza una danza frente a la hembra, para atraer la atención de ésta.",
+          "B": "Sus alas pueden rotar hasta 180°, lo que le permite permanecer casi inmóvil en el aire.",
+          "C": "Utiliza su pico para extraer el néctar de las flores y para cazar pequeños insectos y arañas.@",
+          "D": "Para conservar su energía, entra en un estado que disminuye su actividad y su temperatura."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "¿Cuál de las siguientes NO es una adaptación de la reproducción?",
+        "respuestas": {
+          "A": "El apareamiento",
+          "B": "El cuidado de las crías",
+          "C": "El cortejo antes del apareamiento",
+          "D": "El abandono de las crías defectuosas@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Selecciona la opción que contiene un ejemplo de adaptación relacionada directamente con la reproducción.",
+        "respuestas": {
+          "A": "Las esporas de los mohos@",
+          "B": "Los estomas de las plantas",
+          "C": "El color de los zorros polares",
+          "D": "La espiritrompa de las mariposas"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Los siguientes son factores que favorecen la polinización, excepto uno. ¿Cuál?",
+        "respuestas": {
+          "A": "La forma de las flores",
+          "B": "El peso ligero del polen",
+          "C": "El olor y color de las flores",
+          "D": "La humedad contenida en el polen@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Si con sólo una parte de una planta obtienes una completa, estás propiciando la reproducción…",
+        "respuestas": {
+          "A": "sexual con un progenitor.",
+          "B": "asexual con un progenitor.@",
+          "C": "sexual con dos progenitores.",
+          "D": "asexual con dos progenitores."
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Una característica de la reproducción asexual es que...",
+        "respuestas": {
+          "A": "en ella se da una recombinación genética.",
+          "B": "los nuevos individuos son distintos entre sí.",
+          "C": "se favorece la variabilidad genética de las poblaciones.",
+          "D": "los nuevos individuos son idénticos a los progenitores.@"
+        },
+        "img_asociada": ""
+      },{
+        "reactivo": "Observa la imagen y determina qué tipo de reproducción se representa.",
+        "respuestas": {
+          "A": "Sexual",
+          "B": "Alternativa",
+          "C": "Asexual por gemación@",
+          "D": "Asexual por fragmentación"
+        },
+        "img_asociada": "data/img_asociadas/BI1ED18_GX_AP11_IMG1.jpg",
+        "size":"80%"
+      },
+      {
+        "reactivo": "Son adaptaciones de las plantas que favorecen su reproducción al atraer a los insectos polinizadores.",
+        "respuestas": {
+          "A": "El poder llevar a cabo la fotosíntesis.",
+          "B": "El dimorfismo sexual y el apareamiento.",
+          "C": "La producción de néctar y el color de los pétalos.@",
+          "D": "La capacidad de crecer en zonas secas y mantener el agua en su interior."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las siguientes son adaptaciones en la reproducción de los animales, excepto:",
+        "respuestas": {
+          "A": "cortejo.",
+          "B": "migración",
+          "C": "dimorfismo sexual.",
+          "D": "dispersión de las semillas.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La reproducción sexual se caracteriza porque en ella intervienen dos progenitores, por lo que su descendencia presenta:",
+        "respuestas": {
+          "A": "estabilidad.",
+          "B": "variabilidad.@",
+          "C": "resistencia.",
+          "D": "supervivencia."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La formación de estolones, bulbos, rizomas y tubérculos en las plantas son ejemplos de reproducción:",
+        "respuestas": {
+          "A": "sexual.",
+          "B": "asexual.@",
+          "C": "por polinización.",
+          "D": "por división celular."
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [3]
+  },
+  {
+    "caratula": "Manipulación genética",
+    "nombreAE": "12. <b>Valora</b> las implicaciones éticas de la manipulación genética en la salud y el medioambiente.",
+    "reactivos": [
+      {
+        "reactivo": "Consiste en la inserción de genes sanos o funcionales en las células, que están ausentes en el genoma de una persona, con el fin de tratar una enfermedad de origen genético.",
+        "respuestas": {
+          "A": "Clonación",
+          "B": "Biotecnología",
+          "C": "Terapia génica@",
+          "D": "Genoma humano"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las siguientes son algunas aplicaciones de la ingeniería genética, excepto:",
+        "respuestas": {
+          "A": "Terapia génica",
+          "B": "La adaptación de los seres vivos@",
+          "C": "Medicina genómica",
+          "D": "Obtención de organismos transgénicos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contiene las palabras que completan el enunciado <br><br>Los organismos ________ se obtienen mediante la introducción de genes de un organismo en otro, para ello se utilizan ________ que inyectan los genes de interés en la célula receptora.",
+        "respuestas": {
+          "A": "pluricelulares / virus",
+          "B": "vectores / receptores",
+          "C": "transgénicos / vectores@",
+          "D": "unicelulares / mecanismos de transmisión"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [2]
+  },
+  {
+    "caratula": "Evolución de los seres vivos",
+    "nombreAE": "13. <b>Valora</b> las implicaciones éticas de la manipulación genética en la salud y el medioambiente.",
+    "reactivos": [
+      {
+        "reactivo": "El fósil de un organismo nos brinda información sobre:",
+        "respuestas": {
+          "A": "sus hábitos.",
+          "B": "sus características morfológicas.",
+          "C": "las características de su ecosistema.",
+          "D": "todas las anteriores.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué idea propuso Darwin, al encontrar semejanzas entre los organismos que vivieron hace miles de años y los que viven ahora?",
+        "respuestas": {
+          "A": "Que las condiciones de la Tierra en el pasado eran parecidas a las actuales.",
+          "B": "Que cada especie actual desciende de una especie que existió en el pasado.@",
+          "C": "Que existía una gran diversidad morfológica entre las especies en ese entonces.",
+          "D": "Que las características de los organismos permanecen estables a través del tiempo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Darwin planteó que la evolución...",
+        "respuestas": {
+          "A": "ocurre “dando saltos” a lo largo de cientos de años.",
+          "B": "resulta de la selección de ligeros cambios adaptativos.@",
+          "C": "selecciona a los individuos sobrevivientes de varias catástrofes.",
+          "D": "se da por la herencia genética de habilidades de los padres a los hijos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De acuerdo con los planteamientos de Darwin, ¿cuál de las afirmaciones siguientes es correcta?",
+        "respuestas": {
+          "A": "Los seres vivos cambian por necesidad a través del tiempo.",
+          "B": "Los depredadores determinan qué organismos deben vivir.",
+          "C": "De manera natural, el ambiente selecciona los organismos más aptos.@",
+          "D": "Los animales más rápidos y fuertes siempre son los que sobreviven y se reproducen."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes ideas, ¿cuál de ellas NO se relaciona con la teoría de la selección natural?",
+        "respuestas": {
+          "A": "Algunos organismos están mejor adaptados que otros para sobrevivir en cierto ambiente.",
+          "B": "Los seres humanos estamos sujetos a la selección natural.",
+          "C": "Los seres vivos producen más descendencia de la que sobrevive.",
+          "D": "Los cambios evolutivos se observan de una generación a la siguiente.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué los fósiles representan evidencias de la evolución?",
+        "respuestas": {
+          "A": "Porque permiten conocer que existió vida hace millones de años.",
+          "B": "Porque son restos de organismos que existieron hace mucho tiempo.",
+          "C": "Porque sus restos quedaron atrapados en las rocas.",
+          "D": "Porque tienen características morfológicas similares a los organismos actuales.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Darwin explicó que lo que les permiten a los individuos de una especie sobrevivir en su ambiente y reproducirse son las:",
+        "respuestas": {
+          "A": "variaciones.@",
+          "B": "extremidades.",
+          "C": "distintas conductas.",
+          "D": "condiciones ambientales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Fenómeno que ocurre al llevarse a cabo adaptaciones simultáneas en dos o más especies que les permite interactuar, beneficiarse entre sí y con ello sobrevivir.",
+        "respuestas": {
+          "A": "Adaptación",
+          "B": "Coevolución@",
+          "C": "Relación depredador-presa",
+          "D": "Depredación"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },{
+    "caratula": "Cambios tecnológicos y estudio de los seres vivos",
+    "nombreAE": "<b>Identifica</b> cómo los cambios tecnológicos favorecen el avance en el conocimiento de los seres vivos.",
+    "reactivos": [
+      {
+        "reactivo": "¿Qué instrumento utilizarías para observar una célula?",
+        "respuestas": {
+          "A": "Lupa",
+          "B": "Telescopio",
+          "C": "Microscopio@",
+          "D": "Endoscopio"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que relaciona las partes del microscopio con su función.<br/><br/><table style='font-size:0.7em;'> <tr> <td>A. Ocular</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>I. Sistema de lentes que permite girarlos para elegir el aumento deseado.</td> </tr> <tr> <td>B. Revólver</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>II. Lugar donde se coloca la muestra a observar.</td> </tr> <tr> <td>C. Platina</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>III. Lente cercana a la preparación o muestra a observar.</td> </tr> <tr> <td>D. Objetivo</td> <td>&nbsp;&nbsp;&nbsp;</td> <td>IV. Lente situada cerca del ojo del observador.</td> </tr></table>",
+        "respuestas": {
+          "A": "AI, BII, CIII, DIV",
+          "B": "AII, BI, CIII, DIV",
+          "C": "AIII, BIV, CI, DII",
+          "D": "AIV, BI, CII, DIII@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para una presentación en clase sobre el metabolismo de los seres vivos se requiere identificar qué disciplinas han contribuido a su estudio. Señala aquellas que te ayuden a comprenderlo.",
+        "respuestas": {
+          "A": "Química y fisiología@",
+          "B": "Química y anatomía",
+          "C": "Microscopía y genética",
+          "D": "Ecología y microbiología"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El virus del papiloma humano (VPH) es una enfermedad de transmisión sexual muy contagiosa y la principal causa del cáncer cervicouterino. ¿Cuál de estos aparatos es fundamental para la detección de esta enfermedad?",
+        "respuestas": {
+          "A": "Lupa",
+          "B": "Endoscopio@",
+          "C": "Microscopio",
+          "D": "Estetoscopio"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De entre los siguientes, ¿cuál es el desarrollo tecnológico que dio inicio al descubrimiento de las causas de las enfermedades microbianas?",
+        "respuestas": {
+          "A": "Las vacunas",
+          "B": "Los antibióticos",
+          "C": "El microscopio@",
+          "D": "La pasteurización"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona la opción que contiene las palabras que completan el enunciado <br><br>La invención del microscopio permitió el descubrimiento de ____________ y ___________ la cual es la unidad anatómica de la vida.",
+        "respuestas": {
+          "A": "las enfermedades/la célula",
+          "B": "la microscopía/la anatomía",
+          "C": "los microorganismos/la célula@",
+          "D": "la observación microscópica/la teoría celular"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  },{
+    "caratula": "Cromosomas, genes y ADN",
+    "nombreAE": "<b>Describe</b> la importancia, funciones y ubicación de los cromosomas, genes y ADN.",
+    "reactivos": [
+      {
+        "reactivo": "¿En dónde se encuentra el ADN en una célula eucarionte?",
+        "respuestas": {
+          "A": "Núcleo@",
+          "B": "Vacuola",
+          "C": "Citoplasma",
+          "D": "Mitocondria"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un documental describe que los cromosomas están formados por nucleosomas, que son unidades de ADN compactado, y que durante la división celular el cromosoma se condensa para dar origen a zonas más y menos compactadas para que sean copiadas, de manera que las células hijas tengan el material completo. Por ello, ¿cuál es la función e importancia de los cromosomas?",
+        "respuestas": {
+          "A": "La replicación y traducción del ADN",
+          "B": "La estructura y forma que da al ADN",
+          "C": "La determinación del sexo de todo ser vivo",
+          "D": "La compactación del ADN y su expresión en los genes@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En el Día Mundial del ADN se difundió su importancia, destacando que su función principal es…",
+        "respuestas": {
+          "A": "generar energía en cualquier ser vivo.",
+          "B": "traducir la información genética y llevarla a los ribosomas.",
+          "C": "guardar la información genética de cualquier organismo vivo.@",
+          "D": "generar mutaciones y a su vez causar enfermedades hereditarias."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se organizan los genes dentro de los cromosomas??",
+        "respuestas": {
+          "A": "Forman paquetes de cuatro.",
+          "B": "Forman fragmentos en una de las hélices del ADN.@",
+          "C": "Forman paquetes de dos y los rodea un nucleosoma.",
+          "D": "Los genes no están en los cromosomas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Todas las ideas son correctas, excepto:",
+        "respuestas": {
+          "A": "El genotipo es la expresión del material genético. @",
+          "B": "El fenotipo es la expresión de los genes.",
+          "C": "El color de los ojos es una expresión del material hereditario.",
+          "D": "Un espermatozoide contiene la mitad de los genes que heredará el hijo o hija de un hombre."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son segmentos de ADN y contienen la información que se transmite de los padres a los hijos en la reproducción.",
+        "respuestas": {
+          "A": "Genes@",
+          "B": "Herencia",
+          "C": "Fenotipos",
+          "D": "Cariotipos"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": []
+  }
+]
