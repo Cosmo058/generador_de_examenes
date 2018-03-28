@@ -1,7 +1,7 @@
 [
   {
-    "caratula": "Bloque 1. Ética y globalización",
-    "nombreAE": "<br>Libre comercio <br><br> Desigualdad <br><br> Consumismo <br><br> Migración <br><br> Fuga de cerebros <br><br> Medios masivos de comunicación <br><br> Multiculturalidad e interculturalidad <br><br> Cultura e identidad",
+    "caratula": "Bloque 1",
+    "nombreAE": "<br/>Ética y globalización<br>Libre comercio <br><br> Desigualdad <br><br> Consumismo <br><br> Migración <br><br> Fuga de cerebros <br><br> Medios masivos de comunicación <br><br> Multiculturalidad e interculturalidad <br><br> Cultura e identidad",
     "reactivos": [
       {
         "reactivo": "Cuando en el mundo globalizado se habla de <i>capital humano</i>, se refiere a...",
@@ -197,8 +197,8 @@
     "unidadesAsociadas": [1]
   },
   {
-    "caratula": "Bloque 2. Ética, ciencia y tecnología",
-    "nombreAE": "<br>Implicaciones éticas en el uso de la ciencia y la tecnología <br><br> Desastres provocados por el ser humano al usar la ciencia y la tecnología <br><br> Uso y creación de armamento <br><br> Conductas y enfermedades provocadas por el uso inadecuado de la tecnología <br><br> Principales conflictos éticos en el uso de la ciencia y tecnología <br><br> Uso inadecuado de las redes sociales <br><br> Fraude, plagio científico y falta de rigor en la ciencia <br><br> Uso de la ciencia y la tecnología para el bien común <br><br> Comunicación <br><br> Educación <br><br> Salud <br><br> Inteligencia artificial",
+    "caratula": "Bloque 2",
+    "nombreAE": "<br/>Ética, ciencia y tecnología<br>Implicaciones éticas en el uso de la ciencia y la tecnología <br><br> Desastres provocados por el ser humano al usar la ciencia y la tecnología <br><br> Uso y creación de armamento <br><br> Conductas y enfermedades provocadas por el uso inadecuado de la tecnología <br><br> Principales conflictos éticos en el uso de la ciencia y tecnología <br><br> Uso inadecuado de las redes sociales <br><br> Fraude, plagio científico y falta de rigor en la ciencia <br><br> Uso de la ciencia y la tecnología para el bien común <br><br> Comunicación <br><br> Educación <br><br> Salud <br><br> Inteligencia artificial",
     "reactivos": [
       {
         "reactivo": "En la Antigüedad, ¿qué buscaba el ser humano con el conocimiento?",
@@ -454,8 +454,8 @@
     "unidadesAsociadas": [1]
   },
   {
-    "caratula": "Bloque 4-1. Ética, medio ambiente, desarrollo sostenible y sustentable ",
-    "nombreAE": "<br>Problemas éticos con relación al medio ambiente <br><br> Las normas éticas sobre la experimentación con seres humanos <br><br> Los principios de beneficencia, respeto, justicia y responsabilidad <br><br> Situaciones de estudio propias de la bioética <br><br> Suicidio asistido <br><br> Eutanasia <br><br> Embarazo interrumpido <br><br> Manipulación genética <br><br> Trasplantes de órganos y tejidos <br><br> Reproducción asistida <br><br> Derechos de los animales",
+    "caratula": "Bloque 4-1",
+    "nombreAE": "<br/>Ética, medio ambiente, desarrollo sostenible y sustentable<br>Problemas éticos con relación al medio ambiente <br><br> Las normas éticas sobre la experimentación con seres humanos <br><br> Los principios de beneficencia, respeto, justicia y responsabilidad <br><br> Situaciones de estudio propias de la bioética <br><br> Suicidio asistido <br><br> Eutanasia <br><br> Embarazo interrumpido <br><br> Manipulación genética <br><br> Trasplantes de órganos y tejidos <br><br> Reproducción asistida <br><br> Derechos de los animales",
     "reactivos": [
       {
         "reactivo": "La bioética propone una nueva comprensión de la ética porque...",
@@ -761,8 +761,8 @@
     "unidadesAsociadas": [2]
   },
   {
-    "caratula": "Bloque 4-2. Ética, medio ambiente, desarrollo sostenible y sustentable",
-    "nombreAE": "<br> Problemas éticos con relación al medio ambiente <br> Responsabilidad de la industria, los gobiernos y la sociedad frente a problemas ambientales <br> La deforestación <br> La desertificación <br> La escasez de agua y la sequía <br> La contaminación atmosférica <br> Cambio climático: consecuencias y posibles soluciones <br> Protocolos ambientales <br> Energías limpias y renovables <br> Distribución equitativa y consumo responsable de productos y recursos (economías verdes) <br> Uso de la tecnología para favorecer el desarrollo sostenible del planeta",
+    "caratula": "Bloque 4-2",
+    "nombreAE": "<br/>Ética, medio ambiente, desarrollo sostenible y sustentable<br> Problemas éticos con relación al medio ambiente <br> Responsabilidad de la industria, los gobiernos y la sociedad frente a problemas ambientales <br> La deforestación <br> La desertificación <br> La escasez de agua y la sequía <br> La contaminación atmosférica <br> Cambio climático: consecuencias y posibles soluciones <br> Protocolos ambientales <br> Energías limpias y renovables <br> Distribución equitativa y consumo responsable de productos y recursos (economías verdes) <br> Uso de la tecnología para favorecer el desarrollo sostenible del planeta",
     "reactivos": [
       {
         "reactivo": "¿Documento que propone una noción de desarrollo sostenible que no comprometa la capacidad de las generaciones futuras para satisfacer sus necesidades?",

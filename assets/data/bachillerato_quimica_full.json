@@ -1,7 +1,7 @@
 [
   {
-    "caratula": "Bloque 1. Estequiometría",
-    "nombreAE": "<br/>Mol y cantidad de sustancia<br/><br/>Masa molar<br/><br/>Volumen molar<br/><br/>Ley de la conservación de la materia",
+    "caratula": "Periodo de evaluación 1",
+    "nombreAE": "<br/>Estequiometría<br/>Mol y cantidad de sustancia<br/><br/>Masa molar<br/><br/>Volumen molar<br/><br/>Ley de la conservación de la materia",
     "reactivos": [
       {
         "reactivo": "De las siguientes aseveraciones, ¿cuál explica el número de Avogadro?",
@@ -257,8 +257,8 @@
     "unidadesAsociadas": [1]
   },
   {
-    "caratula": "Bloque 2. Sistemas dispersos",
-    "nombreAE": "<br/>Materia (Sustancias puras: elementos y compuestos)<br/><br/>Materia (Mezclas: homogéneas y heterogéneas)<br/><br/>Sistemas dispersos (disoluciones)<br/><br/>Sistema disperso (coloides)<br/><br/>Sistemas dispersos (suspensiones)",
+    "caratula": "Periodo de evaluación 2",
+    "nombreAE": "<br/>Sistemas dispersos<br/>Materia (Sustancias puras: elementos y compuestos)<br/><br/>Materia (Mezclas: homogéneas y heterogéneas)<br/><br/>Sistemas dispersos (disoluciones)<br/><br/>Sistema disperso (coloides)<br/><br/>Sistemas dispersos (suspensiones)",
     "reactivos": [
       {
         "reactivo": "De acuerdo con su número de componentes, los materiales pueden clasificarse en ",
@@ -624,8 +624,8 @@
     "unidadesAsociadas": [1]
   },
   {
-    "caratula": "Bloque 3. Compuestos del carbono y Macromoléculas",
-    "nombreAE": "<br/>Carbono<br/><br/>Cadenas<br/><br/>Fórmulas",
+    "caratula": "Periodo de evaluación 3",
+    "nombreAE": "<br/>Compuestos del carbono y Macromoléculas<br/>Carbono<br/><br/>Cadenas<br/><br/>Fórmulas",
     "reactivos": [
       {
         "reactivo": "¿Cuál es el objeto de estudio de la química orgánica?",
