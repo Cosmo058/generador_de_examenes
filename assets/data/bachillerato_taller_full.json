@@ -1,0 +1,1135 @@
+[
+  {
+    "caratula": "Periodo de evaluación 1",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "¿Cuáles son las principales fuentes léxicas históricas que nutren la construcción del español?",
+        "respuestas": {
+          "A": "Náhuatl, sirio, inglés.",
+          "B": "Ruso, alemán, checo.",
+          "C": "Otomano, sirio, francés.",
+          "D": "Griego, galo, germano.",
+          "E": "Griego, latín, árabe.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A qué se le llama cultismo?",
+        "respuestas": {
+          "A": "A una palabra que proviene directamente del griego culto.",
+          "B": "Al concepto que haya sido tomado del latín.",
+          "C": "A una palabra que se compone de prefijos o sufijos del griego y del latín.@",
+          "D": "A un término que se usa en la ciencia y en la tecnología.",
+          "E": "A una palabra que usa una persona culta."
+
+
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En el enunciado <em>El viajero de apesadumbrado semblante bendijo a su <u>paraguas</u> durante el verano</em>, el término subrayado es una palabra:",
+        "respuestas": {
+          "A": "Derivada",
+          "B": "Primitiva",
+          "C": "Compuesta@",
+          "D": "Sinónima",
+          "E": "Disyuntiva"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De la siguiente lista, elige la opción que muestra dos palabras derivadas.<br/><ul style='font-size: 9pt; list-style-type: upper-roman;'><li>Florería</li><li>Gastritis</li><li>Ventana</li><li>Sacapuntas</li><li>Caminar</li></ul>",
+        "respuestas": {
+          "A": "II y IV",
+          "B": "I y V",
+          "C": "III y IV",
+          "D": "I y II@",
+          "E": "IV y V"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona el prefijo que expresa negación o separación.",
+        "respuestas": {
+          "A": "ble",
+          "B": "anti",
+          "C": "itis",
+          "D": "pre",
+          "E": "dis@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige la opción que describa la composición de la palabra <em>ojialegre</em>.",
+        "respuestas": {
+          "A": "Adjetivo+adjetivo",
+          "B": "Sustantivo+adjetivo@",
+          "C": "Adjetivo+verbo",
+          "D": "Adverbio+adjetivo",
+          "E": "Sustantivo+verbo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De la siguiente lista, elige la opción que muestra dos ejemplos de sinapsia.<br/><ul style='font-size: 9pt; list-style-type: upper-roman;'><li>Historia universal</li><li>Palacio de Bellas Artes</li><li>Paraplejia</li><li>Desánimo</li><li>Colegio de Bachilleres</li><li>Revolución mexicana</li></ul>",
+        "respuestas": {
+          "A": "II y V@",
+          "B": "III y IV",
+          "C": "I y VI",
+          "D": "IV y V",
+          "E": "V y VI"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Para qué sirve pensar en la familia de una palabra?",
+        "respuestas": {
+          "A": "Para identificar la base léxica de una palabra.@",
+          "B": "Para mejorar el uso de esa palabra.",
+          "C": "Para identificar los sufijos griegos.",
+          "D": "Para incrementar el conocimiento científico.",
+          "E": "Para saber usarla en otros contextos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige la opción que describa la composición de la palabra <em>desordenado</em>.",
+        "respuestas": {
+          "A": "Base léxica + sufijo",
+          "B": "Sustantivo + adjetivo",
+          "C": "Prefijo + base léxica + sufijo@",
+          "D": "Preposición + base léxica + adjetivo",
+          "E": "Sufijo + base léxica"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La palabra <em>amor-odio</em> presenta una composición llamada...",
+        "respuestas": {
+          "A": "yuxtaposición",
+          "B": "derivación",
+          "C": "sinapsia",
+          "D": "contraposición@",
+          "E": "cultismo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es el elemento morfológico que aporta información sobre el género y número a la palabra.",
+        "respuestas": {
+          "A": "Base léxica",
+          "B": "Morfema@",
+          "C": "Raíz",
+          "D": "Prefijo",
+          "E": "Sinapsis"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige la opción que complementa correctamente el siguiente párrafo.<br/>Las palabras en español se forman con una base léxica más ____________ que pueden ser ____________, los cuales aportan el género y los derivativos que se dividen en prefijos y ____________.",
+        "respuestas": {
+          "A": "derivadas, sufijos, morfológicos.",
+          "B": "compuestos, familias, términos.",
+          "C": "sufijos, gramaticales, cultismos.",
+          "D": "morfemas, flexivos, sufijos.@",
+          "E": "sinapsias, simples, compuestos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige la opción que indique cuáles enunciados contienen información verdadera.<br/>I La morfología es una rama de la medicina.<br/>II Las palabras derivadas siempre usan un sufijo.<br/>III Realizar una familia de palabras sirve para determinar la base léxica.<br/>IV La palabra <em>maléfico</em> es derivada.<br/>V La composición es la unión de dos o más palabras para tener un significado único.",
+        "respuestas": {
+          "A": "III, IV y V@",
+          "B": "I, II, III",
+          "C": "I, III, V",
+          "D": "I, IV, V",
+          "E": "I, II, V"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A partir de la lectura del siguiente texto, elige la opción que relacione correctamente la palabra con su clasificación morfológica. ",
+        "respuestas": {
+          "A": "<em>Calabaza</em>, derivada; <em>regular</em>, compuesta;<em> Muertos</em>, primitiva.",
+          "B": "<em>Maíz</em>, primitiva; <em>infaltable</em>, derivada; <em>Día de Muertos</em>, compuesta.@",
+          "C": "<em>Creación</em>, compuesta; <em>ceremonias</em>, derivada; <em>ofrendas</em>, primitiva.",
+          "D": "<em>Mundo</em>, primitiva; <em>parte</em>, derivada; <em>Día</em>, derivada.",
+          "E": "<em>Producto</em>, compuesta; <em>parte</em>, derivada; <em>hacían</em>, compuesta."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son características esenciales en un texto científico. ",
+        "respuestas": {
+          "A": "Informar, convencer y facilitar aprendizaje.",
+          "B": "Interpretar sentimientos, tramitar algo, explicar.",
+          "C": "Recrear información, objetividad, interpretar.",
+          "D": "Objetividad, explicar hechos, describir.@",
+          "E": "Convencer, crear personajes, describir."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona correctamente los siguientes tipos de texto con su clasificación.",
+        "respuestas": {
+          "A": "Ia; IIc; IIIb; IVa",
+          "B": "Ib; IIb; IIIc; IVa@",
+          "C": "Ic; IIa; IIIa; IVb",
+          "D": "Ic; IIc; IIIa; IVc",
+          "E": "Ib; IIa; IIIc; IVc"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los textos funcionales se utilizan de forma recurrente en los siguientes ámbitos:",
+        "respuestas": {
+          "A": "Laboral y administrativo@",
+          "B": "Artístico y laboral",
+          "C": "Científico y afectivo",
+          "D": "Social y creativo",
+          "E": "Histórico y artístico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Según Roman Jakobson, ¿qué función de la lengua muestra la relación entre el mensaje y el receptor?",
+        "respuestas": {
+          "A": "Poética",
+          "B": "Referencial",
+          "C": "Fática",
+          "D": "Apelativa@",
+          "E": "Emotiva"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es el tipo de información que se usa en la función referencial.",
+        "respuestas": {
+          "A": "Poética y emotiva",
+          "B": "Histórica y persuasiva",
+          "C": "Verosímil y poética",
+          "D": "Objetiva y detallada@",
+          "E": "Emotiva e interpretativa"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De la siguiente lista, elige la opción que contenga dos textos funcionales administrativos.",
+        "respuestas": {
+          "A": "Convocatoria y cuadro sinóptico",
+          "B": "Blog y mapa mental",
+          "C": "Pasaporte y carta poder@",
+          "D": "Mapa conceptual y oficio",
+          "E": "Testamento y cuento"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué función de la lengua predomina en los textos políticos, publicitarios y doctrinales?",
+        "respuestas": {
+          "A": "Función emotiva",
+          "B": "Función referencial",
+          "C": "Función apelativa@",
+          "D": "Función fática",
+          "E": "Función metalingüística"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige la opción que contenga las principales aplicaciones de un texto funcional escolar.",
+        "respuestas": {
+          "A": "IV, V",
+          "B": "II, IV",
+          "C": "I, III",
+          "D": "II, V@",
+          "E": "I, II"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Deben usarse al elaborar un mapa conceptual.",
+        "respuestas": {
+          "A": "Citas textuales y figuras ",
+          "B": "Palabras clave y conectores@",
+          "C": "Llaves y conceptos",
+          "D": "Ideas creativas y cuadros",
+          "E": "Dibujos y esquemas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es un documento que se usa como testimonio para informar o dar cuenta de lo ocurrido en una reunión, asamblea o evento.",
+        "respuestas": {
+          "A": "El blog ",
+          "B": "La solicitud de empleo",
+          "C": "El mapa mental",
+          "D": "La convocatoria",
+          "E": "El acta@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona el orden de los datos que debes incluir en un currículum vitae.",
+        "respuestas": {
+          "A": "IV, V, III, I, II",
+          "B": "I, II, III, V, IV",
+          "C": "II, I, IV, III, V@",
+          "D": "III, IV, II, V, I",
+          "E": "V, III, I, II, IV"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el concepto de la palabra <em>machote</em> con su origen.",
+        "respuestas": {
+          "A": "IIe",
+          "B": "IVc@",
+          "C": "IIId",
+          "D": "Vb",
+          "E": "Ia"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona las siguientes situaciones comunicativas con el texto funcional que le corresponda. ",
+        "respuestas": {
+          "A": "Ic; IId; IIIb; IVa; Ve",
+          "B": "Ia; IIb; IIIe; IVc; Vd",
+          "C": "Ie; IIa; IIIc; IVb; Vd",
+          "D": "Ib; IIe; IIIa; IVd; Vc@",
+          "E": "Id; IIc; IIIb; IVe; Va"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Texto funcional que permite al autor expresarse periódicamente en una plataforma virtual, sobre temas que son de su interés y con la posibilidad de recibir comentarios.",
+        "respuestas": {
+          "A": "Blog@",
+          "B": "Oficio",
+          "C": "Convocatoria",
+          "D": "Carta de petición",
+          "E": "Solicitud de empleo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Texto funcional que incluye el verbo otorgar en el cuerpo del texto y requiere de la firma de testigos.",
+        "respuestas": {
+          "A": "Carta de petición",
+          "B": "Blog",
+          "C": "Acta",
+          "D": "Solicitud de empleo",
+          "E": "Carta poder@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Texto funcional que requiere de datos veraces, se respalda con documentos y debe destacarse la experiencia laboral.",
+        "respuestas": {
+          "A": "Carta poder@",
+          "B": "Solicitud de empleo",
+          "C": "Acta",
+          "D": "Oficio",
+          "E": "Carta de petición"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La desinformación, la confusión y el tergiversar la información son consecuencias ante la falta de ______________ del emisor.",
+        "respuestas": {
+          "A": "conocimiento",
+          "B": "seriedad",
+          "C": "responsabilidad@",
+          "D": "inteligencia",
+          "E": "criterio"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El texto persuasivo es resultado de la reflexión crítica, por lo tanto requiere de los siguientes elementos.",
+        "respuestas": {
+          "A": "Argumentos y propuestas de solución@",
+          "B": "Ideas nuevas y ortografía ",
+          "C": "Inventiva y socialización ",
+          "D": "Fuentes informativas e idealización ",
+          "E": "Foros de difusión y valentía"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tipo de palabra de uso real la cual desaparece del habla mayoritaria, es decir, cae en desuso.",
+        "respuestas": {
+          "A": "Extranjerismo",
+          "B": "Arcaísmo@",
+          "C": "Neologismo",
+          "D": "Tecnicismo",
+          "E": "Galicismo "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Palabra que se crea para reflejar los avances en la ciencia, el arte o en la tecnología.",
+        "respuestas": {
+          "A": "Sinónimo ",
+          "B": "Arcaísmo",
+          "C": "Extranjerismo",
+          "D": "Tecnicismos",
+          "E": "Neologismo@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Texto breve que expresa una postura u opinión, su autor es un especialista que participa en publicaciones periódicas.",
+        "respuestas": {
+          "A": "Artículo de opinión@",
+          "B": "Caricatura política",
+          "C": "Eslogan",
+          "D": "Emblema",
+          "E": "Anuncio publicitario"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relacione las acciones con la descripción que le corresponde.",
+        "respuestas": {
+          "A": "IIId; Ie; IVb; IIa; Vc",
+          "B": "Ib; IVd; IIc; Ve; IIIa",
+          "C": "Id; IIe; IIIa; IVb; Vc@",
+          "D": "Va; IVc; IIIe; IId; Ib",
+          "E": "Ic; IIa; IIId; IVb; Ve"
+        },
+        "img_asociada": ""
+      }
+
+
+
+    ],
+    "unidadesAsociadas": [1]
+  },
+
+  {
+    "caratula": "Periodo de evaluación 2",
+    "nombreAE": "<br/><br/><b>TEXTO</b>",
+    "reactivos": [
+      {
+        "reactivo": "Son pasos para analizar una caricatura política. ",
+        "respuestas": {
+          "A": "Identificar neologismos, reconocer voces extranjeras.",
+          "B": "Verificar la conclusión del autor, identificar el tema.",
+          "C": "Retocar imagen principal, observar frases para convencer al público.",
+          "D": "Identificar personaje y hecho, observar imágenes principales y secundarias.@",
+          "E": "Usar argumentos por analogía, revisar preguntas retóricas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El eslogan es...",
+        "respuestas": {
+          "A": "un retrato irónico",
+          "B": "un argumento de venta",
+          "C": "el neologismo de sentido",
+          "D": "la caracterización del público",
+          "E": "una frase corta y rítmica@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Texto persuasivo que emplea imágenes retocadas, argumentos emotivos y texto con figuras retóricas como la comparación y la metáfora.  ",
+        "respuestas": {
+          "A": "Caricatura política",
+          "B": "Anuncio publicitario@",
+          "C": "Ensayo",
+          "D": "Artículo de opinión",
+          "E": "Arcaísmo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El ______________ presenta imágenes, datos, gráficos y otro tipo de testimonios. ",
+        "respuestas": {
+          "A": "argumento de hecho@",
+          "B": "apelación a las consecuencias",
+          "C": "argumento de autoridad",
+          "D": "argumento causa-consecuencia",
+          "E": "uso de sinécdoques"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Expresión figurada que se distancia del sentido literal que pone de relieve la función poética de la lengua.",
+        "respuestas": {
+          "A": "Imagen metafórica",
+          "B": "Caricatura política ",
+          "C": "Figura retórica@",
+          "D": "Acrónimo",
+          "E": "Elementos simbólicos "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El argumento de autoridad tiene como principal característica...",
+        "respuestas": {
+          "A": "enfatizar las consecuencias de una mala argumentación.",
+          "B": "usar datos concretos para informar al receptor.",
+          "C": "comparar las semejanzas entre argumentos.",
+          "D": "imitar y recrear sonidos de la realidad.",
+          "E": "sostener mediante citas textuales una postura.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las reseñas de libros, ensayos y artículos didácticos son textos persuasivos... ",
+        "respuestas": {
+          "A": "políticos",
+          "B": "académicos@",
+          "C": "sociales",
+          "D": "comerciales",
+          "E": "periodísticos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige la opción que señala el orden en el que se organizan los elementos de un texto persuasivo.",
+        "respuestas": {
+          "A": "V, IV, II, I, III",
+          "B": "III, II, IV, I, V",
+          "C": "II, V, III, IV, I",
+          "D": "IV, III, V, I, II@",
+          "E": "I, V, II, III, IV"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una ________________ busca la reflexión del receptor mediante cuestionamientos que son resueltos durante la argumentación. ",
+        "respuestas": {
+          "A": "alusión a modelos",
+          "B": "pregunta retórica@",
+          "C": "metáfora",
+          "D": "sinécdoque",
+          "E": "ironía"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona las figuras retóricas usadas en la persuasión.",
+        "respuestas": {
+          "A": "Ve; IVd; IIIc; Ia; IIb",
+          "B": "IIIa; IVb; Ve; IId; Ic",
+          "C": "Id; IIe; IVa; IIIb; Vc@",
+          "D": "Vb; Ia; IVd; IIIc; IIe",
+          "E": "IIc; IIIa; Vb; IVe; Id"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Escrito que combina texto e imágenes y retratan con mirada irónica los principales acontecimientos sociales y políticos de un país.",
+        "respuestas": {
+          "A": "Anuncio publicitario",
+          "B": "Nota periodística",
+          "C": "Caricatura política@",
+          "D": "Artículo de opinión",
+          "E": "Ensayo demostrativo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es un texto en el que el autor manifiesta su postura acerca de un asunto que despierta el interés de la opinión pública. El texto expone el problema, la postura de autor y los argumentos que la sustentan. ",
+        "respuestas": {
+          "A": "Artículo de opinión@",
+          "B": "Caricatura política",
+          "C": "Nota periodística",
+          "D": "Anuncio publicitario",
+          "E": "Ensayo demostrativo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué es el aparato crítico? ",
+        "respuestas": {
+          "A": "El sustento argumentativo de un texto demostrativo o de investigación.",
+          "B": "La bibliografía de texto argumentativo o demostrativo.",
+          "C": "Conjunto de citas, notas y bibliografía de un texto argumentativo o demostrativo.@",
+          "D": "La tesis y la argumentación de un texto persuasivo o argumentativo.",
+          "E": "Serie de elementos que estructuran un ensayo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Escritor francés conocido como el padre del género ensayístico. ",
+        "respuestas": {
+          "A": "Séneca",
+          "B": "Michel de Montaigne@",
+          "C": "Pierre de Ronsard",
+          "D": "Isócrates",
+          "E": "William Shakespeare",
+          "F": "Miguel de Cervantes"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tipo de ensayo que presenta los resultados de alguna investigación, incluye argumentos de hecho y de autoridad. ",
+        "respuestas": {
+          "A": "Literario",
+          "B": "Interpretativo",
+          "C": "Filosófico ",
+          "D": "Demostrativo@",
+          "E": "Científico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Al hecho de refutar una tesis para justificar una tesis contraria se le llama...",
+        "respuestas": {
+          "A": "Argumentación",
+          "B": "Argumento",
+          "C": "Contraargumento ",
+          "D": "Contraataque",
+          "E": "Contraargumentación@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ordena los elementos que componen un ensayo.",
+        "respuestas": {
+          "A": "V, III, II, IV, I",
+          "B": "IV, II, I, III, V@",
+          "C": "III, V,II,IV,I",
+          "D": "I, III, V, II, IV",
+          "E": "II, IV, V, I, III"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tipo de ensayo que relaciona temas y opiniones sobre la ética, la conciencia, la metafísica, etcétera.",
+        "respuestas": {
+          "A": "Filosófico@",
+          "B": "Literario",
+          "C": "Histórico ",
+          "D": "Interpretativo",
+          "E": "Científico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el orden de los datos de un libro para un registro estilo APA? ",
+        "respuestas": {
+          "A": "Título, autor, fecha, edItorial, número de edición, ciudad",
+          "B": "Fecha, autor, título, ciudad, edItorial, número de edición ",
+          "C": "Autor, título, ciudad, edItorial, número de edición, fecha",
+          "D": "Autor,fecha, título, número de edición, ciudad, editorial@",
+          "E": "EdItorial, autor, título, número de edición, fecha, ciudad"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuando se registra la idea original de otro texto en un ensayo mediante comillas y se anotan los datos completos del texto se trata de...",
+        "respuestas": {
+          "A": "un argumento",
+          "B": "un elemento crítico ",
+          "C": "una cita textual@",
+          "D": "una referencia parafraseada",
+          "E": "un dato bibliográfico "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "El ensayo en el ámbito académico tiene como máxima finalidad _______________.",
+        "respuestas": {
+          "A": "construir y difundir conocimiento@",
+          "B": "motivar la redacción ",
+          "C": "verificar los conocimientos del alumno",
+          "D": "observar diferentes fuentes de información ",
+          "E": "aclarar puntos de vista de un mismo tema"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ordena los siguientes pasos para la elaboración de un ensayo.  ",
+        "respuestas": {
+          "A": "I, III, V, IV, II, VI",
+          "B": "II, VI, V, I, IV, III",
+          "C": "V, II, VI, I, IV, III",
+          "D": "III, V, II, IV, VI, I",
+          "E": "IV, VI, II, I, III, V@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elemento del ensayo que muestra el desarrollo de las razones de la opinión del autor. ",
+        "respuestas": {
+          "A": "Título",
+          "B": "Tesis",
+          "C": "Argumentación@",
+          "D": "Conclusión",
+          "E": "Introducción "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Parte del ensayo que recupera y refuerza la tesis. ",
+        "respuestas": {
+          "A": "Argumentación ",
+          "B": "Conclusión @",
+          "C": "Título",
+          "D": "Introducción",
+          "E": "Aparato crítico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una tesis es...  ",
+        "respuestas": {
+          "A": "la presentación breve del tema del ensayo.",
+          "B": "la expresión que plantea la relación entre dos o más elementos expuestos.",
+          "C": "el desarrollo de la opinión del autor en el texto.",
+          "D": "la explicación breve de la postura del autor del ensayo.@",
+          "E": "el reforzamiento de la argumentación del ensayo."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿La principal finalidad de un ensayo es?",
+        "respuestas": {
+          "A": "Persuadir al lector de su adhesión a una postura.@",
+          "B": "Demostrar la validez de los argumentos.",
+          "C": "Explicar las ideas sobre un tema.",
+          "D": "Interpretar correctamente los argumentos de otros autores. ",
+          "E": "Ejemplificar el uso de recursos literarios persuasivos."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige la opción que exprese una característica del ensayo. ",
+        "respuestas": {
+          "A": "El ensayo es un tratado completo y exhaustivo de un tema.",
+          "B": "El objetivo de un ensayo es mostrar una idea y como se llegó a ella.@",
+          "C": "El ensayo busca influir en la actitud del lector mediante la demostración.",
+          "D": "El ensayo busca satisfacer la curiosidad de un lector.",
+          "E": "El ensayo narra cronológicamente el desarrollo de un acontecimiento relevante."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuando una cita textual rebasa las cuatro líneas... ",
+        "respuestas": {
+          "A": "debe colocarse entrecomillada.",
+          "B": "debe separarse del cuerpo de texto.@",
+          "C": "debe registrarse en derecho de autor.",
+          "D": "debe resaltarse con color.",
+          "E": "debe evitarse."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Para que sirven las notas de un ensayo?",
+        "respuestas": {
+          "A": "Para consignar el nombre de los autores consultados. ",
+          "B": "Para referir las obras que se consultaron en el proceso de escritura.",
+          "C": "Para dar al lector información contextual, aclaraciones o datos que profundizan las ideas relevantes.@",
+          "D": "Para que los lectores puedan ir a las fuentes de consulta y les sea posible verificar lo que se menciona o ampliar su conocimeinto del tema.",
+          "E": "Para que los lectores se expresen y debatan un tema polémico."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es la diferencia entre un listado de referencias y una bibliografía?",
+        "respuestas": {
+          "A": "El listado de referencias sugiere la consulta de fuentes no citadas.",
+          "B": "El listado de referencias registra únicamente las fuentes consultadas y la bibliografía incluye además las fuentes que se consultaron aunque no se hayan citado.@",
+          "C": "El listado de referencias consta de las fuentes citadas y además incluye comentarios, aclaraciones e información contextual o datos que profundizan las ideas relevantes.",
+          "D": "La diferencia entre el listado de referencias y la bibliografía es el nombre.",
+          "E": "En la bibliografía se consigna todo lo que hemos leído al respecto del tema."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué son los textos orales? ",
+        "respuestas": {
+          "A": "Los textos que para realizarse usan como soporte la oralidad, es decir, el uso de la palabra hablada.@",
+          "B": "Los textos expositivos argumentativos que se emiten verbalmente.",
+          "C": "Los debates y las llamadas telefónicas.",
+          "D": "El modo de comunicación verbal a través de sonidos producidos por medio del aparato fonador humano.",
+          "E": "Aquellos que externan responsablemente una opinión mediante la voz."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "____________________ son aspectos que deben cuidarse al expresarse oralmente. ",
+        "respuestas": {
+          "A": "La estructura del texto, el foro y la voz.",
+          "B": "Las palabras, la voz y los movimientos corporales.@",
+          "C": "La argumentación, la voz y el aparato crítico.",
+          "D": "Las ideas, el volumen y el público.",
+          "E": "Los movimientos corporales, la argumentación y las citas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona la forma en que las funciones de la lengua se manifiestan durante un ejercicio de expresión oral.",
+        "respuestas": {
+          "A": "Ia, IIe, IIId, IVc, Vb",
+          "B": "Ib, IIa, III, IVd, Vc",
+          "C": "Ic, IIb, IIId, IVe, Va",
+          "D": "Ie, IId, IIIc, IVa, Vb@",
+          "E": "Id, IIc, IIIa, IVb, Ve"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son los principales beneficios de expresarse oralmente en el ámbito estudiantil.",
+        "respuestas": {
+          "A": "Ampliar el conocimiento del aparato crítico, perder la timidez.",
+          "B": "Aprender a usar las manos y el uso de la voz.",
+          "C": "Desarrollo del pensamiento crítico, mejorar la selección de la información.@",
+          "D": "Aprender a sobreponerse al público, no hacer evidentes los errores.",
+          "E": "El uso de fuentes de información, reconocer al interlocutor."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles son las funciones de la lengua que predominan en los textos orales?",
+        "respuestas": {
+          "A": "Poética, fática y emotiva.",
+          "B": "Emotiva, metalingüística, apelativa.",
+          "C": "Apelativa, poética y emotiva.",
+          "D": "Referencial, apelativo y fáctica.@",
+          "E": "Metalingüística, referencial y poética."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Evento comunicativo oral que reúne a varios expertos para sostener su punto de vista? ",
+        "respuestas": {
+          "A": "Mesa redonda@",
+          "B": "Texto argumentativo",
+          "C": "Foro",
+          "D": "Debate",
+          "E": "Conferencia"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  },
+
+  {
+    "caratula": "Periodo de evaluación 3",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "_____________________ es una discusión en forma libre sobre un tema en el cual los participantes no son expertos en el tema. ",
+        "respuestas": {
+          "A": "La conferencia",
+          "B": "El debate",
+          "C": "El foro@",
+          "D": "La mesa redonda",
+          "E": "El comentario crítico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los roles de los diferentes participantes en una mesa redonda con las funciones que llevan a cabo.",
+        "respuestas": {
+          "A": "I c y d; II b; III a y e",
+          "B": "I a y d; II b y c; III e",
+          "C": "I a y c; II b y e; III d",
+          "D": "I a y c; IId; III b y e",
+          "E": "I a y e; II a y b; IIIc@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En los eventos comunicativos formales que implican la persuasión o el convencimiento del público, un participante puede defender su tesis refutando la tesis de alguien más, a ese proceso se le llama ________________________. ",
+        "respuestas": {
+          "A": "contraargumentación@",
+          "B": "falacia de apelación ",
+          "C": "estrategia discursiva",
+          "D": "poner a prueba los argumentos",
+          "E": "inicio del debate"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un error argumentativo recibe el nombre de... ",
+        "respuestas": {
+          "A": "estrategia discursiva.",
+          "B": "contra argumento.",
+          "C": "argumento de prueba.",
+          "D": "falacia.@",
+          "E": "formulación argumental."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Elige el tipo de falacia que supone algo como verdadero sólo porque está registrado en alguna fuente.",
+        "respuestas": {
+          "A": "Basada en la mayoría ",
+          "B": "De autoridad@",
+          "C": "De ignorancia",
+          "D": "Basada en la tradición ",
+          "E": "Por repetición "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona los planteamientos que ejemplifican falacias.",
+        "respuestas": {
+          "A": "II, IV y V",
+          "B": "I, III y V",
+          "C": "I, II y V@",
+          "D": "II, III y IV",
+          "E": "III, IV y V"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tipo de recurso de apoyo en la comunicación oral que emplea enumeraciones de elementos. ",
+        "respuestas": {
+          "A": "Mapa mental",
+          "B": "Lista de cotejo@",
+          "C": "Diapositivas",
+          "D": "Cuadro comparativo",
+          "E": "Gráfica "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una diapositiva debe tener __________________________ para su adecuado uso.",
+        "respuestas": {
+          "A": "imágenes adecuadas, texto completo con citas, colores atractivos",
+          "B": "estilo de letra juvenil, muchas imágenes y efectos ",
+          "C": "texto completo con citas, imágenes impactantes y efectos ",
+          "D": "estilo novedoso, colores atractivos e imágenes@",
+          "E": "Gráfica"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La falacia de generalización apresurada es aquella que... ",
+        "respuestas": {
+          "A": "busca la aprobación porque no se puede demostrar lo contrario.",
+          "B": "se basa en una idea apoyada por una mayoría.",
+          "C": "utiliza el ejemplo de la tradición para sustentar el argumento.",
+          "D": "se establece como regla tomando en cuenta sólo unos ejemplos.@",
+          "E": "Considera que una idea es verdadera por ser reiterada."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Selecciona el tipo de recurso de apoyo para la comunicación oral que se basa en representar información importante.",
+        "respuestas": {
+          "A": "Video",
+          "B": "Diapositiva",
+          "C": "Esquema@",
+          "D": "Gráfica",
+          "E": "Documento escrito "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Tipo de falacia que busca salir de tema buscando la filiación de la audiencia?",
+        "respuestas": {
+          "A": "De autoridad",
+          "B": "De apelación @",
+          "C": "De generalización apresurada",
+          "D": "Por repetición",
+          "E": "Basada en la tradición "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Evento comunicativo que busca la opinión de especialistas sobre un tema polémico?",
+        "respuestas": {
+          "A": "Debate@",
+          "B": "Foro",
+          "C": "Texto expositivo ",
+          "D": "Conferencia",
+          "E": "Mesa redonda"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Tipo de textos en los cuales predomina la función poética y emotiva?",
+        "respuestas": {
+          "A": "Textos funcionales",
+          "B": "Textos científicos",
+          "C": "Textos filosóficos",
+          "D": "Textos recreativos@",
+          "E": "Textos argumentativos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Formato de texto recreativo que asemeja en su forma al lenguaje cotidiano, se organiza en párrafos",
+        "respuestas": {
+          "A": "Prosa@",
+          "B": "Poema",
+          "C": "Teatro",
+          "D": "Lírica",
+          "E": "Diálogo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los siguientes tipos de narrador con sus características.",
+        "respuestas": {
+          "A": "I c; II a y d, III b y e",
+          "B": "I e; II a y c; III b y d",
+          "C": "I a y c; II b y d; III e",
+          "D": "I a; II b y c; III d y e ",
+          "E": "I b y d; II e; III a y c@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Momento de la narración en que la historia alcanza su punto máximo? ",
+        "respuestas": {
+          "A": "Nudo",
+          "B": "Clímax@",
+          "C": "Personaje protagonista",
+          "D": "Desenlace",
+          "E": "Planteamiento"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Personaje que en algún momento de la historia aparece en la narración, puede aparecer y desaparecer de la trama sin que afecte el relato.",
+        "respuestas": {
+          "A": "Marco",
+          "B": "Principal",
+          "C": "Ambiental",
+          "D": "Secundario@",
+          "E": "Antagónico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tipo de ruptura temporal que consiste en volver a un acontecimiento pasado a través de los recuerdos o memorias. ",
+        "respuestas": {
+          "A": "Sumario",
+          "B": "Elipsis",
+          "C": "Analepsis@",
+          "D": "Pretérito",
+          "E": "Prolepsis"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La métrica es un elemento _______________ de lenguaje que interviene en los textos recreativos.",
+        "respuestas": {
+          "A": "filosófico",
+          "B": "literario",
+          "C": "argumentativo ",
+          "D": "poético@",
+          "E": "prosístico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las obras de este género se escriben para ser representadas. ",
+        "respuestas": {
+          "A": "Lírico",
+          "B": "Dramático@",
+          "C": "Poético",
+          "D": "Teatro",
+          "E": "Prosa"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Texto recreativo popular que es breve y gracioso.",
+        "respuestas": {
+          "A": "Fábula",
+          "B": "Leyenda",
+          "C": "Adivinaza",
+          "D": "Proverbio",
+          "E": "Chiste@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La historieta se caracteriza por… ",
+        "respuestas": {
+          "A": "los dibujos que son creados para comunicar.",
+          "B": "una gran historia y algunas imágenes.",
+          "C": "la combinación de ilustraciones o imágenes con un relato escrito.@",
+          "D": "la presencia de superhéroes y hazañas a favor de la humanidad.",
+          "E": "la fantasía creativa del artista para contar historias visuales."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "A una adivinanza culta se le reconoce por ________________________.",
+        "respuestas": {
+          "A": "su relación con el significado.",
+          "B": "la interpretación del significante.",
+          "C": "utilizar referentes de la vida cotidiana.",
+          "D": "presentar las pistas en forma de enigma.@",
+          "E": "la relación significado-significante."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Cuando la historia dramática se desarrolla en un solo espacio físico se le llama…",
+        "respuestas": {
+          "A": "el ambiente ",
+          "B": "la unidad de lugar@",
+          "C": "contexto de la obra",
+          "D": "escena",
+          "E": "acto "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué es la métrica? ",
+        "respuestas": {
+          "A": "La medida de un verso según sus sílabas poéticas.@",
+          "B": "Una de las características más representativas de la poesía moderna.",
+          "C": "La musicalidad del verso que se logra combinando sílabas.",
+          "D": "La semejanza de sonidos de las terminaciones en dos o más versos.",
+          "E": "El número de sílabas en las que se puede seccionar un verso."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La estrofa es _________________ de un poema. ",
+        "respuestas": {
+          "A": "el conjunto de versos@",
+          "B": "la unión de dos vocales débiles",
+          "C": "la repetición de versos",
+          "D": "la coincidencia de la última sílaba del verso",
+          "E": "el uso de figuras retóricas"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Forma comunicativa en la que el emisor y un receptor intercambian mensajes en los textos recreativos.  ",
+        "respuestas": {
+          "A": "Retórica",
+          "B": "Diálogo@",
+          "C": "Prosa",
+          "D": "Teatro",
+          "E": "Poética "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Figura retórica que consiste en atribuirle características humanas a un objeto inanimado.",
+        "respuestas": {
+          "A": "Retruécano",
+          "B": "Prosopopeya@",
+          "C": "Sinestesia",
+          "D": "Analepsis",
+          "E": "Prolepsis"
+        },
+        "img_asociada": ""
+      }
+
+    ],
+    "unidadesAsociadas": [1]
+  }
+
+
+
+]

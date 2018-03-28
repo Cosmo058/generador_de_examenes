@@ -1,0 +1,575 @@
+[
+  {
+    "caratula":"Periodo de evaluación 1",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "El ángulo 178.4266º tiene por representación sexagesimal:",
+        "respuestas": {
+          "A": "178º 72’ 66’’.",
+          "B": "b178º 72’ 36’’",
+          "C": "c178º 43’ 36’’.@",
+          "D": "d178º 43’ 74’’."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Calcula 1.5\\( \\pi \\) – 72.2516. Da el resultado en grados, minutos y segundos.",
+        "respuestas": {
+          "A": "342º 15’ 6’’.",
+          "B": "342.2516º.",
+          "C": "197.7484º.",
+          "D": "197º 44’ 54.24’’.@"
+        },
+        "img_asociada": "",
+	"size":""
+      },
+      {
+        "reactivo": "Un poste está inclinado 75º con respecto al piso. Se requiere enderezar. ¿A qué ángulo debe moverse y cómo se llama ese tipo de ángulo?",
+        "respuestas": {
+          "A": "Suplementario y debe ser de 105º.",
+          "B": "Complementario y debe ser de 15º.@",
+          "C": "Suplementario y debe ser 100º.",
+          "D": "Complementario y debe ser de 25º."
+        },
+        "img_asociada": "",
+	"size":""
+      },
+      {
+        "reactivo": "Una mesa plegable está abierta a un ángulo de 60º. ¿Cuál debe ser el ángulo y cómo se llama el ángulo que se requiere para que la mesa pueda ser usada? (Dar el resultado en radianes)",
+        "respuestas": {
+          "A": "Suplementario y debe ser de 120º.",
+          "B": "Complementario 0.5236.",
+          "C": "Suplementario 2.0944.@",
+          "D": "Complementario y debe ser de 30º."
+        },
+        "img_asociada": "",
+	"size":""
+      },
+      {
+        "reactivo": "Un engrane debe girar \\(3 \\over 4 \\pi \\) 3/4π para abrir una puerta electrónica. Si esta vez sólo giró 30º, ¿cuánto le faltó para abrirse? Da el resultado en radianes.",
+        "respuestas": {
+          "A": "105º",
+          "B": "15\\(\\pi \\)",
+          "C": "12º",
+          "D": "\\(7 \\over 12 \\pi \\)"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Considera los triángulos de la tabla. ¿En cuál triángulo una de sus alturas no está dentro del triángulo?",
+        "respuestas": {
+          "A": "III",
+          "B": "I@",
+          "C": "IV",
+          "D": "II"
+        },
+        "img_asociada": "data/img_asociadas/matb1_7.jpg",
+	       "size":"600px"
+      },
+      {
+        "reactivo": "Considera las triángulos de la tabla. ¿En cuál triángulo una de sus medianas coincide con una de sus alturas?",
+        "respuestas": {
+          "A": "I",
+          "B": "II",
+          "C": "III@",
+          "D": "IV"
+        },
+        "img_asociada": "data/img_asociadas/matb1_8.png",
+	       "size":"600px"
+      },
+      {
+        "reactivo": "Considera las medidas de los lados de los cuatro triángulos que se muestran en la tabla. ¿En cuál de los triángulos una de sus medianas coincide con la mediatriz, bisectriz y la altura?",
+        "respuestas": {
+          "A": "I y III",
+          "B": "I y IV",
+          "C": "I y IV",
+          "D": "II y III@"
+        },
+        "img_asociada": "data/img_asociadas/matb1_9.jpg",
+	       "size":"300px"
+      },
+      {
+        "reactivo": "Considera el triángulo siguiente. ¿Cómo se llama el punto A?",
+        "respuestas": {
+          "A": "Circuncentro@",
+          "B": "Baricentro.",
+          "C": "Ortocentro.",
+          "D": "Incentro."
+        },
+        "img_asociada": "data/img_asociadas/matb1_10.jpg",
+	       "size":"300px"
+      },
+      {
+        "reactivo": "¿Qué ángulo debe tener un triángulo para ser semejante o congruente al triángulo de la figura?",
+        "respuestas": {
+          "A": "55º cada uno.",
+          "B": "Dos ángulos de 45º y uno de 90º.",
+          "C": "60º cada uno.@",
+          "D": "No se puede."
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "Un triángulo tiene las medidas: \\(\\L_{1}=50u\\), \\(\\alpha =\\) 30º y \\(\\L_{2}=50u\\). ¿Cuál de las medidas tendrá un triángulo semejante?",
+        "respuestas": {
+          "A": "\\(\\L_{1}=5\\), \\(\\alpha =\\) 15º,\\(\\L_{2}=5\\).",
+          "B": "\\(\\L_{1}=500\\), \\(\\alpha =\\) 30º,\\(\\L_{2}=50\\).",
+          "C": "\\(\\L_{1}=100\\), \\(\\alpha =\\) 15º,\\(\\L_{2}=100\\).",
+          "D": "\\(\\L_{1}=5\\), \\(\\alpha =\\) 30º,\\(\\L_{2}=5\\).@"
+        },
+        "img_asociada": "data/img_asociadas/matb1_12.jpg",
+	       "size":"300px"
+      },
+      {
+        "reactivo": "¿Cuál de las respuestas cumple con el criterio \\(LAL\\) para ser semejante al triángulo mostrado?",
+        "respuestas": {
+          "A": "\\(a=5cm, \\alpha=100^{\\circ},b=5cm\\).",
+          "B": "\\(a=7.5cm, \\alpha=120^{\\circ},b=50cm\\).",
+          "C": "\\(a=7.5cm, \\alpha=15^{\\circ},b=7.5cm\\).",
+          "D": "\\(a=7.5cm, \\alpha=120^{\\circ},b=7.5cm\\).@"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "¿Qué valores debe tener el segundo triángulo para ser congruente con el primero?",
+        "respuestas": {
+          "A": "\\(a=b=c=15cm\\)@",
+          "B": "\\(a=b=15cm,c=cm\\).",
+          "C": "\\(a=c=15cm,b=5cm\\).",
+          "D": "\\(a=b=b=5cm\\)."
+        },
+        "img_asociada": "data/img_asociadas/matb1_13.jpg",
+	       "size":"500px"
+      },
+      {
+        "reactivo": "¿Qué valores debe tener el segundo triángulo para ser congruente con el primero?",
+        "respuestas": {
+          "A": "\\(a=b=c=15cm\\).@",
+          "B": "\\(a=b=15cm,c=5cm\\).",
+          "C": "\\(a=c=15cm,b=5cm\\).",
+          "D": "\\(a=b=b=5cm\\)."
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "Si dos triángulos son congruentes, ¿sus baricentros están en el mismo lugar?",
+        "respuestas": {
+          "A": "Sí, pero depende de la orientación del triángulo.",
+          "B": "No, solo los lados son iguales, lo demás cambia.",
+          "C": "Sí, ya que son los mismos triángulos y no importa su orientación.@",
+          "D": "No hay forma de saberlo."
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "Si dos triángulos son congruentes, ¿sus circuncentros estarán en el mismo lugar?",
+        "respuestas": {
+          "A": "No, sólo los lados son iguales.",
+          "B": "Sí, tienen la misma orientación; de lo contrario sólo estaría rotado el circuncentro, según la rotación del triángulo congruente.@",
+          "C": "No, se puede saber.",
+          "D": "Sí, pero deben tener la misma orientación."
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "Se va a colocar un cable, para usarse de tirolesa, como se muestra en el dibujo. ¿Cuánto cable se requiere?",
+        "respuestas": {
+          "A": "\\(\\sqrt{113}m\\)",
+          "B": "\\(\\sqrt{89}m\\)",
+          "C": "\\(2\\sqrt{17}m\\)@",
+          "D": "\\(\\sqrt{74}m\\)"
+        },
+        "img_asociada": "data/img_asociadas/matb1_16.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "En  un puente se van a colocar unos cables de soporte (líneas rojas). Determinar el largo total del cable, para hacer los dos soportes.",
+        "respuestas": {
+          "A": "\\(2\\sqrt{41}m\\)",
+          "B": "\\(\\sqrt{41}+2\\sqrt{89}m\\)",
+          "C": "\\(2\\sqrt{89}m\\)",
+          "D": "\\(\\sqrt{89}+2\\sqrt{41}m\\)@"
+        },
+        "img_asociada": "data/img_asociadas/matb1_17.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Un carro de bomberos tiene una altura de 2.5 m y su escalera telescópica mide 5 m. Si una ventana está a 5 m de altura, ¿cuál debe ser la distancia del edificio al carro de bomberos, para que la escalera alcance la ventana?",
+        "respuestas": {
+          "A": "\\(5\\sqrt{}\\frac{5}{2}m\\)",
+          "B": "\\(\frac{2\\sqrt{13}}{2}m\\)",
+          "C": "\\(5\\sqrt{3}m\\)",
+          "D": "\\(\frac{5\\sqrt{3}}{2}m\\)@"
+        },
+        "img_asociada": "data/img_asociadas/matb1_18.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Un triángulo tiene de base 10 cm y una altura de 15 cm. Si le cortan 5 cm a la altura desde la base, ¿cuánto mide la nueva base?",
+        "respuestas": {
+          "A": "3 cm",
+          "B": "5 cm",
+          "C": "6.66 cm@",
+          "D": "8 cm"
+        },
+        "img_asociada": "data/img_asociadas/matb1_19.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Una cámara esta a 5 metros de alto y tiene un radio de visión de 8 m. Un camión de 2.7 m de alto está estacionado, según el dibujo. ¿Cuántos metros dejo de ver la cámara?",
+        "respuestas": {
+          "A": "4.32 m@",
+          "B": "2.9 m",
+          "C": "5.1 m",
+          "D": "7 m"
+        },
+        "img_asociada": "data/img_asociadas/matb1_20.jpg",
+	       "size":"400px"
+      }
+    ],
+    "unidadesAsociadas": []
+  },
+  {
+    "caratula": "Periodo de evaluación 2",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "De los siguientes polígonos, ¿cuáles son cóncavos?",
+        "respuestas": {
+          "A": "II y IV",
+          "B": "II y I",
+          "C": "II y III@",
+          "D": "I y IV"
+        },
+        "img_asociada": "data/img_asociadas/matb2_1.jpg",
+	       "size":"800px"
+      },
+      {
+        "reactivo": "El ángulo central de un polígono mide 22.5º. ¿Cuántos lados tiene?",
+        "respuestas": {
+          "A": "16 lados@",
+          "B": "11 lados",
+          "C": "43 lados",
+          "D": "13 lados"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Uno de los ángulos internos de un polígono mide 144º. ¿Cómo se llama el polígono según su número de lados?",
+        "respuestas": {
+          "A": "Hexágono",
+          "B": "Octágono",
+          "C": "Eneágono",
+          "D": "Decágono@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En una memoria USB de 16 GB fueron grabados seis archivos de 1.5 GB cado uno. Si después se grabaron tres archivos de \\(3 \\over 4 \\) GB y uno de 1.5 GB, ¿hasta dónde marcó la barra de llenado?",
+        "respuestas": {
+          "A": "<img src='assets/data/img_asociadas/sadma1cd13_b1_02a.jpg' alt=''>",
+          "B": "<img src='assets/data/img_asociadas/sadma1cd13_b1_02b.jpg' alt=''>",
+          "C": "<img src='assets/data/img_asociadas/sadma1cd13_b1_02c.jpg' alt=''>@",
+          "D": "No cupieron los archivos"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para un polígono regular se tiene que uno de sus lados mide 8 cm, su apotema 5.5 cm y un ángulo interior 108º. ¿Cuánto mide su área?",
+        "respuestas": {
+          "A": "375 cm<sup>2</sup>",
+          "B": "525 cm<sup>2</sup>",
+          "C": "110 cm<sup>2</sup>@",
+          "D": "25 cm<sup>2</sup>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si el ángulo central de un polígono regular es de 18º y la longitud de un lado es de 5 cm, ¿cuánto mide su perímetro?",
+        "respuestas": {
+          "A": "100 cm@",
+          "B": "5 cm",
+          "C": "12 cm",
+          "D": "23 cm"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Puede haber un polígono regular que sólo tenga una diagonal?",
+        "respuestas": {
+          "A": "Sí, con número de lados \\(n=3\\).",
+          "B": "No, el número de lados tendría que ser \\(n=\\pi\\).",
+          "C": "Sí, con número de lados \\(n=2\\).",
+          "D": "No, porque tendría que tener dos lados y no es un polígono.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un polígono regular posee 5 diagonales y sus lados miden 15 cm cada uno. ¿Cuánto mide su perímetro y cuál es el nombre de la figura según su número de lados?",
+        "respuestas": {
+          "A": "150 cm y es un decágono.",
+          "B": "150 cm y hexágono.",
+          "C": "75 cm y es un heptágono.",
+          "D": "75 cm y es un pentágono.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un hexágono regular tiene un perímetro de 54 cm. ¿Cuánto mide su apotema?",
+        "respuestas": {
+          "A": "53 cm",
+          "B": "3.5 cm",
+          "C": "2.59 cm@",
+          "D": "12 cm."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un icosaedro tiene un volumen de 17.4536 cm3. ¿Cuánto miden su arista y su área?",
+        "respuestas": {
+          "A": "Arista = 2 cm, Área = 17.321 cm<supp>2</supp>",
+          "B": "Arista = 2 cm, Área = 34.642 cm<supp>2</supp>@",
+          "C": "Arista = \\(2\\sqrt{2}\\) cm, Área = 38.256 cm<supp>2</supp>",
+          "D": "Arista = \\(2\\sqrt{2}\\) cm, Área = 69.284 cm<supp>2</supp>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Se va a construir una pequeña escultura, que consiste en un dodecaedro y una base cuadrada. La arista del dodecaedro medirá 2.5 cm y el lado de la base mide el doble de la arista. ¿Cuánto mide el área total de ambas piezas?",
+        "respuestas": {
+          "A": "38.509 cm<supp>2</supp>",
+          "B": "130.598 cm<supp>2</supp>",
+          "C": "135.285 cm<supp>2</supp>",
+          "D": "154.035 cm<supp>2</supp>@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un octaedro tiene un área de 31.1778 cm<supp>2</supp>. ¿Cuánto mide su volumen?",
+        "respuestas": {
+          "A": "12.7278 cm<supp>3</supp>@",
+          "B": "12 cm<supp>3</supp>",
+          "C": "11.2563 cm<supp>3</supp>",
+          "D": "14.3652 cm<supp>3</supp>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Un tetraedro tiene un área de 27.7136 cm<supp>2</supp>. Si un exaedro tiene la misma área que el tetraedro mencionado, ¿cuánto mide el volumen del exaedro? ",
+        "respuestas": {
+          "A": "64 cm<supp>3</supp>@",
+          "B": "17 cm<supp>3</supp>",
+          "C": "150 cm<supp>3</supp>",
+          "D": "45 cm<supp>3</supp>"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [0]
+  },
+  {
+    "caratula": "Periodo de evaluación 3",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "¿Cómo es la posición de la circunferencia con respecto al hexágono?",
+        "respuestas": {
+          "A": "La circunferencia está inscrita.",
+          "B": "El hexágono está dentro del círculo.",
+          "C": "La circunferencia está circunscrita.@",
+          "D": "Cada lado del hexágono es tangente a la circunferencia."
+        },
+        "img_asociada": "data/img_asociadas/matb3_1.jpg",
+	       "size":"800px"
+      },
+      {
+        "reactivo": "¿Qué enunciado describe correctamente a la figura?",
+        "respuestas": {
+          "A": "La recta L es tangente al círculo A y secante para el círculo B.@",
+          "B": "La recta L es secante al círculo A y tangente para el círculo B.",
+          "C": "La recta L es tangente al círculo A y exterior para el círculo B.",
+          "D": "La recta L es exterior al círculo A y tangente para el círculo B."
+        },
+        "img_asociada": "data/img_asociadas/matb3_2.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Considera la figura. La recta L es perpendicular al radio. ¿Cuál es la posición relativa de la recta y la circunferencia?",
+        "respuestas": {
+          "A": "La recta L es tangente a la circunferencia.",
+          "B": "La recta L es secante a la circunferencia.@",
+          "C": "La recta L es una cuerda de la circunferencia.",
+          "D": "La recta L es exterior a la circunferencia."
+        },
+        "img_asociada": "data/img_asociadas/matb3_3.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Si el segmento \\(AB\\) mide 10 cm, ¿cuánto mide el radio?",
+        "respuestas": {
+          "A": "No se puede saber.",
+          "B": "5.25 cm",
+          "C": "5 cm@",
+          "D": "\\(\\sqrt{10}\\) cm"
+        },
+        "img_asociada": "data/img_asociadas/matb3_4.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Si el segmento AC mide 9 cm y el segmento CB mide 12 cm, ¿cuánto mide el radio de la circunferencia?",
+        "respuestas": {
+          "A": "21 cm",
+          "B": "5 cm",
+          "C": "1.2 cm",
+          "D": "7.5 cm@"
+        },
+        "img_asociada": "data/img_asociadas/matb3_5.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Si el segmento AC mide 15 cm y el segmento CB mide 20 cm, ¿cuánto mide la circunferencia del siguiente círculo?",
+        "respuestas": {
+          "A": "490.875 cm",
+          "B": "38.25 cm",
+          "C": "78.54 cm@",
+          "D": "37 cm"
+        },
+        "img_asociada": "data/img_asociadas/matb3_6.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "¿Cuánto vale el radio de un círculo si su circunferencia mide 37.6992 m?",
+        "respuestas": {
+          "A": "3.14 cm",
+          "B": "13 cm",
+          "C": "12 m",
+          "D": "6 m@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Se tienen tres círculos concéntricos. El radio del más grande sextuplica el del primero. El radio del primer círculo mide 6 cm. ¿Cuánto mide el perímetro del círculo más grande?",
+        "respuestas": {
+          "A": "113.0976 cm",
+          "B": "37.6992 cm",
+          "C": "226.1952 cm@",
+          "D": "25.3698 cm"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Si hay tres círculos secantes, cuyos radios miden lo mismo, ¿cada circunferencia tendrá el mismo valor que la otra?",
+        "respuestas": {
+          "A": "No, ya que al intersecarse  una parte de su perímetro es cortado.",
+          "B": "Sí, ya que hablamos de cada una y sus radios miden lo mismo.@",
+          "C": "No, ya que no podemos saber el valor del radio.",
+          "D": "Sí, ya que siempre se puede calcular el valor del radio."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Considera la figura. El segmento AD pasa por el centro de la circunferencia O. A es un punto exterior. El segmento AB mide 4 cm y el segmento AC mide 2 cm. Con esta información calcula el valor de la circunferencia.",
+        "respuestas": {
+          "A": "25.1328 cm",
+          "B": "18.8496 cm",
+          "C": "14.0496 cm",
+          "D": "25.1328 cm@"
+        },
+        "img_asociada": "data/img_asociadas/matb3_10.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Considera la figura. A es un punto externo. El segmento AC mide 4 cm y el segmento AB mide 6 cm. El segmento AD pasa por el centro. Calcula el área del círculo.",
+        "respuestas": {
+          "A": "254.4696 cm<supp>2</supp>",
+          "B": "28.2741 cm<supp>2</supp>",
+          "C": "14.1372 cm<supp>2</supp>",
+          "D": "63.6174 cm<supp>2</supp>"
+        },
+        "img_asociada": "data/img_asociadas/matb3_11.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Si en un círculo su circunferencia mide 12.5664 cm, ¿cuánto mide su área?",
+        "respuestas": {
+          "A": "12.5664 cm<supp>2</supp>@",
+          "B": "17 cm<supp>2</supp>",
+          "C": "150 cm<supp>2</supp>",
+          "D": "45.3698 cm<supp>2</supp>"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En un círculo el área de un sector circular mide 16.9646 cm<supp>2</supp> y su ángulo central mide 54º. Calcula el radio del círculo.",
+        "respuestas": {
+          "A": "11.27 cm.",
+          "B": "15 cm.",
+          "C": "6 cm.@",
+          "D": "45.2 cm."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Una corona circular tiene un perímetro de 69.1152 cm y el radio mayor mide 6 cm. ¿Cuánto mide el radio menor?",
+        "respuestas": {
+          "A": "9 cm.",
+          "B": "5 cm.@",
+          "C": "12 cm.",
+          "D": "3 cm."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En un círculo, un segmento circular tiene un área de 0.2057 cm2 y el ángulo α es de 80º.  ¿Cuál es el valor del radio del círculo?",
+        "respuestas": {
+          "A": "1.7c m.",
+          "B": "8.1 cm.",
+          "C": "1 cm.@",
+          "D": "3 cm."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Calcula el ángulo α de un trapecio circular si la diferencia de los radios es h = 5 cm, el radio del círculo menor es r = 3 cm y su área es A = 28.798 cm<supp>2</supp>.",
+        "respuestas": {
+          "A": "10º.",
+          "B": "20º.",
+          "C": "50º.",
+          "D": "60º.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Dos círculos tangentes generan un área blanca (ver figura) la cual tiene un valor de 37.6992 cm2. Calcula el radio del círculo azul.",
+        "respuestas": {
+          "A": "10 cm.",
+          "B": "3 cm.",
+          "C": "8 cm.",
+          "D": "2 cm.@"
+        },
+        "img_asociada": "data/img_asociadas/matb3_17.jpg",
+	       "size":"400px"
+      },
+      {
+        "reactivo": "Si se sabe que un lado del cuadrado mide 2 cm y el radio del círculo azul es de 0.5 cm, ¿cuánto mide el área amarilla y el área blanca?",
+        "respuestas": {
+          "A": "0.8584 cm<supp>2</supp>.",
+          "B": "1.6438 cm<supp>2</supp>.@",
+          "C": "0.7854 cm<supp>2</supp>.",
+          "D": "1.016 cm<supp>2</supp>"
+        },
+        "img_asociada": "data/img_asociadas/matb3_18.jpg",
+	       "size":"400px"
+      }
+    ],
+    "unidadesAsociadas": [0]
+  }
+]

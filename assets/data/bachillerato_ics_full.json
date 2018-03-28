@@ -54,170 +54,339 @@
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "¿Quiénes son los teóricos de la sociología contemporánea? <br> <ol style='list-style-type: decimal;'><li>Anthony Giddens</li><li>Auguste Comte</li><li>Norbert Elias</li><li>Pierre Bourdieu</li><li>Max Weber</li></ol>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "1, 2, 3",
+          "B": "1, 3, 4@",
+          "C": "2, 3, 4",
+          "D": "3, 4, 5"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "¿Quién es el teórico de la sociología contemporánea que entendía a la sociedad como una estructura o red de individuos interdependientes?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Auguste Comte",
+          "B": "Pierre Bourdieu",
+          "C": "Anthony Giddens",
+          "D": "Norbert Elias@"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "¿Quién es el sociólogo contemporáneo que propuso los conceptos de campo y <i>habitus</i>?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Auguste Comte",
+          "B": "Pierre Bourdieu@",
+          "C": "Anthony Giddens",
+          "D": "Norbert Elias"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "¿Qué concepto sociológico busca explicar la configuración o red de relaciones objetivas entre personas o agentes que ocupan diferentes posiciones; son ámbitos de actividad?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Campo@",
+          "B": "<i>Habitus</i>",
+          "C": "Capital",
+          "D": "Estructura"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "Relaciona el tipo de capital, concepto teórico de Pierre Bourdieu, con su característica. <br> <table><tr><th>Capital</th><th>Característica</th></tr><tr><td>1. Económico</td><td>a) Compuesto por información y habilidades (hablar un idioma extranjero o el nivel educativo).</td></tr><tr><td>2. Cultural</td><td>b) Es la membresía a redes sociales: pertenecer a una familia influyente, tener conocidos en posiciones de poder, “palancas”.</td></tr><tr><td>3. Social</td><td>c) Se relaciona con autoridad, prestigio, reputación o tener “buen gusto”.</td></tr><tr><td>4. Simbólico</td><td>d) Integrado por activos materiales y financieros, por ejemplo, cuánto dinero o tierras tiene un individuo.</td></tr></table>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "1a, 2b, 3c, 4d",
+          "B": "1b, 2a, 3d, 4c",
+          "C": "1c, 2b, 3d, 4a",
+          "D": "1d, 2a, 3b, 4c@"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "¿De quién es la teoría de la estructuración como una propuesta del análisis sociológico?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Max Weber",
+          "B": "Pierre Bourdieu",
+          "C": "Anthony Giddens@",
+          "D": "Norbert Elias"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "Completa el párrafo con las palabras clave. <br> <p>Un concepto central en la teoría de Giddens es el de ___________: la capacidad del individuo de hacer una diferencia con su acción. Los _____________producen ___________ con sus acciones en un contexto, así reproducen y transforman la _________________. La estructura influye en nuestra forma de actuar.</p>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "reflexividad - individuos - significados - sociedad",
+          "B": "acción social - actores sociales - interacción - estructura",
+          "C": "campo - ciudadanos - sociabilidad - sociedad",
+          "D": "agencia - agentes - significados - estructura@"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "Relaciona al teórico contemporáneo con su propuesta sociológica. <br> <table><tr><th>Teórico</th><th>Propuesta</th></tr><tr><td>1. Norbert Elias</td><td>a) Sociología figurativa</td></tr><tr><td>2. Pierre Bourdieu</td><td>b) Teoría de la estructuración</td></tr><tr><td>3. Anthony Giddens</td><td>c) Constructivismo estructuralista</td></tr></table>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "1a, 2b, 3c",
+          "B": "1a, 2c, 3b@",
+          "C": "1b, 2a, 3c",
+          "D": "1b, 2c, 3a"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "Completa el párrafo con las palabras clave. <br> <p>Para ___________ la sociedad es un complejo entrelazamiento de acciones de personas individuales. En resumen, para ser social la ___________ debe ser deliberada, tener una intención y suponer una ___________ entre seres humanos. Debe poseer un sentido subjetivo comunicable, racionalmente comprensible; si carece de ___________ no es social.</p>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Giddens - interacción - acción – comunicación",
+          "B": "Strauss - comunicación - interacción - estructura",
+          "C": "Weber - acción - interacción - sentido@",
+          "D": "Marx - racionalidad - acción - estructura"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "Relaciona al autor con los conceptos sociológicos, según corresponda. <br> <table><tr><th>Autor</th><th>Conceptos</th></tr><tr><td>1. Norbert Elias</td><td>a) Acción social.</td></tr><tr><td>2. Pierre Bourdieu</td><td>b) Agencia, agente.</td></tr><tr><td>3. Anthony Giddens</td><td>c) Campo, <i>habitus</i>, capital.</td></tr><tr><td>4. Max Weber</td><td>d) Individualización, estructura.</td></tr></table>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "1a, 2b, 3c, 4d",
+          "B": "1a, 2c, 3d, 4b",
+          "C": "1d, 2a, 3a, 4c",
+          "D": "1d, 2c, 3b, 4a@"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "¿Cuál es el proceso de internalización o apropiación de los comportamientos, las reglas y los valores que dan forma a una sociedad, el cual comienza al nacer y dura toda la vida?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Socialización@",
+          "B": "Racionalización",
+          "C": "Acción colectiva",
+          "D": "Acción social"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "Son factores que influyen el proceso de socialización, <b>excepto...</b>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "el entorno.",
+          "B": "la posición social.",
+          "C": "el género.",
+          "D": "la familia.@"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "Son las instancias de reproducción social, <b>excepto...</b> <br> <ol style='list-style-type: decimal;'><li>la cultura.</li><li>la familia.</li><li>la escuela.</li><li>El político</li><li>el género.</li></ol>",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "1, 2",
+          "B": "1, 4@",
+          "C": "2, 3",
+          "D": "2, 4"
         },
         "img_asociada": ""
       },
       {
-        "reactivo": "hola",
+        "reactivo": "¿Qué agentes influyen durante el proceso de socialización de los individuos?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
-        },
-        "img_asociada": ""
-      },
-      {
-        "reactivo": "hola",
-        "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "La escuela y la familia",
+          "B": "Las asociaciones religiosas y la escuela",
+          "C": "La familia y los medios de comunicación",
+          "D": "Los medios de comunicación y las asociaciones religiosas@"
         },
         "img_asociada": ""
       }
-
     ],
     "unidadesAsociadas": [1]
   },
   {
     "caratula": "Bloque 2. Procesos de construcción del conocimeinto en ciencias sociales",
-    "nombreAE": "<b>Reconoce</b> documentos oficiales que se relacionan con su identidad",
+    "nombreAE": "<br> Tipos de conocimiento <br><br> Clasificación de las ciencias y sus objetos de estudio <br><br> Acontecimientos históricos e ideologías <br><br> Concepciones ideológicas",
     "reactivos": [
       {
-        "reactivo": "hola",
+        "reactivo": "El sujeto aprehende o se apropia del objeto, lo interioriza y se esfuerza por comprenderlo. ¿A qué hace referencia lo anterior?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Proceso sociológico",
+          "B": "Conocimiento",
+          "C": "Hecho científico",
+          "D": "Proceso histórico"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el tipo de conocimiento con sus características. <br> <table><tr><th>Conocimiento</th><th>Característica</th></tr><tr><td>1. Intuitivo</td><td>a) Es de carácter racional, crítico, metódico y sistemático. Precisa de la experimentación y de conocimientos empíricos.</td></tr><tr><td>2. Empírico</td><td>b) Va más allá del conocimiento empírico, para interrogarse acerca de las causas últimas y en forma incesante expresa cuestiones sobre el sentido, la justificación y las interpretaciones del mundo que nos rodea y acerca de nosotros mismos.</td></tr><tr><td>3. Religioso</td><td>c) Dogmático, se asume de manera acrítica. Es un conjunto de verdades al cual los seres humanos llegan por la aceptación basada en la tradición y en doctrinas.</td></tr><tr><td>4. Filosófico</td><td>d) Se trata de un conocimiento <i>a posteriori.</i> Se adquiere a lo largo de la vida práctica y productiva, por el conocimiento directo que nuestros sentidos nos proveen de las cosas.</td></tr><tr><td>5. Científico</td><td>e) Aprehensión directa del objeto conocido, carece de metodología y está modelado por nuestras experiencias.</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d, 5e",
+          "B": "1b, 2e, 3d, 4a, 5c",
+          "C": "1c, 2a, 3b, 4d, 5e",
+          "D": "1e, 2d, 3c, 4b, 5a@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el tipo de conocimiento con su ejemplo. <br> <table><tr><th>Conocimiento</th><th>Ejemplo</th></tr><tr><td>1. Intuitivo</td><td>a) Percibir el tiempo y el espacio.</td></tr><tr><td>2. Empírico</td><td>b) Observar que los cuerpos caen al suelo porque son pesados.</td></tr><tr><td>3. Religioso</td><td>c) Explicar fenómenos y normas de comportamiento con base en libros sagrados.</td></tr><tr><td>4. Filosófico</td><td>d) Comprender con exactitud el movimiento de la Tierra: sobre su propio eje y alrededor del Sol.</td></tr><tr><td>5. Científico</td><td>e) Cuestionar la veracidad de los conocimientos y la naturaleza de nuestra relación con el mundo.</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d, 5e",
+          "B": "1a, 2b, 3c, 4e, 5d@",
+          "C": "1e, 2a, 3b, 4d, 5c",
+          "D": "1e, 2d, 3c, 4b, 5a"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Analizar las creaciones estéticas o encontrar la verdad contenida en los mitos son acciones que pertenecen al objeto de estudio de algunas disciplinas del campo de las...",
+        "respuestas": {
+          "A": "ciencias sociales.",
+          "B": "ciencias formales.",
+          "C": "ciencias naturales.",
+          "D": "humanidades.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Completa el párrafo con las palabras clave. <br> <p>La ___________ es el estudio sistemático del mundo material. Conlleva una clasificación disciplinada de datos ___________, junto con la construcción de ___________ que los explican. Estudia fenómenos y deduce los principios que los rigen. Genera ___________ y las contrasta</p>",
+        "respuestas": {
+          "A": "ciencia - empíricos - teorías - hipótesis@",
+          "B": "filosofía - ontológicos- paradigmas - teorías",
+          "C": "sociología - cuantitativos - conceptos - paradigmas",
+          "D": "ciencia - cualitativos - hipótesis - teorías "
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Las ciencias fácticas...",
+        "respuestas": {
+          "A": "plantean hipótesis sobre la realidad.@",
+          "B": "estudian datos no hechos.",
+          "C": "son racionales.",
+          "D": "demuestran por medio de teoremas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué criterios metodológicos utiliza la ciencia para la construcción del conocimiento?",
+        "respuestas": {
+          "A": "Parcializar la realidad y contrastar pruebas",
+          "B": "Reproductibilidad y la experimentación",
+          "C": "Controvertibilidad y verificación",
+          "D": "Reproductibilidad y controvertibilidad@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona las ciencias con las disciplinas. <br> <table><tr><th>Ciencias</th><th>Disciplina</th></tr><tr><td rowspan='3'>1. Naturales</td><td>a) Biología</td></tr><tr><td>b) Matemáticas</td></tr><tr><td>c) Química</td></tr><tr><td rowspan='2'>2. Sociales</td><td>d) Ciencia Política</td></tr><tr><td>e) Economía</td></tr></table>",
+        "respuestas": {
+          "A": "1ab, 2cd",
+          "B": "1ae, 2bd",
+          "C": "1ac, 2de@",
+          "D": "1bc, 2de"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué parámetros se consideran en la investigación para abordar el objeto de estudio en las ciencias sociales?",
+        "respuestas": {
+          "A": "Recopilación e interpretación",
+          "B": "Marco histórico y experimentación",
+          "C": "Métodos cuantitativos y métodos cualitativos",
+          "D": "Herramientas metodológicas y estructura teórico-conceptual@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Disciplina que estudia de manera integral al ser humano; analiza al sujeto mismo como producto de su actividad social y cultural, sus condiciones biológicas evolutivas y su relación con el medio ambiente.",
+        "respuestas": {
+          "A": "Etnografía",
+          "B": "Sociología",
+          "C": "Geografía",
+          "D": "Antropología@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es una técnica cualitativa de la investigación social?",
+        "respuestas": {
+          "A": "Análisis histórico",
+          "B": "Etnografía",
+          "C": "Estadística@",
+          "D": "Observación participante"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Disciplina que centra su objeto de estudio en las relaciones de poder, y se refiere a las actividades humanas relacionadas con lo público.",
+        "respuestas": {
+          "A": "Derecho",
+          "B": "Sociología",
+          "C": "Antropología cultural",
+          "D": "Ciencia Política@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Disciplina de las ciencias sociales que analiza la producción, distribución y el consumo de bienes en la sociedad, como los alimentos, los alojamientos y en general los artículos o servicios que satisfacen necesidades o deseos humanos.",
+        "respuestas": {
+          "A": "Etnología",
+          "B": "Economía@",
+          "C": "Antropología cultural",
+          "D": "Filosofía"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el objeto de estudio de las ciencias sociales?",
+        "respuestas": {
+          "A": "La realidad social@",
+          "B": "La acción política",
+          "C": "La interacción simbólica",
+          "D": "Las relaciones de poder"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "La reconstrucción de los hechos y los procesos del pasado a partir del análisis de los testimonios documentales, materiales e incluso orales es uno de los objetos de estudio de la...",
+        "respuestas": {
+          "A": "Geografía humana",
+          "B": "Sociología",
+          "C": "Antropología cultural",
+          "D": "Historia@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿A cuál de las siguientes ciencias se le considera una ciencia social y experimental, la cual se relaciona con la medicina, biología y sociología?",
+        "respuestas": {
+          "A": "Antropología física",
+          "B": "Psicología@",
+          "C": "Antropología cultural",
+          "D": "Geografía humana"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Tales de Mileto fue el primero, de este tipo de filósofos, quienes se enfocaron en la argumentación racional y crítica, ¿de quiénes se trata y en qué siglos se desarrolló ese tipo de pensamiento?",
+        "respuestas": {
+          "A": "Patrísticos, siglos V a X",
+          "B": "Idealistas, en el siglo XIX",
+          "C": "Presocráticos, en el siglo VI a. C.",
+          "D": "Humanistas, siglos XIII a XV"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuáles fueron las aportaciones de Francis Bacon al método científico?",
+        "respuestas": {
+          "A": "La  elaboración de hipótesis y el método inductivo.@",
+          "B": "El método experimental y la observación.",
+          "C": "La geometría analítica.",
+          "D": "El método deductivo filosófico."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son características y sucesos que ocurrieron a finales de la Edad Media, <b>excepto...</b> <br> <ol style='list-style-type: decimal;'><li>Johannes Gutenberg desarrolló la imprenta utilizando los tipos móviles.</li><li>Mayor difusión de las ideas por medio de libros y textos impresos.</li><li>Libertad del individuo para pensar, dudar e imaginar.</li><li>La razón, máxima expresión de la naturaleza humana.</li><li>Surgimiento de los primeros Estados-nación absolutistas.</li><li>Se publicó <i>La Enciclopedia</i>, en la que recopilaron el pensamiento y los conocimientos de la época.</li></ol>",
+        "respuestas": {
+          "A": "1 y 6",
+          "B": "2 y 5",
+          "C": "3 y 4",
+          "D": "5 y 6@"
         },
         "img_asociada": ""
       }
@@ -226,54 +395,644 @@
   },
   {
     "caratula": "Bloque 3. Interpretaciones científicas en la construcción social",
-    "nombreAE": "<b>Reconoce</b> documentos oficiales que se relacionan con su identidad",
+    "nombreAE": "<br> Interpretaciones científicas en la construcción social <br><br> Positivismo <br><br> Materialismo histórico <br><br> Teoría del hecho social <br><br> Teoría comprensiva <br><br> Estructural-funcionalismo  <br><br> Teoría crítica",
     "reactivos": [
       {
-        "reactivo": "hola",
+        "reactivo": "Auguste Comte fue el primero en acuñar el término <i>sociología</i>, como la ciencia que estudia la sociedad, ¿en qué siglo tuvo lugar el aporte de Comte?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "XVII",
+          "B": "XVIII",
+          "C": "XIX@",
+          "D": "XX"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "El positivismo fue la corriente teórica de Auguste Comte, ¿cuál fue el país en dónde desarrolló su propuesta teórica?",
+        "respuestas": {
+          "A": "Alemania",
+          "B": "Frankfurt",
+          "C": "Francia@",
+          "D": "París"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "Completa el párrafo con las palabras clave. <br> <p>El ___________________________________________ es la corriente de pensamiento que considera que la naturaleza de las sociedades está determinada por su base material y ___________, por su división en ___________ con intereses antagónicos y reconoce la lucha de clases como motor de la ___________.</p>",
+        "respuestas": {
+          "A": "positivismo - política - clases económicas - sociedad",
+          "B": "materialismo histórico - social - estadios - lucha social",
+          "C": "historicismo - cultural - grupos - ciencia social",
+          "D": "materialismo histórico - económica - clases sociales - historia@"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿Qué concepto definió Emilio Durkheim como la forma de obrar, sentir y pensar, externa al individuo, dotada de un poder coactivo, con la característica de también ser colectivo?",
+        "respuestas": {
+          "A": "Hecho social@",
+          "B": "Capital",
+          "C": "Conciencia de clase",
+          "D": "Dialéctica"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "Relaciona la regla del método sociológico de Emilio Durkheim con su descripción. <br> <table><tr><th>Regla</th><th>Descripción</th></tr><tr><td>1. Primera regla</td><td>a) Cuando el sociólogo emprenda la tarea de estudiar un hecho social, debe considerarlo aislado de sus manifestaciones individuales. Buscar constantes que no permitan impresiones personales o subjetivas.</td></tr><tr><td>2. Segunda regla</td><td>b) Es preciso evitar sistemáticamente las prenociones. Cuando estudiemos un hecho social debemos acercarnos sin prejuicios de ninguna clase, renunciar a cualquier idea previa que tengamos sobre éste, porque el trabajo del sociólogo es estudiar las cosas, no las ideas que tenemos sobre éstas.</td></tr><tr><td>3. Tercera regla</td><td>c) El sociólogo sólo ha de tomar como objeto de investigación un grupo de fenómenos ya definidos por ciertos caracteres exteriores que le son comunes, y comprender en la misma investigación cuántos responden a esta definición, debe delimitar correctamente el campo de estudio.</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c",
+          "B": "1b, 2a, 3c",
+          "C": "1b, 2c, 3a@",
+          "D": "1c, 2a, 3b"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿A qué pensador social se asocia esta idea? <br> <p>Las sociedades se clasifican según su grado de organización, dependiendo de la amplitud de la división del trabajo. Las sociedades complejas están compuestas por sociedades más pequeñas y de organización simple.</p>",
+        "respuestas": {
+          "A": "Carlos Marx",
+          "B": "Auguste Comte",
+          "C": "Federico Engels",
+          "D": "Emilio Durkheim@"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "Relaciona al autor con su obra. <br> <table><tr><th>Autor</th><th>Obra</th></tr><tr><td>1. Auguste Comte</td><td>a) <i>La contribución a la crítica de la economía política</i> (1859)</td></tr><tr><td>2. Emilio Durkheim</td><td>b) <i>Discurso sobre el espíritu positivo</i> (1844)</td></tr><tr><td>3. Carlos Marx</td><td>c) <i>La ética protestante y el espíritu del capitalismo</i> (1905)</td></tr><tr><td>4. Max Weber </td><td>d) <i>El suicidio</i> (1897)</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d",
+          "B": "1a, 2c, 3b, 4d",
+          "C": "1b, 2d, 3a, 4c@",
+          "D": "1d, 2a, 3b, 4c"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "El trabajo es deformado y deshumanizado porque separa al obrero del fruto de su esfuerzo, sólo vuelve a enfrentarse con el producto en el mercado, donde con frecuencia es incapaz de pagarlo. ¿Carlos Marx denominó a este fenómeno cómo?",
+        "respuestas": {
+          "A": "Capital.",
+          "B": "Proletariado.",
+          "C": "Materialismo.",
+          "D": "Alienación.@"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿De qué pensador retomó Carlos Marx el concepto de <i>dialéctica</i> (naturaleza cambiante de las cosas a partir del desarrollo de sus contradicciones internas)?",
+        "respuestas": {
+          "A": "Max Weber.",
+          "B": "Federico Hegel.@",
+          "C": "Federico Engels.",
+          "D": "Ludwig Feuerbach."
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿A qué ley de la dialéctica corresponde el siguiente párrafo? <br> <p>Transformación de la cantidad en calidad o ley del progreso por saltos: las cosas no evolucionan en una línea continua, sino a saltos. Los pequeños cambios cuantitativos (de cantidad) se acumulan hasta que, llegado cierto punto, dan lugar a un salto cualitativo. Los procesos evolucionan en espiral ascendente, en un movimiento progresivo.</p>",
+        "respuestas": {
+          "A": "Primera ley",
+          "B": "Segunda ley",
+          "C": "Tercer  ley",
+          "D": "Cuarta  ley@"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿Cuáles son las clases sociales que Carlos Marx observa en sus estudios para tratar de explicar la realidad de su época?",
+        "respuestas": {
+          "A": "Aristocracia y burguesía",
+          "B": "Burguesía y proletariado@",
+          "C": "Monarquía y aristocracia",
+          "D": "Clase media y proletariado"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿Con qué teórico social se asocia la siguiente idea? <br> <p>El espíritu del capitalismo es la búsqueda de la rentabilidad, la dominación racional del deseo de un lucro sin límites, mediante la organización racional del trabajo libre.</p>",
+        "respuestas": {
+          "A": "Carlos Marx",
+          "B": "Auguste Comte",
+          "C": "Max Weber@",
+          "D": "Emilio Durkheim"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "Dos de los conceptos claves en los postulados de Max Weber son...",
+        "respuestas": {
+          "A": "economía y sociedad.",
+          "B": "acción social y tipos ideales.@",
+          "C": "racionalización y clase.",
+          "D": "anomia y hecho social."
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "Completa el párrafo con las palabras clave. <br> <p>El _________________________________________ se desarrolló en las universidades de _____________________________. Las obras de ___________ y Merton se inscriben en ese debate como esfuerzos por desacreditar las nociones ___________ de la sociedad capitalista.</p>",
+        "respuestas": {
+          "A": "positivismo - Francia - Durkheim - burguesas",
+          "B": "capitalismo - Alemania - Marx - históricas",
+          "C": "estructural-funcionalismo - Estados Unidos - Parsons - marxistas@",
+          "D": "funcionalismo - París - Durkheim - económicas"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿En qué contexto histórico se insertan los aportes teóricos de Talcott Parsons y Robert Merton?",
+        "respuestas": {
+          "A": "Feudalismo",
+          "B": "Primera Guerra Mundial",
+          "C": "Segunda Guerra Mundial",
+          "D": "Estallido de la Guerra Fría@"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿Cuál fue el grupo multidisciplinario de científicos sociales que centraron su análisis social en la cultura e ideología y buscaron desarrollar una reflexión global sobre los procesos de consolidación de la sociedad capitalista en un contexto de crisis de posguerra?",
+        "respuestas": {
+          "A": "Estructuralistas-funcionalistas",
+          "B": "Escuela de los Annales",
+          "C": "Escuela de Frankfurt@",
+          "D": "Escuela de Chicago"
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "¿Qué otras disciplinas fueron consideradas en el análisis que proponía la teoría crítica que se desarrolló durante el siglo XX?",
+        "respuestas": {
+          "A": "Lingüística, antropología, historia y política.",
+          "B": "Psicoanálisis, lingüística, antropología y sociología empírica.@",
+          "C": "Antropología, derecho, política y economía.",
+          "D": "Arte, sociología, psicología y derecho."
+        },
+        "img_asociada": ""
+      },
+       {
+        "reactivo": "Son los intelectuales que formaron parte de la Escuela de Frankfurt, <b>excepto...</b>",
+        "respuestas": {
+          "A": "Max Horkheimer.",
+          "B": "Walter Benjamin.",
+          "C": "Robert Merton.@",
+          "D": "Herbert Marcuse."
         },
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": [1]
+    "unidadesAsociadas": [2]
   },
   {
     "caratula": "Bloque 4. Conceptos básicos para el estudio de fenómenos sociales",
-    "nombreAE": "<b>Reconoce</b> documentos oficiales que se relacionan con su identidad",
+    "nombreAE": "<br> Categorías sociales  <br><br> Clase social  <br><br> Grupo social <br><br> Procesos sociales y prácticas sociales <br><br> Fenómenos sociales  <br><br> Transvaloración <br><br> Derechos humanos <br><br> Discriminación <br><br> Migración ",
     "reactivos": [
       {
-        "reactivo": "hola",
+        "reactivo": "¿Qué concepto define a la interacción de las personas, donde se desenvuelve la vida colectiva y se caracteriza por una estructura?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "Clase social",
+          "B": "Estratificación",
+          "C": "Grupo social",
+          "D": "Sociedad@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué concepto se refiere a la forma en que la sociedad organiza la producción de los bienes materiales que necesita para su subsistencia?",
+        "respuestas": {
+          "A": "División social del trabajo@",
+          "B": "Estratificación social",
+          "C": "Transvaloración",
+          "D": "Clase social"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son características de la división social del trabajo, <b>excepto...</b>",
+        "respuestas": {
+          "A": "comienza al interior de la familia.",
+          "B": "es el origen de la separación en estratos de cualquier sociedad.",
+          "C": "depende de la época y del desarrollo de las fuerzas de producción.",
+          "D": "la propiedad privada se extiende a la fuerza de trabajo humana.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Ordena los tipos de modos de producción, desde la Edad Antigua hasta la actualidad. <br> <ol style='list-style-type: decimal;'><li>Capitalismo</li><li>Feudalismo</li><li>Esclavismo</li><li>Neoliberalismo</li></ol>",
+        "respuestas": {
+          "A": "1, 2, 3",
+          "B": "2, 3, 4",
+          "C": "3, 2, 1@",
+          "D": "4, 1, 2"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué clases sociales, existentes durante la Edad Media, integraron la burguesía?",
+        "respuestas": {
+          "A": "Esclavos y señor feudal",
+          "B": "Ciudadanos libres y esclavos",
+          "C": "Señores feudales y siervos",
+          "D": "Mercaderes y artesanos@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Modo de producción que hace referencia a la siguiente idea? <br> <p>Aquellos que no poseen medios de producción propios se ven obligados a vender su fuerza de trabajo para sobrevivir.</p>",
+        "respuestas": {
+          "A": "Feudalismo",
+          "B": "Capitalismo@",
+          "C": "Esclavismo",
+          "D": "Proletariado"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se conoce al proceso por el cual se separó de los medios de producción al productor y se convirtió a los medios sociales de vida en capital?",
+        "respuestas": {
+          "A": "Relaciones de producción",
+          "B": "Acumulación originaria del capital@",
+          "C": "Estratificación social",
+          "D": "Historicismo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué obra Carlos Marx escribió que el dominio burgués había simplificado la estructura social dando origen a dos clases: burgueses y proletarios? <br> <ol style='list-style-type: decimal;'><li><i>Manifiesto del Partido Comunista</i></li><li><i>El Capital</i></li><li><i>Tesis sobre Feuerbach</i></li><li><i>Manuscritos económicos y filosóficos de 1844</i></li><li><i>Teorías sobre la plusvalía</i></li></ol>",
+        "respuestas": {
+          "A": "1, 3@",
+          "B": "2, 3",
+          "C": "3, 4",
+          "D": "4, 5"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Completa el párrafo con las palabras clave. <br> <p>No toda la fuerza de trabajo tiene el mismo costo de producción. ______________ estableció la diferencia entre el _______________ simple y complejo; el primero no requiere ninguna preparación especial, y por eso su ____________________________ es bajo. En cambio, el segundo requiere de una _____________________, por eso crea en la misma unidad de tiempo un valor de mayor magnitud.</p>",
+        "respuestas": {
+          "A": "Marx - trabajo - costo de producción - capacitación@",
+          "B": "Weber - proletariado - capital - especialización",
+          "C": "Marx - capitalismo - costo - división",
+          "D": "Weber - proletariado - capital - fuerza de trabajo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Efecto que observó Carlos Marx de la existencia del “ejército industrial de reserva”?",
+        "respuestas": {
+          "A": "Que incide en la baja de los salarios.@",
+          "B": "Que incide en el aumento de los salarios.",
+          "C": "Aumenta el número de trabajadores.",
+          "D": "Disminuye el número de trabajadores."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son características del grupo social, <b>excepto...</b>",
+        "respuestas": {
+          "A": "compartir una identidad.",
+          "B": "establecer reglas formales o informales.",
+          "C": "distribuir la riqueza.@",
+          "D": "respetar normas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el tipo de grupo social con su descripción. <br> <table><tr><th>Tipo</th><th>Descripción</th></tr><tr><td rowspan='2'>1. Primarios</td><td>a) Conjuntos de individuos que conviven de manera reiterada,  e interactúan de forma sistemática.</td></tr><tr><td>b) Asociaciones naturales o voluntarias fundadas en la consanguinidad, la simpatía o el afecto.</td></tr><tr><td rowspan='2'>2. Secundarios</td><td>c) Modelo de estratificación. De acuerdo con esta corriente, las divisiones al interior de la sociedad se explican porque ésta requiere de individuos que desempeñen diferentes tareas o funciones.</td></tr><tr><td>d) Asociaciones formales integradas para alcanzar un objetivo. Tienen un reglamento escrito, y es necesario un ingreso formal en el que el individuo se compromete a respetar las normas.</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b",
+          "B": "1b, 2d@",
+          "C": "1c, 2a",
+          "D": "1d, 2c"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son características de los movimientos sociales, <b>excepto...</b> <br> <ol style='list-style-type: decimal;'><li>Grandes grupos se movilizan en torno a una causa.</li><li>Comparten una identidad colectiva y un objetivo común.</li><li>La existencia o duración tiene que ser corta.</li><li>No existe un ingreso formal ni reglas establecidas.</li><li>La composición es homogénea.</li><li>La coyuntura es un factor determinante.</li></ol>",
+        "respuestas": {
+          "A": "1, 5",
+          "B": "2, 4",
+          "C": "3, 5@",
+          "D": "4, 6"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se les conoce a los elementos de cohesión social (cultura, ideología, lengua, religión, identidad, costumbre y tradición)? ",
+        "respuestas": {
+          "A": "Procesos sociales",
+          "B": "Clases sociales",
+          "C": "Prácticas sociales@",
+          "D": "Institución"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Concepto fundamental de la Sociología que se conoce como el modelo de relaciones sociales que se reproducen a través del tiempo, supone la existencia de reglas que determinan la naturaleza del vínculo entre los involucrados y norma la conducta?",
+        "respuestas": {
+          "A": "Grupo social",
+          "B": "Clases sociales",
+          "C": "Prácticas sociales",
+          "D": "Institución@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué concepto se refiere a todo tipo de cambio experimentado con el paso del tiempo por una sociedad, ya que ninguna sociedad permanece idéntica a sí misma, transformándose de manera continua?",
+        "respuestas": {
+          "A": "Grupo social",
+          "B": "Proceso social@",
+          "C": "Prácticas sociales",
+          "D": "Institución"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Rasgos que pueden hallarse en todas las culturas?",
+        "respuestas": {
+          "A": "Lenguaje, normas y organización familiar.@",
+          "B": "Mitos y leyendas.",
+          "C": "Acumulación de los saberes y la capacidad de transformación.",
+          "D": "Procesos y prácticas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Lee el siguiente párrafo e identifica la corriente teórica con la que se relaciona. <br> <p>El desarrollo de las fuerzas productivas y la lucha de clases es el motor de la historia. La historia de la humanidad tiene la forma de una espiral ascendente que apunta, en su superación de las contradicciones de clase, hacia una sociedad comunista, próspera desde la perspectiva material, en la que el libre desenvolvimiento de cada uno sería la condición del libre desarrollo de todos.</p>",
+        "respuestas": {
+          "A": "Materialismo histórico@",
+          "B": "Organicismo",
+          "C": "Positivismo",
+          "D": "Estructuralismo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Corriente teórica que se opone al materialismo histórico, ya que toda estructura social y todo sistema tiende a la permanencia, y cuando uno de los subsistemas de los que se integra falla, los otros lo compensan?",
+        "respuestas": {
+          "A": "Marxismo",
+          "B": "Organicismo",
+          "C": "Positivismo",
+          "D": "Estructural-funcionalismo@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Teórico que postuló que las prácticas sociales son aprendidas por las personas a través de un proceso de socialización, ya que los hechos sociales tienen diversos mecanismos de reproducción; por ejemplo, la educación de los niños, mediante la cual se les imponen maneras de ver, sentir y obrar?",
+        "respuestas": {
+          "A": "Carlos Marx",
+          "B": "Emilio Durkheim@",
+          "C": "Max Weber",
+          "D": "Herbert Spencer"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son características de los valores, <b>excepto...</b> <br> <ol style='list-style-type: decimal;'><li>Homogéneos</li><li>Dotados de un poder coactivo</li><li>Coyunturales</li><li>Orientan la vida de los individuos</li><li>Carácter subjetivo</li><li>Forman parte de la cultura de una sociedad</li></ol>",
+        "respuestas": {
+          "A": "1, 3@",
+          "B": "2, 4",
+          "C": "3, 5",
+          "D": "4, 6"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Lee el siguiente párrafo e identifica a qué concepto hace referencia. <br> <p>Momento de cambio en que los valores apreciados por una sociedad se ven amenazados, se produce un desfase entre las generaciones o, por la exposición a otras influencias culturales unos valores son sustituidos por otros.</p>",
+        "respuestas": {
+          "A": "Práctica social",
+          "B": "Transvaloración@",
+          "C": "Hecho social",
+          "D": "Alineación"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál fue la ideología que introdujo la noción de que todos los seres humanos son iguales?",
+        "respuestas": {
+          "A": "Capitalismo",
+          "B": "Liberalismo@",
+          "C": "Feudalismo",
+          "D": "Esclavismo"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿En qué siglo se logró la Declaración de los Derechos del Hombre y el Ciudadano (en Francia), luego de que la burguesía comenzó a resquebrajar la ideología imperante de la Edad Media?",
+        "respuestas": {
+          "A": "XVI",
+          "B": "XVII",
+          "C": "XVIII@",
+          "D": "XIX"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "De las siguientes características, ¿con cuáles crees que se discrimine a los pueblos indígenas?",
+        "respuestas": {
+          "A": "Tipo de ojos, vestimenta y religión.",
+          "B": "Color de piel, cabello y estatura.",
+          "C": "Apariencia física, cultura y lengua.@",
+          "D": "Género, religión y actividades productivas."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Son algunos de los rasgos de derechos humanos, <b>excepto...</b> <br> <ol style='list-style-type: decimal;'><li>Universales</li><li>Prescriptibles</li><li>Inalienables</li><li>Inviolables</li><li>Excepcionales</li><li>Reversibles</li></ol>",
+        "respuestas": {
+          "A": "1, 2, 3",
+          "B": "2, 5, 6@",
+          "C": "3, 4, 5",
+          "D": "4, 5, 6"
         },
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": [1]
+    "unidadesAsociadas": [2, 3]
   },
 
   {
     "caratula": "Bloque 5. Interacción del individuo con las instituciones del Estado mexicano ",
-    "nombreAE": "<b>Reconoce</b> documentos oficiales que se relacionan con su identidad",
+    "nombreAE": "<br> El Estado mexicano  <br><br> Conceptos de política, poder, legitimidad y Estado <br><br> Elementos constitutivos del Estado: Territorio, pueblo y gobierno <br><br> Instituciones del Estado mexicano <br><br> Ámbito político <br><br> Ámbito económico  <br><br> Ámbito educativo  <br><br> Ámbito cultural  <br><br> Ámbito de salud  <br><br> Ámbito internacional",
     "reactivos": [
       {
-        "reactivo": "hola",
+        "reactivo": "¿Cómo se define el concepto de política?",
         "respuestas": {
-          "A": "hola@",
-          "B": "hola",
-          "C": "hola",
-          "D": "hola"
+          "A": "La búsqueda del poder como medio para alcanzar un objetivo.",
+          "B": "El conjunto de actividades, estructuras y procesos que reducen o aumentan las posibilidades de cambio social.@",
+          "C": "Las relaciones de poder en la sociedad.",
+          "D": "La influencia de un ser humano sobre otro para obtener los efectos deseados."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué concepto se refiere al resultado del poder coactivo organizado que permite unificar, mediante la fuerza, una sociedad compleja?",
+        "respuestas": {
+          "A": "Poder",
+          "B": "Orden público@",
+          "C": "Política",
+          "D": "Estado"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el tipo de poder con su descripción. <br> <table><tr><th>Poder</th><th>Descripción</th></tr><tr><td>1. Económico</td><td>a) Posesión de la fuerza física.</td></tr><tr><td>2. Ideológico</td><td>b) Utiliza la posesión de bienes materiales para inducir a aquellos que no los poseen a obedecer determinada conducta.</td></tr><tr><td>3. Político</td><td>c) Influencia de las ideas emitidas por una persona investida con autoridad.</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c",
+          "B": "1a, 2c, 3b",
+          "C": "1b, 2a, 3c",
+          "D": "1b, 2c, 3a@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Con base en la tipología de los principios de legitimidad de Norberto Bobbio, son las raíces en las que se fundamenta, <b>excepto...</b>",
+        "respuestas": {
+          "A": "Voluntad",
+          "B": "Política@",
+          "C": "Naturaleza",
+          "D": "Historia"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Elementos que conforman el poder político? <br> <ol style='list-style-type: decimal;'><li>Fuerza física</li><li>Justicia</li><li>Legitimidad</li><li>Soberanía</li><li>Democracia</li></ol>",
+        "respuestas": {
+          "A": "1, 2",
+          "B": "1, 3@",
+          "C": "2, 4",
+          "D": "4, 5"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el artículo de la Constitución Política de los Estados Unidos Mexicanos al que hace referencia el siguiente texto? <br> <p>La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno.</p>",
+        "respuestas": {
+          "A": "Artículo 3º",
+          "B": "Artículo 30",
+          "C": "Artículo 39@",
+          "D": "Artículo 41"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es la existencia de un ordenamiento jurídico que dispone la forma en que se integran los gobiernos y pone límites a su autoridad. Los gobiernos deben sujetarse a derecho.",
+        "respuestas": {
+          "A": "Legalidad@",
+          "B": "Legitimidad",
+          "C": "Estado",
+          "D": "Constitución"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el conjunto de instituciones que la sociedad ha creado para moderar el conflicto entre intereses contradictorios, a fin de mantener un orden que permita las actividades y relaciones sociales mediante el ejercicio del poder?",
+        "respuestas": {
+          "A": "Legalidad",
+          "B": "Legitimidad",
+          "C": "Estado@",
+          "D": "Constitución"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué elementos constituyen el Estado?",
+        "respuestas": {
+          "A": "Autonomía, alineación y poder",
+          "B": "Democracia, ciudadanía y consenso",
+          "C": "Leyes, soberanía y centralización",
+          "D": "Territorio, pueblo y gobierno@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el tipo de régimen político de México con la Constitución, según la época. <br> <table><tr><th>Régimen</th><th>Constitución</th></tr><tr><td>1. Federal</td><td>a) Constitución de 1857</td></tr><tr><td>2. Centralista</td><td>b) Constitución de 1917</td></tr><tr><td>3. Liberal</td><td>c) Constitución de 1824</td></tr><tr><td>4. República federal</td><td>d) Siete Leyes de 1835</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d",
+          "B": "1b, 2a, 3d, 4c",
+          "C": "1c, 2d, 3a, 4b@",
+          "D": "1d, 2c, 3b, 1a"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Con base en la tipología aristotélica son las formas virtuosas de gobernar, <b>excepto...</b>",
+        "respuestas": {
+          "A": "Monarquía",
+          "B": "Democracia@",
+          "C": "Aristocracia",
+          "D": "Politeia"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el artículo de la Constitución Política de los Estados Unidos Mexicanos al que hace referencia el siguiente texto? <br> <p>Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica y federal, compuesta por Estados libres y soberanos en todo lo concerniente a su régimen interior, y por la Ciudad de México, unidos en una federación establecida según los principios de esta ley fundamental.</p>",
+        "respuestas": {
+          "A": "Artículo 39",
+          "B": "Artículo 40@",
+          "C": "Artículo 41",
+          "D": "Artículo 49"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cuál es el artículo de la Constitución Política de los Estados Unidos Mexicanos al que hace referencia el texto? <br> <p>Cada estado reproduce la organización de la federación, adoptando la forma de gobierno republicana, representativa, democrática, laica y popular.</p>",
+        "respuestas": {
+          "A": "Artículo 40",
+          "B": "Artículo 41",
+          "C": "Artículo 49",
+          "D": "Artículo 115@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Completa el texto con las palabras clave. <br> <p>La base de división territorial de los estados es el _________________ libre, gobernado por un ___________________ de elección popular directa, integrado por un presidente ___________________, regidores y síndicos.</p>",
+        "respuestas": {
+          "A": "estado - Municipio - estatal",
+          "B": "distrito - presidente - democrático",
+          "C": "municipio - Ayuntamiento - municipal@",
+          "D": "ayuntamiento - municipio - nacional"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "En 2015 se llevó a cabo un proceso de reforma política, en el cual la Asamblea Legislativa del Distrito Federal fue sustituida por...",
+        "respuestas": {
+          "A": "el Congreso local.@",
+          "B": "un alcalde y consejeros.",
+          "C": "la Ciudad de México.",
+          "D": "la Asamblea de Representantes del Distrito Federal."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Cómo se denomina al conjunto de personas, con una ideología, identidad o intereses en común, organizados con el objetivo de tomar el poder para impulsar un proyecto determinado y su desarrollo está ligado a la democracia representativa?",
+        "respuestas": {
+          "A": "Corporaciones",
+          "B": "Ciudadanos",
+          "C": "Empresas privadas",
+          "D": "Partidos políticos@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona los ámbitos del Estado con su descripción. <br> <table><tr><th>Ámbito</th><th>Descripción</th></tr><tr><td>1. Político</td><td>a) Algunas de las actividades relacionadas con este ámbito son asignación de recursos escasos y distribución de bienes y servicios; construcción de infraestructura; reconocimiento y satisfacción de necesidades; regulación y gestión de servicios públicos; promoción de un desarrollo sostenible y crecimiento; protección y aprovechamiento responsable de los recursos naturales, además de la organización y coordinación de la comunidad.</td></tr><tr><td>2. Económico</td><td>b) Se relaciona con la gestión de la relación en el exterior con otras sociedades, potencial o efectivamente hostiles y peligrosas. El Estado debe preservar su integridad, organizar sus defensas y alianzas. Los criterios y las doctrinas que orientan nuestra política exterior están recogidos en el artículo 89 constitucional.</td></tr><tr><td>3. Educativo</td><td>c) Se refiere a implementar políticas tendientes a la promoción, apoyo y patrocinio de actividades de carácter cultural y artístico: apoyando a los creadores y difundiendo su obra, abriendo espacios culturales, alentando las expresiones de las diferentes regiones y grupos, y preservando el patrimonio artístico, cultural e histórico del país.</td></tr><tr><td>4. Cultural</td><td>d) Juega un papel central en el proceso de socialización e internalización de valores; algunos objetivos son inculcar el respeto por normas que garanticen una convivencia social armónica, la obediencia a la ley y el respeto a la autoridad. La conservación y transmisión del acervo histórico y otorgar herramientas que lo preparan para su papel económico en la vida adulta.</td></tr><tr><td>5. Salud</td><td>e) Se refiere al conjunto de actividades, instituciones y procesos orientados a la conquista, mantenimiento, ejercicio y renovación del poder. Las principales funciones pueden agruparse en coacción social y funciones de institucionalización, legitimidad, consenso y legalidad.</td></tr><tr><td>6. Internacional</td><td>f) El Estado debe buscar el control y la erradicación de enfermedades mediante campañas de protección y promoción sanitaria, campañas de vacunación, y dotación a la ciudadanía de programas para la atención de condiciones crónicas o incurables. También debe promover estilos de vida saludables de carácter integral.</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d, 5f, 6e",
+          "B": "1a, 2c, 3b, 4d, 5e, 6f",
+          "C": "1b, 2e, 3c, 4d, 5f, 6a",
+          "D": "1e, 2a, 3d, 4c, 5f, 6b@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Relaciona el ámbito con la institución que corresponda. <br> <table><tr><th>Ámbito</th><th>Institución</th></tr><tr><td>1. Político</td><td>a) Instituto Mexicano del Seguro Social, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y la Comisión Nacional de Protección Social en Salud.</td></tr><tr><td>2. Económico</td><td>b) El Instituto Nacional de Antropología e Historia, casas de cultura, la Secretaría de Cultura, el Instituto Nacional de Bellas Artes y el Instituto Mexicano de Cinematografía.</td></tr><tr><td>3. Educativo</td><td>c) Ejército, la Marina y las diferentes ramas del Poder Judicial, El Congreso de la Unión.</td></tr><tr><td>4. Cultural</td><td>d) Secretaría de Educación Pública y la Universidad Nacional Autónoma de México.</td></tr><tr><td>5. Salud</td><td>e) Secretaría de Relaciones Exteriores, embajadas y consulados.</td></tr><tr><td>6. Internacional</td><td>f) Secretaría de Economía, la Secretaría de Hacienda y Crédito Público, el Banco de México y Banobras.</td></tr></table>",
+        "respuestas": {
+          "A": "1a, 2b, 3c, 4d, 5e, 6f",
+          "B": "1c, 2f, 3d, 4b, 5a, 6e@",
+          "C": "1d , 2f, 3b, 4a, 5c, 6e",
+          "D": "1e, 2c, 3b, 4d, 5a, 6f"
         },
         "img_asociada": ""
       }
     ],
-    "unidadesAsociadas": [1]
+    "unidadesAsociadas": [3]
   }
 ]
