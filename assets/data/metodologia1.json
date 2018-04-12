@@ -1,0 +1,119 @@
+[
+  {
+    "caratula": "Periodo de evaluaci&oacute;n 1 (Demo)",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> ¿Según el autor cuál es una técnica confiable para generar conocimiento?",
+        "respuestas": {
+          "A": "El uso de los sentidos.",
+          "B": "La aplicación de experimentos mentales.@",
+          "C": "Ambos.",
+          "D": "Ninguno de las anteriores."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> ¿Qué es un 'experimento mental' según el texto?",
+        "respuestas": {
+          "A": "Es un proceso mediante el cual una persona puede leer la mente de otra.",
+          "B": "Es un proceso de reflexión que se opera en la mente, a partir del conocimiento y análisis de la lectura de la mente de otra persona, y a partir de la cual se pueden analizar hipótesis ya elaboradas.",
+          "C": "Es un proceso mediante el cual, a partir de la manipulación y percepción de objetos del mundo real, se puede elaborar hipótesis.",
+          "D": "Es un proceso de reflexión que se opera en la mente, a partir del conocimiento y análisis de ciertas teorías, y del cual se obtiene una hipótesis o se construye un conocimiento nuevo a partir de hipótesis ya elaboradas.@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> ¿Qué tipo de métodos de investigación favorecen la realización de 'experimentos mentales'?",
+        "respuestas": {
+          "A": "Inductivos.",
+          "B": "Deductivos.@",
+          "C": "Ambos.",
+          "D": "Introspectivos."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> ¿En cuál ámbito los 'experimentos mentales' se usan principalmente como recursos para generar conocimientos?",
+        "respuestas": {
+          "A": "En el de las Matemáticas.@",
+          "B": "En el de la Historia.",
+          "C": "En el de Literatura.",
+          "D": "En el de las Ciencias."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> Son aportes de la ciencia que se basan no en observaciones directas de los fenómenos, sino en 'experimentos mentales'.",
+        "respuestas": {
+          "A": "Teoría de la relatividad y geometría.@",
+          "B": "Teoría de la personalidad y reflexión de la luz.",
+          "C": "Ambos.",
+          "D": "Ninguno de las anteriores."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> Para generar conocimientos, lo deseable es: ",
+        "respuestas": {
+          "A": "Usar sólo los sentidos.",
+          "B": "Usar sólo la razón.",
+          "C": "Usar de manera equilibrada razón y sentidos.@",
+          "D": "Usar predominantemente la razón sobre los sentidos."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> En el texto se menciona que 'elaborar una teoría trasciende por completo la simple acumulación de datos', esto se debe a que: ",
+        "respuestas": {
+          "A": "No se requieren datos para elaborar teorías.",
+          "B": "Para elaborar teorías lo más importante es establecer relaciones entre los datos.@",
+          "C": "Los datos ya son teorías.",
+          "D": "Para elaborar teoría es necesario establecer la relación de datos de una teoría con otra teoría."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> La frase: 'objetos geométricos como el círculo, el triángulo, la línea recta, sólo existen en nuestra mente, como parte de nuestro aparato cognoscitivo', señala un ejemplo de:",
+        "respuestas": {
+          "A": "Que los humanos podemos crear lenguajes y operar conceptos abstractos para generar conocimientos.@",
+          "B": "El valor que tiene la geometría en nuestra vida cotidiana.",
+          "C": "La utilidad de la geometría como lenguaje.",
+          "D": "La necesidad básica de la abstracción para generar lenguajes y conocimientos."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> Saber qué preguntar y cómo interpretar las respuestas, son procesos de investigación científica que requiere fundamentalmente de: ",
+        "respuestas": {
+          "A": "realizar observaciones directas.",
+          "B": "hacer experimentos.",
+          "C": "observar y experimentar sobre un objeto.",
+          "D": "conocer y usar lenguajes y teorías.@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Lee el siguiente texto y responde  <a href='assets/data/img_asociadas/los_experimentos_mentales.pdf' target='_blank'>Los experimentos mentales</a> <br> Einstein, Galileo y Newton, son: ",
+        "respuestas": {
+          "A": "Filósofos de la ciencia.",
+          "B": "Físicos.@",
+          "C": "Filósofos.",
+          "D": "Todos los anteriores."
+        },
+        "img_asociada": "",
+        "size":""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  }
+]

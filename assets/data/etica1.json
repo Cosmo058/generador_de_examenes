@@ -1,0 +1,109 @@
+[
+  {
+    "caratula": "Periodo de evaluaci&oacute;n 1 (Demo)",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "Relaciona las columnas e indica si se trata de un tema relacionado con la ética o con la moral:<br> <table style='font-size: 8pt;'><tr><td>a. Ética <br> b. Moral</td><td> 1. Los miembros de la tribu amazónica Zo’é prescinden de cualquier tipo de ropa.<br> 2. Un médico decide influir a sus pacientes para que se practiquen una cesárea aun cuando no sea necesaria, ya que éstas se pagan mejor que los partos naturales.<br> 3. Como no hay lugar en la calle, un joven decide estacionarse en la cochera de una casa vecina.<br> 4. En un cartel se lee: 'En este establecimiento no se discrimina por género, condición social, raza ni cualquier otro motivo'.<br> 5. Un niño practica el <i>bullying</i> contra sus compañeros de clase.<td></tr></table>",
+        "respuestas": {
+          "A": "1-a, 2-a, 3-b, 4-b, 5-a",
+          "B": "1-b, 2-a, 3-a, 4-a, 5-a@",
+          "C": "1-a, 2-b, 3- b, 4- a, 5-b",
+          "D": "1-b, 2-b, 3-b, 4-b, 5-a"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Por qué el siguiente dilema plantea un problema ético? <br> <p style='font-size: 8pt;'>Francia tiene razón en seguir haciendo sus pruebas nucleares, ya que es uno de los países más ricos y poderosos del mundo.</p>",
+        "respuestas": {
+          "A": "Porque involucra a una nación con una tecnología muy avanzada.",
+          "B": "Porque las pruebas nucleares son muy costosas.",
+          "C": "Porque la radiación afecta a las personas y otros seres vivos.@",
+          "D": "Porque no todos los países pueden competir con Francia para usar este recurso."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Para tomar una decisión autónoma es necesario que la persona:",
+        "respuestas": {
+          "A": "Anteponga sus intereses a los de los demás.",
+          "B": "Piense en qué le daría más gusto a los demás.",
+          "C": "Sienta libertad y responsabilidad en cuanto a su decisión.@",
+          "D": "Sólo le haga caso a las personas que busquen su bienestar."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es una característica de la libertad:",
+        "respuestas": {
+          "A": "Relativa",
+          "B": "Absoluta",
+          "C": "Subjetiva@",
+          "D": "Otorgada"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Es el objetivo del juicio moral:",
+        "respuestas": {
+          "A": "Establecer si una acción sigue o contradice los principios éticos imperantes en una sociedad.",
+          "B": "Determinar el castigo que se debe aplicar al individuo que viola un principio ético.",
+          "C": "Formar un criterio en el individuo a partir de lo inculcado por las instituciones sociales.@",
+          "D": "Estudiar los valores que conforman la moral de una sociedad determinada."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "¿Qué valor se discute en el siguiente texto? <br> <p style='font-size: 8pt;'>A pesar de que la religión o los valores familiares nos enseñen que el valor de la vida es idéntico en todas las criaturas e intrínseco a estar vivo, también parece existir otra visión: la del biocapital. La vida también se mide en costos; por ejemplo, en el triage médico, que es la labor realizada en la sala de emergencias, pues ahí se clasifica a los pacientes de acuerdo con la urgencia y gravedad de su estado: van desde los que llegan en condiciones críticas hasta los que pueden esperar por atención médica. Otro ejemplo de cómo asignar valores diferentes a la vida es la de un órgano que se trasplantará a un enfermo cuya esperanza de vida es mayor —es decir, se dará un corazón nuevo a un joven de 20 años en vez de a un hombre de 65—, o la eutanasia, que consiste en facilitar la muerte al paciente que ya no considera digna su calidad de vida. Sin embargo, ¿qué pensaría el hombre de 65 años que desea disfrutar de su retiro, viajar y conocer a sus nietos si le dijeran que debe ceder su lugar al joven de 20 años, 'porque tiene toda la vida por delante'? ¿Será en verdad menos merecedor? ¿Su vida es menos valiosa? O, por el contrario, ¿se le debería dar el corazón justo como compensación social por el trabajo ya realizado en su vida laboral, o en consideración a que es padre y esposo? Por su parte, el joven de 20 años no tiene familia a su cargo. ¿Qué vida será más 'merecedora' de ser salvada?</p>",
+        "respuestas": {
+          "A": "El compañerismo de los enfermos.",
+          "B": "La dignidad de cada individuo.",
+          "C": "La libertad para elegir la muerte.",
+          "D": "El altruismo del biocapital.@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Después de leer el siguiente texto, indica desde cuál perspectiva se aborda el tema del matrimonio infantil: <br> <p style='font-size: 8pt;'>La práctica extendida del matrimonio infantil pone en peligro el acceso de las niñas yemeníes a la educación, perjudica su salud y las mantiene como ciudadanas de segunda clase, Human Rights Watch señaló en un informe publicado hoy. El gobierno de Yemen debería fijar en 18 años la edad mínima para contraer matrimonio con el objetivo de mejorar las oportunidades de las niñas y proteger sus derechos humanos. <br> <i>'Yemen: el matrimonio infantil alienta el abuso de niñas y mujeres', Human Rights Watch, disponible en: http://edutics.mx/oR7 (fragmento).</i></p>",
+        "respuestas": {
+          "A": "Étnica",
+          "B": "Política",
+          "C": "De género@",
+          "D": "Económica"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Consiste en discernir entre lo bueno y lo malo, así como en actuar con templanza y cautela:",
+        "respuestas": {
+          "A": "La responsabilidad.",
+          "B": "La confianza.",
+          "C": "La prudencia.@",
+          "D": "El respeto."
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Los antivalores son:",
+        "respuestas": {
+          "A": "Principios no universales",
+          "B": "Acciones incongruentes en una persona",
+          "C": "Principios relativos a una cultura",
+          "D": "Acciones contrarias a la moral@"
+        },
+        "img_asociada": ""
+      },
+      {
+        "reactivo": "Lee el siguiente problema ético y define cuál antivalor se refleja en la hipótesis planteada por los medios de comunicación? <br> <p style='font-size: 8pt;'>Un abogado argentino fue encontrado muerto en su casa. Los indicios apuntan a un asesinato. El abogado se encontraba armando el caso en que, presuntamente, el gobierno argentino encubrió a los autores iraníes de un atentado antisemita que cobró la vida de más de 80 personas en 1994. Los medios de comunicación opinan que el gobierno mandó matar al abogado para que ya no se investigara más sobre el tema.</p>",
+        "respuestas": {
+          "A": "Egoísmo",
+          "B": "Corrupción@",
+          "C": "Racismo",
+          "D": "Intolerancia"
+        },
+        "img_asociada": ""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  }
+]

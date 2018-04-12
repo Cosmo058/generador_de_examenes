@@ -1,0 +1,119 @@
+[
+  {
+    "caratula": "Periodo de evaluaci&oacute;n 1 (Demo)",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "Una de las preocupaciones de la química es la solución de problemas ambientales, y por ello, las soluciones que propone son de carácter...",
+        "respuestas": {
+          "A": "de la comunidad educativa.",
+          "B": "de la ciudad o espacio donde vivimos.",
+          "C": "nacional.",
+          "D": "mundial.@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "La química es un conocimiento que aplica ___________________________ para la resolución de los problemas.",
+        "respuestas": {
+          "A": "el método dialéctico",
+          "B": "sólo la inducción",
+          "C": "sólo la deducción",
+          "D": "el método científico@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cómo se relaciona la química con la ecología?",
+        "respuestas": {
+          "A": "En la construcción de materiales económicos y resistentes.",
+          "B": "En el diseño de sustancias para el tratamiento de enfermedades cuya causa es la contaminación.",
+          "C": "En el establecimiento de técnicas de restauración para conservar el patrimonio.",
+          "D": "En la creación y mejoramiento de diversos métodos de purificación del agua, aire y suelos.@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Técnicas experimentales que desarrollaron los alquimistas y que actualmente se usan en la industria.",
+        "respuestas": {
+          "A": "Destilación, cristalización y extracción.@",
+          "B": "Evaporación, fusión y sublimación.",
+          "C": "Magia y misticismo.",
+          "D": "Centrifugación, imantación y rayos X."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Científico que estableció la Ley de la conservación de la masa:",
+        "respuestas": {
+          "A": "Robert Boyle.",
+          "B": "Amedeo Avogadro.",
+          "C": "Linus Pauling.",
+          "D": "Antoine L. Lavoisier.@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Químico que estableció la diferencia entre masa molecular y masa atómica:",
+        "respuestas": {
+          "A": "John Newlands.",
+          "B": "Svante A. Arrhenius.",
+          "C": "Stanislao Cannizzaro.@",
+          "D": "Amedeo Avogadro."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Etapa del método científico en la que se indagan los datos o las teorías científicas relacionadas con el tema o los temas asociados con el objeto o fenómeno de estudio.",
+        "respuestas": {
+          "A": "Observar e identificar el objeto o fenómeno de estudio.",
+          "B": "Proponer principios, leyes o teorías. ",
+          "C": "Buscar información relativa al objeto o fenómeno de estudio.@",
+          "D": "Analizar los resultados experimentales."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Energía se refiere a la capacidad de...",
+        "respuestas": {
+          "A": "desviar la trayectoria de un cuerpo.",
+          "B": "mover un cuerpo con movimiento circular uniforme.",
+          "C": "cualquier objeto de masa m para producir una fuerza F.",
+          "D": "un cuerpo para realizar un trabajo en un momento determinado.@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "La materia la encontrarnos en tres estados de agregación:",
+        "respuestas": {
+          "A": "gas, plasma y evaporación.",
+          "B": "sólido, líquido y gas.@",
+          "C": "sólido, sublimación y gas.",
+          "D": "ebullición, fusión y solidificación."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Algunas características de los sólidos son:",
+        "respuestas": {
+          "A": "forma definida y fluyen.",
+          "B": "volumen definido y fluyen.",
+          "C": "fuerte cohesión molecular y forma definida.@",
+          "D": "volumen definido y adoptan la forma del recipiente que los contiene."
+        },
+        "img_asociada": "",
+        "size":""
+      }
+    ],
+    "unidadesAsociadas": [1]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "caratula":"Periodo de evaluaci&oacute;n 1 (Demo)",
+    "nombreAE": "",
+    "reactivos": [
+      {
+        "reactivo": "¿A cuánto es igual 3(5) - 15( \\( \\frac{1}{4} \\) - 8 ) + \\( \\sqrt{16} \\) ( \\( \\frac{6}{8} \\) - \\( \\frac{3}{4} \\) )",
+        "respuestas": {
+          "A": "\\( \\frac{31}{4} \\)",
+          "B": "\\( \\frac{435}{4} \\)",
+          "C": "\\( \\frac{525}{4} \\)@",
+          "D": "\\( \\frac{411}{4} \\)"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Efectúa la siguiente operación: 26 + (5 - (1 - ( 4 - 2 ) + 7 ) + ( 6 - 1 + 3 ) ) + 4",
+        "respuestas": {
+          "A": "37@",
+          "B": "49",
+          "C": "43",
+          "D": "41"
+        },
+        "img_asociada": "",
+	       "size":""
+      },
+      {
+        "reactivo": "¿Cuántos números reales se pueden ubicar en la recta real?¿Es mayor la cantidad de puntos en la recta real que la cantidad de números reales?",
+        "respuestas": {
+          "A": "Todos los números reales; hay tantos números reales como puntos en la recta real.@",
+          "B": "Sólo se pueden ubicar los números enteros y los fraccionarios; hay más números reales que puntos en la recta.",
+          "C": "Todos los números reales; hay más puntos en la recta que números reales.",
+          "D": "Todos los enteros y los irracionales; hay más números reales que puntos en la recta."
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Completa el siguiente enunciado: <br> <p style='font-size: 8pt;'>Los números _____________________ son aquellos que no pueden expresarse mediante el cociente de dos enteros y se caracterizan por tener una representación infinita no periódica.</p>",
+        "respuestas": {
+          "A": "Enteros.",
+          "B": "Reales.",
+          "C": "Racionales.",
+          "D": "Irracionales.@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Si 47.5 es 25% de una cantidad, que a su vez es 38% de otro número, ¿cuál es ese número?",
+        "respuestas": {
+          "A": "4.51",
+          "B": "11.875",
+          "C": "190",
+          "D": "500@"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "Dos por ciento de una cantidad es 11.6 y 59% de otra cantidad es 569.35. ¿Cuánto da la suma de esas cantidades?",
+        "respuestas": {
+          "A": "1545@",
+          "B": "580.85",
+          "C": "6100",
+          "D": "385"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "El vendedor de helados puede servir 20 helados sencillos en un vaso, durante 30 minutos, ¿cuántos helados sencillos en vaso podrá servir en 45 minutos?",
+        "respuestas": {
+          "A": "25 helados",
+          "B": "30 helados@",
+          "C": "45 helados",
+          "D": "50 helados"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cuál es el valor de x en la siguiente proporción? 7 / <i>x</i> = 42 / 12",
+        "respuestas": {
+          "A": "0.04",
+          "B": "0.28",
+          "C": "2@",
+          "D": "6"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "¿Cuál es la razón de proporcionalidad de la siguiente tabla? <br> <table style='font-size: 8pt;'><tr><td>Niños</td><td>20</td><td>5</td><td>4</td><td>1</td></tr><tr><td>Cantidad de Bombones que se comen</td><td>60</td><td>15</td><td>12</td><td>3</td></tr></table>",
+        "respuestas": {
+          "A": "1/3@",
+          "B": "1/4",
+          "C": "3",
+          "D": "4"
+        },
+        "img_asociada": "",
+        "size":""
+      },
+      {
+        "reactivo": "1/2, 1/4, 1/8, 1/16, ¿cuál es la razón común de la sucesión?",
+        "respuestas": {
+          "A": "2",
+          "B": "4",
+          "C": "1/2@",
+          "D": "1/4"
+        },
+        "img_asociada": "",
+        "size":""
+      }
+    ],
+    "unidadesAsociadas": []
+  }
+]
