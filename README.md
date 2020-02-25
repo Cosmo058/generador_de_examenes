@@ -1,1 +1,1 @@
-# generador_de_examenes 2.0 >:v
+# Generador de exámenes 2.0
